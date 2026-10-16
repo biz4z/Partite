@@ -153,7 +153,7 @@ def recase(title, body):
 
 
 SKIP = re.compile(r"bigliett|abbonament|ticket|shop|store|merch|pack|kit\b|femminil|women|primavera|giovanil|"
-                  r"formazioni ufficiali|under\s?1\d|academy|minibasket|assemblea|bilancio|partner|sponsor", re.I)
+                  r"formazioni ufficiali|settore ospiti|trasferta.*tifosi|under\s?1\d|academy|minibasket|assemblea|bilancio|partner|sponsor", re.I)
 
 
 def news_milan():
@@ -234,7 +234,7 @@ PRESS_SKIP = re.compile(r"pronostic|quote\b|scommess|bonus|diretta streaming gra
                         r"femminil|women|primavera|under\s?1\d|oroscopo", re.I)
 
 
-def press(team, n=5):
+def press(team, n=8):
     import urllib.parse
     q = urllib.parse.quote(PRESS_Q[team] + " when:3d")
     t = fetch(f"https://news.google.com/rss/search?q={q}&hl=it&gl=IT&ceid=IT:it")
@@ -248,7 +248,7 @@ def press(team, n=5):
         link = H.unescape(re.search(r"<link>(.*?)</link>", it, re.S)[1]).strip()
         pub = parsedate_to_datetime(re.search(r"<pubDate>(.*?)</pubDate>", it)[1]).astimezone(ROME)
         key = re.sub(r"\W+", "", title.lower())[:60]
-        if key in seen or PRESS_SKIP.search(title) or re.search(r"pallacanestrocantu|acmilan|comofootball", link + src, re.I):
+        if key in seen or PRESS_SKIP.search(title) or re.search(r"pallacanestrocantu|acmilan|comofootball|^pallacanestro cant|^ac milan$|^como 1907$", src.lower() + " " + link, re.I):
             continue
         seen.add(key)
         out.append({"d": pub.date().isoformat(), "h": pub.strftime("%H:%M"), "t": title, "s": src, "u": link,

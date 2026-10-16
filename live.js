@@ -159,12 +159,27 @@
       h.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); tog(); } });
     });
   };
+  /* "Ultime notizie" in alto: dopo le ufficiali, gli articoli più recenti della stampa */
+  const _hl = renderHl;
+  renderHl = function () {
+    _hl();
+    const box = document.getElementById("hl");
+    const all = ["milan", "cantu", "como"].flatMap(t => (PRESS[t] || []).slice(0, 4).map(n => ({ ...n, t0: t })))
+      .sort((a, b) => (b.d + b.h).localeCompare(a.d + a.h)).slice(0, 4);
+    if (!box || !all.length) return;
+    document.getElementById("hlbox").hidden = false;
+    const more = box.querySelector(".hh");
+    const html = `<div class="hps">Dalla stampa</div>` + all.map(n => `<a class="hi" style="--c:${T[n.t0]}" href="${esc(n.u)}" target="_blank" rel="noopener"><b><span class="bdg" aria-hidden="true">${AB[n.t0]}</span></b><span>${esc(n.t)}<small class="src">${esc(n.s || "")}</small></span></a>`).join("");
+    more ? more.insertAdjacentHTML("beforebegin", html) : box.insertAdjacentHTML("beforeend", html);
+  };
   const _rn = renderNext;
   renderNext = function () { _rn(); decorate(); };
 
   /* ---------- calendario iPhone ---------- */
   const css = document.createElement("style");
   css.textContent = `.nx .lv{font-variant-numeric:tabular-nums}.nx .lv .lclk{font-family:var(--body);font-weight:600;font-size:.72rem;letter-spacing:0;text-transform:none;color:var(--muted);margin-left:2px}
+.hl .hps{font-family:var(--display);font-weight:600;font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:10px 0 2px}
+.hi .src{display:block;font-size:.72rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .ng .ph{font-family:var(--display);font-weight:600;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:14px 0 2px}
 .ni .src{display:block;font-size:.75rem;font-weight:400;color:var(--muted);margin-top:1px}
 .bdg:has(img){background:transparent}
