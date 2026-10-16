@@ -164,33 +164,24 @@
 .cal ol{margin:6px 0 4px;padding-left:20px;display:flex;flex-direction:column;gap:6px;font-size:.88rem}
 .calbtn{display:flex;align-items:center;justify-content:center;gap:8px;margin:6px 0 8px;padding:11px 14px;border-radius:999px;background:var(--fg);color:var(--bg);font:700 .95rem var(--display);letter-spacing:.06em;text-transform:uppercase;text-decoration:none}
 .calbtn:focus-visible{outline:2px solid var(--como);outline-offset:2px}
-.calrow{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:10px}
-.callbl{font:600 .78rem var(--display);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
-.calpill{display:inline-flex;align-items:center;gap:8px;padding:8px 14px;border-radius:999px;background:var(--fg);color:var(--bg);font:700 .85rem var(--display);letter-spacing:.08em;text-transform:uppercase;text-decoration:none}
-.calpill svg{width:16px;height:16px}
+.calrow{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:12px;max-width:360px}
+.callbl{grid-column:1/-1;font:600 .78rem var(--display);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.calpill{display:flex;align-items:center;justify-content:center;gap:8px;padding:8px 14px;border-radius:999px;background:var(--fg);color:var(--bg);font:700 .85rem var(--display);letter-spacing:.08em;text-transform:uppercase;text-decoration:none}
+.calpill svg{width:16px;height:16px;display:block;flex:none}
 .calpill:focus-visible{outline:2px solid var(--como);outline-offset:2px}
 .cal .hint{font-size:.8rem;color:var(--muted);margin:4px 0 8px}`;
   document.head.appendChild(css);
   const ics = location.host + location.pathname.replace(/[^/]*$/, "") + "partite.ics";
-  const box = document.createElement("details");
-  box.className = "hl cal";
-  box.innerHTML = `<summary><span>Partite nel Calendario dell'iPhone</span><span class="pm" aria-hidden="true"></span></summary>
-    <a class="calbtn" href="webcal://${ics}">Iscriviti al calendario</a>
-    <ol><li>Tocca <b>iPhone</b> in alto (o qui sopra), poi <b>Iscriviti</b> e <b>Aggiungi</b>.</li>
-    <li>Le partite compaiono nell'app <b>Calendario</b> con canale TV e avviso 30 minuti prima.</li>
-    <li>Orari, canali e risultati si aggiornano da soli.</li></ol>
-    <p class="hint">Su Android tocca <b>Android</b> in alto: si apre Google Calendar, conferma con <b>Aggiungi</b>. Le partite compaiono nell'app Calendar del telefono (la prima sincronizzazione può richiedere qualche ora). In alternativa, da computer su Google Calendar: <b>Altri calendari → Da URL</b> con <b>https://${esc(ics)}</b>.</p>`;
   const upd = document.getElementById("upd");
   if (upd) {
     const ico = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>`;
     const row = document.createElement("div");
     row.className = "calrow";
-    row.innerHTML = `<span class="callbl">Aggiungi al calendario</span><a class="calpill" href="webcal://${ics}">${ico}iPhone</a>` +
+    row.innerHTML = `<span class="callbl">Aggiungi al calendario</span>` +
+      `<a class="calpill" href="webcal://${ics}">${ico}iPhone</a>` +
       `<a class="calpill" href="https://calendar.google.com/calendar/render?cid=${encodeURIComponent("webcal://" + ics)}" target="_blank" rel="noopener">${ico}Android</a>`;
     upd.after(row);
   }
-  const home = document.querySelector("details.home");
-  if (home) home.after(box); else document.querySelector(".notes").before(box);
 
   /* ---------- avvio ---------- */
   loadData().then(pollLive);
