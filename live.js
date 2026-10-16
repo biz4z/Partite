@@ -250,6 +250,46 @@ nav.teams .dot{width:8px;height:8px}
 .calpill svg{width:16px;height:16px;display:block;flex:none}
 .calpill:focus-visible{outline:2px solid var(--como);outline-offset:2px}
 .cal .hint{font-size:.8rem;color:var(--muted);margin:4px 0 8px}`;
+  css.textContent += `
+/* intestazione */
+.hero{position:relative;overflow:hidden;color:#fff;background:#0b1a3a;border-radius:0 0 22px 22px;
+  margin:-20px calc(-1*max(16px,env(safe-area-inset-right,0px))) 0 calc(-1*max(16px,env(safe-area-inset-left,0px)));
+  padding:calc(18px + env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) 18px max(16px,env(safe-area-inset-left,0px));display:flex;flex-direction:column;gap:14px}
+@media (min-width:792px){.hero{margin:-20px 0 0;border-radius:0 0 22px 22px}}
+.hero header{position:relative;z-index:1}
+.hero .sub,.hero .tag{color:rgba(255,255,255,.72)}
+.hero .tag{color:#e9b949}
+.hero .rf{position:absolute;top:0;right:0;background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.28);color:#fff}
+.skinbtn{all:unset;cursor:pointer;position:absolute;top:0;left:0;font:700 .68rem var(--display);letter-spacing:.1em;text-transform:uppercase;color:rgba(255,255,255,.75);border:1px solid rgba(255,255,255,.28);border-radius:999px;padding:5px 10px}
+.skinbtn:focus-visible{outline:2px solid #e9b949;outline-offset:2px}
+.hero .calrow{position:relative;z-index:1;margin:0;max-width:none}
+.hero .callbl{color:rgba(255,255,255,.65)}
+.hstripe{position:absolute;left:0;right:0;bottom:0;height:5px;background:linear-gradient(90deg,#c4161c 0 33.3%,#e08a1e 0 66.6%,#1f6fb8 0)}
+.board:empty{display:none}
+/* Stile A: stadio di notte */
+.skin-a .hero{background:radial-gradient(120% 90% at 50% 0%,#24407a 0%,#0b1a3a 55%,#050c1c 100%);text-align:center}
+.skin-a .hero:before{content:"";position:absolute;inset:0;background:conic-gradient(from 200deg at 50% -10%,transparent 0 20deg,rgba(255,255,255,.10) 24deg,transparent 30deg 60deg,rgba(255,255,255,.08) 64deg,transparent 70deg);pointer-events:none}
+.skin-a .hero header{display:block;padding-top:30px}
+.skin-a .brand{flex-direction:column;gap:10px}
+.skin-a .brand .lg{width:112px;height:112px;border-radius:24px;box-shadow:0 8px 24px rgba(0,0,0,.5)}
+.skin-a .brand h1{font-size:3.4rem;line-height:.9;color:#fff}
+.skin-a .brand .tag{letter-spacing:.3em;font-size:.95rem}
+.skin-a .calpill{background:#fff;color:#0b1a3a}
+.skin-a .callbl{text-align:center}
+/* Stile B: tabellone */
+.skin-b .hero{background:linear-gradient(160deg,#0f2147,#0b1a3a 60%,#081329)}
+.skin-b .hero header{padding-top:30px}
+.skin-b .brand .lg{width:74px;height:74px}
+.skin-b .brand h1{font-size:2.6rem;color:#fff}
+.skin-b .board{position:relative;z-index:1;display:flex;justify-content:space-between;align-items:center;gap:12px;background:#050c1c;border:2px solid #e9b949;border-radius:12px;padding:10px 12px}
+.board .bk{font:700 .72rem var(--display);letter-spacing:.18em;text-transform:uppercase;color:#e9b949}
+.board .bm{font:700 1.25rem/1.1 var(--display);text-transform:uppercase;letter-spacing:.03em}
+.board .bt{font-size:.75rem;color:rgba(255,255,255,.65);margin-top:2px}
+.board .bc{font:700 1.7rem/1 var(--display);color:#ff5a5f;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.board .bc.live{color:#43c07a}
+.board .bc small{display:block;font:600 .62rem var(--display);letter-spacing:.14em;text-transform:uppercase;color:#93a0ae;margin-top:3px}
+.skin-b .calpill{background:transparent;color:#fff;border:1.5px solid rgba(255,255,255,.35)}
+`;
   document.head.appendChild(css);
   const ics = location.host + location.pathname.replace(/[^/]*$/, "") + "partite.ics";
   const upd = document.getElementById("upd");
@@ -284,6 +324,53 @@ nav.teams .dot{width:8px;height:8px}
       });
     });
   }
+
+  /* ---------- intestazione: due stili a scelta (Stadio / Tabellone) ---------- */
+  (function skins() {
+    const header = document.querySelector("header");
+    if (!header) return;
+    const hero = document.createElement("div");
+    hero.className = "hero";
+    header.parentNode.insertBefore(hero, header);
+    hero.appendChild(header);
+    const cal = document.querySelector(".calrow");
+    const board = document.createElement("div");
+    board.className = "board";
+    hero.appendChild(board);
+    if (cal) hero.appendChild(cal);
+    hero.insertAdjacentHTML("beforeend", '<div class="hstripe" aria-hidden="true"></div>');
+    const sw = document.createElement("button");
+    sw.type = "button"; sw.className = "skinbtn";
+    header.appendChild(sw);
+    let skin = "a";
+    try { skin = localStorage.getItem("mcc-skin") || "a"; } catch (e) {}
+    const apply = () => {
+      document.body.classList.toggle("skin-a", skin === "a");
+      document.body.classList.toggle("skin-b", skin === "b");
+      sw.textContent = skin === "a" ? "Stile: Stadio" : "Stile: Tabellone";
+      sw.setAttribute("aria-label", "Cambia stile dell'intestazione (ora " + (skin === "a" ? "Stadio" : "Tabellone") + ")");
+      tick();
+    };
+    sw.addEventListener("click", () => { skin = skin === "a" ? "b" : "a"; try { localStorage.setItem("mcc-skin", skin); } catch (e) {} apply(); });
+    function tick() {
+      if (skin !== "b") { board.innerHTML = ""; return; }
+      const lv = liveNow()[0];
+      const x = lv || upcoming()[0];
+      if (!x) { board.innerHTML = ""; return; }
+      let cd, sub;
+      if (lv) { const L = LIVE[x.m[0] + "|" + x.m[2]]; cd = L ? L.s : "LIVE"; sub = L ? L.c : "in corso"; }
+      else {
+        const ms = x.ts - Date.now(), mi = Math.floor(ms / 60000), d = Math.floor(mi / 1440), h = Math.floor(mi % 1440 / 60), m = mi % 60;
+        cd = d ? `${d}G ${h}H` : h ? `${h}H ${String(m).padStart(2, "0")}M` : `${m} MIN`;
+        sub = x.m[4] ? "al calcio d'inizio" : "orario da definire";
+      }
+      const t = x.teams[0];
+      board.innerHTML = `<div><div class="bk">${lv ? "In corso" : "Prossima"} · ${esc(N[t])}</div><div class="bm">${esc(x.m[2])}</div><div class="bt">${esc(tvFor(x.m))}</div></div><div class="bc${lv ? " live" : ""}">${esc(String(cd))}<small>${esc(sub)}</small></div>`;
+    }
+    apply();
+    setInterval(tick, 30000);
+    const _rn2 = renderNext; renderNext = function () { _rn2(); tick(); };
+  })();
 
   /* ---------- avvio ---------- */
   loadData().then(pollLive);
