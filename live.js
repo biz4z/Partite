@@ -110,12 +110,42 @@
       if (lv) lv.innerHTML = `<i aria-hidden="true"></i>${esc(String(L.s))}<small class="lclk">${esc(String(L.c||""))}</small>`;
     });
   }
+  /* mesi successivi al primo chiusi, apribili con un tocco (lo stato resta tra un aggiornamento e l'altro) */
+  const OPEN = new Set();
+  const _render = render;
+  render = function (f) {
+    _render(f);
+    if (view === "news") return;
+    document.querySelectorAll("#list .month").forEach((sec, i) => {
+      if (i === 0) return;
+      const h = sec.querySelector("h2");
+      const key = view + "|" + h.textContent;
+      const n = sec.querySelectorAll(".row").length;
+      h.classList.add("mt");
+      h.setAttribute("role", "button");
+      h.tabIndex = 0;
+      h.insertAdjacentHTML("beforeend", `<span class="mc">${n} ${n === 1 ? "partita" : "partite"}<span class="pm" aria-hidden="true"></span></span>`);
+      const set = o => { sec.classList.toggle("closed", !o); h.setAttribute("aria-expanded", o); };
+      set(OPEN.has(key));
+      const tog = () => { const o = sec.classList.contains("closed"); o ? OPEN.add(key) : OPEN.delete(key); set(o); };
+      h.addEventListener("click", tog);
+      h.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); tog(); } });
+    });
+  };
   const _rn = renderNext;
   renderNext = function () { _rn(); decorate(); };
 
   /* ---------- calendario iPhone ---------- */
   const css = document.createElement("style");
   css.textContent = `.nx .lv{font-variant-numeric:tabular-nums}.nx .lv .lclk{font-family:var(--body);font-weight:600;font-size:.72rem;letter-spacing:0;text-transform:none;color:var(--muted);margin-left:2px}
+.month h2.mt{cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:8px}
+.month h2.mt:focus-visible{outline:2px solid var(--como);outline-offset:2px}
+.month .mc{display:inline-flex;align-items:center;gap:8px;font-family:var(--body);font-weight:500;font-size:.75rem;letter-spacing:0;text-transform:none}
+.month .pm{width:22px;height:22px;border-radius:50%;border:1.5px solid var(--line);display:grid;place-items:center;color:var(--fg)}
+.month .pm::before{content:"−";font-size:.95rem;line-height:1}
+.month.closed .pm::before{content:"+"}
+.month.closed .row{display:none}
+.month.closed h2{border-bottom-color:var(--line)}
 .cal ol{margin:6px 0 4px;padding-left:20px;display:flex;flex-direction:column;gap:6px;font-size:.88rem}
 .calbtn{display:flex;align-items:center;justify-content:center;gap:8px;margin:6px 0 8px;padding:11px 14px;border-radius:999px;background:var(--fg);color:var(--bg);font:700 .95rem var(--display);letter-spacing:.06em;text-transform:uppercase;text-decoration:none}
 .calbtn:focus-visible{outline:2px solid var(--como);outline-offset:2px}
