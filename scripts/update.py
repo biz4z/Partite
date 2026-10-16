@@ -288,10 +288,8 @@ def odds_all(M):
             try:
                 h, a, x = ml("home"), ml("away"), ml("draw")
                 ph, pd, pa = 1 / dec(h), 1 / dec(x), 1 / dec(a)
-            except Exception as e:
-                out["_debug_" + r[0]] = {"err": f"{type(e).__name__} {e}", "keys": sorted(o.keys())[:15],
-                                         "ml": json.dumps(o.get("moneyline"))[:300], "home": json.dumps(o.get("homeTeamOdds"))[:300]}
-                break
+            except Exception:
+                break  # quote non ancora pubblicate
             t = ph + pd + pa
             ph, pd, pa = ph / t, pd / t, pa / t
             home_in_M = {"milan": "Milan", "como": "Como"}[r[1]] in r[2].split(" – ")[0]
