@@ -192,7 +192,7 @@
       return `<a class="ai" style="--c:${T[n.t0]}" href="${esc(n.u)}" target="_blank" rel="noopener"><span class="bdg" aria-hidden="true">${AB[n.t0]}</span><span class="at"><span class="tt">${esc(n.t)}</span><small>${n.off ? "<b>Ufficiale</b> · " : ""}${esc(n.off ? N[n.t0] : (n.s || ""))}${when ? " · " + when : ""}</small></span></a>`;
     };
     const shown = NEWS_OPEN ? all : all.slice(0, 3);
-    sec.innerHTML = `<h2>Notizie${NEWS_OPEN ? `<button type="button" class="anx" aria-label="Chiudi le notizie">Chiudi ✕</button>` : ""}</h2>${shown.map(item).join("")}` +
+    sec.innerHTML = `<h2>Le news di oggi${NEWS_OPEN ? `<button type="button" class="anx" aria-label="Chiudi le notizie">Chiudi ✕</button>` : ""}</h2>${shown.map(item).join("")}` +
       (all.length > 3 ? `<button type="button" class="anb">${NEWS_OPEN ? "Mostra meno" : "Mostra tutte (" + all.length + ")"}</button>` : "");
     const close = () => { NEWS_OPEN = false; renderHl(); const y = sec.getBoundingClientRect().top + scrollY - 8; if (y < scrollY) scrollTo({ top: y }); };
     const x = sec.querySelector(".anx");
