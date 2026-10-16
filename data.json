@@ -917,12 +917,6 @@
   "cantu": "https://r2.thesportsdb.com/images/media/team/badge/vy599w1784567424.png/small"
  },
  "odds": {
-  "_debug_2026-10-22": {
-   "err": "TypeError float() argument must be a string or a real number, not 'NoneType'",
-   "keys": [],
-   "ml": "null",
-   "home": "null"
-  },
   "2026-10-18|Fiorentina – Como": {
    "1": 29,
    "X": 26,
@@ -949,7 +943,7 @@
    "2": 51
   }
  },
- "updated": "2026-10-16T16:46:31+00:00",
+ "updated": "2026-10-16T16:48:18+00:00",
  "log": [
   "classifica milan 5 12",
   "classifica como 7 11",
@@ -965,6 +959,6 @@
   "calendario milan 32 partite future",
   "calendario como 32 partite future",
   "loghi ['cantu', 'como', 'milan']",
-  "quote 6"
+  "quote 5"
  ]
 }
