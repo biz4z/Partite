@@ -1,7 +1,7 @@
 name: Risultati, classifiche e calendario
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/5 * * * *"
   push:
     paths: ["index.html", "scripts/update.py"]
   workflow_dispatch:

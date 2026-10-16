@@ -265,6 +265,26 @@ nav.teams .dot{width:8px;height:8px}
 
   renderHl();
 
+  /* Tasto ↻: chiede subito i dati più recenti (notizie, risultati, classifiche, live) senza ricaricare la pagina */
+  const rf = document.getElementById("rf");
+  if (rf) {
+    const nb = rf.cloneNode(true); rf.replaceWith(nb);
+    nb.addEventListener("click", () => {
+      if (nb.classList.contains("spin")) return;
+      nb.classList.add("spin");
+      const t0 = Date.now();
+      Promise.all([loadData(), Promise.resolve().then(pollLive)]).finally(() => {
+        setTimeout(() => {
+          nb.classList.remove("spin");
+          const el = document.getElementById("upd");
+          if (el && !/· controllato/.test(el.textContent)) el.dataset.base = el.textContent;
+          const hm = new Intl.DateTimeFormat("it-IT", { timeZone: "Europe/Rome", hour: "2-digit", minute: "2-digit" }).format(new Date());
+          if (el) el.textContent = (el.dataset.base || el.textContent) + " · controllato alle " + hm;
+        }, Math.max(0, 600 - (Date.now() - t0)));
+      });
+    });
+  }
+
   /* ---------- avvio ---------- */
   loadData().then(pollLive);
   setInterval(pollLive, 30000);
