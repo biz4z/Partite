@@ -282,7 +282,9 @@ def odds_all(M):
             try:
                 h, a, x = o["homeTeamOdds"]["moneyLine"], o["awayTeamOdds"]["moneyLine"], o["drawOdds"]["moneyLine"]
                 ph, pd, pa = 1 / dec(h), 1 / dec(x), 1 / dec(a)
-            except Exception:
+            except Exception as e:
+                log("quote non lette", r[2], type(e).__name__, e, sorted((o or {}).keys())[:12],
+                    json.dumps((o or {}).get("homeTeamOdds") or (o or {}).get("moneyline"))[:300])
                 break
             t = ph + pd + pa
             ph, pd, pa = ph / t, pd / t, pa / t
