@@ -55,9 +55,9 @@
       ch = true;
     });
     if (d.press && JSON.stringify(d.press) !== JSON.stringify(PRESS)) { PRESS = d.press; ch = true; }
-    const N = d.news || {};
+    const NW = d.news || {};
     ["milan", "cantu", "como"].forEach(k => {
-      if (N[k] && N[k].length && JSON.stringify(N[k]) !== JSON.stringify(NEWS[k])) { NEWS[k] = N[k]; ch = true; }
+      if (NW[k] && NW[k].length && JSON.stringify(NW[k]) !== JSON.stringify(NEWS[k])) { NEWS[k] = NW[k]; ch = true; }
     });
     if (S.milan) put(S.milan.eu, st.milan_eu);
     if (S.como) put(S.como.eu, st.como_eu);
@@ -65,7 +65,7 @@
   }
   function loadData() {
     return fetch("data.json?t=" + Date.now(), { cache: "no-store" }).then(r => r.ok ? r.json() : null)
-      .then(d => { if (!d) return; if (applyData(d)) { renderHl(); refresh(); } showUpd(d.updated); }).catch(() => {});
+      .then(d => { if (!d) return; try { if (applyData(d)) { renderHl(); refresh(); } showUpd(d.updated); } catch (e) { console.error("data.json", e); } }).catch(() => {});
   }
 
   /* "Ultimo controllo": mostra l'aggiornamento automatico più recente */
