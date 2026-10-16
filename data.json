@@ -396,7 +396,7 @@
    {
     "d": "2026-10-16",
     "h": "18:15",
-    "t": "Si chiude la partnership Milan-Congo: salta anche il secondo accordo di sponsorizzazione",
+    "t": "Si chiude la partnership Milan-Congo: salta anche il secondo accordo di sponsorizzazione per inadempimento",
     "s": "Calcio e Finanza",
     "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jOUZpeGhVWlFYQ0RIR3FhdkRzc1IwSExRMXBpZ2VWVDU4MUEyaTAzbzNCYVdZZFBpU1g5MFpiU1ZxMkV1bVpNRDFfM3dwc09tSnN1Z0hPWm5Hb0lIYkJPbDdBYWEzS1p5bEswaTFNRGNGb3U4dVN4TndYZjlGMXM?oc=5"
    },
@@ -505,7 +505,7 @@
    {
     "d": "2026-10-16",
     "h": "16:15",
-    "t": "Al lavoro verso la sfida con il Como 1907",
+    "t": "Gallery | Al lavoro verso la sfida con il Como 1907",
     "s": "Juventus.com",
     "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUzIwZFVHa2paNk0xY19jRmctenJyMVBhSHRwclA3MExHV0JmTUJicGI2X2VpTzZ5ZW14YnVRUDE5Y1psTUJOZEp6Yk8tWnVHOGNhVW0wR0ZnNjVXV1JyWWFLQ0tMRVNnT3VVajBuaWhyTEFBTnRSQlJKZ0k3Qm1OQkZJUUxQa0FrWUVFWXBNOVdHejY1VFE?oc=5"
    },
@@ -943,7 +943,7 @@
    "2": 51
   }
  },
- "updated": "2026-10-16T19:06:06+00:00",
+ "updated": "2026-10-16T20:19:17+00:00",
  "log": [
   "classifica milan 5 12",
   "classifica como 7 11",
@@ -958,6 +958,7 @@
   "stampa como 8",
   "calendario milan 32 partite future",
   "calendario como 32 partite future",
+  "ERR logo cantu HTTP Error 403: Forbidden",
   "loghi ['cantu', 'como', 'milan']",
   "quote 5"
  ]
