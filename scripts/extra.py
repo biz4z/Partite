@@ -231,10 +231,10 @@ PRESS_Q = {"milan": '"Milan" calcio -femminile -"Milan Club"',
            "cantu": '"Cantù" basket OR "Pallacanestro Cantù" OR "Acqua S.Bernardo"',
            "como": '"Como" calcio OR "Como 1907"'}
 # il titolo deve parlare davvero della squadra (es. "rossoneri" vale anche per Fiorenzuola, Foggia, Lucchese…)
-PRESS_MUST = {"milan": re.compile(r"\bMilan\b(?!\s+(?:Club|Futuro|Women|femminile))"),
+PRESS_MUST = {"milan": re.compile(r"\bMilan\b(?!\s+(?:Club|Futuro|Women|femminile|de\b|van\b))"),
               "cantu": re.compile(r"\bCant[ùu]\b|S\.\s?Bernardo", re.I),
               "como": re.compile(r"\bComo\b")}
-PRESS_SKIP = re.compile(r"pronostic|quote\b|scommess|bonus|diretta streaming gratis|dove vedere .* gratis|"
+PRESS_SKIP = re.compile(r"pronostic|\bin quota\b|quote? (?:scudetto|vincente)|notizie e informazioni|quote\b|scommess|bonus|diretta streaming gratis|dove vedere .* gratis|"
                         r"femminil|women|primavera|under\s?1\d|oroscopo", re.I)
 
 
