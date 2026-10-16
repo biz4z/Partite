@@ -253,6 +253,48 @@ def fixtures():
     return out
 
 
+def odds_all(M):
+    """Probabilità 1-X-2 ricavate dalle quote (ESPN) per le partite di Milan e Como dei prossimi 10 giorni."""
+    out = {}
+    today = dt.datetime.now(ROME).date()
+    def dec(ml):
+        ml = float(ml)
+        return 1 + ml / 100 if ml > 0 else 1 + 100 / abs(ml)
+    cache = {}
+    for r in M:
+        if r[1] not in ("milan", "como") or not league(r[3]) or (len(r) > 6 and r[6]):
+            continue
+        d = dt.date.fromisoformat(r[0])
+        if not (today <= d <= today + dt.timedelta(days=10)):
+            continue
+        u = f"{BASE}/site/v2/sports/soccer/{league(r[3])}/scoreboard?dates={d:%Y%m%d}"
+        if u not in cache:
+            try:
+                cache[u] = get(u).get("events", [])
+            except Exception as e:
+                log("ERR quote", u, e); cache[u] = []
+        for ev in cache[u]:
+            c = ev["competitions"][0]
+            mine = [x for x in c["competitors"] if is_team(x["team"], r[1])]
+            if not mine:
+                continue
+            o = (c.get("odds") or [None])[0]
+            try:
+                h, a, x = o["homeTeamOdds"]["moneyLine"], o["awayTeamOdds"]["moneyLine"], o["drawOdds"]["moneyLine"]
+                ph, pd, pa = 1 / dec(h), 1 / dec(x), 1 / dec(a)
+            except Exception:
+                break
+            t = ph + pd + pa
+            ph, pd, pa = ph / t, pd / t, pa / t
+            home_in_M = {"milan": "Milan", "como": "Como"}[r[1]] in r[2].split(" – ")[0]
+            if home_in_M != (mine[0].get("homeAway") == "home"):
+                ph, pa = pa, ph
+            out[f"{r[0]}|{r[2]}"] = {"1": round(ph * 100), "X": round(pd * 100), "2": round(pa * 100)}
+            break
+    log("quote", len(out))
+    return out
+
+
 def logos(old):
     out = dict(old)
     try:
@@ -352,8 +394,14 @@ def main():
         except Exception as e:
             log("ERR calendario", e)
     lg = old.get("logos", {}) if offline else logos(old.get("logos", {}))
-    data = {"results": res, "standings": sta, "cantu": cantu, "news": news, "press": pr, "fixtures": fx, "logos": lg}
-    keys = ("results", "standings", "cantu", "news", "press", "fixtures", "logos")
+    od = old.get("odds", {})
+    if not offline:
+        try:
+            od = odds_all(M)
+        except Exception as e:
+            log("ERR quote", e)
+    data = {"results": res, "standings": sta, "cantu": cantu, "news": news, "press": pr, "fixtures": fx, "logos": lg, "odds": od}
+    keys = ("results", "standings", "cantu", "news", "press", "fixtures", "logos", "odds")
     if data != {k: old.get(k) for k in keys}:
         data["updated"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
         data["log"] = LOG[-40:]

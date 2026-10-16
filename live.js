@@ -55,6 +55,7 @@
       M.push([f.date, f.team, f.match, `Serie A calcio · ${n}ª giornata`, f.time, "DAZN"]);
       ch = true;
     });
+    if (d.odds && JSON.stringify(d.odds) !== JSON.stringify(ODDS)) { ODDS = d.odds; ch = true; }
     if (d.press && JSON.stringify(d.press) !== JSON.stringify(PRESS)) { PRESS = d.press; ch = true; }
     const NW = d.news || {};
     ["milan", "cantu", "como"].forEach(k => {
@@ -129,6 +130,7 @@
   /* mesi successivi al primo chiusi, apribili con un tocco (lo stato resta tra un aggiornamento e l'altro) */
   const OPEN = new Set();
   let PRESS = {};
+  let ODDS = {};
   const _render = render;
   render = function (f) {
     _render(f);
@@ -202,7 +204,26 @@
     if (btn) btn.addEventListener("click", () => { if (NEWS_OPEN) close(); else { NEWS_OPEN = true; renderHl(); } });
   };
   const _rn = renderNext;
-  renderNext = function () { _rn(); decorate(); };
+  renderNext = function () { _rn(); decorate(); ticker(); };
+
+  /* Striscia che scorre: probabilità 1-X-2 ricavate dalle quote */
+  function ticker() {
+    let el = document.getElementById("odds");
+    const items = upcoming().filter(x => ODDS[x.m[0] + "|" + x.m[2]]).slice(0, 6);
+    if (!items.length) { if (el) el.remove(); return; }
+    if (!el) {
+      el = document.createElement("section");
+      el.id = "odds"; el.className = "odds"; el.setAttribute("aria-label", "Probabilità dalle quote");
+      const nx = document.getElementById("next");
+      nx.parentNode.insertBefore(el, nx);
+    }
+    const one = items.map(x => {
+      const o = ODDS[x.m[0] + "|" + x.m[2]], t = x.teams[0];
+      return `<span class="oi" style="--c:${T[t]}"><b>${esc(x.m[2])}</b> <i>1</i> ${o["1"]}% <i>X</i> ${o.X}% <i>2</i> ${o["2"]}%</span>`;
+    }).join("");
+    const html = `<span class="ol">Quote %</span><div class="ov"><div class="ot">${one}${one}</div></div>`;
+    if (el.dataset.h !== html) { el.innerHTML = html; el.dataset.h = html; }
+  }
 
   /* ---------- calendario iPhone ---------- */
   const css = document.createElement("style");
@@ -266,6 +287,16 @@ nav.teams .dot{width:8px;height:8px}
 .hero .callbl{color:rgba(255,255,255,.65)}
 .hstripe{position:absolute;left:0;right:0;bottom:0;height:5px;background:linear-gradient(90deg,#c4161c 0 33.3%,#e08a1e 0 66.6%,#1f6fb8 0)}
 .board:empty{display:none}
+.odds{display:flex;align-items:center;background:#0b1a3a;color:#fff;border-radius:10px;overflow:hidden;font-size:.82rem}
+.odds .ol{flex:none;align-self:stretch;display:flex;align-items:center;padding:0 10px;background:#e9b949;color:#0b1a3a;font:700 .72rem var(--display);letter-spacing:.1em;text-transform:uppercase}
+.odds .ov{overflow:hidden;flex:1;mask-image:linear-gradient(90deg,transparent,#000 12px,#000 calc(100% - 12px),transparent)}
+.odds .ot{display:inline-flex;white-space:nowrap;padding:9px 0;animation:oscroll 28s linear infinite}
+.odds:hover .ot{animation-play-state:paused}
+.odds .oi{padding:0 18px;border-left:3px solid var(--c);margin-left:6px;font-variant-numeric:tabular-nums}
+.odds .oi b{font-weight:600;margin-right:4px}
+.odds .oi i{font-style:normal;color:#e9b949;font-weight:700;margin-left:6px}
+@keyframes oscroll{to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){.odds .ot{animation:none}.odds .ov{overflow-x:auto}}
 html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
 /* Stile A: stadio di notte */
 .skin-a .hero{background:radial-gradient(120% 90% at 50% 0%,#24407a 0%,#0b1a3a 55%,#050c1c 100%);text-align:center}
