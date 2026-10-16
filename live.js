@@ -424,7 +424,7 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
       ["🍻", "Due", 6, "https://revolut.me/mauirock?currency=EUR&amount=600&note=%F0%9F%8D%BB%20Grazie!!"],
       ["🍻", "Giro", 15, "https://revolut.me/mauirock?currency=EUR&amount=1500&note=%F0%9F%8D%BB%20Grazie!!!"]];
     c.innerHTML = `<h2>Offrici una birra</h2><p class="cs">MCC Fans è gratis e senza pubblicità. Se ti è utile, il giro lo offri tu? 🍻</p>` +
-      `<div class="ctiers">${T3.map(([i, n, e, u]) => `<a class="ctier" href="${u.replace(/&/g, "&amp;")}" target="_blank" rel="noopener"><span class="ci" aria-hidden="true">${i}</span><span class="cn">${n}</span><span class="ce">${e} €</span></a>`).join("")}</div>` +
+      `<div class="ctiers">${T3.map(([i, n, e, u]) => `<a class="ctier" href="${u.replace(/&/g, "&amp;")}"><span class="ci" aria-hidden="true">${i}</span><span class="cn">${n}</span><span class="ce">${e} €</span></a>`).join("")}</div>` +
       `<small>Si apre Revolut con l'importo già impostato: basta confermare.</small>`;
     wrap.appendChild(c);
   })();
