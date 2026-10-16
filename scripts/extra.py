@@ -1,4 +1,4 @@
-"""Fonti gratuite aggiuntive: calendario/risultati/classifica di Cantù e notizie ufficiali."""
+"""Fonti gratuite aggiuntive: calendario/risultati/classifica di Cantù, notizie ufficiali e stampa."""
 import datetime as dt
 import html as H
 import re
