@@ -1,6 +1,72 @@
 {
  "results": {},
- "standings": {},
- "updated": "2026-10-16T11:40:29+00:00",
- "log": []
+ "standings": {
+  "milan": {
+   "pos": 5,
+   "pts": 12,
+   "g": 6,
+   "up": {
+    "n": "Cagliari",
+    "pos": 4,
+    "pts": 13
+   },
+   "dn": {
+    "n": "Juventus",
+    "pos": 6,
+    "pts": 11
+   }
+  },
+  "como": {
+   "pos": 7,
+   "pts": 11,
+   "g": 6,
+   "up": {
+    "n": "Juventus",
+    "pos": 6,
+    "pts": 11
+   },
+   "dn": {
+    "n": "Napoli",
+    "pos": 8,
+    "pts": 10
+   }
+  },
+  "milan_eu": {
+   "pos": 16,
+   "pts": 3,
+   "g": 2,
+   "up": {
+    "n": "Crystal Palace",
+    "pos": 15,
+    "pts": 3
+   },
+   "dn": {
+    "n": "Jagiellonia Bialystok",
+    "pos": 17,
+    "pts": 3
+   }
+  },
+  "como_eu": {
+   "pos": 12,
+   "pts": 3,
+   "g": 2,
+   "up": {
+    "n": "Shakhtar Donetsk",
+    "pos": 11,
+    "pts": 4
+   },
+   "dn": {
+    "n": "Manchester United",
+    "pos": 13,
+    "pts": 3
+   }
+  }
+ },
+ "updated": "2026-10-16T11:41:58+00:00",
+ "log": [
+  "classifica milan 5 12",
+  "classifica como 7 11",
+  "classifica milan_eu 16 3",
+  "classifica como_eu 12 3"
+ ]
 }
