@@ -1,0 +1,488 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#ffffff">
+<title>Milan Cantù Como</title>
+<meta name="apple-mobile-web-app-title" content="Partite">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+</head>
+<body>
+<style>
+/* Layout: agenda verticale per mese, una riga per partita, filtri squadra in testa */
+:root{
+  --bg:#f3f5f7; --surface:#ffffff; --fg:#141a22; --muted:#5d6876; --line:#dde2e8;
+  --como:#1f6fb8; --milan:#c4161c; --cantu:#d9821a;
+  --dazn:#141a22; --chip:#e8ecf1; --win:#1d8a4b; --draw:#7a8592; --loss:#c43d2f;
+  --display:"Barlow Condensed","Arial Narrow",system-ui,sans-serif;
+  --body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0f1318; --surface:#171d24; --fg:#e8edf2; --muted:#93a0ae; --line:#2a333d;
+  --como:#5aa4e8; --milan:#ff5a5f; --cantu:#f2a54a; --dazn:#e8edf2; --chip:#222a33; --win:#43c07a; --draw:#93a0ae; --loss:#f07264; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1318; --surface:#171d24; --fg:#e8edf2; --muted:#93a0ae; --line:#2a333d;
+  --como:#5aa4e8; --milan:#ff5a5f; --cantu:#f2a54a; --dazn:#e8edf2; --chip:#222a33; --win:#43c07a; --draw:#93a0ae; --loss:#f07264; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.45;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 40px}
+.wrap{max-width:760px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+h1{font-family:var(--display);font-weight:700;font-size:2.2rem;line-height:1;margin:0;letter-spacing:.01em;text-transform:uppercase;text-wrap:balance}
+.sub{color:var(--muted);margin:6px 0 0;font-size:.9rem}
+.filters{display:flex;flex-wrap:wrap;gap:8px;position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding-block:8px;z-index:2}
+.filters button{font:600 .95rem var(--display);letter-spacing:.06em;text-transform:uppercase;border:1.5px solid var(--line);
+  background:var(--surface);color:var(--fg);padding:6px 14px;border-radius:999px;cursor:pointer;display:flex;align-items:center;gap:8px}
+.filters button[aria-pressed="true"]{border-color:var(--fg)}
+.filters button:focus-visible{outline:2px solid var(--como);outline-offset:2px}
+.dot{width:10px;height:10px;border-radius:50%;flex:none}
+.month h2{font-family:var(--display);font-weight:600;font-size:1.05rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 6px;padding-bottom:4px;border-bottom:1px solid var(--line)}
+.month{display:flex;flex-direction:column}
+.row{display:grid;grid-template-columns:62px 1fr;gap:12px;padding:10px 0;border-bottom:1px solid var(--line);align-items:start}
+.date{font-family:var(--display);text-align:center;line-height:1}
+.date .d{font-size:1.7rem;font-weight:700;font-variant-numeric:tabular-nums}
+.date .w{font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.info{min-width:0;display:flex;flex-direction:column;gap:4px;border-left:3px solid var(--c);padding-left:12px}
+.match{font-weight:600;font-size:1rem}
+.meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:.82rem;color:var(--muted)}
+.comp{font-family:var(--display);font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--c)}
+.time{font-variant-numeric:tabular-nums;color:var(--fg);font-weight:500}
+.tv{background:var(--chip);color:var(--fg);border-radius:4px;padding:1px 7px;font-size:.78rem;font-weight:500}
+.tv.tbd{background:transparent;border:1px dashed var(--line);color:var(--muted)}
+
+
+.notes{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 16px;font-size:.85rem;color:var(--muted);display:flex;flex-direction:column;gap:6px}
+.notes b{color:var(--fg)}
+.next{display:flex;flex-direction:column;background:var(--surface);border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.nx{display:grid;grid-template-columns:auto auto minmax(0,1fr) auto;gap:10px;align-items:center;padding:9px 12px 9px 10px;border-left:4px solid var(--c);border-top:1px solid var(--line)}
+.nx:first-child{border-top:0}
+.nx .w{font-family:var(--display);font-weight:700;font-size:1rem;font-variant-numeric:tabular-nums;white-space:nowrap;min-width:96px}
+.nx .w.today{color:var(--c)}
+.nx .m{font-weight:600;font-size:.95rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+.nx .x{font-size:.75rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:34vw}
+.hl{display:flex;flex-direction:column;gap:2px}
+.hl .hh{font-family:var(--display);font-weight:600;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);display:flex;justify-content:space-between}
+.hl .hh button{all:unset;cursor:pointer;color:var(--fg);font-family:var(--body);font-size:.75rem;letter-spacing:0;text-transform:none;text-decoration:underline}
+.hl .hh button:focus-visible{outline:2px solid var(--como);outline-offset:2px}
+.hi{display:grid;grid-template-columns:auto minmax(0,1fr);gap:8px;align-items:center;padding:5px 0;color:var(--fg);text-decoration:none;border-bottom:1px solid var(--line)}
+.hi:last-child{border-bottom:0}
+.hi b{display:flex}
+.hi span{font-size:.88rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.hi:hover span,.hi:focus-visible span{text-decoration:underline}
+.hi:focus-visible{outline:2px solid var(--c);outline-offset:2px}
+.stand{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.st{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;display:flex;flex-direction:column;gap:3px;min-width:0}
+.st .t{display:flex;align-items:center;gap:6px;font-family:var(--display);font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--c);font-size:.85rem}
+.st .p{font-family:var(--display);font-weight:700;font-size:1.6rem;line-height:1;font-variant-numeric:tabular-nums}
+.st .p small{font-size:.85rem;font-weight:600;color:var(--muted);margin-left:4px}
+.st .g{font-size:.74rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.st .l{font-size:.68rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
+@media (max-width:520px){.stand{grid-template-columns:1fr}.st{display:grid;grid-template-columns:auto auto 1fr auto;column-gap:12px;align-items:center}.st .l{grid-column:1/-1}.frm{margin-top:0}}
+.score{font-family:var(--display);font-weight:700;font-size:1.05rem;color:var(--fg);font-variant-numeric:tabular-nums}
+.res{font-family:var(--display);font-weight:700;font-size:.8rem;color:#fff;border-radius:4px;padding:1px 7px;letter-spacing:.06em}
+.res.V{background:var(--win)}.res.N{background:var(--draw)}.res.P{background:var(--loss)}
+.filters + .filters{margin-top:-12px}
+.filters{position:static}
+.news{display:flex;flex-direction:column;gap:18px}
+.ng h2{font-family:var(--display);font-weight:700;font-size:1.05rem;letter-spacing:.12em;text-transform:uppercase;color:var(--c);margin:0 0 6px;padding-bottom:4px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:8px}
+.ng h2 span{color:var(--muted);font-weight:500;letter-spacing:.04em;text-transform:none;font-family:var(--body);font-size:.75rem}
+.ni{display:flex;gap:12px;padding:9px 0;border-bottom:1px solid var(--line);color:var(--fg);text-decoration:none;align-items:baseline}
+.ni:hover .nt,.ni:focus-visible .nt{text-decoration:underline}
+.ni:focus-visible{outline:2px solid var(--c);outline-offset:2px}
+.nd{font-family:var(--display);font-weight:600;color:var(--muted);font-variant-numeric:tabular-nums;min-width:44px;flex:none}
+.nt{font-weight:500;min-width:0;overflow-wrap:anywhere}
+.bdg{display:inline-grid;place-items:center;width:26px;height:26px;border-radius:50%;background:var(--c);color:var(--bg);font-family:var(--display);font-weight:700;font-size:.62rem;letter-spacing:.04em;flex:none}
+.frm{display:flex;gap:3px;margin-top:2px}
+.fq{display:inline-grid;place-items:center;width:18px;height:18px;border-radius:3px;color:#fff;font-family:var(--display);font-weight:700;font-size:.7rem}
+.fq.V{background:var(--win)}.fq.N{background:var(--draw)}.fq.P{background:var(--loss)}
+.eu{display:flex;flex-direction:column;gap:2px;margin-top:6px;padding-top:6px;border-top:1px dashed var(--line);grid-column:1/-1}
+.eu .eh{font-size:.68rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
+.eu .ep{font-family:var(--display);font-weight:700;font-size:1.15rem;line-height:1;font-variant-numeric:tabular-nums}
+.eu .ep small{font-size:.8rem;font-weight:600;color:var(--muted);margin-left:4px}
+.hl summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;font-family:var(--display);font-weight:600;font-size:.85rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);padding:8px 0;border-bottom:1px solid var(--line)}
+.hl summary::-webkit-details-marker{display:none}
+.hl summary:focus-visible{outline:2px solid var(--como);outline-offset:2px}
+.hl .pm{width:24px;height:24px;border-radius:50%;border:1.5px solid var(--line);display:grid;place-items:center;color:var(--fg)}
+.hl .pm::before{content:"+";font-family:var(--body);font-size:1rem;line-height:1;letter-spacing:0}
+.hl[open] .pm::before{content:"−"}
+.hl[open] summary{border-bottom-color:transparent}
+.hl .hh{justify-content:flex-end!important;padding-top:4px}
+.nx.live{background:color-mix(in srgb,var(--c) 10%,var(--surface))}
+.nx .lv{color:var(--c);display:flex;align-items:center;gap:6px;text-transform:uppercase;letter-spacing:.06em;font-size:.9rem}
+.nx .lv i{width:8px;height:8px;border-radius:50%;background:var(--c);animation:blink 1.2s ease-in-out infinite}
+@keyframes blink{50%{opacity:.25}}
+@media (prefers-reduced-motion:reduce){.nx .lv i{animation:none}}
+.golive{font-family:var(--display);font-weight:700;font-size:.8rem;letter-spacing:.06em;text-transform:uppercase;color:var(--bg);background:var(--c);padding:4px 10px;border-radius:999px;text-decoration:none;white-space:nowrap}
+.golive:focus-visible{outline:2px solid var(--fg);outline-offset:2px}
+.cty{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:10px;font-size:.85rem;color:var(--muted)}
+.cty select{font:500 .9rem var(--body);color:var(--fg);background:var(--surface);border:1.5px solid var(--line);border-radius:8px;padding:5px 8px;max-width:100%}
+.cty select:focus-visible{outline:2px solid var(--como);outline-offset:2px}
+#tzlbl{font-size:.78rem}
+.nx.live .m{white-space:normal}
+.nx.live .m b,.nx .ltv{display:block}
+.nx .ltv{font-weight:600;font-size:.8rem;color:var(--fg);margin-top:2px}
+.abr{flex-basis:100%;margin-top:4px}
+.abr summary{list-style:none;cursor:pointer;display:inline-flex;align-items:center;gap:6px;font-size:.8rem;color:var(--fg);font-weight:500}
+.abr summary::-webkit-details-marker{display:none}
+.abr summary:focus-visible{outline:2px solid var(--como);outline-offset:2px}
+.abr .pm{width:18px;height:18px;border-radius:50%;border:1.5px solid var(--line);display:grid;place-items:center}
+.abr .pm::before{content:"+";font-size:.85rem;line-height:1}
+.abr[open] .pm::before{content:"−"}
+.abr ul{list-style:none;margin:6px 0 0;padding:0;display:grid;gap:3px;font-size:.78rem}
+.abr li{display:grid;grid-template-columns:minmax(0,11em) 7.5em minmax(0,1fr);gap:8px;padding:3px 0;border-bottom:1px dashed var(--line)}
+.abr .ac{color:var(--fg);font-weight:500;min-width:0}
+.abr .at{font-variant-numeric:tabular-nums;color:var(--muted)}
+.abr .av{min-width:0;color:var(--fg)}
+.abr .av.nv{color:var(--muted);font-style:italic}
+@media (max-width:520px){.abr li{grid-template-columns:1fr auto}.abr .av{grid-column:1/-1}}
+header{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.rf{flex:none;display:inline-flex;align-items:center;gap:6px;font:700 .85rem var(--display);letter-spacing:.08em;text-transform:uppercase;color:var(--fg);background:var(--surface);border:1.5px solid var(--line);border-radius:999px;padding:7px 14px;cursor:pointer}
+.rf:focus-visible{outline:2px solid var(--como);outline-offset:2px}
+.rf svg{width:16px;height:16px}
+@media (max-width:520px){.rf{padding:0;width:40px;height:40px;justify-content:center}.rf span{display:none}.rf svg{width:20px;height:20px}}
+.rf.spin svg{animation:sp .8s linear infinite}@keyframes sp{to{transform:rotate(360deg)}}
+.home ol{margin:6px 0 4px;padding-left:20px;display:flex;flex-direction:column;gap:6px;font-size:.88rem}
+.home .hint{font-size:.8rem;color:var(--muted);margin:4px 0 8px}
+.empty{color:var(--muted);padding:20px 0}
+</style>
+
+<div class="wrap">
+  <section class="next" id="next" aria-label="Prossime partite"></section>
+
+  <header>
+    <div><h1>Milan · Cantù · Como</h1>
+    <p class="sub" id="upd">Ultimo controllo: 16/10/2026 alle 08:36</p></div>
+    <button class="rf" id="rf" type="button" aria-label="Aggiorna la pagina"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg><span>Aggiorna</span></button>
+  </header>
+
+  <details class="hl" id="hlbox"><summary><span>Ultime notizie</span><span class="pm" aria-hidden="true"></span></summary><div id="hl"></div></details>
+
+  <section class="stand" id="stand" aria-label="Classifica"></section>
+
+  <nav class="filters" aria-label="Vista">
+    <button id="v-next" data-v="next" aria-pressed="true">Prossime</button>
+    <button id="v-res" data-v="res" aria-pressed="false">Risultati</button>
+    <button id="v-news" data-v="news" aria-pressed="false">Notizie</button>
+  </nav>
+  <nav class="filters teams" aria-label="Filtra per squadra">
+    <button id="f-all" data-t="all" aria-pressed="true">Tutte</button>
+    <button id="f-milan" data-t="milan" aria-pressed="false"><span class="dot" style="background:var(--milan)"></span>Milan</button>
+    <button id="f-cantu" data-t="cantu" aria-pressed="false"><span class="dot" style="background:var(--cantu)"></span>Cantù</button>
+    <button id="f-como" data-t="como" aria-pressed="false"><span class="dot" style="background:var(--como)"></span>Como</button>
+  </nav>
+
+  <main id="list"></main>
+
+  <details class="hl home"><summary><span>Salvala nella Home dell'iPhone</span><span class="pm" aria-hidden="true"></span></summary>
+    <ol>
+      <li>Apri <b>biz4z.github.io/Partite</b> in <b>Safari</b>.</li>
+      <li>Tocca il tasto <b>Condividi</b> (il quadrato con la freccia verso l'alto).</li>
+      <li>Scorri e scegli <b>Aggiungi alla schermata Home</b>, poi <b>Aggiungi</b>.</li>
+    </ol>
+    <p class="hint">Su Android: menu ⋮ di Chrome → <b>Aggiungi a schermata Home</b>. Dall'icona la pagina si apre a schermo intero: usa il tasto <b>↻ Aggiorna</b> accanto al titolo per ricaricarla.</p>
+  </details>
+
+  <section class="notes">
+    <div><b>Serie A calcio:</b> DAZN trasmette tutte le partite; quelle segnate anche "Sky / NOW" sono in co-esclusiva.</div>
+    <div><b>Europa League (Milan):</b> Sky Sport e NOW.</div>
+    <div><b>Champions League (Como):</b> Sky Sport e NOW; la miglior gara del mercoledì può andare su Prime Video. Verifica il canale nella settimana della partita.</div>
+    <div><b>Basket LBA (Cantù):</b> tutte le partite in streaming su LBA TV (abbonamento). Sky Sport Basket / NOW ne sceglie due a giornata. Orari e giorno esatto (sab/dom/lun) escono di settimana in settimana: la data indicata è quella del turno. Cantù gioca in casa al PalaDesio fino a marzo 2027.</div>
+    <div><b>Fuori dall'Italia:</b> tocca "+ Dove vederla all'estero" sotto ogni partita per canali e orari locali. Compaiono solo i paesi in cui il canale è confermato da una fonte affidabile. Basket: all'estero le partite di Cantù si seguono con un abbonamento LBA TV fatto in Italia (ufficialmente valido nell'Unione Europea).</div>
+    <div><b>Coppa Italia calcio:</b> in chiaro su Mediaset. Ai quarti (3–10 febbraio 2027) la vincente di Milan–Monza incontra la vincente di Como–Cremonese.</div>
+    <div><b>Coppa Italia basket:</b> Cantù va alle Final Eight di febbraio solo se è tra le prime 8 alla fine del girone d'andata (10 gennaio).</div>
+  </section>
+</div>
+
+<script>
+const T={como:"var(--como)",milan:"var(--milan)",cantu:"var(--cantu)"};
+const M=[
+ ["2026-12-02","como","Como – Cremonese","Coppa Italia · ottavi","21:00","Mediaset (in chiaro)"],
+ ["2027-01-13","milan","Milan – Monza","Coppa Italia · ottavi","21:00","Mediaset (in chiaro)"],
+ ["2026-08-22","como","Udinese – Como","Serie A calcio · 1ª giornata","18:30","DAZN · Sky / NOW","1-1"],
+ ["2026-08-23","milan","Torino – Milan","Serie A calcio · 1ª giornata","20:45","DAZN · Sky / NOW","1-2"],
+ ["2026-08-28","milan","Milan – Venezia","Serie A calcio · 2ª giornata","20:45","DAZN","2-0"],
+ ["2026-08-30","como","Napoli – Como","Serie A calcio · 2ª giornata","18:30","DAZN","1-2"],
+ ["2026-09-04","como","Genoa – Como","Serie A calcio · 3ª giornata","20:45","DAZN","1-4"],
+ ["2026-09-06","milan","Juventus – Milan","Serie A calcio · 3ª giornata","20:45","DAZN","1-1"],
+ ["2026-09-10","como","Como – RB Lipsia","UEFA Champions League · fase campionato 1ª giornata","21:00","Sky / NOW","4-1"],
+ ["2026-09-12","milan","Lazio – Milan","Serie A calcio · 4ª giornata","18:00","DAZN","2-2"],
+ ["2026-09-14","como","Como – Parma","Serie A calcio · 4ª giornata","18:30","DAZN","2-1"],
+ ["2026-09-16","milan","Milan – Benfica","UEFA Europa League · fase campionato 1ª giornata","21:00","Sky / NOW","0-2"],
+ ["2026-09-20","como","Frosinone – Como","Serie A calcio · 5ª giornata","15:00","DAZN","2-0"],
+ ["2026-09-20","milan","Milan – Lecce","Serie A calcio · 5ª giornata","20:45","DAZN","3-0"],
+ ["2026-09-26","cantu","Venezia – Cantù","Serie A basket (LBA) · 1ª giornata","20:00","LBA TV","85-73"],
+ ["2026-10-05","cantu","Cantù – Udine","Serie A basket (LBA) · 2ª giornata","20:00","LBA TV","84-85 dts"],
+ ["2026-10-11","como","Como – Roma","Serie A calcio · 6ª giornata","12:30","DAZN","0-0"],
+ ["2026-10-11","milan","Sassuolo – Milan","Serie A calcio · 6ª giornata","18:00","DAZN · Sky / NOW","1-1"],
+ ["2026-10-11","cantu","Cantù – Napoli","Serie A basket (LBA) · 3ª giornata","17:30","LBA TV","80-99"],
+ ["2026-10-14","como","Feyenoord – Como","UEFA Champions League · fase campionato 2ª giornata","18:45","Sky / NOW","3-2"],
+ ["2026-10-15","milan","Salisburgo – Milan","UEFA Europa League · fase campionato 2ª giornata","18:45","Sky / NOW","0-4"],
+ ["2026-10-22","milan","Bournemouth – Milan","UEFA Europa League · fase campionato 3ª giornata","21:00","Sky / NOW"],
+ ["2026-11-05","milan","Milan – Ferencváros","UEFA Europa League · fase campionato 4ª giornata","18:45","Sky / NOW"],
+ ["2026-11-26","milan","Olympiacos – Milan","UEFA Europa League · fase campionato 5ª giornata","18:45","Sky / NOW"],
+ ["2026-12-10","milan","Milan – Sunderland","UEFA Europa League · fase campionato 6ª giornata","21:00","Sky / NOW"],
+ ["2027-01-21","milan","Levski Sofia – Milan","UEFA Europa League · fase campionato 7ª giornata","21:00","Sky / NOW"],
+ ["2027-01-28","milan","Milan – Ararat-Armenia","UEFA Europa League · fase campionato 8ª giornata","21:00","Sky / NOW"],
+ ["2026-10-18","como","Fiorentina – Como","Serie A calcio · 7ª giornata","15:00","DAZN"],
+ ["2026-10-18","milan","Milan – Atalanta","Serie A calcio · 7ª giornata","18:00","DAZN · Sky / NOW"],
+ ["2026-10-18","cantu","Trieste – Cantù","Serie A basket (LBA) · 4ª giornata","18:00","LBA TV"],
+ ["2026-10-21","como","Como – Manchester United","UEFA Champions League · fase campionato 3ª giornata","18:45","Sky / NOW"],
+ ["2026-10-24","como","Como – Sassuolo","Serie A calcio · 8ª giornata","15:00","DAZN"],
+ ["2026-10-25","milan","Udinese – Milan","Serie A calcio · 8ª giornata","20:45","DAZN"],
+ ["2026-10-25","cantu","Reggio Emilia – Cantù","Serie A basket (LBA) · 5ª giornata","18:30","LBA TV"],
+ ["2026-10-27","como","Torino – Como","Serie A calcio · 9ª giornata","20:45","DAZN · Sky / NOW"],
+ ["2026-10-28","milan","Milan – Bologna","Serie A calcio · 9ª giornata","18:30","DAZN"],
+ ["2026-10-31","milan","Milan – Inter","Serie A calcio · 10ª giornata","20:45","DAZN · Sky / NOW"],
+ ["2026-11-01","como","Como – Venezia","Serie A calcio · 10ª giornata","12:30","DAZN"],
+ ["2026-11-02","cantu","Cantù – Olimpia Milano","Serie A basket (LBA) · 6ª giornata","20:30","LBA TV"],
+ ["2026-11-04","como","Lens – Como","UEFA Champions League · fase campionato 4ª giornata","21:00","Sky / NOW"],
+ ["2026-11-08","como","Inter – Como","Serie A calcio · 11ª giornata","18:00","DAZN · Sky / NOW"],
+ ["2026-11-08","milan","Genoa – Milan","Serie A calcio · 11ª giornata","15:00","DAZN"],
+ ["2026-11-08","cantu","Maxima Roma – Cantù","Serie A basket (LBA) · 7ª giornata","16:00","LBA TV"],
+ ["2026-11-15","cantu","Cantù – Tortona","Serie A basket (LBA) · 8ª giornata","17:30","LBA TV"],
+ ["2026-11-21","como","Como – Cagliari","Serie A calcio · 12ª giornata","15:00","DAZN"],
+ ["2026-11-22","milan","Milan – Frosinone","Serie A calcio · 12ª giornata","18:00","DAZN · Sky / NOW"],
+ ["2026-11-22","cantu","Scafati – Cantù","Serie A basket (LBA) · 9ª giornata","17:30","LBA TV"],
+ ["2026-11-24","como","Como – AEK Atene","UEFA Champions League · fase campionato 5ª giornata","21:00","Sky / NOW"],
+ ["2026-11-29","como","Como – Juventus","Serie A calcio · 13ª giornata","20:45","DAZN"],
+ ["2026-11-30","milan","Cagliari – Milan","Serie A calcio · 13ª giornata","20:45","DAZN"],
+ ["2026-12-05","como","Monza – Como","Serie A calcio · 14ª giornata","15:00","DAZN"],
+ ["2026-12-06","milan","Milan – Parma","Serie A calcio · 14ª giornata","20:45","DAZN"],
+ ["2026-12-06","cantu","Cantù – Varese (derby)","Serie A basket (LBA) · 10ª giornata","16:00","LBA TV"],
+ ["2026-12-09","como","Betis – Como","UEFA Champions League · fase campionato 6ª giornata","18:45","Sky / NOW"],
+ ["2026-12-12","como","Como – Bologna","Serie A calcio · 15ª giornata","20:45","DAZN · Sky / NOW"],
+ ["2026-12-13","milan","Napoli – Milan","Serie A calcio · 15ª giornata","20:45","DAZN"],
+ ["2026-12-13","cantu","Verona – Cantù","Serie A basket (LBA) · 11ª giornata","","LBA TV"],
+ ["2026-12-19","milan","Milan – Como","Serie A calcio · 16ª giornata","18:00","DAZN"],
+ ["2026-12-20","cantu","Cantù – Trento","Serie A basket (LBA) · 12ª giornata","","LBA TV"],
+ ["2026-12-27","cantu","BC Roma – Cantù","Serie A basket (LBA) · 13ª giornata","","LBA TV"],
+ ["2027-01-02","milan","Monza – Milan","Serie A calcio · 17ª giornata","20:45","DAZN · Sky / NOW"],
+ ["2027-01-03","como","Como – Lecce","Serie A calcio · 17ª giornata","15:00","DAZN"],
+ ["2027-01-03","cantu","Cantù – Treviso","Serie A basket (LBA) · 14ª giornata","","LBA TV"],
+ ["2027-01-05","milan","Milan – Fiorentina","Serie A calcio · 18ª giornata","20:45","DAZN · Sky / NOW"],
+ ["2027-01-06","como","Atalanta – Como","Serie A calcio · 18ª giornata","18:00","DAZN"],
+ ["2027-01-09","milan","Roma – Milan","Serie A calcio · 19ª giornata","18:00","DAZN"],
+ ["2027-01-10","como","Como – Lazio","Serie A calcio · 19ª giornata","12:30","DAZN"],
+ ["2027-01-10","cantu","Virtus Bologna – Cantù","Serie A basket (LBA) · 15ª giornata","","LBA TV"],
+ ["2027-01-17","cantu","Cantù – Trieste","Serie A basket (LBA) · 16ª giornata","","LBA TV"],
+ ["2027-01-20","como","Como – PSG","UEFA Champions League · fase campionato 7ª giornata","21:00","Sky / NOW"],
+ ["2027-01-24","cantu","Udine – Cantù","Serie A basket (LBA) · 17ª giornata","","LBA TV"],
+ ["2027-01-27","como","Barcellona – Como","UEFA Champions League · fase campionato 8ª giornata","21:00","Sky / NOW"],
+ ["2027-01-31","cantu","Cantù – Verona","Serie A basket (LBA) · 18ª giornata","","LBA TV"],
+ ["2027-02-07","cantu","Varese – Cantù (derby)","Serie A basket (LBA) · 19ª giornata","","LBA TV"],
+ ["2027-02-14","cantu","Cantù – BC Roma","Serie A basket (LBA) · 20ª giornata","","LBA TV"],
+ ["2027-02-27","como","Como – Milan","Serie A calcio · 26ª giornata","","DAZN"],
+ ["2027-02-27","milan","Como – Milan","Serie A calcio · 26ª giornata","","DAZN"],
+ ["2027-03-07","cantu","Cantù – Maxima Roma","Serie A basket (LBA) · 21ª giornata","","LBA TV"],
+ ["2027-03-14","cantu","Treviso – Cantù","Serie A basket (LBA) · 22ª giornata","","LBA TV"],
+ ["2027-03-21","cantu","Cantù – Scafati","Serie A basket (LBA) · 23ª giornata","","LBA TV"],
+ ["2027-03-27","cantu","Trento – Cantù","Serie A basket (LBA) · 24ª giornata","","LBA TV"],
+ ["2027-04-04","cantu","Cantù – Reggio Emilia","Serie A basket (LBA) · 25ª giornata","","LBA TV"],
+ ["2027-04-11","cantu","Tortona – Cantù","Serie A basket (LBA) · 26ª giornata","","LBA TV"],
+ ["2027-04-18","cantu","Cantù – Virtus Bologna","Serie A basket (LBA) · 27ª giornata","","LBA TV"],
+ ["2027-04-25","cantu","Olimpia Milano – Cantù","Serie A basket (LBA) · 28ª giornata","","LBA TV"],
+ ["2027-05-02","cantu","Cantù – Venezia","Serie A basket (LBA) · 29ª giornata","","LBA TV"],
+ ["2027-05-09","cantu","Napoli – Cantù","Serie A basket (LBA) · 30ª giornata","","LBA TV"]
+];
+/* classifiche: aggiornate ogni giorno */
+const S={
+ milan:{camp:"Serie A calcio",pos:5,pts:12,g:6,up:{n:"Cagliari",pos:4,pts:13},dn:{n:"Juventus",pos:6,pts:11},
+  eu:{camp:"Europa League",pos:10,pts:3,g:2,up:{n:"Besiktas",pos:9,pts:3},dn:{n:"Ferencváros",pos:11,pts:3}}},
+ cantu:{camp:"Serie A basket (LBA)",pos:15,pts:0,g:3,up:{n:"Trieste",pos:14,pts:0},dn:{n:"Scafati",pos:16,pts:0}},
+ como:{camp:"Serie A calcio",pos:7,pts:11,g:6,up:{n:"Juventus",pos:6,pts:11},dn:{n:"Napoli",pos:8,pts:10},
+  eu:{camp:"Champions League",pos:12,pts:3,g:2,up:{n:"Shakhtar",pos:11,pts:4},dn:{n:"Manchester United",pos:13,pts:3}}}
+};
+/* ultime notizie dai siti ufficiali: aggiornate ogni giorno */
+const NEWS={
+ milan:[
+  {d:"2026-10-15",t:"Poker rossonero a Salisburgo: 4-0",u:"https://www.acmilan.com/it/news/articoli/europa-league/2026-10-15/poker-rossonero-a-salisburgo-4-0"},
+  {d:"2026-10-15",t:"Salisburgo-Milan: match preview",u:"https://www.acmilan.com/it/news/articoli/europa-league/2026-10-15/salisburgo-milan-match-preview"},
+  {d:"2026-10-14",t:"Comunicato ufficiale: Strahinja Pavlović",u:"https://www.acmilan.com/it/news/articoli/media/2026-10-14/comunicato-ufficiale-strahinja-pavlovic"}],
+ cantu:[
+  {d:"2026-10-15",t:"Infortunio per Simone Ventura",u:"https://pallacanestrocantu.com/infortunio-per-simone-ventura/"},
+  {d:"2026-10-13",t:"Olisevicius è biancoblù",u:"https://pallacanestrocantu.com/olisevicius-e-biancoblu/"},
+  {d:"2026-10-13",t:"La trasferta di Trieste",u:"https://pallacanestrocantu.com/la-trasferta-di-trieste/"}],
+ como:[
+  {d:"2026-10-14",t:"Feyenoord-Como 1907 3-2: la cronaca della partita",u:"https://comofootball.com/feyenoord-v-como-1907-3-2-ucl-match-report/"},
+  {d:"",t:"Verso Feyenoord-Como 1907: la presentazione",u:"https://comofootball.com/match-preview-feyenoord-v-como-1907/"},
+  {d:"2026-10-11",t:"Como 1907-Roma 0-0: la cronaca della partita",u:"https://comofootball.com/como-1907-roma-0-0-match-report-serie-a/"}]
+};
+const AB={milan:"ACM",cantu:"CTU",como:"CO"};
+const SITE={milan:"acmilan.com",cantu:"pallacanestrocantu.com",como:"comofootball.com"};
+/* paesi: fuso orario e canali TV esteri per competizione (stagione 2026/27) */
+const CT={
+ IT:{n:"Italia",tz:"Europe/Rome"},UK:{n:"Regno Unito",tz:"Europe/London"},IE:{n:"Irlanda",tz:"Europe/Dublin"},
+ US:{n:"Stati Uniti (ora di New York)",tz:"America/New_York"},CA:{n:"Canada (ora di Toronto)",tz:"America/Toronto"},
+ AU:{n:"Australia (ora di Sydney)",tz:"Australia/Sydney"},ES:{n:"Spagna",tz:"Europe/Madrid"},DE:{n:"Germania",tz:"Europe/Berlin"},
+ FR:{n:"Francia",tz:"Europe/Paris"},CH:{n:"Svizzera",tz:"Europe/Zurich"},NL:{n:"Paesi Bassi",tz:"Europe/Amsterdam"},
+ PT:{n:"Portogallo",tz:"Europe/Lisbon"},AT:{n:"Austria",tz:"Europe/Vienna"},BR:{n:"Brasile (ora di San Paolo)",tz:"America/Sao_Paulo"},
+ AR:{n:"Argentina e Sud America",tz:"America/Argentina/Buenos_Aires"},MX:{n:"Messico",tz:"America/Mexico_City"},
+ JP:{n:"Giappone",tz:"Asia/Tokyo"},IN:{n:"India",tz:"Asia/Kolkata"},AE:{n:"Medio Oriente e Nord Africa (ora di Dubai)",tz:"Asia/Dubai"},
+ NG:{n:"Africa subsahariana (ora di Lagos)",tz:"Africa/Lagos"}
+};
+const TVX={
+ sa:{UK:"DAZN · BBC iPlayer (1 gratis a giornata)",IE:"DAZN",US:"Paramount+ · CBS Sports Golazo (alcune gratis)",CA:"Fubo",AU:"beIN Sports",
+  ES:"DAZN",DE:"DAZN",FR:"DAZN",AR:"ESPN · Disney+",BR:"ESPN · Disney+",JP:"DAZN · ABEMA (1 gratis a giornata)",NG:"SportyTV (1 gratis a settimana)"},
+ ucl:{UK:"TNT Sports / HBO Max · Prime Video",IE:"RTÉ · Virgin Media (in chiaro)",US:"Paramount+ · CBS",CA:"DAZN",AU:"Stan Sport",
+  ES:"Movistar Plus+",DE:"DAZN · Prime Video · ZDF",FR:"Canal+ · M6",CH:"Blue Sport · SRG SSR",NL:"Ziggo Sport",PT:"DAZN · Sport TV",
+  AT:"Sky Sport · Canal+",BR:"TNT Sports · SBT",AR:"ESPN",MX:"Fox · TNT Sports",JP:"WOWOW",IN:"Sony Sports",AE:"beIN Sports",NG:"SuperSport · Canal+ Afrique"},
+ uel:{UK:"TNT Sports / HBO Max",US:"Paramount+ · CBS Sports Golazo (alcune gratis)",CA:"DAZN",AU:"Stan Sport",ES:"Movistar Plus+",
+  DE:"RTL · Sky",FR:"Canal+",CH:"Blue · SRG SSR",NL:"Ziggo Sport",PT:"Sport TV · DAZN",AT:"Canal+ · Sky · ServusTV",BR:"CazéTV (gratis)",
+  AR:"ESPN",MX:"Claro · ESPN",JP:"WOWOW",IN:"Sony Sports",AE:"beIN Sports",NG:"SuperSport"},
+ lba:{IE:"LBA TV (con abbonamento italiano)",ES:"LBA TV (con abbonamento italiano)",DE:"LBA TV (con abbonamento italiano)",FR:"LBA TV (con abbonamento italiano)",NL:"LBA TV (con abbonamento italiano)",PT:"LBA TV (con abbonamento italiano)",AT:"LBA TV (con abbonamento italiano)"}, ci:{}
+};
+const NOTV={sa:"emittente da verificare",ucl:"emittente da verificare",uel:"emittente da verificare",lba:"LBA TV (con abbonamento italiano)",ci:"emittente estera da verificare"};
+function compKey(m){const c=m[3];return /basket/i.test(c)?"lba":/Champions/i.test(c)?"ucl":/Europa League/i.test(c)?"uel":/Coppa Italia/i.test(c)?"ci":"sa";}
+let CTRY="IT";
+function tvFor(m){if(CTRY==="IT")return m[5];const k=compKey(m);return TVX[k][CTRY]||NOTV[k];}
+function loc(x){
+  const m=x.m;
+  if(!m[4]||CTRY==="IT"){const d=new Date(m[0]+"T12:00:00");return {y:d.getFullYear(),mo:d.getMonth(),d:d.getDate(),wd:d.getDay(),hm:m[4]||"",iso:m[0]};}
+  const p=Object.fromEntries(new Intl.DateTimeFormat("en-US",{timeZone:CT[CTRY].tz,hourCycle:"h23",year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit"}).formatToParts(new Date(x.ts)).map(q=>[q.type,q.value]));
+  const d=new Date(`${p.year}-${p.month}-${p.day}T12:00:00`);
+  return {y:+p.year,mo:+p.month-1,d:+p.day,wd:d.getDay(),hm:`${p.hour}:${p.minute}`,iso:`${p.year}-${p.month}-${p.day}`};
+}
+function todayIn(){return new Intl.DateTimeFormat("en-CA",{timeZone:CT[CTRY].tz}).format(new Date());}
+const MESI=["Gennaio","Febbraio","Marzo","Aprile","Maggio","Giugno","Luglio","Agosto","Settembre","Ottobre","Novembre","Dicembre"];
+const GG=["Dom","Lun","Mar","Mer","Gio","Ven","Sab"];
+const esc=s=>s.replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
+const ORD={milan:0,cantu:1,como:2};
+const N={milan:"Milan",cantu:"Cantù",como:"Como"};
+const MS=["gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic"];
+/* istante (ms) di un'ora locale di Roma, qualunque sia il fuso di chi guarda */
+function romeOffset(ts){
+  try{const p=Object.fromEntries(new Intl.DateTimeFormat("en-US",{timeZone:"Europe/Rome",hourCycle:"h23",year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit",second:"2-digit"}).formatToParts(new Date(ts)).map(x=>[x.type,x.value]));
+    return Date.UTC(+p.year,+p.month-1,+p.day,+p.hour,+p.minute,+p.second)-ts;}catch(e){return 7200000}
+}
+function romeTs(date,time){
+  const [y,mo,d]=date.split("-").map(Number);const [h,mi]=(time||"23:59").split(":").map(Number);
+  const guess=Date.UTC(y,mo-1,d,h,mi);return guess-romeOffset(guess);
+}
+function todayRome(){const p=new Intl.DateTimeFormat("en-CA",{timeZone:"Europe/Rome"}).format(new Date());return p;}
+function sideOf(m,t){const [h,a]=m[2].split(" – ");return h.includes(N[t])?0:a.includes(N[t])?1:-1;}
+function esito(m,t){
+  if(!m[6])return "";const sc=m[6].match(/(\d+)-(\d+)/);if(!sc)return "";
+  const side=sideOf(m,t);if(side<0)return "";
+  const a=+sc[1],b=+sc[2];const mine=side?b:a,their=side?a:b;
+  return mine>their?"V":mine<their?"P":"N";
+}
+function grouped(){
+  const map=new Map();
+  M.forEach(m=>{const k=m[0]+"|"+m[2];
+    if(map.has(k)){map.get(k).teams.push(m[1]);return;}
+    map.set(k,{m,teams:[m[1]],ts:romeTs(m[0],m[4])});});
+  return [...map.values()];
+}
+function upcoming(){const now=Date.now();return grouped().filter(x=>x.ts>now).sort((a,b)=>a.ts-b.ts||ORD[a.teams[0]]-ORD[b.teams[0]]);}
+function played(){const now=Date.now();return grouped().filter(x=>x.ts<=now).sort((a,b)=>b.ts-a.ts||ORD[a.teams[0]]-ORD[b.teams[0]]);}
+function liveDur(m){return (/basket/i.test(m[3])?120:(/ottavi|quarti|semifinal|finale|spareggi|Final Eight/i.test(m[3])?160:125))*60000;}
+function liveNow(){const now=Date.now();return grouped().filter(x=>x.m[4]&&x.ts<=now&&now<x.ts+liveDur(x.m)).sort((a,b)=>a.ts-b.ts);}
+function liveUrl(m){return "https://www.google.com/search?q="+encodeURIComponent(m[2].replace(" – "," ")+" live");}
+function hmIn(ts,tz){return new Intl.DateTimeFormat("it-IT",{timeZone:tz,hour:"2-digit",minute:"2-digit",weekday:"short",day:"numeric"}).format(new Date(ts));}
+function abroad(x){
+  const m=x.m,k=compKey(m);
+  if(k==="lba")return `<details class="abr"><summary><span class="pm" aria-hidden="true"></span>Dove vederla all'estero</summary><ul><li><span class="ac">Tutti i paesi</span><span class="at"></span><span class="av">LBA TV (con abbonamento italiano)</span></li></ul></details>`;
+  const rows=Object.entries(CT).filter(([c])=>c!=="IT"&&TVX[k][c]).map(([c,v])=>{
+    const tv=TVX[k][c];const t=m[4]?hmIn(x.ts,v.tz):"";
+    return `<li><span class="ac">${esc(v.n)}</span><span class="at">${t}</span><span class="av${TVX[k][c]?"":" nv"}">${esc(tv)}</span></li>`;}).join("");
+  if(!rows)return "";
+  return `<details class="abr"><summary><span class="pm" aria-hidden="true"></span>Dove vederla all'estero</summary><ul>${rows}</ul></details>`;
+}
+function render(f){
+  const list=document.getElementById("list");
+  if(view==="news"){
+    const teams=f==="all"?["milan","cantu","como"]:[f];
+    list.innerHTML='<div class="news">'+teams.map(t=>{const items=NEWS[t]||[];
+      return `<section class="ng" style="--c:${T[t]}"><h2>${N[t]}<span>${SITE[t]}</span></h2>${items.length?items.map(n=>{
+        const dd=n.d?(()=>{const [y,m,d]=n.d.split("-");return `${+d}/${+m}`})():"";
+        return `<a class="ni" href="${esc(n.u)}" target="_blank" rel="noopener"><span class="nd">${dd}</span><span class="nt">${esc(n.t)}</span></a>`}).join(""):'<p class="empty">Nessuna notizia recente.</p>'}</section>`;}).join("")+'</div>';
+    return;
+  }
+  const isRes=view==="res";
+  const rows=(isRes?played():upcoming()).filter(x=>f==="all"||x.teams.includes(f));
+  if(!rows.length){list.innerHTML=`<p class="empty">${isRes?"Nessun risultato.":"Nessuna partita in programma."}</p>`;return;}
+  let html="",cur="";
+  rows.forEach((x)=>{const {m,teams}=x;const L=loc(x);
+    const key=L.y+"-"+L.mo;
+    if(key!==cur){if(cur)html+="</section>";cur=key;html+=`<section class="month"><h2>${MESI[L.mo]} ${L.y}</h2>`;}
+    const t=f!=="all"?f:teams[0];const c=T[t];
+    let meta;
+    if(isRes){
+      const e=esito(m,t);
+      meta=`<span class="comp">${esc(m[3])}</span>${m[6]?`<span class="score">${esc(m[6])}</span>`:'<span class="time">risultato in arrivo</span>'}${e?`<span class="res ${e}" title="${{V:"Vittoria",N:"Pareggio",P:"Sconfitta"}[e]} ${N[t]}">${e}</span>`:""}`;
+    }else{
+      meta=`<span class="comp">${esc(m[3])}</span>
+      <span class="time">${L.hm||"orario da definire"}</span>
+      <span class="tv">${esc(tvFor(m))}</span>${abroad(x)}`;
+    }
+    html+=`<div class="row"><div class="date"><div class="d">${L.d}</div><div class="w">${GG[L.wd]}</div></div>
+      <div class="info" style="--c:${c}"><div class="match">${esc(m[2])}</div>
+      <div class="meta">${meta}</div></div></div>`;
+  });
+  list.innerHTML=html+"</section>";
+}
+function shortTv(tv){return tv.replace("DAZN · Sky / NOW","DAZN · Sky").replace("Sky / NOW","Sky");}
+function renderNext(){
+  const today=todayIn();
+  const up=upcoming();const need=new Set(up.flatMap(x=>x.teams));const pick=[];const seen=new Set();
+  for(const x of up){if([...need].every(t=>seen.has(t)))break;pick.push(x);x.teams.forEach(t=>seen.add(t));}
+  const live=liveNow().map(({m,teams})=>`<div class="nx live" style="--c:${T[teams[0]]}"><span class="bdg" aria-hidden="true">${AB[teams[0]]}</span><span class="w lv"><i aria-hidden="true"></i>In corso</span>
+      <span class="m">${esc(m[2])}<small class="ltv">In TV: ${esc(tvFor(m))}</small></span><a class="golive" href="${liveUrl(m)}" target="_blank" rel="noopener">Segui live</a></div>`).join("");
+  document.getElementById("next").innerHTML=live+pick.map((x)=>{const {m,teams}=x;const L=loc(x);
+    const isT=L.iso===today;
+    const day=isT?"Oggi":`${GG[L.wd]} ${L.d}`;
+    return `<div class="nx" style="--c:${T[teams[0]]}" title="${esc(m[3])} · ${esc(tvFor(m))}"><span class="bdg" aria-hidden="true">${AB[teams[0]]}</span><span class="w${isT?" today":""}">${day}${L.hm?` · ${L.hm}`:""}</span>
+      <span class="m">${esc(m[2])}</span><span class="x">${esc(shortTv(tvFor(m)))}</span></div>`;
+  }).join("");
+}
+function renderHl(){
+  const rows=["milan","cantu","como"].map(t=>{const n=(NEWS[t]||[])[0];return n?`<a class="hi" style="--c:${T[t]}" href="${esc(n.u)}" target="_blank" rel="noopener"><b><span class="bdg" aria-hidden="true">${AB[t]}</span></b><span>${esc(n.t)}</span></a>`:"";}).join("");
+  document.getElementById("hl").innerHTML=rows?`${rows}<div class="hh"><button type="button" id="more-news">Tutte le notizie</button></div>`:"";
+  document.getElementById("hlbox").hidden=!rows;
+  const mb=document.getElementById("more-news");
+  if(mb)mb.addEventListener("click",()=>{const b=document.getElementById("v-news");if(b){b.click();b.scrollIntoView({behavior:"smooth",block:"start"});}});
+}
+function last3(t){
+  const L=played().filter(x=>x.teams.includes(t)&&x.m[6]).slice(0,3).reverse();
+  return L.map(({m})=>{const e=esito(m,t);return e?`<span class="fq ${e}" title="${esc(m[2])} ${esc(m[6])} · ${esc(m[3])}">${e}</span>`:"";}).join("");
+}
+function euBox(e,diff){
+  const up=e.up?`▲ ${esc(e.up.n)} ${e.up.pos}° · ${diff(e.pts,e.up.pts)}`:"in testa";
+  const dn=e.dn?`▼ ${esc(e.dn.n)} ${e.dn.pos}° · ${diff(e.pts,e.dn.pts)}`:"ultimo posto";
+  return `<span class="eu"><span class="eh">${esc(e.camp)} · ${e.g} giornate</span><span class="ep">${e.pos}°<small>${e.pts} pt</small></span><span class="g">${up}<br>${dn}</span></span>`;
+}
+function renderStand(){
+  const diff=(a,b)=>{const x=a-b;return x>0?`+${x}`:x<0?`${x}`:"0";};
+  document.getElementById("stand").innerHTML=["milan","cantu","como"].map(t=>{const x=S[t];if(!x)return"";
+    const up=x.up?`▲ ${esc(x.up.n)} ${x.up.pos}° · ${diff(x.pts,x.up.pts)} pt`:"in testa";
+    const dn=x.dn?`▼ ${esc(x.dn.n)} ${x.dn.pos}° · ${diff(x.pts,x.dn.pts)} pt`:"ultimo posto";
+    return `<div class="st" style="--c:${T[t]}"><span class="t"><span class="bdg" aria-hidden="true">${AB[t]}</span> ${N[t]}</span><span class="p">${x.pos}°<small>${x.pts} pt</small></span>
+      <span class="g">${up}<br>${dn}</span><span class="frm" aria-label="Ultime 3 partite">${last3(t)}</span><span class="l">${esc(x.camp)} · ${x.g} giornate</span>${x.eu?euBox(x.eu,diff):""}</div>`;}).join("");
+}
+let current="all",view="next";
+function refresh(){renderNext();renderStand();render(current);}
+document.querySelectorAll(".teams button").forEach(b=>b.addEventListener("click",()=>{
+  document.querySelectorAll(".teams button").forEach(x=>x.setAttribute("aria-pressed",x===b));
+  current=b.dataset.t;render(current);try{localStorage.setItem("f",current)}catch(e){}
+}));
+document.querySelectorAll("[data-v]").forEach(b=>b.addEventListener("click",()=>{
+  document.querySelectorAll("[data-v]").forEach(x=>x.setAttribute("aria-pressed",x===b));
+  view=b.dataset.v;render(current);
+}));
+try{current=localStorage.getItem("f")||"all"}catch(e){}
+if(!N[current])current="all";
+document.querySelectorAll(".teams button").forEach(x=>x.setAttribute("aria-pressed",x.dataset.t===current));
+renderStand();renderHl();refresh();
+setInterval(refresh,60000);
+document.addEventListener("visibilitychange",()=>{if(!document.hidden)refresh()});
+</script>
+<script>
+document.getElementById("rf").addEventListener("click",function(){this.classList.add("spin");try{window.top.location.reload()}catch(e){location.reload()}});
+</script>
+</body>
+</html>
