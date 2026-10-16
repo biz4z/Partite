@@ -1,9 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /api/
-Disallow: /*/api/
-Disallow: /admin
-Disallow: /admin/
-
-Host: https://www.acmilan.com
-Sitemap: https://www.acmilan.com/sitemap.xml

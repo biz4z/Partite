@@ -1,7 +1,0 @@
-0 ERR HTTP Error 404: Not Found https://www.legabasket.it/api/v1/championships?items=1000&cs_id=1&page=1
-1 200 484121 text/html; charset=utf-8 https://www.acmilan.com/it/news/articoli/europa-league/2026-10-15/poker-rossonero-a-salisburgo-4-0
-2 200 1431017 application/xml https://www.comofootball.com/sitemap.xml
-3 200 3040844 text/html;charset=utf-8 https://www.comofootball.com/ultime-notizie/
-4 200 4691756 application/xml https://www.acmilan.com/sitemap.xml
-5 200 647 text/plain; charset=utf-8 https://www.comofootball.com/robots.txt
-6 200 168 text/plain; charset=utf-8 https://www.acmilan.com/robots.txt

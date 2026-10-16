@@ -10,6 +10,7 @@ import json
 import re
 import sys
 import urllib.request
+import extra
 from zoneinfo import ZoneInfo
 
 ROME = ZoneInfo("Europe/Rome")
@@ -228,6 +229,23 @@ def ics(M, res):
     return "\r\n".join(out) + "\r\n"
 
 
+def apply_cantu(M, cantu):
+    """Date, orari e risultati ufficiali di Cantù applicati alle righe M (per il calendario .ics)."""
+    for r in M:
+        if r[1] != "cantu":
+            continue
+        g = extra.match_cantu_row(r, cantu.get("games", []))
+        if not g:
+            continue
+        r[0] = g["date"]
+        if g["time"]:
+            r[4] = g["time"]
+        if g["score"] and not (len(r) > 6 and r[6]):
+            while len(r) < 7:
+                r.append("")
+            r[6] = g["score"]
+
+
 def main():
     html = open("index.html", encoding="utf-8").read()
     M = load_M(html)
@@ -237,18 +255,37 @@ def main():
         old = {}
     offline = "--offline" in sys.argv
     res = old.get("results", {}) if offline else results(M, old.get("results", {}))
-    # tieni solo i risultati non ancora presenti nella pagina
     inM = {f"{r[0]}|{r[1]}" for r in M if len(r) > 6 and r[6]}
     res = {k: v for k, v in res.items() if k not in inM}
     sta = old.get("standings", {}) if offline else standings(old.get("standings", {}))
-    data = {"results": res, "standings": sta}
-    if data != {k: old.get(k) for k in ("results", "standings")}:
+    cantu = old.get("cantu", {})
+    news = dict(old.get("news", {}))
+    if not offline:
+        try:
+            cantu = extra.cantu()
+            if cantu.get("standing"):
+                sta["cantu"] = cantu["standing"]
+            log("cantu", len(cantu["games"]), "partite", cantu.get("standing"))
+        except Exception as e:
+            log("ERR cantu", e)
+        for k, fn in (("milan", extra.news_milan), ("cantu", extra.news_cantu), ("como", extra.news_como)):
+            try:
+                n = fn()
+                if n:
+                    news[k] = n
+                log("notizie", k, len(n))
+            except Exception as e:
+                log("ERR notizie", k, e)
+    data = {"results": res, "standings": sta, "cantu": cantu, "news": news}
+    keys = ("results", "standings", "cantu", "news")
+    if data != {k: old.get(k) for k in keys}:
         data["updated"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
-        data["log"] = LOG[-30:]
+        data["log"] = LOG[-40:]
     else:
         data["updated"] = old.get("updated")
         data["log"] = old.get("log", [])
     json.dump(data, open("data.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    apply_cantu(M, cantu)
     open("partite.ics", "w", encoding="utf-8", newline="").write(ics(M, res))
 
 

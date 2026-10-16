@@ -27,14 +27,46 @@
       ["pos", "pts", "g", "up", "dn"].forEach(k => { dst[k] = src[k]; });
       ch = true;
     };
-    put(S.milan, st.milan); put(S.como, st.como);
+    put(S.milan, st.milan); put(S.como, st.como); put(S.cantu, st.cantu);
+    /* Cantù: date, orari e risultati ufficiali dal sito del club */
+    const G = (d.cantu && d.cantu.games) || [];
+    M.forEach(r => {
+      if (r[1] !== "cantu") return;
+      const [h, a] = r[2].split(" – ").map(x => x.replace(/\s*\(.*?\)/, "").trim());
+      const g = G.find(x => x.home === h && x.away === a);
+      if (!g) return;
+      if (g.date !== r[0]) { r[0] = g.date; ch = true; }
+      if (g.time && g.time !== r[4]) { r[4] = g.time; ch = true; }
+      if (g.score && !r[6]) { r[6] = g.score; ch = true; }
+    });
+    /* notizie ufficiali */
+    const N = d.news || {};
+    ["milan", "cantu", "como"].forEach(k => {
+      if (N[k] && N[k].length && JSON.stringify(N[k]) !== JSON.stringify(NEWS[k])) { NEWS[k] = N[k]; ch = true; }
+    });
     if (S.milan) put(S.milan.eu, st.milan_eu);
     if (S.como) put(S.como.eu, st.como_eu);
     return ch;
   }
   function loadData() {
     return fetch("data.json?t=" + Date.now(), { cache: "no-store" }).then(r => r.ok ? r.json() : null)
-      .then(d => { if (d && applyData(d)) refresh(); }).catch(() => {});
+      .then(d => { if (!d) return; if (applyData(d)) { renderHl(); refresh(); } showUpd(d.updated); }).catch(() => {});
+  }
+
+  /* "Ultimo controllo": mostra l'aggiornamento automatico più recente */
+  function showUpd(iso) {
+    const el = document.getElementById("upd");
+    if (!el || !iso) return;
+    const m = el.textContent.match(/(\d\d)\/(\d\d)\/(\d{4}) alle (\d\d):(\d\d)/);
+    const t = new Date(iso);
+    if (isNaN(t)) return;
+    if (m) {
+      const cur = romeTs(`${m[3]}-${m[2]}-${m[1]}`, `${m[4]}:${m[5]}`);
+      if (t.getTime() <= cur) return;
+    }
+    const f = new Intl.DateTimeFormat("it-IT", { timeZone: "Europe/Rome", day: "2-digit", month: "2-digit", year: "numeric", hour: "2-digit", minute: "2-digit" }).formatToParts(t);
+    const p = k => f.find(x => x.type === k).value;
+    el.textContent = `Ultimo aggiornamento: ${p("day")}/${p("month")}/${p("year")} alle ${p("hour")}:${p("minute")}`;
   }
 
   /* ---------- punteggio live ---------- */
