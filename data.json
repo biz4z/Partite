@@ -916,8 +916,40 @@
   "como": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
   "cantu": "https://r2.thesportsdb.com/images/media/team/badge/vy599w1784567424.png/small"
  },
- "odds": {},
- "updated": "2026-10-16T16:42:56+00:00",
+ "odds": {
+  "_debug_2026-10-22": {
+   "err": "TypeError float() argument must be a string or a real number, not 'NoneType'",
+   "keys": [],
+   "ml": "null",
+   "home": "null"
+  },
+  "2026-10-18|Fiorentina – Como": {
+   "1": 29,
+   "X": 26,
+   "2": 45
+  },
+  "2026-10-18|Milan – Atalanta": {
+   "1": 52,
+   "X": 25,
+   "2": 23
+  },
+  "2026-10-21|Como – Manchester United": {
+   "1": 41,
+   "X": 25,
+   "2": 34
+  },
+  "2026-10-24|Como – Sassuolo": {
+   "1": 64,
+   "X": 21,
+   "2": 15
+  },
+  "2026-10-25|Udinese – Milan": {
+   "1": 23,
+   "X": 26,
+   "2": 51
+  }
+ },
+ "updated": "2026-10-16T16:46:31+00:00",
  "log": [
   "classifica milan 5 12",
   "classifica como 7 11",
@@ -933,6 +965,6 @@
   "calendario milan 32 partite future",
   "calendario como 32 partite future",
   "loghi ['cantu', 'como', 'milan']",
-  "quote 0"
+  "quote 6"
  ]
 }
