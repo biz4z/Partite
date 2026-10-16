@@ -364,6 +364,20 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
     const _rn2 = renderNext; renderNext = function () { _rn2(); tick(); };
   })();
 
+  /* ---------- versione nuova? ricarica subito, senza aspettare la cache ---------- */
+  (function autoUpdate() {
+    const me = [...document.scripts].find(x => /live\.js\?v=/.test(x.src));
+    const cur = me ? (me.src.match(/v=(\d+)/) || [])[1] : null;
+    if (!cur) return;
+    const check = () => fetch("version.json?t=" + Date.now(), { cache: "no-store" }).then(r => r.ok ? r.json() : null).then(v => {
+      if (!v || !v.v || String(v.v) === cur) return;
+      let n = 0; try { n = +sessionStorage.getItem("mcc-upd-" + v.v) || 0; sessionStorage.setItem("mcc-upd-" + v.v, n + 1); } catch (e) {}
+      if (n < 2) location.replace(location.pathname + "?v=" + v.v + location.hash);
+    }).catch(() => {});
+    check();
+    document.addEventListener("visibilitychange", () => { if (!document.hidden) check(); });
+  })();
+
   /* ---------- avvio ---------- */
   loadData().then(pollLive);
   setInterval(pollLive, 30000);
