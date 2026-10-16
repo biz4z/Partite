@@ -166,18 +166,36 @@
       h.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); tog(); } });
     });
   };
-  /* "Ultime notizie" in alto: dopo le ufficiali, gli articoli più recenti della stampa */
-  const _hl = renderHl;
+  /* Notizie: una sola sezione sopra il calendario, ufficiali + stampa in ordine cronologico */
+  let NEWS_OPEN = false;
   renderHl = function () {
-    _hl();
-    const box = document.getElementById("hl");
-    const all = ["milan", "cantu", "como"].flatMap(t => (PRESS[t] || []).slice(0, 4).map(n => ({ ...n, t0: t })))
-      .sort((a, b) => (b.d + b.h).localeCompare(a.d + a.h)).slice(0, 4);
-    if (!box || !all.length) return;
-    document.getElementById("hlbox").hidden = false;
-    const more = box.querySelector(".hh");
-    const html = `<div class="hps">Dalla stampa</div>` + all.map(n => `<a class="hi" style="--c:${T[n.t0]}" href="${esc(n.u)}" target="_blank" rel="noopener"><b><span class="bdg" aria-hidden="true">${AB[n.t0]}</span></b><span>${esc(n.t)}<small class="src">${esc(n.s || "")}</small></span></a>`).join("");
-    more ? more.insertAdjacentHTML("beforebegin", html) : box.insertAdjacentHTML("beforeend", html);
+    const hb = document.getElementById("hlbox"); if (hb) hb.style.display = "none";
+    const vb = document.getElementById("v-news"); if (vb) vb.style.display = "none";
+    let sec = document.getElementById("allnews");
+    if (!sec) {
+      sec = document.createElement("section");
+      sec.id = "allnews"; sec.className = "an";
+      const nav = document.querySelector("nav.filters");
+      nav.parentNode.insertBefore(sec, nav);
+    }
+    const all = [];
+    ["milan", "cantu", "como"].forEach(t => {
+      (NEWS[t] || []).forEach(n => all.push({ ...n, t0: t, s: "Sito ufficiale " + N[t], off: 1, k: (n.d || "0000") + " 12:00" }));
+      (PRESS[t] || []).forEach(n => all.push({ ...n, t0: t, k: n.d + " " + (n.h || "00:00") }));
+    });
+    all.sort((x, y) => y.k.localeCompare(x.k));
+    if (!all.length) { sec.hidden = true; return; }
+    sec.hidden = false;
+    const item = n => {
+      const [y, m, d] = (n.d || "").split("-");
+      const when = n.d ? `${+d}/${+m}${n.h ? " · " + n.h : ""}` : "";
+      return `<a class="ai" style="--c:${T[n.t0]}" href="${esc(n.u)}" target="_blank" rel="noopener"><span class="bdg" aria-hidden="true">${AB[n.t0]}</span><span class="at"><span class="tt">${esc(n.t)}</span><small>${n.off ? "<b>Ufficiale</b> · " : ""}${esc(n.off ? N[n.t0] : (n.s || ""))}${when ? " · " + when : ""}</small></span></a>`;
+    };
+    const shown = NEWS_OPEN ? all : all.slice(0, 3);
+    sec.innerHTML = `<h2>Notizie</h2>${shown.map(item).join("")}` +
+      (all.length > 3 ? `<button type="button" class="anb">${NEWS_OPEN ? "Mostra meno" : "Mostra tutte (" + all.length + ")"}</button>` : "");
+    const btn = sec.querySelector(".anb");
+    if (btn) btn.addEventListener("click", () => { NEWS_OPEN = !NEWS_OPEN; renderHl(); if (!NEWS_OPEN) sec.scrollIntoView({ block: "start" }); });
   };
   const _rn = renderNext;
   renderNext = function () { _rn(); decorate(); };
@@ -185,6 +203,16 @@
   /* ---------- calendario iPhone ---------- */
   const css = document.createElement("style");
   css.textContent = `.nx .lv{font-variant-numeric:tabular-nums}.nx .lv .lclk{font-family:var(--body);font-weight:600;font-size:.72rem;letter-spacing:0;text-transform:none;color:var(--muted);margin-left:2px}
+.an{display:flex;flex-direction:column}
+.an h2{font-family:var(--display);font-weight:600;font-size:.85rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 4px;padding-bottom:6px;border-bottom:1px solid var(--line)}
+.ai{display:grid;grid-template-columns:auto minmax(0,1fr);gap:10px;align-items:center;padding:8px 0 8px 10px;border-bottom:1px solid var(--line);border-left:3px solid var(--c);color:var(--fg);text-decoration:none}
+.ai .tt{font-size:.9rem;font-weight:500;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.ai small{display:block;font-size:.74rem;color:var(--muted);margin-top:2px}
+.ai small b{color:var(--c);font-weight:600}
+.ai:hover .tt,.ai:focus-visible .tt{text-decoration:underline}
+.ai:focus-visible{outline:2px solid var(--c);outline-offset:2px}
+.anb{all:unset;cursor:pointer;align-self:center;margin-top:10px;font:700 .8rem var(--display);letter-spacing:.08em;text-transform:uppercase;color:var(--fg);border:1.5px solid var(--line);border-radius:999px;padding:7px 16px}
+.anb:focus-visible{outline:2px solid var(--como);outline-offset:2px}
 .hl .hps{font-family:var(--display);font-weight:600;font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:10px 0 2px}
 .hi .src{display:block;font-size:.72rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .ng .ph{font-family:var(--display);font-weight:600;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:14px 0 2px}
@@ -221,6 +249,8 @@
       `<a class="calpill" href="https://calendar.google.com/calendar/render?cid=${encodeURIComponent("webcal://" + ics)}" target="_blank" rel="noopener">${ico}Android</a>`;
     upd.after(row);
   }
+
+  renderHl();
 
   /* ---------- avvio ---------- */
   loadData().then(pollLive);
