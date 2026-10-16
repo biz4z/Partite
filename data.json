@@ -467,7 +467,393 @@
    }
   ]
  },
- "updated": "2026-10-16T12:54:56+00:00",
+ "fixtures": [
+  {
+   "date": "2026-10-18",
+   "team": "milan",
+   "match": "Milan – Atalanta",
+   "time": "18:00"
+  },
+  {
+   "date": "2026-10-25",
+   "team": "milan",
+   "match": "Udinese – Milan",
+   "time": "20:45"
+  },
+  {
+   "date": "2026-10-28",
+   "team": "milan",
+   "match": "Milan – Bologna",
+   "time": "18:30"
+  },
+  {
+   "date": "2026-10-31",
+   "team": "milan",
+   "match": "Milan – Inter",
+   "time": "20:45"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "milan",
+   "match": "Genoa – Milan",
+   "time": "15:00"
+  },
+  {
+   "date": "2026-11-22",
+   "team": "milan",
+   "match": "Milan – Frosinone",
+   "time": "18:00"
+  },
+  {
+   "date": "2026-11-30",
+   "team": "milan",
+   "match": "Cagliari – Milan",
+   "time": "20:45"
+  },
+  {
+   "date": "2026-12-06",
+   "team": "milan",
+   "match": "Milan – Parma",
+   "time": "20:45"
+  },
+  {
+   "date": "2026-12-13",
+   "team": "milan",
+   "match": "Napoli – Milan",
+   "time": "20:45"
+  },
+  {
+   "date": "2026-12-19",
+   "team": "milan",
+   "match": "Milan – Como",
+   "time": "18:00"
+  },
+  {
+   "date": "2027-01-02",
+   "team": "milan",
+   "match": "Monza – Milan",
+   "time": "20:45"
+  },
+  {
+   "date": "2027-01-05",
+   "team": "milan",
+   "match": "Milan – Fiorentina",
+   "time": "20:45"
+  },
+  {
+   "date": "2027-01-09",
+   "team": "milan",
+   "match": "Roma – Milan",
+   "time": "18:00"
+  },
+  {
+   "date": "2027-01-17",
+   "team": "milan",
+   "match": "Milan – Torino",
+   "time": ""
+  },
+  {
+   "date": "2027-01-24",
+   "team": "milan",
+   "match": "Frosinone – Milan",
+   "time": ""
+  },
+  {
+   "date": "2027-01-31",
+   "team": "milan",
+   "match": "Milan – Juventus",
+   "time": ""
+  },
+  {
+   "date": "2027-02-07",
+   "team": "milan",
+   "match": "Bologna – Milan",
+   "time": ""
+  },
+  {
+   "date": "2027-02-14",
+   "team": "milan",
+   "match": "Inter – Milan",
+   "time": ""
+  },
+  {
+   "date": "2027-02-21",
+   "team": "milan",
+   "match": "Milan – Genoa",
+   "time": ""
+  },
+  {
+   "date": "2027-02-28",
+   "team": "milan",
+   "match": "Como – Milan",
+   "time": ""
+  },
+  {
+   "date": "2027-03-07",
+   "team": "milan",
+   "match": "Milan – Cagliari",
+   "time": ""
+  },
+  {
+   "date": "2027-03-14",
+   "team": "milan",
+   "match": "Milan – Sassuolo",
+   "time": ""
+  },
+  {
+   "date": "2027-03-21",
+   "team": "milan",
+   "match": "Atalanta – Milan",
+   "time": ""
+  },
+  {
+   "date": "2027-04-04",
+   "team": "milan",
+   "match": "Milan – Monza",
+   "time": ""
+  },
+  {
+   "date": "2027-04-11",
+   "team": "milan",
+   "match": "Fiorentina – Milan",
+   "time": ""
+  },
+  {
+   "date": "2027-04-18",
+   "team": "milan",
+   "match": "Milan – Napoli",
+   "time": ""
+  },
+  {
+   "date": "2027-04-25",
+   "team": "milan",
+   "match": "Lecce – Milan",
+   "time": ""
+  },
+  {
+   "date": "2027-05-02",
+   "team": "milan",
+   "match": "Milan – Lazio",
+   "time": ""
+  },
+  {
+   "date": "2027-05-09",
+   "team": "milan",
+   "match": "Parma – Milan",
+   "time": ""
+  },
+  {
+   "date": "2027-05-16",
+   "team": "milan",
+   "match": "Milan – Roma",
+   "time": ""
+  },
+  {
+   "date": "2027-05-23",
+   "team": "milan",
+   "match": "Venezia – Milan",
+   "time": ""
+  },
+  {
+   "date": "2027-05-30",
+   "team": "milan",
+   "match": "Milan – Udinese",
+   "time": ""
+  },
+  {
+   "date": "2026-10-18",
+   "team": "como",
+   "match": "Fiorentina – Como",
+   "time": "15:00"
+  },
+  {
+   "date": "2026-10-24",
+   "team": "como",
+   "match": "Como – Sassuolo",
+   "time": "15:00"
+  },
+  {
+   "date": "2026-10-27",
+   "team": "como",
+   "match": "Torino – Como",
+   "time": "20:45"
+  },
+  {
+   "date": "2026-11-01",
+   "team": "como",
+   "match": "Como – Venezia",
+   "time": "12:30"
+  },
+  {
+   "date": "2026-11-08",
+   "team": "como",
+   "match": "Inter – Como",
+   "time": "18:00"
+  },
+  {
+   "date": "2026-11-21",
+   "team": "como",
+   "match": "Como – Cagliari",
+   "time": "15:00"
+  },
+  {
+   "date": "2026-11-29",
+   "team": "como",
+   "match": "Como – Juventus",
+   "time": "20:45"
+  },
+  {
+   "date": "2026-12-05",
+   "team": "como",
+   "match": "Monza – Como",
+   "time": "15:00"
+  },
+  {
+   "date": "2026-12-12",
+   "team": "como",
+   "match": "Como – Bologna",
+   "time": "20:45"
+  },
+  {
+   "date": "2026-12-19",
+   "team": "como",
+   "match": "Milan – Como",
+   "time": "18:00"
+  },
+  {
+   "date": "2027-01-03",
+   "team": "como",
+   "match": "Como – Lecce",
+   "time": "15:00"
+  },
+  {
+   "date": "2027-01-06",
+   "team": "como",
+   "match": "Atalanta – Como",
+   "time": "18:00"
+  },
+  {
+   "date": "2027-01-10",
+   "team": "como",
+   "match": "Como – Lazio",
+   "time": "12:30"
+  },
+  {
+   "date": "2027-01-17",
+   "team": "como",
+   "match": "Cagliari – Como",
+   "time": ""
+  },
+  {
+   "date": "2027-01-24",
+   "team": "como",
+   "match": "Como – Napoli",
+   "time": ""
+  },
+  {
+   "date": "2027-01-31",
+   "team": "como",
+   "match": "Sassuolo – Como",
+   "time": ""
+  },
+  {
+   "date": "2027-02-07",
+   "team": "como",
+   "match": "Como – Monza",
+   "time": ""
+  },
+  {
+   "date": "2027-02-14",
+   "team": "como",
+   "match": "Bologna – Como",
+   "time": ""
+  },
+  {
+   "date": "2027-02-21",
+   "team": "como",
+   "match": "Como – Torino",
+   "time": ""
+  },
+  {
+   "date": "2027-02-28",
+   "team": "como",
+   "match": "Como – Milan",
+   "time": ""
+  },
+  {
+   "date": "2027-03-07",
+   "team": "como",
+   "match": "Lecce – Como",
+   "time": ""
+  },
+  {
+   "date": "2027-03-14",
+   "team": "como",
+   "match": "Como – Udinese",
+   "time": ""
+  },
+  {
+   "date": "2027-03-21",
+   "team": "como",
+   "match": "Juventus – Como",
+   "time": ""
+  },
+  {
+   "date": "2027-04-04",
+   "team": "como",
+   "match": "Como – Fiorentina",
+   "time": ""
+  },
+  {
+   "date": "2027-04-11",
+   "team": "como",
+   "match": "Parma – Como",
+   "time": ""
+  },
+  {
+   "date": "2027-04-18",
+   "team": "como",
+   "match": "Como – Frosinone",
+   "time": ""
+  },
+  {
+   "date": "2027-04-25",
+   "team": "como",
+   "match": "Lazio – Como",
+   "time": ""
+  },
+  {
+   "date": "2027-05-02",
+   "team": "como",
+   "match": "Como – Inter",
+   "time": ""
+  },
+  {
+   "date": "2027-05-09",
+   "team": "como",
+   "match": "Venezia – Como",
+   "time": ""
+  },
+  {
+   "date": "2027-05-16",
+   "team": "como",
+   "match": "Como – Atalanta",
+   "time": ""
+  },
+  {
+   "date": "2027-05-23",
+   "team": "como",
+   "match": "Roma – Como",
+   "time": ""
+  },
+  {
+   "date": "2027-05-30",
+   "team": "como",
+   "match": "Como – Genoa",
+   "time": ""
+  }
+ ],
+ "updated": "2026-10-16T12:55:46+00:00",
  "log": [
   "classifica milan 5 12",
   "classifica como 7 11",
@@ -479,6 +865,8 @@
   "notizie como 2",
   "stampa milan 5",
   "stampa cantu 5",
-  "stampa como 5"
+  "stampa como 5",
+  "calendario milan 32 partite future",
+  "calendario como 32 partite future"
  ]
 }

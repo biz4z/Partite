@@ -905,6 +905,26 @@ DESCRIPTION:Orario da definire\nSerie A basket (LBA) · 16ª giornata\nTV:
 LOCATION:LBA TV
 END:VEVENT
 BEGIN:VEVENT
+UID:73e73f8287af99ad@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:⚽ Milan – Torino
+DESCRIPTION:Orario da definire\nSerie A calcio · 20ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:9341e8a9a810ba45@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:⚽ Cagliari – Como
+DESCRIPTION:Orario da definire\nSerie A calcio · 20ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
 UID:690e6d732c055f67@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20270120T210000
@@ -943,6 +963,26 @@ SUMMARY:🏀 Udine – Cantù
 DESCRIPTION:Orario da definire\nSerie A basket (LBA) · 17ª giornata\nTV:
   LBA TV\nhttps://biz4z.github.io/Partite/
 LOCATION:LBA TV
+END:VEVENT
+BEGIN:VEVENT
+UID:669dbe008acc9b68@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:⚽ Frosinone – Milan
+DESCRIPTION:Orario da definire\nSerie A calcio · 21ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:9a7a4b225ea3292d@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:⚽ Como – Napoli
+DESCRIPTION:Orario da definire\nSerie A calcio · 21ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
 END:VEVENT
 BEGIN:VEVENT
 UID:8c3c9543fa5662d4@biz4z.github.io
@@ -985,6 +1025,26 @@ DESCRIPTION:Orario da definire\nSerie A basket (LBA) · 18ª giornata\nTV:
 LOCATION:LBA TV
 END:VEVENT
 BEGIN:VEVENT
+UID:e4a99264f3054c69@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:⚽ Milan – Juventus
+DESCRIPTION:Orario da definire\nSerie A calcio · 22ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:dcf240eaa615bd3f@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:⚽ Sassuolo – Como
+DESCRIPTION:Orario da definire\nSerie A calcio · 22ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
 UID:c8d4cdedfdb9370a@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20270207
@@ -995,6 +1055,26 @@ DESCRIPTION:Orario da definire\nSerie A basket (LBA) · 19ª giornata\nTV:
 LOCATION:LBA TV
 END:VEVENT
 BEGIN:VEVENT
+UID:7a1f56b7f44bfa68@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:⚽ Bologna – Milan
+DESCRIPTION:Orario da definire\nSerie A calcio · 23ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:e20e20970cde7173@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:⚽ Como – Monza
+DESCRIPTION:Orario da definire\nSerie A calcio · 23ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
 UID:2b547ab5c631c9ee@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20270214
@@ -1003,6 +1083,46 @@ SUMMARY:🏀 Cantù – BC Roma
 DESCRIPTION:Orario da definire\nSerie A basket (LBA) · 20ª giornata\nTV:
   LBA TV\nhttps://biz4z.github.io/Partite/
 LOCATION:LBA TV
+END:VEVENT
+BEGIN:VEVENT
+UID:6814c89e52939d75@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:⚽ Inter – Milan
+DESCRIPTION:Orario da definire\nSerie A calcio · 24ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:a2e8af6e3e8f927b@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:⚽ Bologna – Como
+DESCRIPTION:Orario da definire\nSerie A calcio · 24ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:f9df555a05b3a8ce@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:⚽ Milan – Genoa
+DESCRIPTION:Orario da definire\nSerie A calcio · 25ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:0a71a92e58adea89@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:⚽ Como – Torino
+DESCRIPTION:Orario da definire\nSerie A calcio · 25ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
 END:VEVENT
 BEGIN:VEVENT
 UID:4730941d6026f81a@biz4z.github.io
@@ -1025,6 +1145,26 @@ DESCRIPTION:Orario da definire\nSerie A basket (LBA) · 21ª giornata\nTV:
 LOCATION:LBA TV
 END:VEVENT
 BEGIN:VEVENT
+UID:c3f4229eac94531b@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:⚽ Milan – Cagliari
+DESCRIPTION:Orario da definire\nSerie A calcio · 27ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:aab6f8eae64898f1@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:⚽ Lecce – Como
+DESCRIPTION:Orario da definire\nSerie A calcio · 27ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
 UID:79fb0c9414c851b9@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20270314
@@ -1035,6 +1175,26 @@ DESCRIPTION:Orario da definire\nSerie A basket (LBA) · 22ª giornata\nTV:
 LOCATION:LBA TV
 END:VEVENT
 BEGIN:VEVENT
+UID:9c0e87a133fe1e42@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:⚽ Milan – Sassuolo
+DESCRIPTION:Orario da definire\nSerie A calcio · 28ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:9fc084c097fc7014@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:⚽ Como – Udinese
+DESCRIPTION:Orario da definire\nSerie A calcio · 28ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
 UID:e14e046ee90d9bc8@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20270321
@@ -1043,6 +1203,26 @@ SUMMARY:🏀 Cantù – Scafati
 DESCRIPTION:Orario da definire\nSerie A basket (LBA) · 23ª giornata\nTV:
   LBA TV\nhttps://biz4z.github.io/Partite/
 LOCATION:LBA TV
+END:VEVENT
+BEGIN:VEVENT
+UID:8effdd1ab5341d16@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:⚽ Atalanta – Milan
+DESCRIPTION:Orario da definire\nSerie A calcio · 29ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:738be544891b5481@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:⚽ Juventus – Como
+DESCRIPTION:Orario da definire\nSerie A calcio · 29ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
 END:VEVENT
 BEGIN:VEVENT
 UID:d5254c280a05f35d@biz4z.github.io
@@ -1065,6 +1245,26 @@ DESCRIPTION:Orario da definire\nSerie A basket (LBA) · 25ª giornata\nTV:
 LOCATION:LBA TV
 END:VEVENT
 BEGIN:VEVENT
+UID:65c2b8f8c716f7bc@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:⚽ Milan – Monza
+DESCRIPTION:Orario da definire\nSerie A calcio · 30ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:0f937b0394aaebdd@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:⚽ Como – Fiorentina
+DESCRIPTION:Orario da definire\nSerie A calcio · 30ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
 UID:e603d18952ce9505@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20270411
@@ -1073,6 +1273,26 @@ SUMMARY:🏀 Tortona – Cantù
 DESCRIPTION:Orario da definire\nSerie A basket (LBA) · 26ª giornata\nTV:
   LBA TV\nhttps://biz4z.github.io/Partite/
 LOCATION:LBA TV
+END:VEVENT
+BEGIN:VEVENT
+UID:c40d144a31c41b7d@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:⚽ Fiorentina – Milan
+DESCRIPTION:Orario da definire\nSerie A calcio · 31ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:875ea0138fabef3c@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:⚽ Parma – Como
+DESCRIPTION:Orario da definire\nSerie A calcio · 31ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
 END:VEVENT
 BEGIN:VEVENT
 UID:4a29ebde34b6ebfc@biz4z.github.io
@@ -1085,6 +1305,26 @@ DESCRIPTION:Orario da definire\nSerie A basket (LBA) · 27ª giornata\nTV:
 LOCATION:LBA TV
 END:VEVENT
 BEGIN:VEVENT
+UID:124f5d9d66aa7290@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:⚽ Milan – Napoli
+DESCRIPTION:Orario da definire\nSerie A calcio · 32ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:931a7c94a59b0205@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:⚽ Como – Frosinone
+DESCRIPTION:Orario da definire\nSerie A calcio · 32ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
 UID:ae3058093a07a962@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20270425
@@ -1093,6 +1333,26 @@ SUMMARY:🏀 Olimpia Milano – Cantù
 DESCRIPTION:Orario da definire\nSerie A basket (LBA) · 28ª giornata\nTV:
   LBA TV\nhttps://biz4z.github.io/Partite/
 LOCATION:LBA TV
+END:VEVENT
+BEGIN:VEVENT
+UID:76555051cf483558@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:⚽ Lecce – Milan
+DESCRIPTION:Orario da definire\nSerie A calcio · 33ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:d65b6619cfa02b22@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:⚽ Lazio – Como
+DESCRIPTION:Orario da definire\nSerie A calcio · 33ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
 END:VEVENT
 BEGIN:VEVENT
 UID:9effd7ceb0b0f7b0@biz4z.github.io
@@ -1105,6 +1365,26 @@ DESCRIPTION:Orario da definire\nSerie A basket (LBA) · 29ª giornata\nTV:
 LOCATION:LBA TV
 END:VEVENT
 BEGIN:VEVENT
+UID:996b61daf109700c@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:⚽ Milan – Lazio
+DESCRIPTION:Orario da definire\nSerie A calcio · 34ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb47776482f3f66@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:⚽ Como – Inter
+DESCRIPTION:Orario da definire\nSerie A calcio · 34ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
 UID:3a018e63c4e91d20@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20270509
@@ -1113,5 +1393,85 @@ SUMMARY:🏀 Napoli – Cantù
 DESCRIPTION:Orario da definire\nSerie A basket (LBA) · 30ª giornata\nTV:
   LBA TV\nhttps://biz4z.github.io/Partite/
 LOCATION:LBA TV
+END:VEVENT
+BEGIN:VEVENT
+UID:7d4b7d95b7e10db1@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:⚽ Parma – Milan
+DESCRIPTION:Orario da definire\nSerie A calcio · 35ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:1bb4f34f5a951211@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:⚽ Venezia – Como
+DESCRIPTION:Orario da definire\nSerie A calcio · 35ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:1fff2fd361a062f8@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:⚽ Milan – Roma
+DESCRIPTION:Orario da definire\nSerie A calcio · 36ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:8c8a695cd039f69d@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:⚽ Como – Atalanta
+DESCRIPTION:Orario da definire\nSerie A calcio · 36ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:900e266f5244369d@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:⚽ Venezia – Milan
+DESCRIPTION:Orario da definire\nSerie A calcio · 37ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:544f4b46e9f30dd7@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:⚽ Roma – Como
+DESCRIPTION:Orario da definire\nSerie A calcio · 37ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:1c594ac9d349179d@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:⚽ Milan – Udinese
+DESCRIPTION:Orario da definire\nSerie A calcio · 38ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
+END:VEVENT
+BEGIN:VEVENT
+UID:6e0124be241752f7@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:⚽ Como – Genoa
+DESCRIPTION:Orario da definire\nSerie A calcio · 38ª giornata\nTV: DAZN\
+ nhttps://biz4z.github.io/Partite/
+LOCATION:DAZN
 END:VEVENT
 END:VCALENDAR
