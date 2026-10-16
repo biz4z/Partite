@@ -143,6 +143,13 @@
       });
       return;
     }
+    /* stemma sotto giorno e data */
+    const xs = (view === "res" ? played() : upcoming()).filter(x => f === "all" || x.teams.includes(f));
+    document.querySelectorAll("#list .row .date").forEach((el, i) => {
+      const x = xs[i]; if (!x) return;
+      const t = f !== "all" ? f : x.teams[0];
+      el.insertAdjacentHTML("beforeend", `<span class="bdg rl" style="--c:${T[t]}" aria-hidden="true">${AB[t]}</span>`);
+    });
     document.querySelectorAll("#list .month").forEach((sec, i) => {
       if (i === 0) return;
       const h = sec.querySelector("h2");
@@ -182,6 +189,7 @@
 .hi .src{display:block;font-size:.72rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .ng .ph{font-family:var(--display);font-weight:600;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:14px 0 2px}
 .ni .src{display:block;font-size:.75rem;font-weight:400;color:var(--muted);margin-top:1px}
+.date .rl{margin:6px auto 0;width:24px;height:24px;font-size:.58rem}
 .bdg:has(img){background:transparent}
 .bdg img{width:100%;height:100%;object-fit:contain;display:block}
 .month h2.mt{cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:8px}
