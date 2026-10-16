@@ -226,6 +226,9 @@
 .date .rl{margin:6px auto 0;width:24px;height:24px;font-size:.58rem}
 .bdg:has(img){background:transparent}
 .bdg img{width:100%;height:100%;object-fit:contain;display:block}
+nav.teams{flex-wrap:nowrap;gap:6px}
+nav.teams button{flex:1 1 auto;justify-content:center;padding:6px 8px;gap:6px;font-size:.88rem;letter-spacing:.04em;min-width:0}
+nav.teams .dot{width:8px;height:8px}
 .month h2.mt{cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:8px}
 .month h2.mt:focus-visible{outline:2px solid var(--como);outline-offset:2px}
 .month .mc{display:inline-flex;align-items:center;gap:8px;font-family:var(--body);font-weight:500;font-size:.75rem;letter-spacing:0;text-transform:none}
