@@ -287,6 +287,14 @@ nav.teams .dot{width:8px;height:8px}
 .hero .callbl{color:rgba(255,255,255,.65)}
 .hstripe{position:absolute;left:0;right:0;bottom:0;height:5px;background:linear-gradient(90deg,#c4161c 0 33.3%,#e08a1e 0 66.6%,#1f6fb8 0)}
 .board:empty{display:none}
+/* tema giorno "Ghiaccio" (di sera resta il tema scuro) */
+@media (prefers-color-scheme: light){
+html:root{--bg:#e9eef6;--surface:#ffffff;--fg:#0b1a3a;--muted:#56657e;--line:#d5deeb;--chip:#eef2f8}
+html .st,html .next,html .month .row{box-shadow:0 1px 0 rgba(11,26,58,.04)}
+html .st{border-top:4px solid var(--c)}
+html .month h2,html .an h2{color:#0b1a3a;border-bottom:2px solid #e9b949}
+html nav.filters button[aria-pressed="true"]{background:#0b1a3a;color:#fff;border-color:#0b1a3a}
+html .hero{border-radius:0 0 26px 26px}}
 .odds{display:flex;align-items:center;background:#0b1a3a;color:#fff;border-radius:10px;overflow:hidden;font-size:.82rem}
 .odds .ol{flex:none;align-self:stretch;display:flex;align-items:center;padding:0 10px;background:#e9b949;color:#0b1a3a;font:700 .72rem var(--display);letter-spacing:.1em;text-transform:uppercase}
 .odds .ov{overflow:hidden;flex:1;mask-image:linear-gradient(90deg,transparent,#000 12px,#000 calc(100% - 12px),transparent)}
