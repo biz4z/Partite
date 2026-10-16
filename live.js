@@ -266,6 +266,7 @@ nav.teams .dot{width:8px;height:8px}
 .hero .callbl{color:rgba(255,255,255,.65)}
 .hstripe{position:absolute;left:0;right:0;bottom:0;height:5px;background:linear-gradient(90deg,#c4161c 0 33.3%,#e08a1e 0 66.6%,#1f6fb8 0)}
 .board:empty{display:none}
+html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
 /* Stile A: stadio di notte */
 .skin-a .hero{background:radial-gradient(120% 90% at 50% 0%,#24407a 0%,#0b1a3a 55%,#050c1c 100%);text-align:center}
 .skin-a .hero:before{content:"";position:absolute;inset:0;background:conic-gradient(from 200deg at 50% -10%,transparent 0 20deg,rgba(255,255,255,.10) 24deg,transparent 30deg 60deg,rgba(255,255,255,.08) 64deg,transparent 70deg);pointer-events:none}
