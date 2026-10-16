@@ -227,9 +227,13 @@ def news_como():
 
 
 # ---------------- stampa (Google News) ----------------
-PRESS_Q = {"milan": '("AC Milan" OR rossoneri OR "il Milan") -femminile -Inter',
+PRESS_Q = {"milan": '"Milan" calcio -femminile -"Milan Club"',
            "cantu": '"Cantù" basket OR "Pallacanestro Cantù" OR "Acqua S.Bernardo"',
-           "como": '"Como 1907" OR "Como calcio" OR "il Como" lariani'}
+           "como": '"Como" calcio OR "Como 1907"'}
+# il titolo deve parlare davvero della squadra (es. "rossoneri" vale anche per Fiorenzuola, Foggia, Lucchese…)
+PRESS_MUST = {"milan": re.compile(r"\bMilan\b(?!\s+(?:Club|Futuro|Women|femminile))"),
+              "cantu": re.compile(r"\bCant[ùu]\b|S\.\s?Bernardo", re.I),
+              "como": re.compile(r"\bComo\b")}
 PRESS_SKIP = re.compile(r"pronostic|quote\b|scommess|bonus|diretta streaming gratis|dove vedere .* gratis|"
                         r"femminil|women|primavera|under\s?1\d|oroscopo", re.I)
 
@@ -248,6 +252,8 @@ def press(team, n=8):
         link = H.unescape(re.search(r"<link>(.*?)</link>", it, re.S)[1]).strip()
         pub = parsedate_to_datetime(re.search(r"<pubDate>(.*?)</pubDate>", it)[1]).astimezone(ROME)
         key = re.sub(r"\W+", "", title.lower())[:60]
+        if not PRESS_MUST[team].search(title):
+            continue
         if key in seen or PRESS_SKIP.search(title) or re.search(r"pallacanestrocantu|acmilan|comofootball|^pallacanestro cant|^ac milan$|^como 1907$", src.lower() + " " + link, re.I):
             continue
         seen.add(key)
