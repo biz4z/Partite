@@ -40,6 +40,14 @@
       if (g.score && !r[6]) { r[6] = g.score; ch = true; }
     });
     /* notizie ufficiali */
+    /* partite di Serie A non ancora presenti nella pagina */
+    (d.fixtures || []).forEach(f => {
+      const t = Date.parse(f.date);
+      if (M.some(r => r[1] === f.team && Math.abs(Date.parse(r[0]) - t) <= 2 * 864e5)) return;
+      const n = M.filter(r => r[1] === f.team && /Serie A calcio/.test(r[3]) && r[0] < f.date).length + 1;
+      M.push([f.date, f.team, f.match, `Serie A calcio · ${n}ª giornata`, f.time, "DAZN"]);
+      ch = true;
+    });
     if (d.press && JSON.stringify(d.press) !== JSON.stringify(PRESS)) { PRESS = d.press; ch = true; }
     const N = d.news || {};
     ["milan", "cantu", "como"].forEach(k => {

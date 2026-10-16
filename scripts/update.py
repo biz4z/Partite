@@ -229,6 +229,45 @@ def ics(M, res):
     return "\r\n".join(out) + "\r\n"
 
 
+def fixtures():
+    """Calendario completo di Serie A di Milan e Como (date e orari ufficiali quando fissati)."""
+    rows = table("ita.1")
+    out = []
+    for key in ("milan", "como"):
+        tid = next((x["team"].get("id") for x in rows if is_team(x["team"], key)), None)
+        if not tid:
+            log("ERR id squadra", key)
+            continue
+        j = get(f"{BASE}/site/v2/sports/soccer/ita.1/teams/{tid}/schedule?fixture=true")
+        evs = sorted(j.get("events", []), key=lambda e: e["date"])
+        for e in evs:
+            c = e["competitions"][0]
+            h = next(x for x in c["competitors"] if x.get("homeAway") == "home")
+            a = next(x for x in c["competitors"] if x.get("homeAway") == "away")
+            when = dt.datetime.fromisoformat(e["date"].replace("Z", "+00:00")).astimezone(ROME)
+            tv = c.get("timeValid", e.get("timeValid", True))
+            out.append({"date": when.date().isoformat(), "team": key,
+                        "match": f"{nice(h['team']['displayName'])} – {nice(a['team']['displayName'])}",
+                        "time": when.strftime("%H:%M") if tv else ""})
+        log("calendario", key, len(evs), "partite future")
+    return out
+
+
+def merge_fixtures(M, fx):
+    """Aggiunge le partite di Serie A che mancano nella pagina (stessa squadra, nessuna partita entro 2 giorni)."""
+    added = []
+    for f in fx:
+        d = dt.date.fromisoformat(f["date"])
+        near = [r for r in M if r[1] == f["team"] and abs((dt.date.fromisoformat(r[0]) - d).days) <= 2]
+        if near:
+            continue
+        n = sum(1 for r in M if r[1] == f["team"] and "Serie A calcio" in r[3] and r[0] < f["date"]) + 1
+        row = [f["date"], f["team"], f["match"], f"Serie A calcio · {n}ª giornata", f["time"], "DAZN"]
+        M.append(row)
+        added.append(row)
+    return added
+
+
 def apply_cantu(M, cantu):
     """Date, orari e risultati ufficiali di Cantù applicati alle righe M (per il calendario .ics)."""
     for r in M:
@@ -286,8 +325,14 @@ def main():
                 log("stampa", k, len(x))
             except Exception as e:
                 log("ERR stampa", k, e)
-    data = {"results": res, "standings": sta, "cantu": cantu, "news": news, "press": pr}
-    keys = ("results", "standings", "cantu", "news", "press")
+    fx = old.get("fixtures", [])
+    if not offline:
+        try:
+            fx = fixtures() or fx
+        except Exception as e:
+            log("ERR calendario", e)
+    data = {"results": res, "standings": sta, "cantu": cantu, "news": news, "press": pr, "fixtures": fx}
+    keys = ("results", "standings", "cantu", "news", "press", "fixtures")
     if data != {k: old.get(k) for k in keys}:
         data["updated"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
         data["log"] = LOG[-40:]
@@ -296,6 +341,7 @@ def main():
         data["log"] = old.get("log", [])
     json.dump(data, open("data.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     apply_cantu(M, cantu)
+    merge_fixtures(M, fx)
     open("partite.ics", "w", encoding="utf-8", newline="").write(ics(M, res))
 
 
