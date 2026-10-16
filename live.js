@@ -119,6 +119,9 @@
 .cal ol{margin:6px 0 4px;padding-left:20px;display:flex;flex-direction:column;gap:6px;font-size:.88rem}
 .calbtn{display:flex;align-items:center;justify-content:center;gap:8px;margin:6px 0 8px;padding:11px 14px;border-radius:999px;background:var(--fg);color:var(--bg);font:700 .95rem var(--display);letter-spacing:.06em;text-transform:uppercase;text-decoration:none}
 .calbtn:focus-visible{outline:2px solid var(--como);outline-offset:2px}
+.calpill{display:inline-flex;align-items:center;gap:8px;margin-top:10px;padding:8px 14px;border-radius:999px;background:var(--fg);color:var(--bg);font:700 .85rem var(--display);letter-spacing:.08em;text-transform:uppercase;text-decoration:none}
+.calpill svg{width:16px;height:16px}
+.calpill:focus-visible{outline:2px solid var(--como);outline-offset:2px}
 .cal .hint{font-size:.8rem;color:var(--muted);margin:4px 0 8px}`;
   document.head.appendChild(css);
   const ics = location.host + location.pathname.replace(/[^/]*$/, "") + "partite.ics";
@@ -130,6 +133,14 @@
     <li>Le partite compaiono nell'app <b>Calendario</b> con canale TV e avviso 30 minuti prima.</li>
     <li>Orari, canali e risultati si aggiornano da soli.</li></ol>
     <p class="hint">Su Android o Google Calendar: aggiungi un calendario "da URL" con l'indirizzo <b>https://${esc(ics)}</b>.</p>`;
+  const upd = document.getElementById("upd");
+  if (upd) {
+    const pill = document.createElement("a");
+    pill.className = "calpill";
+    pill.href = "webcal://" + ics;
+    pill.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Aggiungi al calendario`;
+    upd.after(pill);
+  }
   const home = document.querySelector("details.home");
   if (home) home.after(box); else document.querySelector(".notes").before(box);
 

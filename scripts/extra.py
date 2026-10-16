@@ -173,7 +173,10 @@ def news_milan():
             continue
         if SKIP.search(title):
             continue
-        out.append({"d": d, "t": recase(title, a), "u": url})
+        t2 = recase(title, a)
+        t2 = re.sub(r":?\s*Match Preview", ": la presentazione", t2, flags=re.I)
+        t2 = re.sub(r":?\s*Match Report", ": la cronaca", t2, flags=re.I)
+        out.append({"d": d, "t": t2, "u": url})
         if len(out) == 3:
             break
     return out
