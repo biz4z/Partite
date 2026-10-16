@@ -153,8 +153,19 @@
       const t = f !== "all" ? f : x.teams[0];
       el.insertAdjacentHTML("beforeend", `<span class="bdg rl" style="--c:${T[t]}" aria-hidden="true">${AB[t]}</span>`);
     });
-    document.querySelectorAll("#list .month").forEach((sec, i) => {
-      if (i === 0) return;
+    const week = view === "next";
+    if (week) {
+      const lim = Date.now() + 7 * 864e5;
+      const rows = [...document.querySelectorAll("#list .row")].filter((el, i) => xs[i] && xs[i].ts <= lim);
+      const ws = document.createElement("section");
+      ws.className = "month wk";
+      ws.innerHTML = `<h2>Prossimi 7 giorni</h2>` + (rows.length ? "" : `<p class="empty">Nessuna partita nei prossimi 7 giorni.</p>`);
+      rows.forEach(el => ws.appendChild(el.cloneNode(true)));
+      const list = document.getElementById("list");
+      list.insertBefore(ws, list.firstChild);
+    }
+    document.querySelectorAll("#list .month:not(.wk)").forEach((sec, i) => {
+      if (i === 0 && !week) return;
       const h = sec.querySelector("h2");
       const key = view + "|" + h.textContent;
       const n = sec.querySelectorAll(".row").length;
@@ -287,6 +298,8 @@ nav.teams .dot{width:8px;height:8px}
 .hero .callbl{color:rgba(255,255,255,.65)}
 .hstripe{position:absolute;left:0;right:0;bottom:0;height:5px;background:linear-gradient(90deg,#c4161c 0 33.3%,#e08a1e 0 66.6%,#1f6fb8 0)}
 .board:empty{display:none}
+.notesbox .notes{margin-top:8px}
+.month.wk h2{color:var(--fg)}
 .coffee{display:flex;flex-direction:column;align-items:center;gap:8px;padding:20px 0 6px;text-align:center}
 .coffee h2{margin:0;font:700 1.2rem var(--display);letter-spacing:.06em;text-transform:uppercase;color:var(--fg)}
 .coffee .cs{margin:0 0 4px;font-size:.85rem;color:var(--muted);max-width:30em}
@@ -417,6 +430,17 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
     const _rn2 = renderNext; renderNext = function () { _rn2(); tick(); };
   })();
 
+  /* Note sulle emittenti: testo espandibile */
+  (function notesBox() {
+    const nt = document.querySelector("section.notes");
+    if (!nt || nt.closest("details")) return;
+    const d = document.createElement("details");
+    d.className = "hl notesbox";
+    d.innerHTML = `<summary><span>Note su emittenti e orari</span><span class="pm" aria-hidden="true"></span></summary>`;
+    nt.parentNode.insertBefore(d, nt);
+    d.appendChild(nt);
+  })();
+
   /* Offrimi un caffè (Revolut) in fondo alla pagina */
   (function coffee() {
     const wrap = document.querySelector(".wrap");
@@ -430,7 +454,8 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
     c.innerHTML = `<h2>Offrici una birra</h2><p class="cs">MCC Fans è gratis e senza pubblicità. Se ti è utile, il giro lo offri tu? 🍻</p>` +
       `<div class="cmenu"><div class="chd">★ Menu del chiosco ★</div>${T3.map(([i, n, e, u]) => `<a class="citem" href="${u.replace(/&/g, "&amp;")}"><span class="ci" aria-hidden="true">${i}</span><span class="cn">${n}</span><span class="cdots" aria-hidden="true"></span><span class="ce">${e} €</span><span class="cgo" aria-hidden="true">›</span></a>`).join("")}</div>` +
       `<small>Si apre Revolut con l'importo già impostato: basta confermare.</small>`;
-    wrap.appendChild(c);
+    const nt = document.querySelector("section.notes");
+    nt ? wrap.insertBefore(c, nt.closest("details") || nt) : wrap.appendChild(c);
   })();
 
   /* ---------- versione nuova? ricarica subito, senza aspettare la cache ---------- */
