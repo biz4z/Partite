@@ -1,0 +1,31 @@
+name: Risultati, classifiche e calendario
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  push:
+    paths: ["index.html", "scripts/update.py"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: aggiorna
+  cancel-in-progress: false
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 scripts/update.py
+      - name: Salva se cambiato
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json partite.ics
+          if git diff --cached --quiet; then echo "nessuna novità"; exit 0; fi
+          git commit -m "Aggiornamento automatico risultati e calendario"
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 5; done
+          exit 1

@@ -20,6 +20,6 @@ head = '''<!doctype html>
 <meta name="theme-color" content="#ffffff">
 '''
 i = s.find('<style>')
-out = head + s[:i] + '</head>\n<body>\n' + s[i:].rstrip() + '\n</body>\n</html>\n'
+out = head + s[:i] + '</head>\n<body>\n' + s[i:].rstrip() + '\n<script src="live.js"></script>\n</body>\n</html>\n'
 open("index.html", "w", encoding="utf-8").write(out)
 print("index.html aggiornato")
