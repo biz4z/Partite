@@ -227,7 +227,7 @@
 .bdg:has(img){background:transparent}
 .bdg img{width:100%;height:100%;object-fit:contain;display:block}
 .brand{display:flex;align-items:center;gap:12px}
-.brand .lg{width:66px;height:auto;flex:none;filter:drop-shadow(0 2px 3px rgba(0,0,0,.15))}
+.brand .lg{width:72px;height:72px;flex:none;border-radius:16px;box-shadow:0 2px 6px rgba(0,0,0,.18)}
 .brand h1{font-size:2.3rem}
 .brand .tag{margin:2px 0 0;font:600 .8rem var(--display);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
 nav.teams{flex-wrap:nowrap;gap:6px}
