@@ -278,13 +278,19 @@ def odds_all(M):
             mine = [x for x in c["competitors"] if is_team(x["team"], r[1])]
             if not mine:
                 continue
-            o = (c.get("odds") or [None])[0]
+            o = (c.get("odds") or [None])[0] or {}
+            def ml(side):
+                v = (o.get(side + "TeamOdds") or {}).get("moneyLine") if side != "draw" else (o.get("drawOdds") or {}).get("moneyLine")
+                if v in (None, ""):
+                    m = (o.get("moneyline") or {}).get(side) or {}
+                    v = (m.get("close") or {}).get("odds") or (m.get("open") or {}).get("odds")
+                return float(str(v).replace("+", "")) if v not in (None, "", "EVEN", "even") else (100.0 if v else None)
             try:
-                h, a, x = o["homeTeamOdds"]["moneyLine"], o["awayTeamOdds"]["moneyLine"], o["drawOdds"]["moneyLine"]
+                h, a, x = ml("home"), ml("away"), ml("draw")
                 ph, pd, pa = 1 / dec(h), 1 / dec(x), 1 / dec(a)
             except Exception as e:
-                log("quote non lette", r[2], type(e).__name__, e, sorted((o or {}).keys())[:12],
-                    json.dumps((o or {}).get("homeTeamOdds") or (o or {}).get("moneyline"))[:300])
+                out["_debug_" + r[0]] = {"err": f"{type(e).__name__} {e}", "keys": sorted(o.keys())[:15],
+                                         "ml": json.dumps(o.get("moneyline"))[:300], "home": json.dumps(o.get("homeTeamOdds"))[:300]}
                 break
             t = ph + pd + pa
             ph, pd, pa = ph / t, pd / t, pa / t
