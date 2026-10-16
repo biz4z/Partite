@@ -2,32 +2,32 @@
  "results": {},
  "standings": {
   "milan": {
-   "pos": 5,
+   "pos": 6,
    "pts": 12,
    "g": 6,
    "up": {
-    "n": "Cagliari",
-    "pos": 4,
+    "n": "Frosinone",
+    "pos": 5,
     "pts": 13
    },
    "dn": {
     "n": "Juventus",
-    "pos": 6,
+    "pos": 7,
     "pts": 11
    }
   },
   "como": {
-   "pos": 7,
+   "pos": 8,
    "pts": 11,
    "g": 6,
    "up": {
     "n": "Juventus",
-    "pos": 6,
+    "pos": 7,
     "pts": 11
    },
    "dn": {
     "n": "Napoli",
-    "pos": 8,
+    "pos": 9,
     "pts": 10
    }
   },
@@ -367,6 +367,13 @@
    },
    {
     "d": "2026-10-16",
+    "h": "19:09",
+    "t": "Ravezzani esalta Cisse e sul ruolo al Milan rivela: \"Giocatore determinante\"",
+    "s": "Tribuna.com",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOEtqTjI0a29mNkpKV25IdFpuYjQ5cU1Wa2pwTTk0bXl3Y0M1S3QxLVpCSVhmU0pJWE5obUx5bkVSTzVKSE5iX3NILVpVUWNnNW5nQjlmTmZDY0JkdWZxeTBnekIxSVZ4a0kxcTFBWDkzUXRCQ3otcW5BYkN4cjI5WWZjeUpWdTNCdldEaHdmcWJqRmlacTFMLWlWbFVZdFFTbjBFelpGMXBSU2s1cjNyVER1NNIBuAFBVV95cUxNaS1wdkZKZUhFNGp3V3pMYXRCOVlEdWd1ZnZGTDh4emRCTmtjSG5lTEVybGNmQjg4ZWlRUTZ4OUlOUDM5SW1rMEhuNDFIWVpDZjUzcDJNejlqNFVsYnFMa3hTYWQzQ0tUUTJua0RRWXNmeDg0YlBOVUE0UUs5SmYzbXQ1T0w4aUV4c1htYW1FSnFnWG4yUk9PVUVRYzBuR3dZYVZXb24tbEhNN1J3M08tR1daZlU2SWw1?oc=5"
+   },
+   {
+    "d": "2026-10-16",
     "h": "19:05",
     "t": "Nuova causa contro Milan e Inter su San Siro: chiesto l'annullamento della vendita",
     "s": "Calcio e Finanza",
@@ -399,13 +406,6 @@
     "t": "Si chiude la partnership Milan-Congo: salta anche il secondo accordo di sponsorizzazione per inadempimento",
     "s": "Calcio e Finanza",
     "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jOUZpeGhVWlFYQ0RIR3FhdkRzc1IwSExRMXBpZ2VWVDU4MUEyaTAzbzNCYVdZZFBpU1g5MFpiU1ZxMkV1bVpNRDFfM3dwc09tSnN1Z0hPWm5Hb0lIYkJPbDdBYWEzS1p5bEswaTFNRGNGb3U4dVN4TndYZjlGMXM?oc=5"
-   },
-   {
-    "d": "2026-10-16",
-    "h": "18:01",
-    "t": "I conti del bilancio 2026 del Milan tra fatturato, costi e debiti: tutte le cifre",
-    "s": "Calcio e Finanza",
-    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR3doMjlmdDE5RHpmUjdpZGg2bjE0UXJsaUtxaFQ4elV4R05nREFsZjlJdG1TdzVKWEV6M0tqOTZuVHR5a1FoaEtDb1N6Vm8xTktsSEpWN1JVQmVZa3VMamdaeDlBbWJWdVFJRFl3VUtKZ04xejItSDd3YVljZVA0dDBBam8zTmxNeWZoSVdlb3JmOUQ2aVhPTDM1SS1Edw?oc=5"
    }
   ],
   "cantu": [
@@ -943,10 +943,10 @@
    "2": 51
   }
  },
- "updated": "2026-10-16T20:19:17+00:00",
+ "updated": "2026-10-16T20:51:57+00:00",
  "log": [
-  "classifica milan 5 12",
-  "classifica como 7 11",
+  "classifica milan 6 12",
+  "classifica como 8 11",
   "classifica milan_eu 16 3",
   "classifica como_eu 12 3",
   "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 3, 'up': {'n': 'Trieste', 'pos': 14, 'pts': 0}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
