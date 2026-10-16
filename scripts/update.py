@@ -276,8 +276,18 @@ def main():
                 log("notizie", k, len(n))
             except Exception as e:
                 log("ERR notizie", k, e)
-    data = {"results": res, "standings": sta, "cantu": cantu, "news": news}
-    keys = ("results", "standings", "cantu", "news")
+    pr = dict(old.get("press", {}))
+    if not offline:
+        for k in ("milan", "cantu", "como"):
+            try:
+                x = extra.press(k)
+                if x:
+                    pr[k] = x
+                log("stampa", k, len(x))
+            except Exception as e:
+                log("ERR stampa", k, e)
+    data = {"results": res, "standings": sta, "cantu": cantu, "news": news, "press": pr}
+    keys = ("results", "standings", "cantu", "news", "press")
     if data != {k: old.get(k) for k in keys}:
         data["updated"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
         data["log"] = LOG[-40:]

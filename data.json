@@ -354,15 +354,7 @@
    }
   ]
  },
- "updated": "2026-10-16T12:46:59+00:00",
- "log": [
-  "classifica milan 5 12",
-  "classifica como 7 11",
-  "classifica milan_eu 16 3",
-  "classifica como_eu 12 3",
-  "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 3, 'up': {'n': 'Trieste', 'pos': 14, 'pts': 0}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
-  "notizie milan 3",
-  "notizie cantu 3",
-  "notizie como 2"
- ]
+ "press": {},
+ "updated": "2026-10-16T12:52:43+00:00",
+ "log": []
 }

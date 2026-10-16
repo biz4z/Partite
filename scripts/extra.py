@@ -224,3 +224,36 @@ def news_como():
         cand.append({"d": dates.get(path, ""), "t": title, "u": "https://comofootball.com" + path})
     cand.sort(key=lambda x: x["d"], reverse=True)
     return cand[:3]
+
+
+# ---------------- stampa (Google News) ----------------
+PRESS_Q = {"milan": '("AC Milan" OR rossoneri OR "il Milan") -femminile -Inter',
+           "cantu": '"Cantù" basket OR "Pallacanestro Cantù" OR "Acqua S.Bernardo"',
+           "como": '"Como 1907" OR "Como calcio" OR "il Como" lariani'}
+PRESS_SKIP = re.compile(r"pronostic|quote\b|scommess|bonus|diretta streaming gratis|dove vedere .* gratis|"
+                        r"femminil|women|primavera|under\s?1\d|oroscopo", re.I)
+
+
+def press(team, n=5):
+    import urllib.parse
+    q = urllib.parse.quote(PRESS_Q[team] + " when:3d")
+    t = fetch(f"https://news.google.com/rss/search?q={q}&hl=it&gl=IT&ceid=IT:it")
+    out, seen = [], set()
+    for it in re.findall(r"<item>(.*?)</item>", t, re.S):
+        title = H.unescape(re.search(r"<title>(.*?)</title>", it, re.S)[1]).strip()
+        src = re.search(r"<source[^>]*>(.*?)</source>", it, re.S)
+        src = H.unescape(src[1]).strip() if src else ""
+        if src and title.endswith(" - " + src):
+            title = title[: -len(src) - 3].strip()
+        link = H.unescape(re.search(r"<link>(.*?)</link>", it, re.S)[1]).strip()
+        pub = parsedate_to_datetime(re.search(r"<pubDate>(.*?)</pubDate>", it)[1]).astimezone(ROME)
+        key = re.sub(r"\W+", "", title.lower())[:60]
+        if key in seen or PRESS_SKIP.search(title) or re.search(r"pallacanestrocantu|acmilan|comofootball", link + src, re.I):
+            continue
+        seen.add(key)
+        out.append({"d": pub.date().isoformat(), "h": pub.strftime("%H:%M"), "t": title, "s": src, "u": link,
+                    "_ts": pub.timestamp()})
+    out.sort(key=lambda x: x["_ts"], reverse=True)
+    for x in out:
+        x.pop("_ts")
+    return out[:n]

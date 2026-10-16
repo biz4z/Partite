@@ -40,6 +40,7 @@
       if (g.score && !r[6]) { r[6] = g.score; ch = true; }
     });
     /* notizie ufficiali */
+    if (d.press && JSON.stringify(d.press) !== JSON.stringify(PRESS)) { PRESS = d.press; ch = true; }
     const N = d.news || {};
     ["milan", "cantu", "como"].forEach(k => {
       if (N[k] && N[k].length && JSON.stringify(N[k]) !== JSON.stringify(NEWS[k])) { NEWS[k] = N[k]; ch = true; }
@@ -112,10 +113,22 @@
   }
   /* mesi successivi al primo chiusi, apribili con un tocco (lo stato resta tra un aggiornamento e l'altro) */
   const OPEN = new Set();
+  let PRESS = {};
   const _render = render;
   render = function (f) {
     _render(f);
-    if (view === "news") return;
+    if (view === "news") {
+      document.querySelectorAll("#list .ng").forEach(sec => {
+        const t = ["milan", "cantu", "como"].find(k => sec.querySelector("h2").textContent.startsWith(N[k]));
+        const P = (t && PRESS[t]) || [];
+        if (!P.length) return;
+        sec.insertAdjacentHTML("beforeend", `<h3 class="ph">Dalla stampa</h3>` + P.map(n => {
+          const [y, m, d] = n.d.split("-");
+          return `<a class="ni" href="${esc(n.u)}" target="_blank" rel="noopener"><span class="nd">${+d}/${+m}</span><span class="nt">${esc(n.t)}<small class="src">${esc(n.s || "")}</small></span></a>`;
+        }).join(""));
+      });
+      return;
+    }
     document.querySelectorAll("#list .month").forEach((sec, i) => {
       if (i === 0) return;
       const h = sec.querySelector("h2");
@@ -138,6 +151,8 @@
   /* ---------- calendario iPhone ---------- */
   const css = document.createElement("style");
   css.textContent = `.nx .lv{font-variant-numeric:tabular-nums}.nx .lv .lclk{font-family:var(--body);font-weight:600;font-size:.72rem;letter-spacing:0;text-transform:none;color:var(--muted);margin-left:2px}
+.ng .ph{font-family:var(--display);font-weight:600;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:14px 0 2px}
+.ni .src{display:block;font-size:.75rem;font-weight:400;color:var(--muted);margin-top:1px}
 .month h2.mt{cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:8px}
 .month h2.mt:focus-visible{outline:2px solid var(--como);outline-offset:2px}
 .month .mc{display:inline-flex;align-items:center;gap:8px;font-family:var(--body);font-weight:500;font-size:.75rem;letter-spacing:0;text-transform:none}
