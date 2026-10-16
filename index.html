@@ -7,8 +7,8 @@
 <link rel="icon" type="image/png" href="favicon.png">
 <link rel="manifest" href="manifest.json">
 <meta name="theme-color" content="#ffffff">
-<title>Milan Cantù Como</title>
-<meta name="apple-mobile-web-app-title" content="Partite">
+<title>MCC Fans</title>
+<meta name="apple-mobile-web-app-title" content="MCC Fans">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -153,8 +153,8 @@ header{display:flex;justify-content:space-between;align-items:flex-start;gap:12p
 
 <div class="wrap">
   <header>
-    <div><h1>Milan · Cantù · Como</h1>
-    <p class="sub" id="upd">Ultimo controllo: 16/10/2026 alle 08:36</p></div>
+    <div class="brand"><img class="lg" src="logo.svg" alt="MCC Fans" width="66" height="69"><div><h1>MCC Fans</h1><p class="tag">Milan · Cantù · Como</p>
+    <p class="sub" id="upd">Ultimo controllo: 16/10/2026 alle 08:36</p></div></div>
     <button class="rf" id="rf" type="button" aria-label="Aggiorna la pagina"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg><span>Aggiorna</span></button>
   </header>
 
@@ -476,6 +476,6 @@ document.addEventListener("visibilitychange",()=>{if(!document.hidden)refresh()}
 <script>
 document.getElementById("rf").addEventListener("click",function(){this.classList.add("spin");try{window.top.location.reload()}catch(e){location.reload()}});
 </script>
-<script src="live.js?v=1792163340"></script>
+<script src="live.js?v=1792163656"></script>
 </body>
 </html>

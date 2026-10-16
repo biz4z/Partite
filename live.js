@@ -226,6 +226,10 @@
 .date .rl{margin:6px auto 0;width:24px;height:24px;font-size:.58rem}
 .bdg:has(img){background:transparent}
 .bdg img{width:100%;height:100%;object-fit:contain;display:block}
+.brand{display:flex;align-items:center;gap:12px}
+.brand .lg{width:66px;height:auto;flex:none;filter:drop-shadow(0 2px 3px rgba(0,0,0,.15))}
+.brand h1{font-size:2.3rem}
+.brand .tag{margin:2px 0 0;font:600 .8rem var(--display);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
 nav.teams{flex-wrap:nowrap;gap:6px}
 nav.teams button{flex:1 1 auto;justify-content:center;padding:6px 8px;gap:6px;font-size:.88rem;letter-spacing:.04em;min-width:0}
 nav.teams .dot{width:8px;height:8px}
@@ -240,7 +244,7 @@ nav.teams .dot{width:8px;height:8px}
 .cal ol{margin:6px 0 4px;padding-left:20px;display:flex;flex-direction:column;gap:6px;font-size:.88rem}
 .calbtn{display:flex;align-items:center;justify-content:center;gap:8px;margin:6px 0 8px;padding:11px 14px;border-radius:999px;background:var(--fg);color:var(--bg);font:700 .95rem var(--display);letter-spacing:.06em;text-transform:uppercase;text-decoration:none}
 .calbtn:focus-visible{outline:2px solid var(--como);outline-offset:2px}
-.calrow{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:12px;max-width:360px}
+.calrow{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:-8px;max-width:360px}
 .callbl{grid-column:1/-1;font:600 .78rem var(--display);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
 .calpill{display:flex;align-items:center;justify-content:center;gap:8px;padding:8px 14px;border-radius:999px;background:var(--fg);color:var(--bg);font:700 .85rem var(--display);letter-spacing:.08em;text-transform:uppercase;text-decoration:none}
 .calpill svg{width:16px;height:16px;display:block;flex:none}
@@ -256,7 +260,7 @@ nav.teams .dot{width:8px;height:8px}
     row.innerHTML = `<span class="callbl">Aggiungi al calendario</span>` +
       `<a class="calpill" href="webcal://${ics}">${ico}iPhone</a>` +
       `<a class="calpill" href="https://calendar.google.com/calendar/render?cid=${encodeURIComponent("webcal://" + ics)}" target="_blank" rel="noopener">${ico}Android</a>`;
-    upd.after(row);
+    (document.querySelector("header") || upd).after(row);
   }
 
   renderHl();
