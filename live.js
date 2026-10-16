@@ -290,12 +290,16 @@ nav.teams .dot{width:8px;height:8px}
 .coffee{display:flex;flex-direction:column;align-items:center;gap:8px;padding:20px 0 6px;text-align:center}
 .coffee h2{margin:0;font:700 1.2rem var(--display);letter-spacing:.06em;text-transform:uppercase;color:var(--fg)}
 .coffee .cs{margin:0 0 4px;font-size:.85rem;color:var(--muted);max-width:30em}
-.ctiers{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;width:100%}
-.ctier{display:flex;flex-direction:column;align-items:center;gap:4px;padding:12px 6px;border-radius:14px;background:#0b1a3a;color:#fff;text-decoration:none;border:2px solid transparent}
-.ctier:hover,.ctier:focus-visible{border-color:#e9b949;outline:none}
-.ctier .ci{font-size:1.6rem;line-height:1}
-.ctier .cn{font:600 .78rem/1.15 var(--display);letter-spacing:.04em;text-transform:uppercase;display:flex;align-items:center;font-size:1rem}
-.ctier .ce{font:700 1.05rem var(--display);color:#0b1a3a;background:#e9b949;border-radius:999px;padding:2px 12px}
+.cmenu{box-sizing:border-box;width:100%;max-width:420px;background:#0b1a3a;border-radius:16px;padding:6px 16px;color:#fff;box-shadow:0 6px 18px rgba(11,26,58,.25)}
+.cmenu .chd{font:700 .85rem var(--display);letter-spacing:.3em;text-transform:uppercase;color:#e9b949;text-align:center;padding:8px 0;border-bottom:1px solid rgba(255,255,255,.15)}
+.citem{display:flex;align-items:baseline;gap:10px;padding:13px 2px;text-decoration:none;color:#fff;border-bottom:1px dotted rgba(255,255,255,.2);font:700 1.3rem var(--display);letter-spacing:.05em;text-transform:uppercase}
+.citem:last-child{border-bottom:0}
+.citem .ci{font-size:1.2rem}
+.citem .cdots{flex:1;border-bottom:2px dotted rgba(233,185,73,.5);transform:translateY(-5px)}
+.citem .ce{color:#e9b949;font-variant-numeric:tabular-nums}
+.citem .cgo{color:rgba(255,255,255,.5);font-size:1.1rem}
+.citem:hover .cn,.citem:focus-visible .cn{text-decoration:underline}
+.citem:focus-visible{outline:2px solid #e9b949;outline-offset:2px;border-radius:6px}
 .coffee small{font-size:.72rem;color:var(--muted)}
 /* tema giorno "Ghiaccio" (di sera resta il tema scuro) */
 @media (prefers-color-scheme: light){
@@ -424,7 +428,7 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
       ["🍻", "Due", 6, "https://revolut.me/mauirock?currency=EUR&amount=600&note=%F0%9F%8D%BB%20Grazie!!"],
       ["🍻", "Giro", 15, "https://revolut.me/mauirock?currency=EUR&amount=1500&note=%F0%9F%8D%BB%20Grazie!!!"]];
     c.innerHTML = `<h2>Offrici una birra</h2><p class="cs">MCC Fans è gratis e senza pubblicità. Se ti è utile, il giro lo offri tu? 🍻</p>` +
-      `<div class="ctiers">${T3.map(([i, n, e, u]) => `<a class="ctier" href="${u.replace(/&/g, "&amp;")}"><span class="ci" aria-hidden="true">${i}</span><span class="cn">${n}</span><span class="ce">${e} €</span></a>`).join("")}</div>` +
+      `<div class="cmenu"><div class="chd">★ Menu del chiosco ★</div>${T3.map(([i, n, e, u]) => `<a class="citem" href="${u.replace(/&/g, "&amp;")}"><span class="ci" aria-hidden="true">${i}</span><span class="cn">${n}</span><span class="cdots" aria-hidden="true"></span><span class="ce">${e} €</span><span class="cgo" aria-hidden="true">›</span></a>`).join("")}</div>` +
       `<small>Si apre Revolut con l'importo già impostato: basta confermare.</small>`;
     wrap.appendChild(c);
   })();
