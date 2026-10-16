@@ -287,10 +287,15 @@ nav.teams .dot{width:8px;height:8px}
 .hero .callbl{color:rgba(255,255,255,.65)}
 .hstripe{position:absolute;left:0;right:0;bottom:0;height:5px;background:linear-gradient(90deg,#c4161c 0 33.3%,#e08a1e 0 66.6%,#1f6fb8 0)}
 .board:empty{display:none}
-.coffee{display:flex;flex-direction:column;align-items:center;gap:8px;padding:18px 16px 6px;text-align:center}
-.coffee p{margin:0;font:700 .9rem var(--display);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
-.cbtn{display:inline-flex;align-items:center;gap:8px;background:#e9b949;color:#0b1a3a;font:700 1rem var(--display);letter-spacing:.06em;text-transform:uppercase;text-decoration:none;padding:11px 22px;border-radius:999px;box-shadow:0 2px 8px rgba(233,185,73,.35)}
-.cbtn:focus-visible{outline:2px solid var(--fg);outline-offset:3px}
+.coffee{display:flex;flex-direction:column;align-items:center;gap:8px;padding:20px 0 6px;text-align:center}
+.coffee h2{margin:0;font:700 1.2rem var(--display);letter-spacing:.06em;text-transform:uppercase;color:var(--fg)}
+.coffee .cs{margin:0 0 4px;font-size:.85rem;color:var(--muted);max-width:30em}
+.ctiers{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;width:100%}
+.ctier{display:flex;flex-direction:column;align-items:center;gap:4px;padding:12px 6px;border-radius:14px;background:#0b1a3a;color:#fff;text-decoration:none;border:2px solid transparent}
+.ctier:hover,.ctier:focus-visible{border-color:#e9b949;outline:none}
+.ctier .ci{font-size:1.6rem;line-height:1}
+.ctier .cn{font:600 .78rem/1.15 var(--display);letter-spacing:.04em;text-transform:uppercase;min-height:2.3em;display:flex;align-items:center}
+.ctier .ce{font:700 1.05rem var(--display);color:#0b1a3a;background:#e9b949;border-radius:999px;padding:2px 12px}
 .coffee small{font-size:.72rem;color:var(--muted)}
 /* tema giorno "Ghiaccio" (di sera resta il tema scuro) */
 @media (prefers-color-scheme: light){
@@ -414,7 +419,11 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
     if (!wrap || document.getElementById("coffee")) return;
     const c = document.createElement("section");
     c.id = "coffee"; c.className = "coffee";
-    c.innerHTML = `<p>Ti piace MCC Fans?</p><a class="cbtn" href="https://revolut.me/mauirock" target="_blank" rel="noopener">☕ Offrimi un caffè</a><small>Pagamento sicuro con Revolut</small>`;
+    const R = "https://revolut.me/mauirock";
+    const T3 = [["🚗", "Trasferta in regione", 3], ["🚌", "Trasferta al Sud", 8], ["✈️", "Trasferta europea", 20]];
+    c.innerHTML = `<h2>Sempre presenti. Anche qui.</h2><p class="cs">MCC Fans è gratis e senza pubblicità. Se ci sei sempre, fallo sentire.</p>` +
+      `<div class="ctiers">${T3.map(([i, n, e]) => `<a class="ctier" href="${R}" target="_blank" rel="noopener"><span class="ci" aria-hidden="true">${i}</span><span class="cn">${n}</span><span class="ce">${e} €</span></a>`).join("")}</div>` +
+      `<small>Si apre Revolut: inserisci l'importo e conferma.</small>`;
     wrap.appendChild(c);
   })();
 
