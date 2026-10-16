@@ -43,7 +43,8 @@
     /* stemmi ufficiali (immagini delle fonti ESPN e TheSportsDB) al posto delle sigle */
     Object.entries(d.logos || {}).forEach(([k, u]) => {
       if (!u || !/^https:\/\//.test(u) || !(k in AB)) return;
-      const img = `<img src="${u.replace(/"/g, "")}" alt="${N[k]}" loading="lazy">`;
+      const ini = { milan: "ACM", cantu: "CTU", como: "CO" }[k];
+      const img = `<img src="${u.replace(/"/g, "")}" alt="" loading="lazy" onerror="this.parentNode.textContent='${ini}'">`;
       if (AB[k] !== img) { AB[k] = img; ch = true; }
     });
     /* partite di Serie A non ancora presenti nella pagina */

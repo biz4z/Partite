@@ -152,13 +152,14 @@ header{display:flex;justify-content:space-between;align-items:flex-start;gap:12p
 </style>
 
 <div class="wrap">
-  <section class="next" id="next" aria-label="Prossime partite"></section>
-
   <header>
     <div><h1>Milan · Cantù · Como</h1>
     <p class="sub" id="upd">Ultimo controllo: 16/10/2026 alle 08:36</p></div>
     <button class="rf" id="rf" type="button" aria-label="Aggiorna la pagina"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg><span>Aggiorna</span></button>
   </header>
+
+  <section class="next" id="next" aria-label="Prossime partite"></section>
+
 
   <details class="hl" id="hlbox"><summary><span>Ultime notizie</span><span class="pm" aria-hidden="true"></span></summary><div id="hl"></div></details>
 
@@ -475,6 +476,6 @@ document.addEventListener("visibilitychange",()=>{if(!document.hidden)refresh()}
 <script>
 document.getElementById("rf").addEventListener("click",function(){this.classList.add("spin");try{window.top.location.reload()}catch(e){location.reload()}});
 </script>
-<script src="live.js?v=1792163225"></script>
+<script src="live.js?v=1792163294"></script>
 </body>
 </html>
