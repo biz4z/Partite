@@ -139,7 +139,7 @@ def table(lg):
     rows = []
     for e in entries:
         st = {x["name"]: x.get("value") for x in e.get("stats", [])}
-        rows.append({"team": e["team"], "pos": int(st.get("rank") or 0), "pts": int(st.get("points") or 0),
+        rows.append({"team": e["team"], "logo": ((e["team"].get("logos") or [{}])[0].get("href") or ""), "pos": int(st.get("rank") or 0), "pts": int(st.get("points") or 0),
                      "g": int(st.get("gamesPlayed") or 0)})
     rows.sort(key=lambda x: x["pos"])
     return rows
@@ -253,6 +253,26 @@ def fixtures():
     return out
 
 
+def logos(old):
+    out = dict(old)
+    try:
+        for x in table("ita.1"):
+            for k in ("milan", "como"):
+                if is_team(x["team"], k) and x.get("logo"):
+                    out[k] = x["logo"]
+    except Exception as e:
+        log("ERR loghi", e)
+    try:
+        j = get("https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Cantu")
+        t = next((t for t in j.get("teams") or [] if t.get("strSport") == "Basketball"), None)
+        if t and (t.get("strBadge") or t.get("strTeamBadge")):
+            out["cantu"] = (t.get("strBadge") or t.get("strTeamBadge")) + "/small"
+    except Exception as e:
+        log("ERR logo cantu", e)
+    log("loghi", sorted(out))
+    return out
+
+
 def merge_fixtures(M, fx):
     """Aggiunge le partite di Serie A che mancano nella pagina (stessa squadra, nessuna partita entro 2 giorni)."""
     added = []
@@ -331,8 +351,9 @@ def main():
             fx = fixtures() or fx
         except Exception as e:
             log("ERR calendario", e)
-    data = {"results": res, "standings": sta, "cantu": cantu, "news": news, "press": pr, "fixtures": fx}
-    keys = ("results", "standings", "cantu", "news", "press", "fixtures")
+    lg = old.get("logos", {}) if offline else logos(old.get("logos", {}))
+    data = {"results": res, "standings": sta, "cantu": cantu, "news": news, "press": pr, "fixtures": fx, "logos": lg}
+    keys = ("results", "standings", "cantu", "news", "press", "fixtures", "logos")
     if data != {k: old.get(k) for k in keys}:
         data["updated"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
         data["log"] = LOG[-40:]

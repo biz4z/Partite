@@ -40,6 +40,12 @@
       if (g.score && !r[6]) { r[6] = g.score; ch = true; }
     });
     /* notizie ufficiali */
+    /* stemmi ufficiali (immagini delle fonti ESPN e TheSportsDB) al posto delle sigle */
+    Object.entries(d.logos || {}).forEach(([k, u]) => {
+      if (!u || !/^https:\/\//.test(u) || !(k in AB)) return;
+      const img = `<img src="${u.replace(/"/g, "")}" alt="${N[k]}" loading="lazy">`;
+      if (AB[k] !== img) { AB[k] = img; ch = true; }
+    });
     /* partite di Serie A non ancora presenti nella pagina */
     (d.fixtures || []).forEach(f => {
       const t = Date.parse(f.date);
@@ -161,6 +167,8 @@
   css.textContent = `.nx .lv{font-variant-numeric:tabular-nums}.nx .lv .lclk{font-family:var(--body);font-weight:600;font-size:.72rem;letter-spacing:0;text-transform:none;color:var(--muted);margin-left:2px}
 .ng .ph{font-family:var(--display);font-weight:600;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:14px 0 2px}
 .ni .src{display:block;font-size:.75rem;font-weight:400;color:var(--muted);margin-top:1px}
+.bdg:has(img){background:transparent}
+.bdg img{width:100%;height:100%;object-fit:contain;display:block}
 .month h2.mt{cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:8px}
 .month h2.mt:focus-visible{outline:2px solid var(--como);outline-offset:2px}
 .month .mc{display:inline-flex;align-items:center;gap:8px;font-family:var(--body);font-weight:500;font-size:.75rem;letter-spacing:0;text-transform:none}
