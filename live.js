@@ -287,6 +287,11 @@ nav.teams .dot{width:8px;height:8px}
 .hero .callbl{color:rgba(255,255,255,.65)}
 .hstripe{position:absolute;left:0;right:0;bottom:0;height:5px;background:linear-gradient(90deg,#c4161c 0 33.3%,#e08a1e 0 66.6%,#1f6fb8 0)}
 .board:empty{display:none}
+.coffee{display:flex;flex-direction:column;align-items:center;gap:8px;padding:18px 16px 6px;text-align:center}
+.coffee p{margin:0;font:700 .9rem var(--display);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.cbtn{display:inline-flex;align-items:center;gap:8px;background:#e9b949;color:#0b1a3a;font:700 1rem var(--display);letter-spacing:.06em;text-transform:uppercase;text-decoration:none;padding:11px 22px;border-radius:999px;box-shadow:0 2px 8px rgba(233,185,73,.35)}
+.cbtn:focus-visible{outline:2px solid var(--fg);outline-offset:3px}
+.coffee small{font-size:.72rem;color:var(--muted)}
 /* tema giorno "Ghiaccio" (di sera resta il tema scuro) */
 @media (prefers-color-scheme: light){
 html:root{--bg:#e9eef6;--surface:#ffffff;--fg:#0b1a3a;--muted:#56657e;--line:#d5deeb;--chip:#eef2f8}
@@ -401,6 +406,16 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
     apply();
     setInterval(tick, 30000);
     const _rn2 = renderNext; renderNext = function () { _rn2(); tick(); };
+  })();
+
+  /* Offrimi un caffè (Revolut) in fondo alla pagina */
+  (function coffee() {
+    const wrap = document.querySelector(".wrap");
+    if (!wrap || document.getElementById("coffee")) return;
+    const c = document.createElement("section");
+    c.id = "coffee"; c.className = "coffee";
+    c.innerHTML = `<p>Ti piace MCC Fans?</p><a class="cbtn" href="https://revolut.me/mauirock" target="_blank" rel="noopener">☕ Offrimi un caffè</a><small>Pagamento sicuro con Revolut</small>`;
+    wrap.appendChild(c);
   })();
 
   /* ---------- versione nuova? ricarica subito, senza aspettare la cache ---------- */
