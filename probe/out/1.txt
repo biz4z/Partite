@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pallacanestro Cantù</title>
+	<atom:link href="https://pallacanestrocantu.com/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Sito Ufficiale</description>
+	<lastBuildDate>Fri, 16 Oct 2026 09:35:18 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.3</generator>
+
+<image>
+	<url>https://pallacanestrocantu.com/wp-content/uploads/2026/06/PallCantu2026_Color-2.svg</url>
+	<title>Pallacanestro Cantù</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>UN PROGETTO INTERNAZIONALE DI MENTAL COACHING CON MENTAL TRAINING ITALY</title>
+		<link>https://pallacanestrocantu.com/un-progetto-internazionale-di-mental-coaching-con-mental-training-italy/</link>
+		
+		<dc:creator><![CDATA[andrea]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 09:33:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://pallacanestrocantu.com/?p=19972</guid>
+
+					<description><![CDATA[<p>Pallacanestro Cantù e Mental Training Italy annunciano con orgoglio l’avvio ufficiale di &#8220;Mente da Regina&#8221;, un percorso d’élite di Mental Coaching e Profiling Coaching® strutturato per accompagnare la prima squadra, il coaching staff e l&#8217;intero assetto societario lungo tutto l&#8217;arco della stagione sportiva 2026/2027. Il progetto si distingue per un forte respiro e rilievo internazionale, [&#8230;]</p>
+<p>The post <a href="https://pallacanestrocantu.com/un-progetto-internazionale-di-mental-coaching-con-mental-training-italy/">UN PROGETTO INTERNAZIONALE DI MENTAL COACHING CON MENTAL TRAINING ITALY</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Pallacanestro Cantù e Mental Training Italy annunciano con orgoglio l’avvio ufficiale di &#8220;Mente da Regina&#8221;, un percorso d’élite di Mental Coaching e Profiling Coaching® strutturato per accompagnare la prima squadra, il coaching staff e l&#8217;intero assetto societario lungo tutto l&#8217;arco della stagione sportiva 2026/2027.</p>
+
+
+
+<p class="wp-block-paragraph">Il progetto si distingue per un forte respiro e rilievo internazionale, fondandosi sulla partnership strategica tra Mental Training Inc. — organizzazione leader nel settore con sede negli Stati Uniti a Los Angeles, fondata e diretta dal Dr. Robert Neff — e Mental Training Italy, realtà di riferimento sul territorio nazionale con sede a Milano, guidata da Alberto Biffi. Questa sinergia d&#8217;eccellenza consente di trasferire nel panorama del basket italiano ed europeo metodologie d&#8217;avanguardia per l&#8217;ottimizzazione della prestazione e della tenuta mentale, già ampiamente collaudate nei più prestigiosi circuiti professionistici americani e mondiali.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Un team di esperti internazionali a supporto del Club</strong></p>
+
+
+
+<p class="wp-block-paragraph">Il programma &#8220;Mente da Regina&#8221; integra competenze multidisciplinari di altissimo profilo, mettendo a disposizione della Pallacanestro Cantù un&#8217;équipe dedicata:</p>
+
+
+
+<p class="wp-block-paragraph">• Dr. Robert Neff (USA): Fondatore di Mental Training Inc. a Los Angeles e Ph.D. in Psicologia dello Sport. Supervisiona lo sviluppo delle abilità mentali (mental skills), la gestione dello stress agonistico e la coesione del gruppo attraverso protocolli scientifici di matrice internazionale.</p>
+
+
+
+<p class="wp-block-paragraph">• Alberto Biffi: CEO di Mental Training Italy e pioniere del Mental Coaching in Italia. Cura il supporto strategico e l&#8217;affiancamento costante all&#8217;Head Coach Frank Vitucci e allo staff tecnico, favorendo la massima sintonia operativa e la leadership di gestione.</p>
+
+
+
+<p class="wp-block-paragraph">• Amanda Gesualdi: Professoressa ed esperta di Profiling Coaching®. È responsabile del monitoraggio comportamentale, dell&#8217;analisi avanzata delle dinamiche relazionali e della mappatura delle caratteristiche individuali degli atleti, al fine di ottimizzare la comunicazione interpersonale e la resa del collettivo.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Tecniche avanzate, continuità e lavoro sistematico per l&#8217;intera stagione</strong></p>
+
+
+
+<p class="wp-block-paragraph">L&#8217;intervento si avvale di strumenti evoluti di Mental Coaching e Profiling Coaching®, concepiti per agire sia sulle componenti individuali dell&#8217;atleta sia sulle dinamiche sistemiche della squadra.</p>
+
+
+
+<p class="wp-block-paragraph">Il percorso ha già vissuto le sue prime tappe operative durante la fase di preseason — a partire dall&#8217;intenso lavoro di kick-off svolto nel ritiro di Livigno e dalle prime sessioni dedicate al team building — e proseguirà con continuità e capillarità per l&#8217;intero arco del campionato, garantendo un presidio costante nei momenti chiave della stagione.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Ringraziamenti e riconoscimenti</strong></p>
+
+
+
+<p class="wp-block-paragraph">Mental Training Italy desidera esprimere un profondo e sincero ringraziamento al Top Management e a tutta la dirigenza della Pallacanestro Cantù per la stima, la lungimiranza e la fiducia dimostrate nel promuovere un progetto d&#8217;eccellenza così ambizioso e pionieristico nel basket di alto livello.</p>
+
+
+
+<p class="wp-block-paragraph">Un ringraziamento speciale e doveroso va inoltre a chi lavora costantemente &#8220;dietro le quinte&#8221; con dedizione, competenza e spirito di servizio all&#8217;interno dell&#8217;organizzazione, tra cui Matteo Noè, il cui prezioso supporto operativo e organizzativo risulta fondamentale per il successo, la fluidità e lo sviluppo di questa prestigiosa collaborazione.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Contatti Ufficio Stampa &amp; Media Relations:</strong></p>
+
+
+
+<p class="wp-block-paragraph">Mental Training Italy – https://www.mentaltrainingitaly.com</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://pallacanestrocantu.com/un-progetto-internazionale-di-mental-coaching-con-mental-training-italy/">UN PROGETTO INTERNAZIONALE DI MENTAL COACHING CON MENTAL TRAINING ITALY</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>GLI EX TRIESTE-CANTÙ</title>
+		<link>https://pallacanestrocantu.com/gli-ex-trieste-cantu/</link>
+		
+		<dc:creator><![CDATA[andrea]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 15:08:31 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://pallacanestrocantu.com/?p=19969</guid>
+
+					<description><![CDATA[<p>Nella quarta giornata della LBA Serie A Unipol 2026-27, l’Acqua S.Bernardo Cantù affronterà la Pallacanestro Trieste in una sfida tra due squadre ancora a caccia della prima vittoria in campionato. Tra i roster delle due formazioni, gli unici ex sono entrambi nelle fila biancoblù. L’ala lettone Andrejs Gražulis è arrivata a Trieste nel 2020, dopo [&#8230;]</p>
+<p>The post <a href="https://pallacanestrocantu.com/gli-ex-trieste-cantu/">GLI EX TRIESTE-CANTÙ</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Nella quarta giornata della LBA Serie A Unipol 2026-27, l’Acqua S.Bernardo Cantù affronterà la Pallacanestro Trieste in una sfida tra due squadre ancora a caccia della prima vittoria in campionato. Tra i roster delle due formazioni, gli unici ex sono entrambi nelle fila biancoblù.</p>
+
+
+
+<p class="wp-block-paragraph">L’ala lettone Andrejs Gražulis è arrivata a Trieste nel 2020, dopo una prima esperienza in Italia in Serie A2 a Tortona. Con la maglia giuliana ha disputato due stagioni, mettendosi in evidenza e consolidando il proprio percorso nel basket italiano, con una media complessiva di 10,2 punti e 6,3 rimbalzi a partita.</p>
+
+
+
+<p class="wp-block-paragraph">Anche Davide Moretti vanta un passato recente a Trieste. Il capoluogo del Friuli-Venezia Giulia è stata infatti l’ultima tappa della sua carriera prima dell’approdo in Brianza, un’esperienza durante la quale ha preso parte anche alla Basketball Champions League.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://pallacanestrocantu.com/gli-ex-trieste-cantu/">GLI EX TRIESTE-CANTÙ</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>INFORTUNIO PER SIMONE VENTURA</title>
+		<link>https://pallacanestrocantu.com/infortunio-per-simone-ventura/</link>
+		
+		<dc:creator><![CDATA[andrea]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 10:02:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://pallacanestrocantu.com/?p=19963</guid>
+
+					<description><![CDATA[<p>Acqua S.Bernardo Pallacanestro Cantù comunica che l&#8217;atleta Simone Ventura ha riportato una lesione di primo grado al soleo della gamba sinistra. Il giocatore ha già iniziato le terapie di recupero e sarà rivalutato periodicamente per stabilirne il rientro nel gruppo squadra.</p>
+<p>The post <a href="https://pallacanestrocantu.com/infortunio-per-simone-ventura/">INFORTUNIO PER SIMONE VENTURA</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Acqua S.Bernardo Pallacanestro Cantù comunica che l&#8217;atleta Simone Ventura ha riportato una lesione di primo grado al soleo della gamba sinistra.</p>
+
+
+
+<p class="wp-block-paragraph">Il giocatore ha già iniziato le terapie di recupero e sarà rivalutato periodicamente per stabilirne il rientro nel gruppo squadra.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://pallacanestrocantu.com/infortunio-per-simone-ventura/">INFORTUNIO PER SIMONE VENTURA</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OLISEVICIUS È BIANCOBLÙ</title>
+		<link>https://pallacanestrocantu.com/olisevicius-e-biancoblu/</link>
+		
+		<dc:creator><![CDATA[andrea]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 15:01:06 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://pallacanestrocantu.com/?p=19953</guid>
+
+					<description><![CDATA[<p>Acqua S.Bernardo Pallacanestro Cantù annuncia di aver sottoscritto un accordo con l’atleta Osvaldas Olisevičius. L’ala lituana è nata a Vilnius il 10 gennaio 1993, è alta 200 cm e pesa 90 kg. Dopo essere cresciuto in patria tra Akademija Vilnius e la prestigiosa Šarūnas Marčiulionis Academy, nel 2013 passa al Trakai, con cui viene premiato [&#8230;]</p>
+<p>The post <a href="https://pallacanestrocantu.com/olisevicius-e-biancoblu/">OLISEVICIUS È BIANCOBLÙ</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Acqua S.Bernardo Pallacanestro Cantù annuncia di aver sottoscritto un accordo con l’atleta Osvaldas Olisevičius. L’ala lituana è nata a Vilnius il 10 gennaio 1993, è alta 200 cm e pesa 90 kg.</p>
+
+
+
+<p class="wp-block-paragraph">Dopo essere cresciuto in patria tra Akademija Vilnius e la prestigiosa Šarūnas Marčiulionis Academy, nel 2013 passa al Trakai, con cui viene premiato come giocatore più migliorato della seconda lega lituana. Sale così di categoria con il Pieno žvaigždės, dove rimane per tre anni, misurandosi anche con la FIBA Europe Cup. Nel 2017 sceglie di vivere la prima esperienza all’estero, firmando con i tedeschi del Würzburg. A gennaio torna però al Pieno žvaigždės, con cui vince la Baltic Basketball League, facendo registrare una media di 11.3 punti a partita. L’anno successivo passa al Neptūnas, dove rimane per due stagioni, disputando anche la Basketball Champions League (BCL). Nell’annata 2020-21 torna in Germania, al Medi Bayreuth, chiudendo il campionato con una media di 13.9 punti a partita. Nel 2021 arriva la prima chiamata da un club italiano: la Pallacanestro Reggiana. L’impatto con la LBA è subito significativo, con una media di 16.2 punti a partita. Rimane a Reggio Emilia anche nella stagione successiva, chiusa ancora in doppia cifra di media. Nel 2023 si trasferisce a Treviso, dove è protagonista per tre stagioni, facendo registrare medie rispettivamente di 15.7 e 16.9 punti a partita nelle prime due annate e chiudendo l’ultima con 13.6 punti, 3.3 rimbalzi e 1.9 assist.<br>Olisevičius vanta inoltre una lunga esperienza nelle selezioni giovanili della Lituania, in cui brilla la conquista della medaglia d’argento agli Europei Under 16 del 2009. Con la nazionale maggiore ha collezionato invece nove presenze in gare ufficiali.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>LE DICHIARAZIONI:</strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Simone Giofrè (GM)</strong>: «Il mercato ci ha messo di fronte questa opportunità di aggiungere un giocatore delle sue caratteristiche e come Club abbiamo deciso di non farcela sfuggire».</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Osvaldas Olisevičius</strong>: «Sono molto felice di aver firmato con Cantù e non vedo l&#8217;ora di poter iniziare questa avventura e conoscere tutti i tifosi».</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">Crediti immagine di copertina: FIBA</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://pallacanestrocantu.com/olisevicius-e-biancoblu/">OLISEVICIUS È BIANCOBLÙ</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>LA TRASFERTA DI TRIESTE</title>
+		<link>https://pallacanestrocantu.com/la-trasferta-di-trieste/</link>
+		
+		<dc:creator><![CDATA[andrea]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 13:19:27 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://pallacanestrocantu.com/?p=19949</guid>
+
+					<description><![CDATA[<p>Per l&#8217;Acqua S.Bernardo Cantù è alle porte una importante trasferta per la classifica. I biancoblù saranno infatti ospiti al PalaTrieste alle ore 18:00 di domenica 18 ottobre. TRIESTE – Dopo una turbolenta estate, conclusasi con un cambio di proprietà, i giuliani si sono presentati al via del campionato con un assetto che prevede 5 stranieri. [&#8230;]</p>
+<p>The post <a href="https://pallacanestrocantu.com/la-trasferta-di-trieste/">LA TRASFERTA DI TRIESTE</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Per l&#8217;Acqua S.Bernardo Cantù è alle porte una importante trasferta per la classifica. I biancoblù saranno infatti ospiti al PalaTrieste alle ore 18:00 di domenica 18 ottobre.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>TRIESTE</strong> – Dopo una turbolenta estate, conclusasi con un cambio di proprietà, i giuliani si sono presentati al via del campionato con un assetto che prevede 5 stranieri. L’avvio di stagione non ha riservato vittorie, ma, a fronte di un calendario proibitivo, gli uomini di coach Francesco Taccetti hanno dato battaglia e non hanno mai perso con più di 5 punti di distacco contro Milano, Venezia e Varese.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>IL QUINTETTO</strong> – Il gioco dei biancorossi passa dalle mani di Colbey Ross, giocatore con la valutazione media più alta (28) del campionato, capace di segnare 20 punti e distribuire 6.3 assist a partita. Al suo fianco gioca un altro realizzatore sopraffino come l’ex Trapani Langston Galloway, guardia che segna fin qui 11.3 punti di media. Le due ali del quintetto sono una certezza dei parquet italiani come Sean McDermott e una delle sorprese di questa stagione, Lajae Jones. Il rookie classe 2004 è arrivato in LBA fresco della scelta al secondo giro del Draft NBA da parte di Golden State e, con il suo strabordante atletismo, ha messo insieme 15 punti e 7.3 rimbalzi a gara. Lo starting five è quindi completato dal solido centro Luka Brajkovic, anche lui già visto in Italia con la maglia di Pistoia.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>LE ROTAZIONI</strong> – Senza stranieri in panchina, coach Taccetti fa ovviamente grande affidamento sul nucleo di italiani rimasti dalla passata stagione, composto dal play Michele Ruzzier, che ha segnato fin qui 6.3 punti di media, dalla guardia Lodovico Deangeli che, nonostante sia uno specialista difensivo, ha un bottino medio di 8.3 punti, e dal centro Francesco Candussi, capace di garantire 11.3 punti e 5 rimbalzi. A loro si è aggiunta l’ala Abramo Canka, in cerca di riscatto dopo la sua prima annata al rientro dall’esperienza in NCAA, divisa tra Virtus Bologna e Roseto. Il gruppo è infine completato dai giovani Davide Paiano ed Emanuele Martucci.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>COME SEGUIRE L’ACQUA S.BERNARDO</strong> – La partita verrà trasmessa in diretta sulla piattaforma streaming a pagamento LBATV; la radiocronaca andrà in onda sulle frequenze di Radio Cantù, FM 89.600.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://pallacanestrocantu.com/la-trasferta-di-trieste/">LA TRASFERTA DI TRIESTE</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>LA CERIMONIA DI INTRODUZIONE DELLE NUOVE STELLE</title>
+		<link>https://pallacanestrocantu.com/la-cerimonia-di-introduzione-delle-nuove-stelle/</link>
+		
+		<dc:creator><![CDATA[andrea]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2026 16:48:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://pallacanestrocantu.com/?p=19946</guid>
+
+					<description><![CDATA[<p>Durante l’intervallo della partita tra Acqua S.Bernardo Cantù e Napoli è andata in scena la cerimonia di introduzione delle nuove stelle nella Hall of Fame del Club. Ad eccezione di Bruce Flowers e Phill Jones, entrambi residenti nei rispettivi Paesi natali e impossibilitati logisticamente a raggiungere Cantù, le altre otto nuove stelle hanno sfilato una [&#8230;]</p>
+<p>The post <a href="https://pallacanestrocantu.com/la-cerimonia-di-introduzione-delle-nuove-stelle/">LA CERIMONIA DI INTRODUZIONE DELLE NUOVE STELLE</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Durante l’intervallo della partita tra Acqua S.Bernardo Cantù e Napoli è andata in scena la cerimonia di introduzione delle nuove stelle nella Hall of Fame del Club.</p>
+
+
+
+<p class="wp-block-paragraph">Ad eccezione di Bruce Flowers e Phill Jones, entrambi residenti nei rispettivi Paesi natali e impossibilitati logisticamente a raggiungere Cantù, le altre otto nuove stelle hanno sfilato una dopo l’altra sul parquet del PalaDesio, ricevendo il proprio riconoscimento dalle mani di Roberto Allievi e Sergio Paparelli.</p>
+
+
+
+<p class="wp-block-paragraph">Le emozioni dei protagonisti, raccolte dal media partner LE-News, hanno raccontato il significato speciale di questo riconoscimento, tra orgoglio personale, ricordi e un legame profondo con la storia biancoblù.</p>
+
+
+
+<p class="wp-block-paragraph">In ordine alfabetico, il primo a ricevere il riconoscimento è stato <strong>Filippo Baldi Ross</strong>i, che ha commentato con entusiasmo: «Per me è stata una grande sorpresa, che mi ha reso molto orgoglioso. Un&#8217;emozione che si aggiunge a quelle dei miei 3 anni qui».</p>
+
+
+
+<p class="wp-block-paragraph">A seguire, Antonella <strong>Giani </strong>ha ritirato il premio in memoria del marito Ezio, sottolineando il valore affettivo del riconoscimento: «Ringrazio la società per questo riconoscimento per mio marito, che l&#8217;ha sempre definita la sua casa».</p>
+
+
+
+<p class="wp-block-paragraph">Un legame altrettanto profondo quello raccontato da <strong>Davide Marson</strong>, che ha ricordato quanto Cantù abbia contribuito alla sua crescita personale: «Cantù è nel mio cuore da quando avevo 12 anni, mi ha insegnato l&#8217;etica e la forza della storia».</p>
+
+
+
+<p class="wp-block-paragraph">Applauditissimo dal pubblico, <strong>Vladimir Micov</strong> ha espresso tutta la propria gratitudine verso il Club che ha segnato l&#8217;inizio della sua carriera: «Diventare parte della storia di un Club come Cantù è incredibile, devo ringraziare questa società, che ha lanciato la mia carriera, ancora una volta».</p>
+
+
+
+<p class="wp-block-paragraph">Per <strong>Davide Pessina</strong>, entrare nella Hall of Fame rappresenta un motivo di grande orgoglio, anche alla luce dei nomi illustri che ne fanno parte: «Far parte della Hall of Fame di una società così prestigiosa è emozionante, soprattutto guardando i campioni che ci sono».</p>
+
+
+
+<p class="wp-block-paragraph">A rappresentare Pianella SRL è stato <strong>Gianpaolo Brianza</strong>, prima che la cerimonia proseguisse con <strong>TIC</strong>. A ritirare il riconoscimento per la realtà dei tifosi canturini è stato il presidente Angelo Passeri, che ha voluto condividere il merito con tutti i soci: «Questo riconoscimento va a tutti i soci e ai loro sforzi fatti negli anni e la dimostrazione di come i tifosi canturini siano parte della storia del Club».</p>
+
+
+
+<p class="wp-block-paragraph">A chiudere la passerella è stato <strong>Renzo Tombolato</strong>, che ha ricordato il forte senso di appartenenza maturato fin da giovane all&#8217;interno della società: «Cantù è stata un&#8217;identità. Sono cresciuto nel settore giovanile e il legame è fortissimo».</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://pallacanestrocantu.com/la-cerimonia-di-introduzione-delle-nuove-stelle/">LA CERIMONIA DI INTRODUZIONE DELLE NUOVE STELLE</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MORETTI DOPO CANTÙ-NAPOLI: &#8220;NON POSSIAMO PERMETTERCI ERRORI&#8221;</title>
+		<link>https://pallacanestrocantu.com/moretti-dopo-cantu-napoli-non-possiamo-permetterci-errori/</link>
+		
+		<dc:creator><![CDATA[andrea]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2026 18:11:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://pallacanestrocantu.com/?p=19940</guid>
+
+					<description><![CDATA[<p>La conferenza stampa di Davide Moretti dopo Acqua S.Bernardo Cantù-Napoli. «Il primo commento a caldo è che, sicuramente, tutti dobbiamo fare di più, io per primo. Non possiamo più permetterci errori perché le partite in casa sono molto importanti e dobbiamo cercare soluzioni ai problemi che abbiamo. Abbiamo bisogno di una vittoria per scacciare un [&#8230;]</p>
+<p>The post <a href="https://pallacanestrocantu.com/moretti-dopo-cantu-napoli-non-possiamo-permetterci-errori/">MORETTI DOPO CANTÙ-NAPOLI: &#8220;NON POSSIAMO PERMETTERCI ERRORI&#8221;</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">La conferenza stampa di Davide Moretti dopo Acqua S.Bernardo Cantù-Napoli.</p>
+
+
+
+<p class="wp-block-paragraph">«Il primo commento a caldo è che, sicuramente, tutti dobbiamo fare di più, io per primo. Non possiamo più permetterci errori perché le partite in casa sono molto importanti e dobbiamo cercare soluzioni ai problemi che abbiamo. Abbiamo bisogno di una vittoria per scacciare un po&#8217; di morale basso».</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://pallacanestrocantu.com/moretti-dopo-cantu-napoli-non-possiamo-permetterci-errori/">MORETTI DOPO CANTÙ-NAPOLI: &#8220;NON POSSIAMO PERMETTERCI ERRORI&#8221;</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>VITUCCI DOPO CANTÙ-NAPOLI: &#8220;DISPIACE PER IL FINALE&#8221;</title>
+		<link>https://pallacanestrocantu.com/vitucci-dopo-cantu-napoli-dispiace-per-il-finale/</link>
+		
+		<dc:creator><![CDATA[andrea]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2026 18:01:45 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://pallacanestrocantu.com/?p=19937</guid>
+
+					<description><![CDATA[<p>La conferenza stampa di coach Vitucci dopo Acqua S.Bernardo Cantù-Napoli. «Bisogna fare i complimenti a Napoli, che è una squadra di alto livello. Le abbiamo tenuto testa finché abbiamo avuto energia e risorse tecniche. Sul -1, quando abbiamo fallito le occasioni per andare avanti, ci si sono piegate le gambe. Dispiace perché il risultato finale [&#8230;]</p>
+<p>The post <a href="https://pallacanestrocantu.com/vitucci-dopo-cantu-napoli-dispiace-per-il-finale/">VITUCCI DOPO CANTÙ-NAPOLI: &#8220;DISPIACE PER IL FINALE&#8221;</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">La conferenza stampa di coach Vitucci dopo Acqua S.Bernardo Cantù-Napoli.</p>
+
+
+
+<p class="wp-block-paragraph">«Bisogna fare i complimenti a Napoli, che è una squadra di alto livello. Le abbiamo tenuto testa finché abbiamo avuto energia e risorse tecniche. Sul -1, quando abbiamo fallito le occasioni per andare avanti, ci si sono piegate le gambe. Dispiace perché il risultato finale è pesante, per come avevamo fatto fino a un certo punto, anche se non benissimo e non con tutti i giocatori performanti come ci aspettiamo. Ma la differenza fisica e di talento individuale, alla fine, ha pesato».</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://pallacanestrocantu.com/vitucci-dopo-cantu-napoli-dispiace-per-il-finale/">VITUCCI DOPO CANTÙ-NAPOLI: &#8220;DISPIACE PER IL FINALE&#8221;</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CANTÙ LOTTA, MA NAPOLI VINCE 80-99</title>
+		<link>https://pallacanestrocantu.com/cantu-lotta-ma-napoli-vince-80-99/</link>
+		
+		<dc:creator><![CDATA[andrea]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2026 17:47:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://pallacanestrocantu.com/?p=19934</guid>
+
+					<description><![CDATA[<p>L’Acqua S.Bernardo prova fino all’ultimo a contendere i due punti a Napoli, ma nel quarto decisivo i partenopei riescono a trovare il break che vale la vittoria. LA CRONACA Coach Vitucci conferma il quintetto visto con Udine. Dowtin e Flagg segnano i primi due canestri. Dopo un avvio favorevole a Napoli, è Moretti a firmare [&#8230;]</p>
+<p>The post <a href="https://pallacanestrocantu.com/cantu-lotta-ma-napoli-vince-80-99/">CANTÙ LOTTA, MA NAPOLI VINCE 80-99</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">L’Acqua S.Bernardo prova fino all’ultimo a contendere i due punti a Napoli, ma nel quarto decisivo i partenopei riescono a trovare il break che vale la vittoria.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>LA CRONACA</strong></p>
+
+
+
+<p class="wp-block-paragraph">Coach Vitucci conferma il quintetto visto con Udine. Dowtin e Flagg segnano i primi due canestri. Dopo un avvio favorevole a Napoli, è Moretti a firmare il sorpasso canturino. Brown risponde con una tripla, ma Flagg consolida il vantaggio dell’Acqua S.Bernardo con un primo quarto da 11 punti. Nel finale di quarto, Ramsey e Spissu ribaltano però la contesa, portando Napoli avanti 20-19.</p>
+
+
+
+<p class="wp-block-paragraph">White e Petruccelli portano gli ospiti a +7. Moretti e Flagg tengono Cantù in scia, che si riporta a un solo punto di distanza. Napoli riesce però a respingere i tentativi di sorpasso dei biancoblù. Dowtin e Caruso trovano il break che vale il primo vantaggio in doppia cifra della gara. L’Acqua S.Bernardo accorcia le distanze fino al 41-49 con cui si chiude il primo tempo.</p>
+
+
+
+<p class="wp-block-paragraph">Brown e Seeljas ritoccano il massimo vantaggio partenopeo. Cantù reagisce e torna a due soli possessi di distanza. Ramsey segna quattro punti consecutivi, allontanando Napoli. L’Acqua S.Bernardo rimane però in partita e torna a -3 grazie a Okeke. Dowtin segna la tripla che chiude il terzo quarto sul 61-66.</p>
+
+
+
+<p class="wp-block-paragraph">In avvio dell’ultima frazione, Cantù sfiora più volte l’aggancio, ma Seeljas e Brown infilano due triple che riportano Napoli a +9. È il parziale che indirizza definitivamente la partita. L’Acqua S.Bernardo accusa infatti il colpo e sprofonda oltre i venti punti di svantaggio. Finisce 80-99.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>IL TABELLINO</strong></p>
+
+
+
+<p class="wp-block-paragraph">ACQUA S.BERNARDO CANTÙ – NAPOLI BASKETBALL 80-99 (19-20, 22-29, 20-17, 19-33)</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Acqua S.Bernardo Cantù</strong>: Christon 8, Flagg 21, Gravett 5, Okeke 4, Moraschini 1, Parravicini, Ventura 9, Miles 1, Brown 9, Grazulis 6, Moretti 14, Udom 2. Allenatore: Vitucci.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Napoli Basketball</strong>: Spissu 6, Seeljas 11, Dowtin 18, Esposito, Faggian 2, Petruccelli 4, Sankare, White 16, Brown 14, Tarczewski 2, Caruso 7, Ramsey 18. Allenatore: Repesa.</p>
+
+
+
+<p class="wp-block-paragraph">Arbitri: Gonella, Perciavalle, Valeriani.</p>
+
+
+
+<p class="wp-block-paragraph">Spettatori: 3882.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://pallacanestrocantu.com/cantu-lotta-ma-napoli-vince-80-99/">CANTÙ LOTTA, MA NAPOLI VINCE 80-99</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>VITUCCI PRIMA DI CANTÙ-NAPOLI: &#8220;VOGLIAMO REAGIRE&#8221;</title>
+		<link>https://pallacanestrocantu.com/vitucci-prima-di-cantu-napoli/</link>
+		
+		<dc:creator><![CDATA[andrea]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 14:01:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://pallacanestrocantu.com/?p=19922</guid>
+
+					<description><![CDATA[<p>Coach Frank Vitucci ha presentato la partita tra l’Acqua S.Bernardo Cantù e Napoli Basketball, valida per la terza giornata della Serie A SisalClub 2026-27. La sfida andrà in scena alle ore 17:00 di domenica 11 ottobre sul parquet del PalaDesio. «Affronteremo una squadra con grandi ambizioni e che è, a pieno titolo, nel gruppo delle [&#8230;]</p>
+<p>The post <a href="https://pallacanestrocantu.com/vitucci-prima-di-cantu-napoli/">VITUCCI PRIMA DI CANTÙ-NAPOLI: &#8220;VOGLIAMO REAGIRE&#8221;</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Coach Frank Vitucci ha presentato la partita tra l’Acqua S.Bernardo Cantù e Napoli Basketball, valida per la terza giornata della Serie A SisalClub 2026-27. La sfida andrà in scena alle ore 17:00 di domenica 11 ottobre sul parquet del PalaDesio.</p>
+
+
+
+<p class="wp-block-paragraph">«Affronteremo una squadra con grandi ambizioni e che è, a pieno titolo, nel gruppo delle migliori del campionato. Napoli ha fisicità e talento di assoluto livello, perciò servirà una grande prestazione, con energia, intensità e massima attenzione. Vogliamo reagire dopo l’ultima sconfitta e affrontare la partita con la giusta determinazione, consapevoli dell’importanza di dare un segnale forte e di ripagare sul campo il sostegno dei nostri tifosi».</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://pallacanestrocantu.com/vitucci-prima-di-cantu-napoli/">VITUCCI PRIMA DI CANTÙ-NAPOLI: &#8220;VOGLIAMO REAGIRE&#8221;</a> appeared first on <a href="https://pallacanestrocantu.com">Pallacanestro Cantù</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

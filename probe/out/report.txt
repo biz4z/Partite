@@ -1,0 +1,11 @@
+0 200 201066 text/html; charset=UTF-8 https://www.pallacanestrocantu.com/calendario/
+1 200 33493 application/rss+xml; charset=UTF-8 https://www.pallacanestrocantu.com/feed/
+2 200 251600 text/html; charset=UTF-8 https://www.pallacanestrocantu.com/news/
+3 ERR HTTP Error 404: Not Found https://www.comofootball.com/feed/
+4 200 3040844 text/html;charset=utf-8 https://www.comofootball.com/ultime-notizie/
+5 200 535632 text/html; charset=utf-8 https://www.acmilan.com/it/news/articoli/ultime
+6 200 167434 text/html; charset=utf-8 https://www.legabasket.it/lba/6/calendario
+7 200 488295 text/html; charset=utf-8 https://www.legabasket.it/
+8 200 4205 application/json; charset=utf-8 https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Cantu
+9 ERR HTTP Error 400: Bad Request https://site.api.espn.com/apis/site/v2/sports/basketball/ita.1/scoreboard
+10 ERR HTTP Error 403: Forbidden https://api.sofascore.com/api/v1/search/all?q=cantu
