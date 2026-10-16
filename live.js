@@ -277,7 +277,7 @@ nav.teams .dot{width:8px;height:8px}
 .skin-a .calpill{background:#fff;color:#0b1a3a}
 .skin-a .callbl{text-align:center}
 /* Stile B: tabellone */
-.skin-b .hero{background:linear-gradient(160deg,#0f2147,#0b1a3a 60%,#081329)}
+.skin-b .hero{background:#0b1a3a}
 .skin-b .hero header{padding-top:0}
 .skin-b .brand .lg{width:74px;height:74px}
 .skin-b .brand h1{font-size:2.35rem;color:#fff}
