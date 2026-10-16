@@ -278,9 +278,10 @@ nav.teams .dot{width:8px;height:8px}
 .skin-a .callbl{text-align:center}
 /* Stile B: tabellone */
 .skin-b .hero{background:linear-gradient(160deg,#0f2147,#0b1a3a 60%,#081329)}
-.skin-b .hero header{padding-top:30px}
+.skin-b .hero header{padding-top:0}
 .skin-b .brand .lg{width:74px;height:74px}
-.skin-b .brand h1{font-size:2.6rem;color:#fff}
+.skin-b .brand h1{font-size:2.35rem;color:#fff}
+.hero .brand{padding-right:46px}
 .skin-b .board{position:relative;z-index:1;display:flex;justify-content:space-between;align-items:center;gap:12px;background:#050c1c;border:2px solid #e9b949;border-radius:12px;padding:10px 12px}
 .board .bk{font:700 .72rem var(--display);letter-spacing:.18em;text-transform:uppercase;color:#e9b949}
 .board .bm{font:700 1.25rem/1.1 var(--display);text-transform:uppercase;letter-spacing:.03em}
@@ -339,19 +340,9 @@ nav.teams .dot{width:8px;height:8px}
     hero.appendChild(board);
     if (cal) hero.appendChild(cal);
     hero.insertAdjacentHTML("beforeend", '<div class="hstripe" aria-hidden="true"></div>');
-    const sw = document.createElement("button");
-    sw.type = "button"; sw.className = "skinbtn";
-    header.appendChild(sw);
-    let skin = "a";
-    try { skin = localStorage.getItem("mcc-skin") || "a"; } catch (e) {}
-    const apply = () => {
-      document.body.classList.toggle("skin-a", skin === "a");
-      document.body.classList.toggle("skin-b", skin === "b");
-      sw.textContent = skin === "a" ? "Stile: Stadio" : "Stile: Tabellone";
-      sw.setAttribute("aria-label", "Cambia stile dell'intestazione (ora " + (skin === "a" ? "Stadio" : "Tabellone") + ")");
-      tick();
-    };
-    sw.addEventListener("click", () => { skin = skin === "a" ? "b" : "a"; try { localStorage.setItem("mcc-skin", skin); } catch (e) {} apply(); });
+    const skin = "b";
+    document.body.classList.add("skin-b");
+    const apply = () => tick();
     function tick() {
       if (skin !== "b") { board.innerHTML = ""; return; }
       const lv = liveNow()[0];
