@@ -3,7 +3,7 @@ on:
   schedule:
     - cron: "*/5 * * * *"
   push:
-    paths: ["index.html", "scripts/update.py"]
+    paths: ["index.html", "scripts/**"]
   workflow_dispatch:
 permissions:
   contents: write
