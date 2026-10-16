@@ -192,10 +192,13 @@
       return `<a class="ai" style="--c:${T[n.t0]}" href="${esc(n.u)}" target="_blank" rel="noopener"><span class="bdg" aria-hidden="true">${AB[n.t0]}</span><span class="at"><span class="tt">${esc(n.t)}</span><small>${n.off ? "<b>Ufficiale</b> · " : ""}${esc(n.off ? N[n.t0] : (n.s || ""))}${when ? " · " + when : ""}</small></span></a>`;
     };
     const shown = NEWS_OPEN ? all : all.slice(0, 3);
-    sec.innerHTML = `<h2>Notizie</h2>${shown.map(item).join("")}` +
+    sec.innerHTML = `<h2>Notizie${NEWS_OPEN ? `<button type="button" class="anx" aria-label="Chiudi le notizie">Chiudi ✕</button>` : ""}</h2>${shown.map(item).join("")}` +
       (all.length > 3 ? `<button type="button" class="anb">${NEWS_OPEN ? "Mostra meno" : "Mostra tutte (" + all.length + ")"}</button>` : "");
+    const close = () => { NEWS_OPEN = false; renderHl(); const y = sec.getBoundingClientRect().top + scrollY - 8; if (y < scrollY) scrollTo({ top: y }); };
+    const x = sec.querySelector(".anx");
+    if (x) x.addEventListener("click", close);
     const btn = sec.querySelector(".anb");
-    if (btn) btn.addEventListener("click", () => { NEWS_OPEN = !NEWS_OPEN; renderHl(); if (!NEWS_OPEN) sec.scrollIntoView({ block: "start" }); });
+    if (btn) btn.addEventListener("click", () => { if (NEWS_OPEN) close(); else { NEWS_OPEN = true; renderHl(); } });
   };
   const _rn = renderNext;
   renderNext = function () { _rn(); decorate(); };
@@ -204,13 +207,15 @@
   const css = document.createElement("style");
   css.textContent = `.nx .lv{font-variant-numeric:tabular-nums}.nx .lv .lclk{font-family:var(--body);font-weight:600;font-size:.72rem;letter-spacing:0;text-transform:none;color:var(--muted);margin-left:2px}
 .an{display:flex;flex-direction:column}
-.an h2{font-family:var(--display);font-weight:600;font-size:.85rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 4px;padding-bottom:6px;border-bottom:1px solid var(--line)}
+.an h2{position:sticky;top:0;z-index:3;background:var(--bg);display:flex;justify-content:space-between;align-items:center;padding-top:6px;font-family:var(--display);font-weight:600;font-size:.85rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 4px;padding-bottom:6px;border-bottom:1px solid var(--line)}
 .ai{display:grid;grid-template-columns:auto minmax(0,1fr);gap:10px;align-items:center;padding:8px 0 8px 10px;border-bottom:1px solid var(--line);border-left:3px solid var(--c);color:var(--fg);text-decoration:none}
 .ai .tt{font-size:.9rem;font-weight:500;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .ai small{display:block;font-size:.74rem;color:var(--muted);margin-top:2px}
 .ai small b{color:var(--c);font-weight:600}
 .ai:hover .tt,.ai:focus-visible .tt{text-decoration:underline}
 .ai:focus-visible{outline:2px solid var(--c);outline-offset:2px}
+.anx{all:unset;cursor:pointer;font:700 .78rem var(--display);letter-spacing:.08em;text-transform:uppercase;color:var(--bg);background:var(--fg);border-radius:999px;padding:6px 12px}
+.anx:focus-visible{outline:2px solid var(--como);outline-offset:2px}
 .anb{all:unset;cursor:pointer;align-self:center;margin-top:10px;font:700 .8rem var(--display);letter-spacing:.08em;text-transform:uppercase;color:var(--fg);border:1.5px solid var(--line);border-radius:999px;padding:7px 16px}
 .anb:focus-visible{outline:2px solid var(--como);outline-offset:2px}
 .hl .hps{font-family:var(--display);font-weight:600;font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:10px 0 2px}
