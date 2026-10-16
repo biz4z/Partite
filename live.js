@@ -294,7 +294,7 @@ nav.teams .dot{width:8px;height:8px}
 .ctier{display:flex;flex-direction:column;align-items:center;gap:4px;padding:12px 6px;border-radius:14px;background:#0b1a3a;color:#fff;text-decoration:none;border:2px solid transparent}
 .ctier:hover,.ctier:focus-visible{border-color:#e9b949;outline:none}
 .ctier .ci{font-size:1.6rem;line-height:1}
-.ctier .cn{font:600 .78rem/1.15 var(--display);letter-spacing:.04em;text-transform:uppercase;min-height:2.3em;display:flex;align-items:center}
+.ctier .cn{font:600 .78rem/1.15 var(--display);letter-spacing:.04em;text-transform:uppercase;display:flex;align-items:center;font-size:1rem}
 .ctier .ce{font:700 1.05rem var(--display);color:#0b1a3a;background:#e9b949;border-radius:999px;padding:2px 12px}
 .coffee small{font-size:.72rem;color:var(--muted)}
 /* tema giorno "Ghiaccio" (di sera resta il tema scuro) */
@@ -420,8 +420,8 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
     const c = document.createElement("section");
     c.id = "coffee"; c.className = "coffee";
     const R = "https://revolut.me/mauirock";
-    const T3 = [["🚗", "Trasferta in regione", 3], ["🚌", "Trasferta al Sud", 8], ["✈️", "Trasferta europea", 20]];
-    c.innerHTML = `<h2>Sempre presenti. Anche qui.</h2><p class="cs">MCC Fans è gratis e senza pubblicità. Se ci sei sempre, fallo sentire.</p>` +
+    const T3 = [["🍺", "Una", 3], ["🍻", "Due", 6], ["🍻", "Giro", 15]];
+    c.innerHTML = `<h2>Offrici una birra</h2><p class="cs">MCC Fans è gratis e senza pubblicità. Se ti è utile, il giro lo offri tu? 🍻</p>` +
       `<div class="ctiers">${T3.map(([i, n, e]) => `<a class="ctier" href="${R}" target="_blank" rel="noopener"><span class="ci" aria-hidden="true">${i}</span><span class="cn">${n}</span><span class="ce">${e} €</span></a>`).join("")}</div>` +
       `<small>Si apre Revolut: inserisci l'importo e conferma.</small>`;
     wrap.appendChild(c);
