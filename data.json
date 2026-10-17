@@ -78,233 +78,8 @@
   }
  },
  "cantu": {
-  "games": [
-   {
-    "date": "2026-09-26",
-    "time": "20:00",
-    "home": "Venezia",
-    "away": "Cantù",
-    "score": "85-73"
-   },
-   {
-    "date": "2026-10-05",
-    "time": "20:00",
-    "home": "Cantù",
-    "away": "Udine",
-    "score": "84-85"
-   },
-   {
-    "date": "2026-10-11",
-    "time": "17:00",
-    "home": "Cantù",
-    "away": "Napoli",
-    "score": "80-99"
-   },
-   {
-    "date": "2026-10-18",
-    "time": "18:00",
-    "home": "Trieste",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-10-25",
-    "time": "18:30",
-    "home": "Reggio Emilia",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-11-02",
-    "time": "20:30",
-    "home": "Cantù",
-    "away": "Olimpia Milano",
-    "score": ""
-   },
-   {
-    "date": "2026-11-08",
-    "time": "16:00",
-    "home": "Maxima Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-11-15",
-    "time": "17:30",
-    "home": "Cantù",
-    "away": "Tortona",
-    "score": ""
-   },
-   {
-    "date": "2026-11-22",
-    "time": "17:30",
-    "home": "Scafati",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-06",
-    "time": "16:00",
-    "home": "Cantù",
-    "away": "Varese",
-    "score": ""
-   },
-   {
-    "date": "2026-12-13",
-    "time": "",
-    "home": "Verona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-20",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trento",
-    "score": ""
-   },
-   {
-    "date": "2026-12-27",
-    "time": "",
-    "home": "BC Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-03",
-    "time": "",
-    "home": "Cantù",
-    "away": "Treviso",
-    "score": ""
-   },
-   {
-    "date": "2027-01-10",
-    "time": "",
-    "home": "Virtus Bologna",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-17",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trieste",
-    "score": ""
-   },
-   {
-    "date": "2027-01-24",
-    "time": "",
-    "home": "Udine",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-31",
-    "time": "",
-    "home": "Cantù",
-    "away": "Verona",
-    "score": ""
-   },
-   {
-    "date": "2027-02-07",
-    "time": "",
-    "home": "Varese",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-02-14",
-    "time": "",
-    "home": "Cantù",
-    "away": "BC Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-07",
-    "time": "",
-    "home": "Cantù",
-    "away": "Maxima Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-14",
-    "time": "",
-    "home": "Treviso",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-03-21",
-    "time": "",
-    "home": "Cantù",
-    "away": "Scafati",
-    "score": ""
-   },
-   {
-    "date": "2027-03-27",
-    "time": "",
-    "home": "Trento",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-04",
-    "time": "",
-    "home": "Cantù",
-    "away": "Reggio Emilia",
-    "score": ""
-   },
-   {
-    "date": "2027-04-11",
-    "time": "",
-    "home": "Tortona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-18",
-    "time": "",
-    "home": "Cantù",
-    "away": "Virtus Bologna",
-    "score": ""
-   },
-   {
-    "date": "2027-04-25",
-    "time": "",
-    "home": "Olimpia Milano",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-05-02",
-    "time": "",
-    "home": "Cantù",
-    "away": "Venezia",
-    "score": ""
-   },
-   {
-    "date": "2027-05-09",
-    "time": "",
-    "home": "Napoli",
-    "away": "Cantù",
-    "score": ""
-   }
-  ],
-  "standing": {
-   "pos": 15,
-   "pts": 0,
-   "g": 3,
-   "up": {
-    "n": "Trieste",
-    "pos": 14,
-    "pts": 0
-   },
-   "dn": {
-    "n": "Scafati",
-    "pos": 16,
-    "pts": 0
-   }
-  }
+  "games": [],
+  "standing": null
  },
  "news": {
   "milan": [
@@ -439,13 +214,6 @@
    },
    {
     "d": "2026-10-16",
-    "h": "04:00",
-    "t": "A 4^A: PallTS-Cantù è uno spareggio di quota zero",
-    "s": "Vale Tal Gei",
-    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYzBrWmgzM2sySFVRdmI1Ykl0dmlzamFELTJ6ZG1uekl3YnVqM01HcG9uNHhVQ3ZrRUhqTlo1T2hZeGtvWUkya3Q0Q2FRU3BqMlNCM3pSb0pLWDRZRk1ZSzZvOTExbW9wbE9zZzhyYXpDS2U0RlVQR2QyMjRsakRKbA?oc=5"
-   },
-   {
-    "d": "2026-10-16",
     "h": "02:20",
     "t": "Pallacanestro Cantù 26-27: giocatori sotto contratto, durate e mercato",
     "s": "Backdoorpodcast.com",
@@ -464,6 +232,13 @@
     "t": "FOCUS BM / Le difficoltà di Pallacanestro Cantù e la necessità di una scossa nell'anno del 90esimo - Di Martino Cavigioli",
     "s": "Basket Magazine",
     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZDU2WGpub2d5UnFrQXFPYlVsa2czUHU0TDhsTzhXM0J2TkVlNklQeE9JZ2stcEZEajY3RXFRcjFnWl8wOXRwR1RpUWhsX0tDb0lUSmk1ZVllemliLUpMOTAtc3lVUFJteU9sTjlwY0xxZGpEM2JIRGtiTXg4cVZDcjFFRjFCMlVTSkwtbmd3TjNYMGpuZnFtSlVuQnJGQ0o2bk5MRHprQ0FKVXZyVzE5RTIyMml6a2x3cEVoUTBWSkFOQXhPMlBiYklfQWVVSWxYd3VqRGYxdnl2Yy1i?oc=5"
+   },
+   {
+    "d": "2026-10-15",
+    "h": "18:00",
+    "t": "Ex oratorio San Teodoro, per Pgc e Cantù Next l’ultimatum è a febbraio",
+    "s": "La Provincia di Como",
+    "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ1NIbjlZclNCb2tINjJ0TC15YmhQTjEzbzZZWjE1MHVIRUtOajcwWmkyTnRGMFVhMWN3UGduWnJfUUhCRjk2a2lxc0FTblpOWnFxc0EtbzJkTEdGclhXQXNqLXZuMkVMd1RRMnhrRVJwRmdOc2RRZk5NV2wxeTVHeHZHQ3htSW1nRXgtVDVxcExQTVhmeXlLWTdDVnE3NmhqV3IzYTV5WTFiRFBIZ3VYXzBCaXl4Zmx1ZGxzVWdNLTFIaGdEQkRWZ3dXNGw3TmNMbkVERTg2MGJFQ1BzVnc?oc=5"
    }
   ],
   "como": [
@@ -943,15 +718,15 @@
    "2": 51
   }
  },
- "updated": "2026-10-17T01:43:45+00:00",
+ "updated": "2026-10-17T02:09:17+00:00",
  "log": [
   "classifica milan 6 12",
   "classifica como 8 11",
   "classifica milan_eu 16 3",
   "classifica como_eu 12 3",
-  "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 3, 'up': {'n': 'Trieste', 'pos': 14, 'pts': 0}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
+  "cantu 0 partite None",
   "notizie milan 3",
-  "notizie cantu 3",
+  "notizie cantu 0",
   "notizie como 1",
   "stampa milan 8",
   "stampa cantu 8",
