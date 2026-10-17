@@ -78,8 +78,233 @@
   }
  },
  "cantu": {
-  "games": [],
-  "standing": null
+  "games": [
+   {
+    "date": "2026-09-26",
+    "time": "20:00",
+    "home": "Venezia",
+    "away": "Cantù",
+    "score": "85-73"
+   },
+   {
+    "date": "2026-10-05",
+    "time": "20:00",
+    "home": "Cantù",
+    "away": "Udine",
+    "score": "84-85"
+   },
+   {
+    "date": "2026-10-11",
+    "time": "17:00",
+    "home": "Cantù",
+    "away": "Napoli",
+    "score": "80-99"
+   },
+   {
+    "date": "2026-10-18",
+    "time": "18:00",
+    "home": "Trieste",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-10-25",
+    "time": "18:30",
+    "home": "Reggio Emilia",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-11-02",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Olimpia Milano",
+    "score": ""
+   },
+   {
+    "date": "2026-11-08",
+    "time": "16:00",
+    "home": "Maxima Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-11-15",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Tortona",
+    "score": ""
+   },
+   {
+    "date": "2026-11-22",
+    "time": "17:30",
+    "home": "Scafati",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home": "Cantù",
+    "away": "Varese",
+    "score": ""
+   },
+   {
+    "date": "2026-12-13",
+    "time": "",
+    "home": "Verona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-20",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trento",
+    "score": ""
+   },
+   {
+    "date": "2026-12-27",
+    "time": "",
+    "home": "BC Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-03",
+    "time": "",
+    "home": "Cantù",
+    "away": "Treviso",
+    "score": ""
+   },
+   {
+    "date": "2027-01-10",
+    "time": "",
+    "home": "Virtus Bologna",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-17",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trieste",
+    "score": ""
+   },
+   {
+    "date": "2027-01-24",
+    "time": "",
+    "home": "Udine",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-31",
+    "time": "",
+    "home": "Cantù",
+    "away": "Verona",
+    "score": ""
+   },
+   {
+    "date": "2027-02-07",
+    "time": "",
+    "home": "Varese",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-02-14",
+    "time": "",
+    "home": "Cantù",
+    "away": "BC Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-07",
+    "time": "",
+    "home": "Cantù",
+    "away": "Maxima Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-14",
+    "time": "",
+    "home": "Treviso",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-03-21",
+    "time": "",
+    "home": "Cantù",
+    "away": "Scafati",
+    "score": ""
+   },
+   {
+    "date": "2027-03-27",
+    "time": "",
+    "home": "Trento",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-04",
+    "time": "",
+    "home": "Cantù",
+    "away": "Reggio Emilia",
+    "score": ""
+   },
+   {
+    "date": "2027-04-11",
+    "time": "",
+    "home": "Tortona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-18",
+    "time": "",
+    "home": "Cantù",
+    "away": "Virtus Bologna",
+    "score": ""
+   },
+   {
+    "date": "2027-04-25",
+    "time": "",
+    "home": "Olimpia Milano",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-05-02",
+    "time": "",
+    "home": "Cantù",
+    "away": "Venezia",
+    "score": ""
+   },
+   {
+    "date": "2027-05-09",
+    "time": "",
+    "home": "Napoli",
+    "away": "Cantù",
+    "score": ""
+   }
+  ],
+  "standing": {
+   "pos": 15,
+   "pts": 0,
+   "g": 3,
+   "up": {
+    "n": "Trieste",
+    "pos": 14,
+    "pts": 0
+   },
+   "dn": {
+    "n": "Scafati",
+    "pos": 16,
+    "pts": 0
+   }
+  }
  },
  "news": {
   "milan": [
@@ -154,6 +379,13 @@
    },
    {
     "d": "2026-10-17",
+    "h": "21:57",
+    "t": "Serie A: per i bookie Milan in pole per sfatare il tabù Atalanta, la Dea (a 4,35) punta il terzo colpo consecutivo a San Siro",
+    "s": "Agipronews",
+    "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTUhveGZxSk1PTjRGUWdaQm5IaXFhSW9QTzl4bUhqUzBfM05BQlRnUm5PQ2VQMkk4dUJXUG55a2dGa0NXLVJqTUd6dU5BUTVhQ3JydzZjeTZoLTE5LVF3bGZETGVkYUU3OGVLUWZIZTZNeTNObGZTSWVZY3M5MDc5ajhBR2FRaDItQlNQSDZSanZZZklIdktRYkd3LVBVcHozWTlwSWdnQXVwcUtBX0lwSjZSUFNkWTFpTjhza3REeG9EV1ZCRmEwd0lVQy02RHFXVllteUk5NlBYdjZCX2V5OWxqZ2Z1M2M?oc=5"
+   },
+   {
+    "d": "2026-10-17",
     "h": "21:00",
     "t": "De Ketelaere e Pašalić: campioni con l'Atalanta dopo la parentesi al Milan",
     "s": "DerbyDerbyDerby",
@@ -179,16 +411,16 @@
     "t": "Statistiche Milan - Bologna: Risultati Calcio",
     "s": "www.eurosport.it",
     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX0x1cVZPVWNHYUpFZmkxN2wxTmcyVWRyOU1MaGQ0amd3RVMwR3Z1UFZnOEVhMm9iRlN3Qi1jM2kzV0pCVGc4eFBPX0o2OE1Ya1g2Xzd0c1ZybTYtLVVoYlhnMGpTNFF4cUY1RlFhemw1eHJvQndmMXZiMmM5ZFBoX3pCdjQ4V0ljU3NDTTRQN0c1Y0dGRTdN?oc=5"
-   },
-   {
-    "d": "2026-10-17",
-    "h": "19:44",
-    "t": "Formazioni Udinese - Milan: Serie A Calcio",
-    "s": "www.eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaklfaFNFUE9RYmRTYTd2UWhvQVM5eHZ1bjlFdHFMeDY5bzBQS0VEVkttVHN2MFZRNjZFUTd3YmVheFNfMUtkeTljNXQ4NzNDVjY1Q2JkVll4TXZOQmxxUDdqd0l4ZmR2anFYUkdWbFQ0cWpKY0NqV001ZEtVZWR5SjF1M3ZVdXZkZWxCbVFMSW15Q1pBYm1ZMA?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-10-17",
+    "h": "19:44",
+    "t": "Trieste - Cantù Altre partite: Live Basket Aggiornamenti",
+    "s": "eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckc0Z3dJR204LW9zRnNMM3Z1X2l3WXJoak9PWXZnVWhtU3pxT2pya2ZpM1o0RE5xa25JOGdrdW9wWlVGMFo5ZWE0c2s3SU5sZWtFczhPYWc5bi1tVEhMUnF3YW9RTkhEVGxWejdWUVQ0cFFHbWNzUlRycUxPRVNCSTFTamNoRldwSEptVktha0VycWNuQTc4dVUzSDd5SVhT?oc=5"
+   },
    {
     "d": "2026-10-17",
     "h": "13:37",
@@ -237,13 +469,6 @@
     "t": "Anticipo di fuoco a Trieste con l'arrivo della Pallacanestro Cantù: chi cancellerà lo zero?",
     "s": "Pianeta Basket",
     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSmlyaDFzR1lBRzFmNUh2VV9MOUpxRDZIcG5iaXFiWkpWVWpPSTFSalllTFVWcGIzdmx6X0Fqb0ZnekhJdXdnQnNMWE1GTEF4VHlEOHQxZ2VNb0ZRdU9YR3BzVmdWMzhqakdlekxld2NuXzk3M3NVZmE2X3lYZ2dmQ2lzMFNLN3NoYUdiM0xUY0k0MU5SUTAwYnRGQ1dZbThoeTFpdllONGxlMGRuNjBaT0RCZ2ZLTHVUU3V4Y2x1RWIzNGc3SnoxR2toMUxZS25xQU13?oc=5"
-   },
-   {
-    "d": "2026-10-16",
-    "h": "15:00",
-    "t": "«Cantù, niente panico. Mi pesò andare a Milano e ricordo certi cori...»",
-    "s": "La Provincia di Como",
-    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGJKOVBNdEprV2VOY0x5alJEa3pONXJmWUQwdzNGaHJuc0I1eG9sSTYyNVduMkNCNEhfZzNacEJfaHlITlc0YnJvTTBqSlhHV2hOQTZWRGxQTHliZHpGeHByc3dHdkVmSE9na3RWR3pCUlp6aWRRLUxKcEJwd3VkcVg3YlE5ZVlUUXcweEVPdGF0WkNCRll0cndOejJBdTB5cXlnc2R6UHhFbFhvc1FIRWh5T2VlMTJ1aEtaWWNTd0xGUnhSQXZOMXU0d1lhUQ?oc=5"
    }
   ],
   "como": [
@@ -291,17 +516,17 @@
    },
    {
     "d": "2026-10-17",
-    "h": "17:57",
-    "t": "Polizia sotto organico nella Como dei grandi eventi. L’appello degli agenti: “Servizi a rischio\"",
-    "s": "Espansione TV",
-    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFBodFJlQmxzQXd6ZXExdnpQX0NFMUdHbFBLSUdfVkthQmUwRHRCbGdaaG1waTBiU0VSVFZlakZtazVSZ1JpNXE2S1F6MXc3ODl2WlRPTmpWdk5LQ01mMm1ZNERwTzBPYjZUM2RScGstTzZSWmFRSkhtZHlqb3o4UENuNmRlbFJBYTZwX0JrUS0ySHZsQlpNb2xadGkxWFJjMXM3eDdlc19wUjFycy1LZFNZS1ZIOFR3MDFSOVl6eGVRM0EyRWhqeE82bw?oc=5"
-   },
-   {
-    "d": "2026-10-17",
     "h": "16:57",
     "t": "Como Passport è ufficialmente",
     "s": "Como 1907",
     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZHVuVmU0OVNhVV9VUkhQYW1kRmdOdkJ1Ml8yMUZmVXUydkttWW1Fc0x2VEMzREVlbjhvb3lmV3BrSTAwRHZjLXhlcUxOX2tGdTZrckZlMUJueXhGeUpaWEc1aXp2bzFCRk1vcm45c0FON2loWDYtTFNjeXpnWExVaHpJbEVvTmR1YmxXeEI5bDNBcmczWl9UOTdyQnVYSG5MN0hZbWZIdGRQNFM3QlNYX2NfME1SZXVRQ1FOTktlSE43UGpZYlhtakliWlEzSktEOVZXZmpfckFQQW8?oc=5"
+   },
+   {
+    "d": "2026-10-17",
+    "h": "15:41",
+    "t": "Statistiche Fiorentina - Como: Risultati Calcio",
+    "s": "www.eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS1FtMnAxZWxXVTR5Wm55bjVfc0RrTmp1REx4QnJIaUhHRG5ZRVZQbWF1ZUlLeUszbWpUVjJ2bm4zY1kzajVKMWJ4QnRRXzJFazY4WXVWSmJRS3lhWGV2eDRmQ2ZqdmZyRlNpaWlBNVZYYktXb1dzcktjVkFGUW0xTlpkRzZwWWp0Q3NKeXlkTnNQR0NZU1g1MlpwYTZEVnJK?oc=5"
    }
   ]
  },
@@ -723,7 +948,7 @@
    "2": 52
   }
  },
- "updated": "2026-10-17T22:13:58+00:00",
+ "updated": "2026-10-17T22:39:15+00:00",
  "log": [
   "non finita Fiorentina – Como STATUS_SCHEDULED",
   "non finita Milan – Atalanta STATUS_SCHEDULED",
@@ -731,9 +956,9 @@
   "classifica como 8 11",
   "classifica milan_eu 16 3",
   "classifica como_eu 12 3",
-  "cantu 0 partite None",
+  "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 3, 'up': {'n': 'Trieste', 'pos': 14, 'pts': 0}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
   "notizie milan 3",
-  "notizie cantu 0",
+  "notizie cantu 3",
   "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
