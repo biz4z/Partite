@@ -78,8 +78,233 @@
   }
  },
  "cantu": {
-  "games": [],
-  "standing": null
+  "games": [
+   {
+    "date": "2026-09-26",
+    "time": "20:00",
+    "home": "Venezia",
+    "away": "Cantù",
+    "score": "85-73"
+   },
+   {
+    "date": "2026-10-05",
+    "time": "20:00",
+    "home": "Cantù",
+    "away": "Udine",
+    "score": "84-85"
+   },
+   {
+    "date": "2026-10-11",
+    "time": "17:00",
+    "home": "Cantù",
+    "away": "Napoli",
+    "score": "80-99"
+   },
+   {
+    "date": "2026-10-18",
+    "time": "18:00",
+    "home": "Trieste",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-10-25",
+    "time": "18:30",
+    "home": "Reggio Emilia",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-11-02",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Olimpia Milano",
+    "score": ""
+   },
+   {
+    "date": "2026-11-08",
+    "time": "16:00",
+    "home": "Maxima Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-11-15",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Tortona",
+    "score": ""
+   },
+   {
+    "date": "2026-11-22",
+    "time": "17:30",
+    "home": "Scafati",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home": "Cantù",
+    "away": "Varese",
+    "score": ""
+   },
+   {
+    "date": "2026-12-13",
+    "time": "",
+    "home": "Verona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-20",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trento",
+    "score": ""
+   },
+   {
+    "date": "2026-12-27",
+    "time": "",
+    "home": "BC Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-03",
+    "time": "",
+    "home": "Cantù",
+    "away": "Treviso",
+    "score": ""
+   },
+   {
+    "date": "2027-01-10",
+    "time": "",
+    "home": "Virtus Bologna",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-17",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trieste",
+    "score": ""
+   },
+   {
+    "date": "2027-01-24",
+    "time": "",
+    "home": "Udine",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-31",
+    "time": "",
+    "home": "Cantù",
+    "away": "Verona",
+    "score": ""
+   },
+   {
+    "date": "2027-02-07",
+    "time": "",
+    "home": "Varese",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-02-14",
+    "time": "",
+    "home": "Cantù",
+    "away": "BC Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-07",
+    "time": "",
+    "home": "Cantù",
+    "away": "Maxima Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-14",
+    "time": "",
+    "home": "Treviso",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-03-21",
+    "time": "",
+    "home": "Cantù",
+    "away": "Scafati",
+    "score": ""
+   },
+   {
+    "date": "2027-03-27",
+    "time": "",
+    "home": "Trento",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-04",
+    "time": "",
+    "home": "Cantù",
+    "away": "Reggio Emilia",
+    "score": ""
+   },
+   {
+    "date": "2027-04-11",
+    "time": "",
+    "home": "Tortona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-18",
+    "time": "",
+    "home": "Cantù",
+    "away": "Virtus Bologna",
+    "score": ""
+   },
+   {
+    "date": "2027-04-25",
+    "time": "",
+    "home": "Olimpia Milano",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-05-02",
+    "time": "",
+    "home": "Cantù",
+    "away": "Venezia",
+    "score": ""
+   },
+   {
+    "date": "2027-05-09",
+    "time": "",
+    "home": "Napoli",
+    "away": "Cantù",
+    "score": ""
+   }
+  ],
+  "standing": {
+   "pos": 15,
+   "pts": 0,
+   "g": 3,
+   "up": {
+    "n": "Trieste",
+    "pos": 14,
+    "pts": 0
+   },
+   "dn": {
+    "n": "Scafati",
+    "pos": 16,
+    "pts": 0
+   }
+  }
  },
  "news": {
   "milan": [
@@ -128,6 +353,20 @@
   "milan": [
    {
     "d": "2026-10-17",
+    "h": "16:37",
+    "t": "Milan-Atalanta, le probabili formazioni della partita di Serie A",
+    "s": "Sky Sport",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUE8wbV80TlVTN0UwSnlQV0JsMnJZUEZYdzNxdGxFc0RMWVVJNHA1a3ZxLXV2cG56T1phd21uX19nYWNTbGprckRCUHZYSG9FcTlNeGtCSko2SmNvcnBYajg1ZWhwVW4tMW5JM1dJTmF6Wkc2WGpmSDRpUi0yaUN1MlR5cXhVTjRRcXlTSUUtc3l6MElYQXF1Vw?oc=5"
+   },
+   {
+    "d": "2026-10-17",
+    "h": "16:15",
+    "t": "Serie A: per i bookie Milan in pole per sfatare il tabù Atalanta, la Dea (a 4,35) punta il terzo colpo consecutivo a San Siro",
+    "s": "Agipronews",
+    "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTUhveGZxSk1PTjRGUWdaQm5IaXFhSW9QTzl4bUhqUzBfM05BQlRnUm5PQ2VQMkk4dUJXUG55a2dGa0NXLVJqTUd6dU5BUTVhQ3JydzZjeTZoLTE5LVF3bGZETGVkYUU3OGVLUWZIZTZNeTNObGZTSWVZY3M5MDc5ajhBR2FRaDItQlNQSDZSanZZZklIdktRYkd3LVBVcHozWTlwSWdnQXVwcUtBX0lwSjZSUFNkWTFpTjhza3REeG9EV1ZCRmEwd0lVQy02RHFXVllteUk5NlBYdjZCX2V5OWxqZ2Z1M2M?oc=5"
+   },
+   {
+    "d": "2026-10-17",
     "h": "15:43",
     "t": "Chi è Cisse la nuova stella Milan: «Sua madre lo accompagnava agli allenamenti in bus, Alpha segnava pure da calcio d'angolo»",
     "s": "Corriere della Sera",
@@ -167,20 +406,6 @@
     "t": "Milan, Cardinale vuole Tresoldi: il prezzo supera i 50 milioni",
     "s": "Europa Calcio",
     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHhtR184X3BTckw5dGt2UV9HVFEyTUlpbjJZS3dzSGxrNDFFRG9WdC1mTEhWVUhxbHFOYVhVVnNWSDdxYjRMVWpONUFoanRrUEtKWm9tZUJFU1dqcGtVYlNucU1KYmJ3Q2JGeERSN3pRSTZZczdWMUhOUmtsdzdjZXZzTQ?oc=5"
-   },
-   {
-    "d": "2026-10-17",
-    "h": "11:15",
-    "t": "Il Milan piomba su Tresoldi: Cardinale vuole il “giustiziere” dell’Inter",
-    "s": "TaorminaNews24",
-    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEVyeXYxbXo2TzRaVDZWUVZtYnNaZlhCMlIyalljSTJ6cWF5a25jY2pCcTZkcElhYXdVVHJyeFR1VUNKQ3JfTjZFSUk5V2xsSVVvRlBfT0RGaHpSenpwRE15OXgzd0k3ekJUbjE1MGNQYkp6S29nVjduS3NnUGRVZ29ESUk?oc=5"
-   },
-   {
-    "d": "2026-10-17",
-    "h": "10:51",
-    "t": "L’Atalanta oggi compie 119 anni, il primo colore fu il bianconero. E domenica c’è il Milan a San Siro",
-    "s": "Quotidiano Sportivo",
-    "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQUdBaEY0OGVKREpIOGN6NThQdzdMZl8xN09YTEpOaWZnU2Vjd0VCM3VkRjhwbkgxM1RvMkxGYnhrRkxTM2I1cEdYWGlyendTc2FBamNMNlZPUms0N0sycldIMS1XVlA5UE9WUktpNjNlaEJ6dzA4WlFReWdCclVzLWZWM1F3UVNzOUZ0alhpTDh0cG9hYlNvQ1MzLUNzcW5tNGpjV0FxMWdZRi1fYjVzbVBhRTJMdktwYlM5UnU0RVhkRVVWazEyc3F4X1RfWW03cE9Fd2dPeXpTeFoyWGRBWXVrT0NBUQ?oc=5"
    }
   ],
   "cantu": [
@@ -220,6 +445,13 @@
     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT0VMTHBlWmUxQVRZWTRIWG5jR2wzQXprdnNHMUI4aXVjZlFVZzhnMWRwOEhRTVZnUWc2am5vTDMxU1laUTFqY0ZCcWRrMnowdUJYRXJDNGlQcldabmNrQS1KcUMyWFY0SFBxM0VYZzhCRjlzWjI3RGd3SHVJZ3NPanAtXzVpVFl2MjZ4LXIyb0FvWDRJS3VTR1BQQ3NXdzRNYUFuX1ZGM0hWcEtIbG5WTUFnanlvSTZEcXRwQ2owTlB2R3RCdktlYWxlclNHaEVTUUpMSXNnVkdvVU9zZ3NYRThIeVpmNXhtb2ZuN3lKT0VEakpm?oc=5"
    },
    {
+    "d": "2026-10-17",
+    "h": "05:35",
+    "t": "Gorla Energia Cantù vs APU PrimaCassa FVG Udine Girone A",
+    "s": "Lega Basket",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY1Q5SU9FcXhmMDZtbzd6TTFCMDJacXRLeWFFMTFQQVBKYkVJUGFvakdKTWJTcGIwWTNwVk1aVzMxTUpYUWZlVzlCYkVMajMxekM5TGJjdGFBb3VvN215Wl9BZ2J3UVp5bVEyZ0xvNVkweHhWVmM2UFRNR1d5Nk8tZ2FQcjI3bnNyaXV2eENqZw?oc=5"
+   },
+   {
     "d": "2026-10-16",
     "h": "16:35",
     "t": "Anticipo di fuoco a Trieste con l'arrivo della Pallacanestro Cantù: chi cancellerà lo zero?",
@@ -232,16 +464,16 @@
     "t": "«Cantù, niente panico. Mi pesò andare a Milano e ricordo certi cori...»",
     "s": "La Provincia di Como",
     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGJKOVBNdEprV2VOY0x5alJEa3pONXJmWUQwdzNGaHJuc0I1eG9sSTYyNVduMkNCNEhfZzNacEJfaHlITlc0YnJvTTBqSlhHV2hOQTZWRGxQTHliZHpGeHByc3dHdkVmSE9na3RWR3pCUlp6aWRRLUxKcEJwd3VkcVg3YlE5ZVlUUXcweEVPdGF0WkNCRll0cndOejJBdTB5cXlnc2R6UHhFbFhvc1FIRWh5T2VlMTJ1aEtaWWNTd0xGUnhSQXZOMXU0d1lhUQ?oc=5"
-   },
-   {
-    "d": "2026-10-16",
-    "h": "09:02",
-    "t": "Pallacanestro Cantù, infortunio per Simone Ventura: salterà sicuramente Trieste",
-    "s": "Sportando",
-    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5d0ZkZmFwbWgxLTJpS0dmcWhqdVVsV1dBblgzQkk0UjdxdTV6aHJtMGFqazBpTzhaWGpXN2RxNjI2bFpZV3FKNzltbTNyLTE5UUYwM1o2dTJ0RkdDQmNxOHVTdXV0WEh0TEhtdHE1RUxzTXZ1VEFBdQ?oc=5"
    }
   ],
   "como": [
+   {
+    "d": "2026-10-17",
+    "h": "16:57",
+    "t": "Como Passport è ufficialmente",
+    "s": "Como 1907",
+    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZHVuVmU0OVNhVV9VUkhQYW1kRmdOdkJ1Ml8yMUZmVXUydkttWW1Fc0x2VEMzREVlbjhvb3lmV3BrSTAwRHZjLXhlcUxOX2tGdTZrckZlMUJueXhGeUpaWEc1aXp2bzFCRk1vcm45c0FON2loWDYtTFNjeXpnWExVaHpJbEVvTmR1YmxXeEI5bDNBcmczWl9UOTdyQnVYSG5MN0hZbWZIdGRQNFM3QlNYX2NfME1SZXVRQ1FOTktlSE43UGpZYlhtakliWlEzSktEOVZXZmpfckFQQW8?oc=5"
+   },
    {
     "d": "2026-10-17",
     "h": "15:05",
@@ -290,13 +522,6 @@
     "t": "Scheda Guanzatese - Seconda Categoria Como - Girone G Lombardia",
     "s": "Tuttocampo",
     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOF96V0U0ellEcTNVeGtVR2hoMkpyWWVEUk42dnR3LS1GTWQ1WVBTSl9JTmduRlFaRFVnM0dFeU9vbFExSW5UNmd4d2V5aUFIcDAwclRkTjlDOGg2S2xKRE03OVNfY3ZtYmVJUmxvd3ZnZGlsaS1CUDJjUGtTVkRNbGw5Nk9xcDBKUmhxS1ZIZkxPcm1lbWZGa0lremQ?oc=5"
-   },
-   {
-    "d": "2026-10-17",
-    "h": "00:48",
-    "t": "Giovani e grandiosi, trionfano all’Alpha League con i colori del Como 1907",
-    "s": "ComoZero",
-    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeXcwcXU3RldfNGhpOVdSd1V0OHhkN3l3ZEFWeUFKUzdKSFd3UEl6Z3k5aGJBTmE2TmttUms4T1I1emt3enhzMVF0WE9yMTJWTTNoN09Wa2NiQUtSS1p3QXFoSDBpVElnbHBLTjE1SnIzNk0zN29lczZFeHlvUVFNRUJPX19NcGpSTkhuajVPZUVEbU10TTBKOW9MbTYzaE5mQjdxLWRQUDFYaU0xVmNWZGR4aw?oc=5"
    }
   ]
  },
@@ -718,19 +943,19 @@
    "2": 51
   }
  },
- "updated": "2026-10-17T15:56:40+00:00",
+ "updated": "2026-10-17T16:15:52+00:00",
  "log": [
   "classifica milan 6 12",
   "classifica como 8 11",
   "classifica milan_eu 16 3",
   "classifica como_eu 12 3",
-  "cantu 0 partite None",
+  "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 3, 'up': {'n': 'Trieste', 'pos': 14, 'pts': 0}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
   "notizie milan 3",
-  "notizie cantu 0",
+  "notizie cantu 3",
   "notizie como 1",
-  "ERR stampa milan HTTP Error 503: Service Unavailable",
-  "ERR stampa cantu HTTP Error 503: Service Unavailable",
-  "ERR stampa como HTTP Error 503: Service Unavailable",
+  "stampa milan 8",
+  "stampa cantu 8",
+  "stampa como 8",
   "calendario milan 32 partite future",
   "calendario como 32 partite future",
   "ERR logo cantu HTTP Error 403: Forbidden",
