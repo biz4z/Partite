@@ -416,17 +416,17 @@
   "cantu": [
    {
     "d": "2026-10-18",
+    "h": "02:40",
+    "t": "Pallacanestro Cantù - Napoli Basket: 80 - 99 tabellino campionato di Basket: Serie A Girone Unico",
+    "s": "basketmarche.it",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdVMtYURTS2JkR2xPNFhiU0FPSXFQMUpjRDRkQmd2WVJqOEVFQ3ItU21yQzY1Wm1PRFRfX2JaeFhPa01iZ3NzNHpjMzJVeGpfVFM5NlJpMjdDYXNZTzNGVG9Qd2ZRTUZkcXhLb2pNak5MWlRfX1B2UVlKNnVxTE1hbHV4NlkyWHdaZ1hDR2Ryc0x2aWE5bUZYMjhVNEs0U25YV3YtUGVBeWkyd211QWp0VmZ0QjB6RzYyS09LT05mR0xfdw?oc=5"
+   },
+   {
+    "d": "2026-10-18",
     "h": "02:01",
     "t": "A canestro dopo trent’anni: quasi conclusa l’Arena Cantù, il futuro tempio del basket",
     "s": "Il Giorno",
     "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOGMtV20yMEZjQ1dETy1CWFluVVVzTnNUeFdCWG1MLTAzOXp6WWdUWlI4TG9Yd1ZjLW9YRnY4WExXX29zUVZlcGZlSDVGTUQ1OVlza3lvbm5HeU05NmNvR2ZRWWxjUkFubFJta1VId0tIcElQZDNlNnVIZkk?oc=5"
-   },
-   {
-    "d": "2026-10-17",
-    "h": "19:44",
-    "t": "Trieste - Cantù Altre partite: Live Basket Aggiornamenti",
-    "s": "eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckc0Z3dJR204LW9zRnNMM3Z1X2l3WXJoak9PWXZnVWhtU3pxT2pya2ZpM1o0RE5xa25JOGdrdW9wWlVGMFo5ZWE0c2s3SU5sZWtFczhPYWc5bi1tVEhMUnF3YW9RTkhEVGxWejdWUVQ0cFFHbWNzUlRycUxPRVNCSTFTamNoRldwSEptVktha0VycWNuQTc4dVUzSDd5SVhT?oc=5"
    },
    {
     "d": "2026-10-17",
@@ -523,10 +523,10 @@
    },
    {
     "d": "2026-10-17",
-    "h": "15:41",
-    "t": "Statistiche Fiorentina - Como: Risultati Calcio",
-    "s": "www.eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS1FtMnAxZWxXVTR5Wm55bjVfc0RrTmp1REx4QnJIaUhHRG5ZRVZQbWF1ZUlLeUszbWpUVjJ2bm4zY1kzajVKMWJ4QnRRXzJFazY4WXVWSmJRS3lhWGV2eDRmQ2ZqdmZyRlNpaWlBNVZYYktXb1dzcktjVkFGUW0xTlpkRzZwWWp0Q3NKeXlkTnNQR0NZU1g1MlpwYTZEVnJK?oc=5"
+    "h": "15:05",
+    "t": "Live Fiorentina - Como - Serie A: Punteggi & Highlights Calcio - 18/10/2026",
+    "s": "Eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRTYwMkk2SGhDYnBkb1BGTTRLRTc1NGc0eDA0cGloRWdsckhtS1R3UnI1Rk9KN21VbWNoMTJFOXZfRTI1bFhBUmhERmQ4QXZKZldDWWVQd3BJTEJScG5UWEZBbXBhM2pMT3VydGZFTWhvalN3WjNBdXFhWjNDMktNRFRLUmhwUlZneWlXb1pNVHNoZEI3VzNLZg?oc=5"
    }
   ]
  },
@@ -948,7 +948,7 @@
    "2": 52
   }
  },
- "updated": "2026-10-18T00:09:35+00:00",
+ "updated": "2026-10-18T00:48:58+00:00",
  "log": [
   "non finita Fiorentina – Como STATUS_SCHEDULED",
   "non finita Milan – Atalanta STATUS_SCHEDULED",
