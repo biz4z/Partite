@@ -68,7 +68,7 @@
    "pts": 0,
    "g": 4,
    "up": {
-    "n": "BC Roma",
+    "n": "Tortona",
     "pos": 14,
     "pts": 2
    },
@@ -107,7 +107,7 @@
     "time": "18:00",
     "home": "Trieste",
     "away": "Cantù",
-    "score": "57-51"
+    "score": "69-56"
    },
    {
     "date": "2026-10-25",
@@ -297,7 +297,7 @@
    "pts": 0,
    "g": 4,
    "up": {
-    "n": "BC Roma",
+    "n": "Tortona",
     "pos": 14,
     "pts": 2
    },
@@ -499,13 +499,6 @@
    },
    {
     "d": "2026-10-18",
-    "h": "17:34",
-    "t": "Serie A: Fiorentina-Como finisce 1-3",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLWQtTkx6dHdWNW5pSjZtb0hRcl9kMXN0c05UUEdCNWRIWWowR3kyNWVRaEVhSTV2dHVMOXFOaEtpa2pDWFRORG9tUWVfZXotVnpwUU5JUmVDVTdvOVdBTGVWV210b05pX01oUG1NdjBtRWtEd2VZTzA2RnR5cnFLcUdoeW9vRUtaMmhoV3ZiX005am1QRXhScE1uSWhsTGtqNE16b19KZEJ1SUFwMWk5NHhZUHNLSGNkQ3VSTnZHUk9zNTRTelE4MHJfckw0M0k?oc=5"
-   },
-   {
-    "d": "2026-10-18",
     "h": "17:32",
     "t": "CALCIO- Il post partita di Fiorentina-Como 1-3",
     "s": "FirenzeViolaSuperSport Live",
@@ -524,6 +517,13 @@
     "t": "Fiorentina-Como 1-3, le pagelle della partita di Serie A",
     "s": "Sky Sport",
     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KVG1KSGtZMDBrS2piRWFndTNHSGF6YkpzQWxkcXdRVVM0RVlwaDFqNkhKeklDTFFPTDBvX0xla2xiUGRkRFVyMjJaQV9mWW53bEk5SUlnVlRyVklOSGpzaGxmcGxmbS0ycU00aXlXQjZFSk1FWmVxXzhR?oc=5"
+   },
+   {
+    "d": "2026-10-18",
+    "h": "17:19",
+    "t": "CALCIO- Le Pagelle viola di Firenze Viola Supersport per Fiorentina-Como",
+    "s": "FirenzeViolaSuperSport Live",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcTNJTGpTMVJzb1RKZUswR0lJMTRjNnQ0VEJZZnZ6cnFLRU93Q3RzWXZvOWV4RFI3Z2FMUXlmaE5NT2FnQWkwU3h6dFQ3ZEhPM3pINVFrQ21VTl9hQi1pSGZkRXdTUlRra0k3X0Q1RXJqR0tGRUN2Z21ldlliOS1PQTZvYnBRQlZLU1lCSUszRHI4SnE3ZjMwMmVTbTJVWkpCVHJJczhwTU45QkN1RFhCRUFFYTBSQ3lGdW5FeVRXeW9mNUQ2MTFrNGpRTWNNLWlBd2tGZWVEOGg?oc=5"
    }
   ]
  },
@@ -934,14 +934,14 @@
    "2": 54
   }
  },
- "updated": "2026-10-18T17:09:54+00:00",
+ "updated": "2026-10-18T17:33:50+00:00",
  "log": [
   "non finita Milan – Atalanta STATUS_SECOND_HALF",
   "classifica milan 7 12",
   "classifica como 4 14",
   "classifica milan_eu 16 3",
   "classifica como_eu 12 3",
-  "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 4, 'up': {'n': 'BC Roma', 'pos': 14, 'pts': 2}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
+  "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 4, 'up': {'n': 'Tortona', 'pos': 14, 'pts': 2}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
   "notizie milan 3",
   "notizie cantu 3",
   "notizie como 1",
