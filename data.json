@@ -313,6 +313,11 @@
   "milan": [
    {
     "d": "2026-10-18",
+    "t": "Vittoria bella e pesante, Atalanta KO",
+    "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-10-18/vittoria-bella-e-pesante-atalanta-ko"
+   },
+   {
+    "d": "2026-10-18",
     "t": "Milan-Atalanta: la presentazione",
     "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-10-18/milan-atalanta-match-preview"
    },
@@ -320,14 +325,14 @@
     "d": "2026-10-16",
     "t": "Cisse MVP di Salisburgo-Milan",
     "u": "https://www.acmilan.com/it/news/articoli/awards/2026-10-16/cisse-mvp-di-salisburgo-milan"
-   },
-   {
-    "d": "2026-10-15",
-    "t": "Poker rossonero a Salisburgo: 4-0",
-    "u": "https://www.acmilan.com/it/news/articoli/europa-league/2026-10-15/poker-rossonero-a-salisburgo-4-0"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-10-18",
+    "t": "Vitucci DOPO Trieste-Cantù: “Abbiamo subito troppo”",
+    "u": "https://pallacanestrocantu.com/vitucci-dopo-trieste-cantu-abbiamo-subito-troppo/"
+   },
    {
     "d": "2026-10-18",
     "t": "Trieste vince 92-72",
@@ -337,11 +342,6 @@
     "d": "2026-10-16",
     "t": "Coach Vitucci prima di Trieste-Cantù: “Partita importante”",
     "u": "https://pallacanestrocantu.com/coach-vitucci-prima-di-trieste-cantu-partita-importante/"
-   },
-   {
-    "d": "2026-10-16",
-    "t": "Un progetto internazionale di Mental Coaching con Mental Training Italy",
-    "u": "https://pallacanestrocantu.com/un-progetto-internazionale-di-mental-coaching-con-mental-training-italy/"
    }
   ],
   "como": [
@@ -354,6 +354,41 @@
  },
  "press": {
   "milan": [
+   {
+    "d": "2026-10-18",
+    "h": "20:26",
+    "t": "Serie A, il Milan batte 3-2 l’Atalanta: tra i nerazzurri segna l’ex rossoblù Gaetano",
+    "s": "Calcio Casteddu",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGhfQUhnck1LNUsyQUEyTC1uTFdLYTdWUHF4a0lhM0FaNDFnRGdBaGg3cXBvMUlaU3I5RE5sbWlRMmxneHpVTlFIRFJyS0cyQWFfVXVzYU1RdFcwc1NKaGwtbGJWMmt3eGhacVJRTlNRV2hFM2wzSnlkSjh2T0VTX0E1QTlLUld2Z01iaVlrU1JwSlR5ZEVtWGUtcjdtN1J2U3J0OVRncjNubUFOVEU2YmZpcjlIaTV5cVJTaGI0cw?oc=5"
+   },
+   {
+    "d": "2026-10-18",
+    "h": "20:16",
+    "t": "VIDEO. Milan-Atalanta 3-2: gol e highlights",
+    "s": "Sky Sport",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTnE5ZGlpN2UxY25LOHh0cWthdG9EZXp2czV1dUc5a2dTSnZGc2llaDg5QlhySjZ3clc2UDlmMHFHVUE2REF6SGQtc2FFeFFkZUlWSlA4VDBMZEhCQVVOWDBIdy1TRnFPMDM3YUNjUGpCR1kzYm82NFJGMDJDUWMwU25aU1UtYnRNTDJqNWhSdGw4cFdp?oc=5"
+   },
+   {
+    "d": "2026-10-18",
+    "h": "20:05",
+    "t": "Il Milan prima domina, poi subisce il ritorno dell’Atalanta: finisce 3-2 per i rossoneri",
+    "s": "il Giornale",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQUhlenNubFlvbmUxbnVhaVg2TEU1ZHlldVZ5SThqUGZ5ZTZQQVFObmZGWVNhNl9fSnFYMEhVbXpBdXNYaU5lRXk0RE9PcF9mOHJacFRVMl9kTE5zaG9nYTJ5cDFnTkQwQjBVeFJVTVV5ckdaS0FlaGJiRmFMc1ZlOElDbzZ5WjJnNkVheFl3eV9mQm9FbEh0Xzdtd3kxQzhUeUx0ZFdocVJkc3hKR2tRTkg4dlVfZXVpeG5TTk9aSlFGUQ?oc=5"
+   },
+   {
+    "d": "2026-10-18",
+    "h": "20:05",
+    "t": "Serie A, Milan-Atalanta 3-2: ancora super Rabiot, Amorim torna a vincere col brivido",
+    "s": "Sportmediaset",
+    "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQ2QzNDFmZEdaZHhud3EtMklWV1JwX1ZneEF0M0ktSUdiRm9rRGdoaDBUMkxHQ3lMQUNWSS1tYWZFcnFBS01lQkZuWkpfTVp5LVdCOENVejlVZFZYNWlwU2RPWFI4cTlsb05zdjBhNWstWV9HYWdlaExVdkp4LXBCd2lrNWpRZHlmU1EwLUJpRm9KYmdNVE15TjRYMG9qbk1UaUhKRk9oam10aUc4Y2I2YlUtSUR0OWljZHBUMWZWR3pYY3lSb3VoNjFzazhtbEFfN2RMRXFhZ1REekNxY2lYUkJzbDE1ZFhfNExsTdIBeEFVX3lxTE4xemluM3FaTTdCUDJBVnFBX0JlVWFiclJaOFdmcWRUdU5YTGdvZE9BVUVxZER5bTJGVGUyZEJwUDZ2ZG5TaEdTSjVpZ09WdTVxNXYxd2xnSG0xUFV6bU9BRVpONzJGbS1oYnhjU3FsQ09vaERJejY3aA?oc=5"
+   },
+   {
+    "d": "2026-10-18",
+    "h": "19:58",
+    "t": "Serie A: il Milan dilaga e poi resiste, Atalanta battuta 3-2 a San Siro",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWTdHZElVbmlNR01tQkdxTC1RX2pIbDN1OTZ2VDB0SXMtcVUxM0VqemduV0ZqX1EtSWNPTjI5aTJ5c28xRDJwZDJFTW42UHdNbFJqNzJqc21nZkVHY0d3S0FETFZtM0FrMldtNVpBdHRScW5hVFhob2VCc3gwQl9yU3ZFZTh5UmVETGdLZE1Ta1VQMWtuRHIzY2dmQzZCMlBNNy1vb2VUY2RYak5TXzZjbGctRm5RU0ZqY3dkMU9TMzl6eFB1ejlTN2w3WVhsNE41RnF5NWhITm1jaWR3aUxXdUtzTGxFdEJIMXVMYjV5eDM2dGpxU1JlVGtmeDTSAYICQVVfeXFMTnR5ZnltUmJSa0c2MExIMlRTUVRCUktGUVpxTlRNVTJKVHp6ejdDdVZ2WGNDcUZlZzVQdWlDdi1xcDRtc1EyVUgzZnp4Rl9aQjlyd0N5YWg5SzI5S1B4blRNVHItZG03YzM1Y3g5SjlLcmladXJuZ0sxV1cyTkFMQXh5ZUFMRHYwaEVrRllPS1YyaWhyVC15QXRrV1M3TGtzRGxRTjJLX1ZZTzlsSno5Ukh2YllMaXExUmZvaGYxQmZrYmJUcHBBT2F1OXU3eXBiQ2w4YlFHZDJYVXo0MnRtRFlVWTlXd2pEd1JxbWw3cTY0YUlFUXFGUVRFVnQwZ0JBT0N3?oc=5"
+   },
    {
     "d": "2026-10-18",
     "h": "19:58",
@@ -370,48 +405,20 @@
    },
    {
     "d": "2026-10-18",
-    "h": "18:45",
-    "t": "ω📱[ROJA@CALCIO] Milan - Atalanta dove vederla in diretta tv e streaming gratis 18 ottobre 2026",
-    "s": "Universidad de Córdoba (UCO)",
-    "u": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNLXBselRHMHcxX1pFSE53bFo3U1h6LTVEX2xUUkU5V1U1RUFSc3pXanZDdzdFVTQ0YzVUSElMVzdoT29qSk5RRlp6Nm5UaDZUUUcwRnNDalQ5Qzl5RVA2elhCVHluOTZvNXc2WWVVczVpQUhWdmlWZ01Ecy1NcEU3aVltRW5QVjRSQWZOWUFLdzI2WDRnLThJaWU2R3RpUFZ3X0FUZ054YlhQNUwzUzkzb0pFUUNtblFjWndGc3ZzYVFzX2VlRGdCQlUtQ2MxZFpLM055Z2JhRU1qUEl4akJIeVBzSFRnQTFWbmdXNXh5QldZN0tIRi1PZUhNOEkwaDh2RTJrMXlNZGs0MXByUlhDVldkUUQ0bS1UdzZ0d1dOTXRlYlBGZ0JmQWd6YTZONEJnbFMxVUF0NU9xWWlqTy1pMlZhU0Z4R0FnZWxNZHRtb3JHRG1qcDNMRmZ2RHBsY1gyX2JVMw?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "18:33",
-    "t": "Serie A, in campo Milan-Atalanta LIVE",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdERxZHlaLXIycEVObkszSW00b1h5SnZTV3ZkOG1sbkdIRVFkeWFXWG9wWmc5MGg0OXBWcDBkNVE0dGV2U0drWGp6cXRtTWlQSWZXZi1jMXRDZTNZX2tuQ09nd2RHZWxsb2JLb1RlS3pZV1hhcWFfVU9oa2liaWlMd1pKTllBTnFhdDlMWUxwckd5YmJ2dkl3b0kxZU03Vl9mUnViVi1Vcks2dDJxQ1Z4d2dxVDBOejV1THEwR1JrZ3NiMWd1c2dVLXNzbEdUZzg1dXBhQU5JS2lNMjVOWVJJ?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "18:23",
-    "t": "+[[CALCIO/TV]] Vamos! | Milan - Atalanta in Diretta Streaming",
-    "s": "Universidad de Córdoba (UCO)",
-    "u": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPUGdDVmh1RVVYUWJZeW9oR2x6ZU94ZWx3bDU3N1pKTzVBTl9QYlhhWXJETXpJMVo3VlpiTFBhYUk2bVpZclo4dF9rMDNxaWx3SVdienduZmYtUU1wZW9DQm1RSE1PSlNJXzN2bEctR1N6TjRQeTdLOVBCUWl5NWxGSjNud1ptZXZIVVZ5WFJwRHBncWhhclM4SzNBb3hNdFRHZVFBWjZSWklybk5FRFRMeEpuSDBNYjN2dXJyaV9Qc3pFWER1S3ZWQ0dnZ1V4QVNpWVV1cmFtVlBRbVgyb0ZIajRLNkZ5R2xkclpnN2J3RkhkRVZBTFdoTmRMc0w2MWNrbEU5c0ZkUmNBT1FOUE9McDVENEFVOW4xQTRQQU1TZVJNLTB5ajkwd01QX001Vm1ydWRDc0VpeFA1UE9YTmxZekZJN3k5c09OUXBsM29CNDRQNmxFd1k5VndXX3U4QnRzYS1XSXcxV1I4X0VzUkVXQ0lqbEJIUzV4ZDN1TXRiSXFGS1hjY19OVkhuNXNEc2NoSEZ5MVJLQllOc28wV2JZdDNHLXhMd1k?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "18:23",
-    "t": "+∇√$[+[!CALCIO TV!]+] Atalanta - Milan 𝕀𝕟 𝔻𝕚𝕣𝕖𝕥𝕥𝕒",
-    "s": "Universidad de Córdoba (UCO)",
-    "u": "https://news.google.com/rss/articles/CBMioANBVV95cUxOT1VaMXdNNXByb0dLSTV0M25jdHBXQi1iQUZXazNUWVMyb1ZsdkpPYzBmVElkOFZNc3hnaXlEMGJWWVFiYTJEN2o3TjY0ZlhzbVRKZVBTYjBydGVxeHpTV2laRjlCVjFfMVBKSjZ5ZWM1SFZBaVMwYzRiYXBJd19qWXBGLTFqWmtyazkwNjl5dDlvY2tscXBuNGhWTDNxM2FvUU10MmNacFRrRTFSaUl6OTF5dDNjemdJWFptT21aNVp1SnE2QUU1Nm42djRZY1ZoN2tmaTl1bzlaT2o1OHNZSzJ0dTVfSWZPTkFfODR3LThXeEZtRTBSREF5bTRxVUk2MWg0MWhGRFR1Y2lIVGgtcktHdk1xLTBxZ2tMVWNWa3hpdEoyMzdXZkJWcFY4Q3FLYnN0SllOSlRoajRpNmR2UnRHVUtyMURzNDNsMm91OTF2TkJzQ1FYcnlGTTh2Ulg4QjJqSWF1RWJldVJiUGtkWm5MMThyc1NEM3RKM2k5TTVCMWEzRlF3R3EtenNZUnpfUzF1V25aN2d3Qk9oajlDcg?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "18:23",
-    "t": "+$*&[[CALCIO/TV]] Milan Atalanta In Diretta 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 TV 18 ｏｔｔｏｂｒｅ ２０２６",
-    "s": "Universidad de Córdoba (UCO)",
-    "u": "https://news.google.com/rss/articles/CBMirANBVV95cUxObzNRUUUyVHljelRZaU5MZllrdVlnVDlYeUR2V3lRME5LYW1hdGhMVEZJLXN1WE5HVEQ0YW5XNXlRS3Blb25PUVNSVVBEcjZPMXFnMmd0eldNbkhCUnVQVVhkc19seFNKTTJYbnNDZVZyVE52NU5tenM0Z1g2dmEyQzA3VDJfSUhidk5fOWtSSkN0bWtXeXlhSFRoaWpSbWF4Sk5pbWJ0SU5HUlVZOXhfQWw4c1JrLW1fdEpOLW1oV29BVUJGcWlJZFFFR2dzX0UyYWp0NXowUE1TQjdUZDgtLWs0eFF5OTkxbzRUcktOM3pFSG1HNDdBc093dUt3OE9FbHpFT1BNTzU5Q242X1RQMVV0cUI0dldxb2ZCSnRBVkRIbjlXb3c0T1dfaGk0QmVIcV9TM0t3SkVsWFpsVGdyblB6MWpSOFdTM2ttQW5lT2VHenVTdC1NZzJMeDQxYlR2MWNwa2dfRWx3S1VMa09fcndBNVhqaThONEhkM3E2SG9JQldDNFlZa05vWkZXUS1PZkxsTUp6OGxDajRrc1l3bmZialNLM2M1SlZ0Wg?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "18:23",
-    "t": "+[[CALCIO/TV]] Atalanta-Milan 𝕀𝕟 𝔻𝕚𝕣𝕖𝕥𝕥𝕒 (Serie A) Ｓｔｒｅａｍｉｎｇ Ｔｖ 18 ｏｔｔｏｂｒｅ ２０２６",
-    "s": "Universidad de Córdoba (UCO)",
-    "u": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNYXJwdEZJNGtpRVFFb1BTWmotc1FsaHVzMm5xUDR0MHdCRTdWamFiUEJ3eC1mVi1ScTVoMno5UnE3Z0xXVDdYRDFpaDUzRU5Fd1JRRFh2T0Yxd3FMd1FOSEJrR3ZlVHVlU1pQS0FlaXEwd1IySGgtZTA0WElPRFJ4SkJGdTVIYkRYY3FTSUpLSDRrRU9mUl9NNnpNLVR4RGU2aXNuUzlFWDlEV05SRmtCSUlLbEZFX3FPRkR3X1pMTy1taThFallRZEdtSGoxZDI4ZjFjXzJFaHRQbXZveERVMnhhZG9sTW9aOXU1Z0pFUEtQbXFLcGFCZmRUQ1RySkhzc0ZUd19odUhtRldFNGk0bTMzb2dlSDlUcUgybVVhbDMydHFfcHRoamVGMmFxMDV3T3NxdkhjMFRveWtaUjNUSFVXcFpCanFma2pocVFHeDNndlRQMDctQjFUUWJDN3U3c2NmRklXWUtXbEoyTGl6VWdEazhjR2lvLVctMWU2TGp5QWhaOWJzb3R3cmNjY1JUOERCLV9JM1VpdzJzZWtpWktXV0dqNFZYMnN6Nmd4RkhsMEdtUnhzZ05NNG5Pd3lOWi04d0ROaVl0cTBxV1pEQlY3VUhDV1NsN1pmaXhMSVdFSWw0TTJ6RTdYM2VPRnU1THhucTR1TWlZb2NGTl9fTUpsMUtUa2JwUWo1Z0xKSFltbmRQbkFZ?oc=5"
+    "h": "19:24",
+    "t": "Milan-Atalanta, Var protagonista prima annulla gol ai rossoneri e poi assegna un rigore",
+    "s": "ilQuaderno",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcVk2emtJdXg2Y3Q3QnJLUDRlSVhaSzNlOGV2dXVzQXJFWnhwSmhQanJrYXllaUJYQjFPeEF6WDJjMDZIaWJ6Tm16STJXSXJ5T3Y5dTVqbWlvV2ZNTHExbnpIcTA2TklKTVEtcGRxa3ZlSmt2YnNPNmsyTEZzWDYyT1RlQTBVY2lZVTdPSzZ5dFlnMWF2WVBXQTlweWtjUjhEakZSTmdJNl9zcV9GdVBUZnNaYzduS1E4YlNKSmRGXy1RUQ?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-10-18",
+    "h": "20:29",
+    "t": "La Pallacanestro Cantù sconfitta al PalaTrieste",
+    "s": "Espansione TV",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUtUUVlQTlNTRHF2TGRadjZzQ3N0TE5pSC15SVRWay1FdTZhMHpfLVRqQk5jWkJabGNfcnI2ekFwN01UUjdCMjA3b005RnpPZTBhOHpxbkhsblQ3Rmx1YjVMRmowY2ZxbTV1NjhiMVpuSEpvRTRnNU05R3NTOVFuRlFtVEEzcTQ2WGk2REZyRF8?oc=5"
+   },
    {
     "d": "2026-10-18",
     "h": "20:04",
@@ -421,17 +428,17 @@
    },
    {
     "d": "2026-10-18",
+    "h": "19:47",
+    "t": "Galloway, Jones e la difesa: la Pallacanestro Trieste in controllo nel match contro Cantù",
+    "s": "Sportando",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yQzVuY25DZDFRTVhOeno0blRjbnJIN0JURjVPMl80eU5rcWRqdGlLaXBBTVg2ajliQVotNnpNZWFfV3lpT2piOGpCbUowQ0ROeHgtT1Y4eGR6MmtSWW55RHJwdWZjVkNIa0hjcHJRcDd2bzNFaXZvNDE2ZjdXX2s?oc=5"
+   },
+   {
+    "d": "2026-10-18",
     "h": "19:40",
     "t": "Paziente e inesorabile: Trieste demolisce Cantù 92-72!",
     "s": "MegaBasket",
     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUlteGRuMUpNRzJKQi12anZzdDc0U3h3bUtRTWZWYzFOVGdYSGItNTFZYU1zN3o5X0lQZFU0dUJvSFlfVFdEbV94eVhSeFlJYXU0eW5aUjFOMWpYbEJaS0E1b3J0YVlXV0lvNkdBSV9HZHhMbUxEcVY4NlRGMENIZHV0cWFDcTBMR1dQczNzbWJ4NHpMbjFFVA?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "16:50",
-    "t": "LBA Round 4: Pallacanestro Trieste – Acqua S.Bernardo Cantù",
-    "s": "Sportando",
-    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yQzVuY25DZDFRTVhOeno0blRjbnJIN0JURjVPMl80eU5rcWRqdGlLaXBBTVg2ajliQVotNnpNZWFfV3lpT2piOGpCbUowQ0ROeHgtT1Y4eGR6MmtSWW55RHJwdWZjVkNIa0hjcHJRcDd2bzNFaXZvNDE2ZjdXX2s?oc=5"
    },
    {
     "d": "2026-10-18",
@@ -460,13 +467,6 @@
     "t": "Cantù, gli Eagles ci riprovano: tifosi in viaggio verso Trieste",
     "s": "Sportando",
     "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNm5Ca0hzNGxxSGdya0hzS04xamtrcWNVX3E3WGFlZGJjdGs1YUszS01lcTRXeXZsZDhBenB2QVdET1diSzBJQ0c5TzdZUWpmRFlGZmlHN3hMLS1SZVpldE9Rd0lyc3VXdXpJSDFRa2p0ZjRpU2FXdDN6T0xXaHBQSUhOMzNqQU9rZ2lWb3RGTDZ4X1pLZ3c?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "10:49",
-    "t": "La Provincia: \"Cantù al primo bivio della stagione\"",
-    "s": "Sportando",
-    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUhfVTdJMUR1eWdsQ1lydzU5ZldIWlRIa2dId2JvV0stOElseE95QUgwVGlzQlI2SDdwMTZZTS1hY2ZKS0c5bEZQamJoOU00d3FNX1dCTWVZa3YzbmdYa0lhZkZ2R3dDalNWUHNFdTNzM2IxazV1S3VaOFhZYVhpM1VlOVc?oc=5"
    }
   ],
   "como": [
@@ -924,9 +924,8 @@
    "2": 54
   }
  },
- "updated": "2026-10-18T18:11:43+00:00",
+ "updated": "2026-10-18T18:40:33+00:00",
  "log": [
-  "risultato Milan – Atalanta 3-2",
   "classifica milan 4 15",
   "classifica como 5 14",
   "classifica milan_eu 16 3",
