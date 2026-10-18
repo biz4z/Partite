@@ -219,15 +219,10 @@ UID:71feaa46176ef96f@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261018T150000
 DURATION:PT2H
-SUMMARY:⚽ Fiorentina – Como
-DESCRIPTION:Serie A calcio · 7ª giornata\nTV: DAZN\nhttps://biz4z.github
- .io/Partite/
+SUMMARY:⚽ Fiorentina – Como 1-3
+DESCRIPTION:Serie A calcio · 7ª giornata\nTV: DAZN\nRisultato: 1-3\nhttp
+ s://biz4z.github.io/Partite/
 LOCATION:DAZN
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Fiorentina – Como tra 30 minuti · DAZN
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ec06e859c2c5511c@biz4z.github.io

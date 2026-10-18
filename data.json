@@ -1,34 +1,36 @@
 {
- "results": {},
+ "results": {
+  "2026-10-18|como": "1-3"
+ },
  "standings": {
   "milan": {
-   "pos": 6,
+   "pos": 7,
    "pts": 12,
    "g": 6,
    "up": {
     "n": "Frosinone",
-    "pos": 5,
+    "pos": 6,
     "pts": 13
    },
    "dn": {
     "n": "Juventus",
-    "pos": 7,
+    "pos": 8,
     "pts": 11
    }
   },
   "como": {
-   "pos": 8,
-   "pts": 11,
-   "g": 6,
+   "pos": 4,
+   "pts": 14,
+   "g": 7,
    "up": {
-    "n": "Juventus",
-    "pos": 7,
-    "pts": 11
+    "n": "Lazio",
+    "pos": 3,
+    "pts": 16
    },
    "dn": {
-    "n": "Napoli",
-    "pos": 9,
-    "pts": 10
+    "n": "Cagliari",
+    "pos": 5,
+    "pts": 13
    }
   },
   "milan_eu": {
@@ -353,6 +355,13 @@
   "milan": [
    {
     "d": "2026-10-18",
+    "h": "17:06",
+    "t": "[DIRETTA]CALCIO!] Milan Atalanta in streaming 26 luglio 2026",
+    "s": "Universidad de Córdoba (UCO)",
+    "u": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPUU41RDc4SFFjZndrd0RaUUFWU3h0OGdsUVNVRTBMaDdHN21oUEMtc2Vtems3aFhDRVpJd1ZMdDNNV0EwR0hobko4U2NLZzNtYU5zdThxR3NCX1h6cTROTjRXbUdKaktncUtSYzBXdHZLWFRCQlA1TnRlVWhsZUtQeU5sVEhlOXNYVFpkLVhPUEs1ajllUG94akI2cHFlSEduczJCcFN0b0NHQlJhT2dnTzhvaVMtUklIWEl2a1JSZVUzdlFjUWJ2Q1NjamdCSFhsV2RxeUxtQXZIYmlHN1o3bmR1MnFsaXdHcUNLZl81RWd0WkY1XzBYa3ZOTkxISWpKLW9zMGtBSmJZNHM2Um9QSlR2a3BabHBnMXl6STVBeXRoYjdQUFVDbjl3dERhbmZfZUpmNnV1S3VjeXlUODd3V29UVQ?oc=5"
+   },
+   {
+    "d": "2026-10-18",
     "h": "16:03",
     "t": "Milan-Atalanta: dove vedere la partita in tv e streaming | Serie A 2026/27",
     "s": "Vu Nere Bologna",
@@ -399,16 +408,16 @@
     "t": "Niclas Füllkrug conquista la vetta della Bundesliga: la serie di gol vale un record storico per l'ex Milan",
     "s": "Tribuna.com",
     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNektIQ183S196YU1JMXRBZ2h4Tm1wWWZ5OTQ4SWJSeVhHTkhrOWRRWTNIOGZhZkRaUUF1Sk44My04QjF5bjBXbUptZ2tLcWVmTDkzZ1lpZzJveWpGVk02ZkRBc0VPS1l4MWk2ekxGeVlGZUNMY05NdTRDaTJqMlJ5RHdZT3UtNXQzUUtLT1ZuMzRYTTFhZktwOWhDZk5nOUdaeDNMWWR6bEdKZno1TWNKNU4zeGhVMXJaVHFQUHhGSWo0UVdhYmhYatIBzgFBVV95cUxQNl9ReXlIci1JX0pucFVyOW9uNi1VVF8tT1dBeHNwbE1fZkZZcmhjM3EzbkIxaC1KUVF5N2xXcVBFeHBGV2hCc1lyZXNmM1ROS2R4ZTdXWVhnbHVDTWp0VGZuQU1SYllXcDV1V0pRVFlXVGhQZ3lMRTVtTHlGcTZlV0c4MUw1NzV3NzQ1aTlmbkNFckk5ZHVVMDlPc2hkLWFPVFJ5a2JyX2ZlNEcxem5mX0RjcU5mOUd6d0I5U3VtZFNVak5sY2F0RWNXN0pBZw?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "10:21",
-    "t": "Live Milan - Atalanta - Serie A: Punteggi & Highlights Calcio - 18/10/2026",
-    "s": "Eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVU2dmpMUVhTWnFmWkZ4SjhqS25qZnR3QzRPRHFMQnhta0Fmam1LLUxCWTFIS2k4djctUVgtTklQRC1JdTdXNC1SSkRjSFI3SGhPME1BRnN2ZVhHSEctYm9sbU1SVU9GeERXVG55R21ua0FSZ1FuS29EZFJMN3FXYVVJMFRxbEZwWUNma1Q4ZGdxbFdEeVR3?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-10-18",
+    "h": "16:50",
+    "t": "LBA Round 4: Pallacanestro Trieste – Acqua S.Bernardo Cantù",
+    "s": "Sportando",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yQzVuY25DZDFRTVhOeno0blRjbnJIN0JURjVPMl80eU5rcWRqdGlLaXBBTVg2ajliQVotNnpNZWFfV3lpT2piOGpCbUowQ0ROeHgtT1Y4eGR6MmtSWW55RHJwdWZjVkNIa0hjcHJRcDd2bzNFaXZvNDE2ZjdXX2s?oc=5"
+   },
    {
     "d": "2026-10-18",
     "h": "14:04",
@@ -422,6 +431,13 @@
     "t": "Trieste - Cantù Lega Basket Serie A",
     "s": "la Repubblica",
     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0tuS1Z5emlEcFp3UjlMNUNESzNqVEtmRXdKaXhOWlVSOHZKeEZ6RUt1aDl3elZiQWZwek9xVWtYUDJ0V2IyNEdfLTd3X09UVUlfUnVMOFdhcjBXVUVzUmNYQk9ueEphM1Q0RjkzeF95dnVGUUpybmZxMDJ4cVZwWS05b05EU1dyM1QyazF6TkxzOGwtUjZVSldKUk9ZWkdRWVNubUNhbGM4VkFj?oc=5"
+   },
+   {
+    "d": "2026-10-18",
+    "h": "11:43",
+    "t": "Cantù, gli Eagles ci riprovano: tifosi in viaggio verso Trieste",
+    "s": "Sportando",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNm5Ca0hzNGxxSGdya0hzS04xamtrcWNVX3E3WGFlZGJjdGs1YUszS01lcTRXeXZsZDhBenB2QVdET1diSzBJQ0c5TzdZUWpmRFlGZmlHN3hMLS1SZVpldE9Rd0lyc3VXdXpJSDFRa2p0ZjRpU2FXdDN6T0xXaHBQSUhOMzNqQU9rZ2lWb3RGTDZ4X1pLZ3c?oc=5"
    },
    {
     "d": "2026-10-18",
@@ -450,20 +466,6 @@
     "t": "Pallacanestro Cantù - Napoli Basket: 80 - 99 tabellino campionato di Basket: Serie A Girone Unico",
     "s": "basketmarche.it",
     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdVMtYURTS2JkR2xPNFhiU0FPSXFQMUpjRDRkQmd2WVJqOEVFQ3ItU21yQzY1Wm1PRFRfX2JaeFhPa01iZ3NzNHpjMzJVeGpfVFM5NlJpMjdDYXNZTzNGVG9Qd2ZRTUZkcXhLb2pNak5MWlRfX1B2UVlKNnVxTE1hbHV4NlkyWHdaZ1hDR2Ryc0x2aWE5bUZYMjhVNEs0U25YV3YtUGVBeWkyd211QWp0VmZ0QjB6RzYyS09LT05mR0xfdw?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "02:01",
-    "t": "A canestro dopo trent’anni: quasi conclusa l’Arena Cantù, il futuro tempio del basket",
-    "s": "Il Giorno",
-    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOGMtV20yMEZjQ1dETy1CWFluVVVzTnNUeFdCWG1MLTAzOXp6WWdUWlI4TG9Yd1ZjLW9YRnY4WExXX29zUVZlcGZlSDVGTUQ1OVlza3lvbm5HeU05NmNvR2ZRWWxjUkFubFJta1VId0tIcElQZDNlNnVIZkk?oc=5"
-   },
-   {
-    "d": "2026-10-17",
-    "h": "19:44",
-    "t": "Trieste - Cantù Altre partite: Live Basket Aggiornamenti",
-    "s": "eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckc0Z3dJR204LW9zRnNMM3Z1X2l3WXJoak9PWXZnVWhtU3pxT2pya2ZpM1o0RE5xa25JOGdrdW9wWlVGMFo5ZWE0c2s3SU5sZWtFczhPYWc5bi1tVEhMUnF3YW9RTkhEVGxWejdWUVQ0cFFHbWNzUlRycUxPRVNCSTFTamNoRldwSEptVktha0VycWNuQTc4dVUzSDd5SVhT?oc=5"
    }
   ],
   "como": [
@@ -917,15 +919,10 @@
   "cantu": "https://r2.thesportsdb.com/images/media/team/badge/vy599w1784567424.png/small"
  },
  "odds": {
-  "2026-10-18|Fiorentina – Como": {
-   "1": 31,
-   "X": 27,
-   "2": 42
-  },
   "2026-10-18|Milan – Atalanta": {
-   "1": 56,
+   "1": 57,
    "X": 24,
-   "2": 20
+   "2": 19
   },
   "2026-10-21|Como – Manchester United": {
    "1": 41,
@@ -943,12 +940,12 @@
    "2": 52
   }
  },
- "updated": "2026-10-18T14:23:16+00:00",
+ "updated": "2026-10-18T15:08:12+00:00",
  "log": [
-  "non finita Fiorentina – Como STATUS_SECOND_HALF",
+  "risultato Fiorentina – Como 1-3",
   "non finita Milan – Atalanta STATUS_SCHEDULED",
-  "classifica milan 6 12",
-  "classifica como 8 11",
+  "classifica milan 7 12",
+  "classifica como 4 14",
   "classifica milan_eu 16 3",
   "classifica como_eu 12 3",
   "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 3, 'up': {'n': 'Trieste', 'pos': 14, 'pts': 0}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
@@ -962,6 +959,6 @@
   "calendario como 32 partite future",
   "ERR logo cantu HTTP Error 403: Forbidden",
   "loghi ['cantu', 'como', 'milan']",
-  "quote 5"
+  "quote 4"
  ]
 }
