@@ -309,6 +309,11 @@
  "news": {
   "milan": [
    {
+    "d": "2026-10-18",
+    "t": "Milan-Atalanta: la presentazione",
+    "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-10-18/milan-atalanta-match-preview"
+   },
+   {
     "d": "2026-10-16",
     "t": "Cisse MVP di Salisburgo-Milan",
     "u": "https://www.acmilan.com/it/news/articoli/awards/2026-10-16/cisse-mvp-di-salisburgo-milan"
@@ -317,11 +322,6 @@
     "d": "2026-10-15",
     "t": "Poker rossonero a Salisburgo: 4-0",
     "u": "https://www.acmilan.com/it/news/articoli/europa-league/2026-10-15/poker-rossonero-a-salisburgo-4-0"
-   },
-   {
-    "d": "2026-10-15",
-    "t": "Salisburgo-Milan: la presentazione",
-    "u": "https://www.acmilan.com/it/news/articoli/europa-league/2026-10-15/salisburgo-milan-match-preview"
    }
   ],
   "cantu": [
@@ -476,6 +476,13 @@
    },
    {
     "d": "2026-10-18",
+    "h": "10:02",
+    "t": "Scheda Como - Allievi Nazionali U17 Serie A / B - Girone B Italia",
+    "s": "Tuttocampo",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlkxbkRSd1FsZ1hxaDBfNzdjOTk2Z2txZno5UzlDUi1FZ05iSndSY1B1enBXdm1PYVRLNnZPSF9NTGhnc2s1RXVVMUNvaXhPRFBYLWJUakpEb3lSa1RfTXNEeFItcC1OVnFTOXlPSDNNYXJnMmd1bTJIUGVPak1JU1FONFpBQnJ4aEg2c2Zqb3YxN3RLVTE1ekR2Yw?oc=5"
+   },
+   {
+    "d": "2026-10-18",
     "h": "10:01",
     "t": "⚽ Fiorentina-Como, serie A: la diretta live streaming TV di calcio 🛑 Notizie dell’ultim’ora 📆 domenica 18 ottobre 2026",
     "s": "musicletter",
@@ -497,13 +504,6 @@
    },
    {
     "d": "2026-10-17",
-    "h": "20:10",
-    "t": "Formazioni Torino - Como: Serie A Calcio",
-    "s": "www.eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYVlGZUtOdllkZFRvU29oMXpIY040VEtUSDZWbFVGU3FuRHQzZGtVVGFTSERYVmlnZzVhQWJvV1pkMVNCTVd1VU9ncmdmY1NGd1F2bkVZU1BUYzk1bXdwaUVpSjlUQWhBYlNxZEhYR0syMVFWN1VYM2NOazd3NGJESXBOQ1JpZ1ZCOFA4ZjBIOHlqN1kzU0E?oc=5"
-   },
-   {
-    "d": "2026-10-17",
     "h": "20:08",
     "t": "Calcio: Fiorentina contro il Como per cambiare rotta e iniziare a vincere",
     "s": "Firenze e dintorni",
@@ -511,17 +511,17 @@
    },
    {
     "d": "2026-10-17",
-    "h": "20:04",
-    "t": "Statistiche Torino - Como: Risultati Calcio",
-    "s": "eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUlpOR3pfcllRNUpFSWMwUmFBcVdCTHZvYjE2aHJHQnBnMVNYelZjM2pSY1J0Z1ExZE9aN2lsZlh2ajMzMUppb3ppNE0zRTJQcVFKVU9KRnFXbHU4eDBxc2FKN3dVcDhLNHdadEZBb3FuSENTSFNyRTRFa2JjOEVOaC1wS2ZydVFCc1dRUHZDeGc0LS1R?oc=5"
+    "h": "16:57",
+    "t": "Como Passport è ufficialmente",
+    "s": "Como 1907",
+    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZHVuVmU0OVNhVV9VUkhQYW1kRmdOdkJ1Ml8yMUZmVXUydkttWW1Fc0x2VEMzREVlbjhvb3lmV3BrSTAwRHZjLXhlcUxOX2tGdTZrckZlMUJueXhGeUpaWEc1aXp2bzFCRk1vcm45c0FON2loWDYtTFNjeXpnWExVaHpJbEVvTmR1YmxXeEI5bDNBcmczWl9UOTdyQnVYSG5MN0hZbWZIdGRQNFM3QlNYX2NfME1SZXVRQ1FOTktlSE43UGpZYlhtakliWlEzSktEOVZXZmpfckFQQW8?oc=5"
    },
    {
     "d": "2026-10-17",
-    "h": "19:05",
-    "t": "Como - Sassuolo Altre partite: Live Calcio Aggiornamenti",
-    "s": "www.eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM3l0cFpvanlJUlpzdXFWMDFYX05xOHBUalpRTkFPODNoWjl5bDJYcC1aVmhZOXVfM2JtWnYtV1ZHd0hfX2lja21wNUhRY0tja1VnWnRLbXl3U0V2Z0ZpVnhiN0lnS1NvM2dkUXZyeXE3czdSUWFaQ3JQSjNnT0lIRl95c1Nta2tCSDlYR0ZtclZoYTdsQi0xRVF3?oc=5"
+    "h": "13:30",
+    "t": "Como, emergenza in attacco. Il (duro) casting per il falso nove",
+    "s": "La Provincia di Como",
+    "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWHd3NGZBNnJaWl91SjNUb2huYnVkLXZMMkl3bDlHUEF4VGU5NHVlejNkdXJXdEh2YXp3NGNEelE3blRiTGVWY182dWc1S3o5NjJyNVdLaGRBeDlVUlNQYko1NUdZd1pHOHMwN0RlTDVNUXMyb0t3Z1hNaHFxZnZmZUVaWEQ2akRJMGdxMTlXMzgwRzVqell1MHlEOGJTLVlhQjNrZy0xam5GR3dsWW5LSW1QVjQ3NWp6QXNyOXBPb2I3eHBpX1poOVlaZHAzTGRiNFl2YWZRMVM5Y09pTHdqcw?oc=5"
    }
   ]
  },
@@ -923,7 +923,7 @@
    "2": 45
   },
   "2026-10-18|Milan – Atalanta": {
-   "1": 54,
+   "1": 55,
    "X": 25,
    "2": 21
   },
@@ -943,7 +943,7 @@
    "2": 52
   }
  },
- "updated": "2026-10-18T09:00:57+00:00",
+ "updated": "2026-10-18T09:25:32+00:00",
  "log": [
   "non finita Fiorentina – Como STATUS_SCHEDULED",
   "non finita Milan – Atalanta STATUS_SCHEDULED",
