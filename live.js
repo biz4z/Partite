@@ -279,6 +279,14 @@ nav.teams .dot{width:8px;height:8px}
 .calrow{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:-8px;max-width:360px}
 .callbl{grid-column:1/-1;font:600 .78rem var(--display);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
 .calpill{display:flex;align-items:center;justify-content:center;gap:8px;padding:8px 14px;border-radius:999px;background:var(--fg);color:var(--bg);font:700 .85rem var(--display);letter-spacing:.08em;text-transform:uppercase;text-decoration:none}
+.calpill{font-family:inherit;cursor:pointer}
+.andbox{grid-column:1/-1;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.2);border-radius:12px;padding:10px 12px;font-size:.82rem;line-height:1.4;text-align:left;color:#fff}
+.andbox ol{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px}
+.andbox b{color:#e9b949}
+.androw{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+.andact{display:inline-block;background:#e9b949;color:#0b1a3a!important;font:700 .78rem var(--display);letter-spacing:.06em;text-transform:uppercase;text-decoration:none;border:0;border-radius:999px;padding:6px 12px;cursor:pointer}
+.andbox ol .andact{padding:2px 10px}
+.andnote{margin:8px 0 0;font-size:.72rem;color:rgba(255,255,255,.65)}
 .calpill svg{width:16px;height:16px;display:block;flex:none}
 .calpill:focus-visible{outline:2px solid var(--como);outline-offset:2px}
 .cal .hint{font-size:.8rem;color:var(--muted);margin:4px 0 8px}`;
@@ -367,8 +375,23 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
     row.className = "calrow";
     row.innerHTML = `<span class="callbl">Aggiungi al calendario</span>` +
       `<a class="calpill" href="webcal://${ics}">${ico}iPhone</a>` +
-      `<a class="calpill" href="https://calendar.google.com/calendar/render?cid=${encodeURIComponent("webcal://" + ics)}" target="_blank" rel="noopener">${ico}Android</a>`;
+      `<button type="button" class="calpill" id="andbtn" aria-expanded="false">${ico}Android</button>` +
+      `<div class="andbox" id="andbox" hidden>
+        <ol>
+          <li><a class="andact" href="https://calendar.google.com/calendar/r?cid=${encodeURIComponent("https://" + ics)}" target="_blank" rel="noopener">Apri Google Calendar</a> e conferma <b>Aggiungi</b>. Se dal telefono non compare la richiesta, apri il link da un computer, oppure in Chrome dal menu ⋮ attiva <b>Sito desktop</b> e riprova.</li>
+          <li>Poi nell'app <b>Google Calendar</b>: menu ☰ → <b>Impostazioni</b> → tocca <b>Partite Milan · Cantù · Como</b> → attiva <b>Sincronizza</b>. Senza questo passaggio le partite non compaiono sul telefono.</li>
+        </ol>
+        <div class="androw"><button type="button" class="andact" id="andcopy">Copia indirizzo</button><a class="andact" href="partite.ics" download="partite-mcc.ics">Scarica .ics</a></div>
+        <p class="andnote">"Copia indirizzo" serve per Google Calendar da computer (<i>Altri calendari → Da URL</i>) o per app come ICSx⁵. "Scarica .ics" importa le partite una volta sola, senza aggiornamenti.</p>
+      </div>`;
     (document.querySelector("header") || upd).after(row);
+    const ab = row.querySelector("#andbtn"), box = row.querySelector("#andbox");
+    ab.addEventListener("click", () => { box.hidden = !box.hidden; ab.setAttribute("aria-expanded", !box.hidden); });
+    row.querySelector("#andcopy").addEventListener("click", e => {
+      const u = "https://" + ics;
+      (navigator.clipboard ? navigator.clipboard.writeText(u) : Promise.reject()).then(() => { e.target.textContent = "Copiato ✓"; })
+        .catch(() => { prompt("Copia questo indirizzo:", u); });
+    });
   }
 
   renderHl();
