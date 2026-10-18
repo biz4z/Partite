@@ -64,19 +64,15 @@
    }
   },
   "cantu": {
-   "pos": 15,
+   "pos": 16,
    "pts": 0,
    "g": 4,
    "up": {
-    "n": "Tortona",
-    "pos": 14,
-    "pts": 2
-   },
-   "dn": {
     "n": "Scafati",
-    "pos": 16,
+    "pos": 15,
     "pts": 0
-   }
+   },
+   "dn": null
   }
  },
  "cantu": {
@@ -107,7 +103,7 @@
     "time": "18:00",
     "home": "Trieste",
     "away": "Cantù",
-    "score": "15-12"
+    "score": "33-24"
    },
    {
     "date": "2026-10-25",
@@ -293,19 +289,15 @@
    }
   ],
   "standing": {
-   "pos": 15,
+   "pos": 16,
    "pts": 0,
    "g": 4,
    "up": {
-    "n": "Tortona",
-    "pos": 14,
-    "pts": 2
-   },
-   "dn": {
     "n": "Scafati",
-    "pos": 16,
+    "pos": 15,
     "pts": 0
-   }
+   },
+   "dn": null
   }
  },
  "news": {
@@ -355,6 +347,13 @@
   "milan": [
    {
     "d": "2026-10-18",
+    "h": "18:23",
+    "t": "[Diretta]sTREAMING!] Milan - Atalanta Serie A Calcio dove vederla in diretta tv e streaming gratis 18 ottobre 2026",
+    "s": "Universidad de Córdoba (UCO)",
+    "u": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQSjlPSFBCOTZoZWM2T2FFa085T3JqTGZrdUdzdnAteXJ0UUN2cTJJSU8yRy1MU21pdHVGdXpfNWI1VnhZcWVTN1ZwcUQyWlpGNzdfbVVBOU5Va3NKd19vSVlSRkp4My0tTjlob3haV0toNG50WU1idjJVS3hEazBfZDAwdWRJQWhoSVFkZW5nZUlRSHBhSUd3T0EwYVJSb3NFSnZkX2IzbDd2QmdZNGdXWWVtVU0wdHVYd0pVTU0yUXhLNVhZRXQwRkJaSEowZjlZMjExb2dDV2dhM0hZU2l0bEdMMEZqMXhuYk5CY1lkQTAxOUtINlp5X01JRS1DOXJzcjk1Q3gxRUo1Wkw2SUg3WnZ3LUQ3SzJDQUptUEluUm1ISm9xX0kwWlRGMTM5bE5td2M5MEZLMk1UUDV2VTdZNGpmQUxLd2dBdG1pUldiWVE1WWxtVkUwS01wbmpPY2xTVTl6QlJ6dXFodVZUTFEwd2RGclRBek11aUhhaHBwQzhqTElHTUFBT1YzU3h4U1QzQnFzaVhQWnlQdzU1U2pWOUtycS1xRzdjNWVUTzFFenB4QQ?oc=5"
+   },
+   {
+    "d": "2026-10-18",
     "h": "18:16",
     "t": "ω📱>[ROJA@CALCIO] Milan - Atalanta dove vederla in diretta tv e streaming gratis 18 ottobre 2026",
     "s": "Universidad de Córdoba (UCO)",
@@ -401,13 +400,6 @@
     "t": "Milan-Atalanta, formazioni ufficiali: niente Cissé, c'è Moreira sulla sinistra",
     "s": "Eurosport.it",
     "u": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOU1VYYjQ0OC1xUWlkck9CT25CMVJ5dHUteHJIdmY5azNfc1F1dWdiUDhXYV84bFRFaEZNZnA3SlJ4SzZoRS1XWVEzb0N2ZmdBT1pvbUU2MGRsT2RPTlUwdkUwM2s2Z1N4TzF1QlpINkY2ejRTWHluQWVPako3WDdmTHNIRzFqSHRwZ2RQSWtsNGpRRFJuQkFSVTl6UlFmYk03Y0FBSFpnMk5SV1VBRnJGU0Rob2VqMmpXMF9aQm5OZ2xieUY2cGdYTHVJcVFWOU1nQWotcVhOU2JUdll2ckxILWJ3UkRub2R6ZlFmMFMxTml5QVZqYkdYQ1BNUTBzMnZaQlJ0X05QbzJld1ZyVm9qbVZ1RWhjWFE1QW95dHFWUXgtRzdFa3FralNEdk02ZHpjeC1vMmxWTTRGSWlJbWtv?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "17:02",
-    "t": "Milan-Atalanta, dove vederla oggi in tv: orario, formazioni ufficiali e canale in diretta e streaming",
-    "s": "Fanpage",
-    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRlpOWTNTUDREZWlaRDZibTZEVjFLMnp6ZDg4VHI4bEtkN0dKTmJqcXRTMlRoYkZmUnZndzNUWTZ4cHduTHhpREFkcEZFbEFNNmVFRTlzYnpRTlhKbTYwcFVwTVU4dlpFQTNXdUZGbUZmSHFkaldkTk52eHg4U0xhOTZVWnpDdnBxczVoWEtqS2JGeXQtdjBZWjYtbFd5bGhWNWpvSG1nQlJzUElCTlEzRWNESW1fSEFQMnpHczNlOUl1dWM?oc=5"
    }
   ],
   "cantu": [
@@ -471,6 +463,20 @@
   "como": [
    {
     "d": "2026-10-18",
+    "h": "18:27",
+    "t": "Como: Fabregas, abbiamo fatto una partita completa",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd21XWXMxRnQtMDVNTl9IWjlub1lvd0paNjV1LS1vNl9NX0tWazZUd0JxR0JhWTI4Rm1mZzVDblc0c3l3RFg5VHg5U2lrcGl2cHMzX2tfTzY5Tk9UdHFDSTZReEU3eTc2djduSlM1eE1UTVRUbVVqQ2pZalBIU0Jqa3ZzZG9PQy1LNEt1MURia0tNcWtSR3dqSVZfM3JrOVBIcEF6Z2xSYUpmS2oxMTBuZDFjYWU0MGpMQWRENlljaHVSR0Exak5mQXVNUDNPaHNTUWt0aUkzZmhHVnJHbjIwUtIB5gFBVV95cUxNQU0zX0U1OVRTWnhwalBOY3lNQkpNVWJEdW5WVjJxUTFWV2hYVHM1U0pwbnBOd2ZXaC00aWZ4YkFRZnBQREhYVDduRlhPcDE4NFBudkh6TWR1ODVPbkhMMlVVZVhhNFhFbEhxSmFRaHJkdl8zM2txYVpSakVEMnJ3TDRZWXNFSmpQUXNhdGNQb1JpTVVSOEV0dmtzUnZmYllDbFZEYmRqbERFVVp3ZTJRR1BxSmJzTDZqMmt6ejlWNUsybkMzQWVZSzBPZ1Y4bTFCOERibm1QMmJ4Skwzalo0ZlQ4NkdkQQ?oc=5"
+   },
+   {
+    "d": "2026-10-18",
+    "h": "18:23",
+    "t": "Calcio Serie A – Il Como vince a Firenze: tris alla Fiorentina",
+    "s": "Alessandria Oggi",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTZ5d0JySjVqcWt1b3MzanZDczNjQXFFbnpKc21ZWWtOSk5RQ0xRZmZaa1Q4WmNScExERDNmLV9lUVNfYkFxeWxYckdPSVNxUjRDV28wcVJuRktsem9Oa09aUkNkN19GbEV5MmlqTTRDOW1WazlBTVNVbGFCY29HcEh2QlZlaExLVWJNS2loWWtna19IY2tJWndTbTBBa0NLYkZXb3M0dTctVUc0akE?oc=5"
+   },
+   {
+    "d": "2026-10-18",
     "h": "17:47",
     "t": "CALCIO-Serie A – Fiorentina-Como 1-3. Le foto",
     "s": "FirenzeViolaSuperSport Live",
@@ -499,31 +505,17 @@
    },
    {
     "d": "2026-10-18",
+    "h": "17:25",
+    "t": "Serie A, Fiorentina-Como 1-2, annullato il gol del pareggio di Pongracic. Cosa è successo",
+    "s": "S&H Magazine",
+    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS3J2U2J0QkFJNUdtSkxkcmg0ZnR0QUs2WGN2MVJvTnFYdHpXRnVYc29OUXo2M1dwOTV1QWpISXJIYVk0OGFDakYtTWFETThSUkdIWmpIcDhTVU9rUm80RTVoMkZVejNmaS1Bb1ctVFBuZDZsOGJaMHNxOXUzdDVOZHM3bXNfT3dXVkhMQ0pwbU0xX29OcG0yNGdMS3dZemNZbjlfOUtocUk0ZGlYWVlXemI5b1FvbEZGM1phS3BDV2dRVE1jMWZQVEVhZjc?oc=5"
+   },
+   {
+    "d": "2026-10-18",
     "h": "17:22",
     "t": "Fiorentina-Como 1-3, le pagelle della partita di Serie A",
     "s": "Sky Sport",
     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KVG1KSGtZMDBrS2piRWFndTNHSGF6YkpzQWxkcXdRVVM0RVlwaDFqNkhKeklDTFFPTDBvX0xla2xiUGRkRFVyMjJaQV9mWW53bEk5SUlnVlRyVklOSGpzaGxmcGxmbS0ycU00aXlXQjZFSk1FWmVxXzhR?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "17:19",
-    "t": "CALCIO- Le Pagelle viola di Firenze Viola Supersport per Fiorentina-Como",
-    "s": "FirenzeViolaSuperSport Live",
-    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcTNJTGpTMVJzb1RKZUswR0lJMTRjNnQ0VEJZZnZ6cnFLRU93Q3RzWXZvOWV4RFI3Z2FMUXlmaE5NT2FnQWkwU3h6dFQ3ZEhPM3pINVFrQ21VTl9hQi1pSGZkRXdTUlRra0k3X0Q1RXJqR0tGRUN2Z21ldlliOS1PQTZvYnBRQlZLU1lCSUszRHI4SnE3ZjMwMmVTbTJVWkpCVHJJczhwTU45QkN1RFhCRUFFYTBSQ3lGdW5FeVRXeW9mNUQ2MTFrNGpRTWNNLWlBd2tGZWVEOGg?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "17:07",
-    "t": "Il Como fa ancora viola la Fiorentina: 1-3 al Franchi",
-    "s": "La Provincia di Como",
-    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOajlSMmduYXN2cU9GVldneXJia0R6V2RiNDhuQ3BuUk01SlMtR0JTSXp6Um5IelZkM3B6X2lISHJPQWdRR1FfZDFwOTNqcFdnTzFVWmcyTVNtRFBhN0lIdHNjcUwyV2xhTTVVQUVoeHRsN3ctalRNYURCWWJKSW9iTlQ4NjlEVWdUdXJRSktmbEdyX1d1ZVgwSVJhQ1FSU0ZNcGRoQTVCQTQzcDVIVUw2UUg5bkdWNVdid29Ham1XaE9fZDlOQW93VFNnU0ZyZXJjMWlHcHJGMA?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "17:04",
-    "t": "Serie A: Fiorentina-Como 1-3",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUTMxeUFBbkNaQlo4MU0zOFhNc1pERDNEUUU3YVNvS2dQT0lEaWxzUk1EVVZxRjJERUdPNndPQ0lFaEs1V3NtbWMteVJyZlJlNGFmYWZTbUREY3djNlhTZGpuYXZpSHBkbWk3T3kySW1aajBjOXo3cU9oemVwbkpyOENJQjB3WFNGeEZIRVZpSFE2OW5ia1NYQ18xbnVocy1kNDZQQms2NWJORThUcWhPS1pwVnFPa2lNbjY2MEVlS0FZbHFI0gHKAUFVX3lxTE1pWFBFMlktY3A1clVFQzhlVDgyUlZtT3FlN3Q3ay1YM29XeHFEMElQMy1jeHduS1JTVnI5dHRhMWEzYnpIazZKX0pDVGltVDJOaXlEQTFvMmNqbHY1S19OQVFPRXF5V3pWTW1aZlJ1UzRFcVlwTUszVjdpbjlqcjYwVEZtTk5aVVU2RzVZZURlS0cyZGVjR2pvUF94NnJ5V2pNU3EzdHh3UFVWQ21qTVVTc0NpTHlKTng5N1MwejZsNjk1Ykk3OUtHRlE?oc=5"
    }
   ]
  },
@@ -929,19 +921,19 @@
    "2": 15
   },
   "2026-10-25|Udinese – Milan": {
-   "1": 22,
-   "X": 26,
-   "2": 52
+   "1": 20,
+   "X": 25,
+   "2": 54
   }
  },
- "updated": "2026-10-18T16:19:49+00:00",
+ "updated": "2026-10-18T16:49:31+00:00",
  "log": [
-  "non finita Milan – Atalanta STATUS_FIRST_HALF",
+  "non finita Milan – Atalanta STATUS_IN_PROGRESS",
   "classifica milan 7 12",
   "classifica como 4 14",
   "classifica milan_eu 16 3",
   "classifica como_eu 12 3",
-  "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 4, 'up': {'n': 'Tortona', 'pos': 14, 'pts': 2}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 4, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 0}, 'dn': None}",
   "notizie milan 3",
   "notizie cantu 3",
   "notizie como 1",
