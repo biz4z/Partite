@@ -9,9 +9,9 @@
    "pts": 15,
    "g": 7,
    "up": {
-    "n": "Lazio",
+    "n": "Roma",
     "pos": 3,
-    "pts": 16
+    "pts": 17
    },
    "dn": {
     "n": "Como",
@@ -356,6 +356,13 @@
   "milan": [
    {
     "d": "2026-10-18",
+    "h": "22:50",
+    "t": "Serie A, colpo Lazio contro una Juve in crisi; il Milan soffre ma batte l'Atalanta",
+    "s": "Radio RTL 102.5",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONThjNGFfOFNXRjAyQUxWVHd2ZjRvMmFrNV90S01zTjN4YTdOSmdxNjVQbG5WaU51Sld6VGltVXpDbG1NVEZtWi1NVmoxYTlISkFjX004WGdmeDUxVTdHSG9PZFZ5X21yVWpwU1NDMlhrdnoybzZ2OHQ4aUJzQ2lQVUM3ZUd0MGNrNmdTaDExdzRvUFUzZEIyZnZFUVRMdWFoTGUtbk8zelJMT3VEUEpMTU15WGNwdjJP0gG-AUFVX3lxTE1QMWVrOS0yNTZjR1NZaTBLTWhDdmVxX1hlU2g2dm1ERXQwUjJUWnJNRmRQcG1OYVNGaU9xZzNSSFphTENBMDNRTFQ2czJBekVZSkJKR25iX1ctTFJwS0NxUldvWkVUTmtrbEtQOS1ycTVTekRpY3Zjb21CSGR4c2xKblB1czdWcFpoYWRZUkdXQ3c3YVRNemRqMTNIVlFsVjlYaDBPQ3JGem5xZVpQR0lOVFo1a3l5MTkzcW9yT3c?oc=5"
+   },
+   {
+    "d": "2026-10-18",
     "h": "21:24",
     "t": "Atalanta: Sarri, c'erano tre tocchi di mano ma visti solo quelli per il Milan",
     "s": "ANSA",
@@ -398,20 +405,20 @@
    },
    {
     "d": "2026-10-18",
-    "h": "20:05",
-    "t": "Milan-Atalanta, le pagelle rossonere: Musah scudiero di Modric, Gila fa quasi tutto bene",
-    "s": "Sportmediaset",
-    "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdkR2Zmx1RWVzN0Z5NDJiclBtc0JaTDJWNGRuWWhaZXJ2NkJMc3kwcVNrXzNZLVh3M0xzWGpxZl9TVVJWb3UwdFNoWW8ybVRnVkJsZ2hMbVpYRkhoOUZXSXMwM2lYWUJaNTdsQlR6akFOckJnTVJtNGxxQ21sdE92TGEzNXotQWdGbE1wanhZNTFSZGs0QWF1LXJfTWJfUk9PVGloai1OOUNTNVVkWVhnRHNaaTZGWW53NkZpeTlmLVBYdENKVkF1ZXZ1QnFSa2ZJUTdwYlZnb2tZbFB1LVNlMFBhUGloeHFLTVHSAXhBVV95cUxNX0FaMTBoVktyS2QzajNFRzR2c3J4c0xITXlVcGNQVkxNT0pJTU5DXzFwTTlBUkNWbUM5RDFiN2toelZWeGFBNUJVSEdNcElxZVRtOEM4bzBjYi1pekIwYm5Ed1lYdXdXVWxXOWRBZlJpUl9YMWFaZ2Y?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "20:05",
-    "t": "Il Milan prima domina, poi subisce il ritorno dell’Atalanta: finisce 3-2 per i rossoneri",
-    "s": "il Giornale",
-    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQUhlenNubFlvbmUxbnVhaVg2TEU1ZHlldVZ5SThqUGZ5ZTZQQVFObmZGWVNhNl9fSnFYMEhVbXpBdXNYaU5lRXk0RE9PcF9mOHJacFRVMl9kTE5zaG9nYTJ5cDFnTkQwQjBVeFJVTVV5ckdaS0FlaGJiRmFMc1ZlOElDbzZ5WjJnNkVheFl3eV9mQm9FbEh0Xzdtd3kxQzhUeUx0ZFdocVJkc3hKR2tRTkg4dlVfZXVpeG5TTk9aSlFGUQ?oc=5"
+    "h": "20:13",
+    "t": "Milan-Atalanta 3-2, 18 ottobre 2026: Ramos, Rabiot e Gila",
+    "s": "Lifestyleblog.it",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZVRGaWs2TWJSS3YyR3RmRDBXU2xpZFEtSzZ5Rlp3bEhDdzA1UHdNTkF5Q2psb3Q2N1dNUlpHWEtublI3UnJQM2xBV0cyTURTanhNNHFxd1hHYkw0eXRUMEdPN1NoY3hqMGFycXh3QndDRW5Jd2lZOVFUNG5xX1lUZmVMdWY5U2JvcER0d2dR?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-10-18",
+    "h": "22:26",
+    "t": "Cantù, ancora ko a Trieste: Vitucci duro, \"Serviranno riflessioni approfondite\"",
+    "s": "Espansione TV",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVptMFdqamkzeU0zNUUxcWJRdHFfYjJmdUhpYjFEUmVJdzAtTklweUhpNFBYZjdWOHdKTFpVNlNEbHhjb0o4Z2t6V3YwcWJIbC1XLXlIS3hLRkQ0R3BsZ3dpYkxQTDlsSVlNMWZDVHM1MVJ6RENWVDBPV0dCcGU5OU5uNmpqQXh3YTN5TEpVUk1BX2VmVVk4UjIzVDJfUDFVOHFVVHoweUpEMmh5akRybFlrQkU?oc=5"
+   },
    {
     "d": "2026-10-18",
     "h": "21:00",
@@ -460,13 +467,6 @@
     "t": "Galloway, Jones e la difesa: la Pallacanestro Trieste in controllo nel match contro Cantù",
     "s": "Sportando",
     "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yQzVuY25DZDFRTVhOeno0blRjbnJIN0JURjVPMl80eU5rcWRqdGlLaXBBTVg2ajliQVotNnpNZWFfV3lpT2piOGpCbUowQ0ROeHgtT1Y4eGR6MmtSWW55RHJwdWZjVkNIa0hjcHJRcDd2bzNFaXZvNDE2ZjdXX2s?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "19:40",
-    "t": "Paziente e inesorabile: Trieste demolisce Cantù 92-72!",
-    "s": "MegaBasket",
-    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdm9VLXBDWXVkaEhqUjF3OW55SE4xMzdPWHBUaF9ldThuR0EwSnhJMHdKTUc3MENFaEk4UjB0NWt2aXVlZXlZaHNzR0pWdDdubzRQdTk0Z09BajVIWDRsaWN1VVlBbk9wcEZUanVHREZ1bE5ncEN5eF9UM1lsa01ZZVZBclEzSjhmNEE3cjYwWjZRYW53VFI2a1lGUHQwRFE5?oc=5"
    }
   ],
   "como": [
@@ -924,7 +924,7 @@
    "2": 54
   }
  },
- "updated": "2026-10-18T20:29:23+00:00",
+ "updated": "2026-10-18T20:54:45+00:00",
  "log": [
   "classifica milan 4 15",
   "classifica como 5 14",
