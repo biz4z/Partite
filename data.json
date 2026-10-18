@@ -1,26 +1,12 @@
 {
  "results": {
-  "2026-10-18|como": "1-3"
+  "2026-10-18|como": "1-3",
+  "2026-10-18|milan": "3-2"
  },
  "standings": {
   "milan": {
-   "pos": 7,
-   "pts": 12,
-   "g": 6,
-   "up": {
-    "n": "Frosinone",
-    "pos": 6,
-    "pts": 13
-   },
-   "dn": {
-    "n": "Juventus",
-    "pos": 8,
-    "pts": 11
-   }
-  },
-  "como": {
    "pos": 4,
-   "pts": 14,
+   "pts": 15,
    "g": 7,
    "up": {
     "n": "Lazio",
@@ -28,8 +14,23 @@
     "pts": 16
    },
    "dn": {
-    "n": "Cagliari",
+    "n": "Como",
     "pos": 5,
+    "pts": 14
+   }
+  },
+  "como": {
+   "pos": 5,
+   "pts": 14,
+   "g": 7,
+   "up": {
+    "n": "Milan",
+    "pos": 4,
+    "pts": 15
+   },
+   "dn": {
+    "n": "Cagliari",
+    "pos": 6,
     "pts": 13
    }
   },
@@ -328,6 +329,11 @@
   ],
   "cantu": [
    {
+    "d": "2026-10-18",
+    "t": "Trieste vince 92-72",
+    "u": "https://pallacanestrocantu.com/trieste-vince-92-72/"
+   },
+   {
     "d": "2026-10-16",
     "t": "Coach Vitucci prima di Trieste-Cantù: “Partita importante”",
     "u": "https://pallacanestrocantu.com/coach-vitucci-prima-di-trieste-cantu-partita-importante/"
@@ -336,11 +342,6 @@
     "d": "2026-10-16",
     "t": "Un progetto internazionale di Mental Coaching con Mental Training Italy",
     "u": "https://pallacanestrocantu.com/un-progetto-internazionale-di-mental-coaching-con-mental-training-italy/"
-   },
-   {
-    "d": "2026-10-15",
-    "t": "Gli ex Trieste-Cantù",
-    "u": "https://pallacanestrocantu.com/gli-ex-trieste-cantu/"
    }
   ],
   "como": [
@@ -355,6 +356,27 @@
   "milan": [
    {
     "d": "2026-10-18",
+    "h": "19:58",
+    "t": "Milan-Atalanta 3-2, le pagelle nerazzurre: la Dea si sveglia troppo tardi",
+    "s": "CalcioAtalanta",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWVzcG55bE10cTE2eGwwYUl1R2tfcFg1NHFkaFpqQjN4cEMxOXBpU1RDSmpWY091UHVzOGt4dUtrM3Axb1pCSkpjcFdJX1pBWElDYXdTNkF0cWswQnNqazZIdmluUUNybGVnVUZXa0dwUW1FZGdwSktKWVp4WUJBV0JrZHItanlvN29vZTZBcDE2NlQtVmxuRmd4Tzl4cHhpWXJ4X1U5TzZLakdYak1JSHFiZw?oc=5"
+   },
+   {
+    "d": "2026-10-18",
+    "h": "19:57",
+    "t": "Highlights Milan-Atalanta 3-2: Ramos-Rabiot-Gila, Amorim torna a sorridere. Rivedi i gol su DAZN",
+    "s": "DAZN",
+    "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVnJYT0ZzSF9SRlEtNlVXYm9ZUzNLWEtieE1YemhLWmttRTlsdGhweWxjWnhjQzNsRjNBS0RtcnVGSElwNHVrVjEzLXltUnhGdDV5anVIVWJRLW5vaE9XN3plLXBnSnk4Qk5ZSWZzdHhPLTdLckFmd0c3OE83VjNHOUZZZG1nMERQSndUTHZxQWR5d0pCdjBQNmJJSnRwZWRaUzhuRHZtaUUxN3Jib0xUTUV3NS1pd2p4ZFRBSVJoZXRGVGpmVV9lMGF6NFpLU0dKWFFGSHNVclB1TTMwREdCekN4WGM?oc=5"
+   },
+   {
+    "d": "2026-10-18",
+    "h": "18:45",
+    "t": "ω📱[ROJA@CALCIO] Milan - Atalanta dove vederla in diretta tv e streaming gratis 18 ottobre 2026",
+    "s": "Universidad de Córdoba (UCO)",
+    "u": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNLXBselRHMHcxX1pFSE53bFo3U1h6LTVEX2xUUkU5V1U1RUFSc3pXanZDdzdFVTQ0YzVUSElMVzdoT29qSk5RRlp6Nm5UaDZUUUcwRnNDalQ5Qzl5RVA2elhCVHluOTZvNXc2WWVVczVpQUhWdmlWZ01Ecy1NcEU3aVltRW5QVjRSQWZOWUFLdzI2WDRnLThJaWU2R3RpUFZ3X0FUZ054YlhQNUwzUzkzb0pFUUNtblFjWndGc3ZzYVFzX2VlRGdCQlUtQ2MxZFpLM055Z2JhRU1qUEl4akJIeVBzSFRnQTFWbmdXNXh5QldZN0tIRi1PZUhNOEkwaDh2RTJrMXlNZGs0MXByUlhDVldkUUQ0bS1UdzZ0d1dOTXRlYlBGZ0JmQWd6YTZONEJnbFMxVUF0NU9xWWlqTy1pMlZhU0Z4R0FnZWxNZHRtb3JHRG1qcDNMRmZ2RHBsY1gyX2JVMw?oc=5"
+   },
+   {
+    "d": "2026-10-18",
     "h": "18:33",
     "t": "Serie A, in campo Milan-Atalanta LIVE",
     "s": "ANSA",
@@ -363,54 +385,40 @@
    {
     "d": "2026-10-18",
     "h": "18:23",
-    "t": "[Diretta]sTREAMING!] Milan - Atalanta Serie A Calcio dove vederla in diretta tv e streaming gratis 18 ottobre 2026",
+    "t": "+[[CALCIO/TV]] Vamos! | Milan - Atalanta in Diretta Streaming",
     "s": "Universidad de Córdoba (UCO)",
-    "u": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQSjlPSFBCOTZoZWM2T2FFa085T3JqTGZrdUdzdnAteXJ0UUN2cTJJSU8yRy1MU21pdHVGdXpfNWI1VnhZcWVTN1ZwcUQyWlpGNzdfbVVBOU5Va3NKd19vSVlSRkp4My0tTjlob3haV0toNG50WU1idjJVS3hEazBfZDAwdWRJQWhoSVFkZW5nZUlRSHBhSUd3T0EwYVJSb3NFSnZkX2IzbDd2QmdZNGdXWWVtVU0wdHVYd0pVTU0yUXhLNVhZRXQwRkJaSEowZjlZMjExb2dDV2dhM0hZU2l0bEdMMEZqMXhuYk5CY1lkQTAxOUtINlp5X01JRS1DOXJzcjk1Q3gxRUo1Wkw2SUg3WnZ3LUQ3SzJDQUptUEluUm1ISm9xX0kwWlRGMTM5bE5td2M5MEZLMk1UUDV2VTdZNGpmQUxLd2dBdG1pUldiWVE1WWxtVkUwS01wbmpPY2xTVTl6QlJ6dXFodVZUTFEwd2RGclRBek11aUhhaHBwQzhqTElHTUFBT1YzU3h4U1QzQnFzaVhQWnlQdzU1U2pWOUtycS1xRzdjNWVUTzFFenB4QQ?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPUGdDVmh1RVVYUWJZeW9oR2x6ZU94ZWx3bDU3N1pKTzVBTl9QYlhhWXJETXpJMVo3VlpiTFBhYUk2bVpZclo4dF9rMDNxaWx3SVdienduZmYtUU1wZW9DQm1RSE1PSlNJXzN2bEctR1N6TjRQeTdLOVBCUWl5NWxGSjNud1ptZXZIVVZ5WFJwRHBncWhhclM4SzNBb3hNdFRHZVFBWjZSWklybk5FRFRMeEpuSDBNYjN2dXJyaV9Qc3pFWER1S3ZWQ0dnZ1V4QVNpWVV1cmFtVlBRbVgyb0ZIajRLNkZ5R2xkclpnN2J3RkhkRVZBTFdoTmRMc0w2MWNrbEU5c0ZkUmNBT1FOUE9McDVENEFVOW4xQTRQQU1TZVJNLTB5ajkwd01QX001Vm1ydWRDc0VpeFA1UE9YTmxZekZJN3k5c09OUXBsM29CNDRQNmxFd1k5VndXX3U4QnRzYS1XSXcxV1I4X0VzUkVXQ0lqbEJIUzV4ZDN1TXRiSXFGS1hjY19OVkhuNXNEc2NoSEZ5MVJLQllOc28wV2JZdDNHLXhMd1k?oc=5"
    },
    {
     "d": "2026-10-18",
-    "h": "18:16",
-    "t": "ω📱>[ROJA@CALCIO] Milan - Atalanta dove vederla in diretta tv e streaming gratis 18 ottobre 2026",
+    "h": "18:23",
+    "t": "+∇√$[+[!CALCIO TV!]+] Atalanta - Milan 𝕀𝕟 𝔻𝕚𝕣𝕖𝕥𝕥𝕒",
     "s": "Universidad de Córdoba (UCO)",
-    "u": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOLVVoWnBZRXlVVFA4dmEzZDFza2tvcDZXdGxmNzYxYm9JRi1BT0lnbHRDY1ptb2NtbDYxbUQ0QUxrR1J3ZTF3MHQxOF9WdDlyTHZSVi10LWt1Y3E3MDJmcGkwS3MwMjFJT3J3cUR4WTRfWk1lUTg3b3VQdnNkWXQ2T1l0MmZ1TDRGWW5kR3BYQTBPcmJMbXJMeXZXRklBemI2NVM4cGJVVXJVaFB6a3Vtd25ZaXIwZ2ZNbzM3UnBCT0ZLSnBMSVY3a1FSRWhfYVo3YklfNjZjT0cyRVo4SEljcU1ldFpQRVhydThZRFU5QjBMZEJHUm5ZUERxazZvYW5VZHN6OUM4N2x5Wk44dkkxMUlob2tZRDY0LXR0TzN6TnJYUHVJRTQtdUhjOEJqOV9qdEJFZTNVWC1vckNrWU9kaWZzWl9TLWd3WkQwNkhyaHFvbDBCcF8zVFFmMUpXME1ubmtURg?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMioANBVV95cUxOT1VaMXdNNXByb0dLSTV0M25jdHBXQi1iQUZXazNUWVMyb1ZsdkpPYzBmVElkOFZNc3hnaXlEMGJWWVFiYTJEN2o3TjY0ZlhzbVRKZVBTYjBydGVxeHpTV2laRjlCVjFfMVBKSjZ5ZWM1SFZBaVMwYzRiYXBJd19qWXBGLTFqWmtyazkwNjl5dDlvY2tscXBuNGhWTDNxM2FvUU10MmNacFRrRTFSaUl6OTF5dDNjemdJWFptT21aNVp1SnE2QUU1Nm42djRZY1ZoN2tmaTl1bzlaT2o1OHNZSzJ0dTVfSWZPTkFfODR3LThXeEZtRTBSREF5bTRxVUk2MWg0MWhGRFR1Y2lIVGgtcktHdk1xLTBxZ2tMVWNWa3hpdEoyMzdXZkJWcFY4Q3FLYnN0SllOSlRoajRpNmR2UnRHVUtyMURzNDNsMm91OTF2TkJzQ1FYcnlGTTh2Ulg4QjJqSWF1RWJldVJiUGtkWm5MMThyc1NEM3RKM2k5TTVCMWEzRlF3R3EtenNZUnpfUzF1V25aN2d3Qk9oajlDcg?oc=5"
    },
    {
     "d": "2026-10-18",
-    "h": "18:16",
-    "t": "ω📱>[ROJA@CALCIO!!] Milan - Atalanta partita in diretta",
+    "h": "18:23",
+    "t": "+$*&[[CALCIO/TV]] Milan Atalanta In Diretta 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 TV 18 ｏｔｔｏｂｒｅ ２０２６",
     "s": "Universidad de Córdoba (UCO)",
-    "u": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNelA5UmRDWHNkOGZHeGZwVUpUVUd1SFdLTlBFaElJWWQydV9VRFV4N19oU1gwZEV0Mmg3akFBVExLWkVpSFN1OTF2Ri1odFJ1cUs5bDFXejZSMWVmdlVHeTdsMVhsT1NFZG1JbTkxYW40RkxUekZ6bHBVdHVCS2VmZGlWVEFTRXQ4SHBTSjJ4MjJEelprVmdmaGRaVFFJVm1tWHFmMjNWckxiQ3hkdncxUzE5V1B2eGNrZVg3ODlfcUFwb3poMTJGb1ZxT25Yd1l2WGlnLVVaVkNCb1lTcDMyTWRLTzZGYXJfT1lTRUlZblhaMkNyTWNtR3I1MGVXZHMxN2Q2UzRlOThFOHBHcDM3SGFyS3pkUHhUdHRTMGU2RVZ6OHcxdWtXSHg2Qm1FQ2sxcS1FMlNjNjVYbWlhVFBXZ2VLZ2tjUTA5YU5ScVVPMlBVeDQ1UGcwRUh6a0VlUWpu?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMirANBVV95cUxObzNRUUUyVHljelRZaU5MZllrdVlnVDlYeUR2V3lRME5LYW1hdGhMVEZJLXN1WE5HVEQ0YW5XNXlRS3Blb25PUVNSVVBEcjZPMXFnMmd0eldNbkhCUnVQVVhkc19seFNKTTJYbnNDZVZyVE52NU5tenM0Z1g2dmEyQzA3VDJfSUhidk5fOWtSSkN0bWtXeXlhSFRoaWpSbWF4Sk5pbWJ0SU5HUlVZOXhfQWw4c1JrLW1fdEpOLW1oV29BVUJGcWlJZFFFR2dzX0UyYWp0NXowUE1TQjdUZDgtLWs0eFF5OTkxbzRUcktOM3pFSG1HNDdBc093dUt3OE9FbHpFT1BNTzU5Q242X1RQMVV0cUI0dldxb2ZCSnRBVkRIbjlXb3c0T1dfaGk0QmVIcV9TM0t3SkVsWFpsVGdyblB6MWpSOFdTM2ttQW5lT2VHenVTdC1NZzJMeDQxYlR2MWNwa2dfRWx3S1VMa09fcndBNVhqaThONEhkM3E2SG9JQldDNFlZa05vWkZXUS1PZkxsTUp6OGxDajRrc1l3bmZialNLM2M1SlZ0Wg?oc=5"
    },
    {
     "d": "2026-10-18",
-    "h": "17:55",
-    "t": "[DIRETTA]CALCIO!] Milan Atalanta in Diretta Streaming 26 luglio 2026",
+    "h": "18:23",
+    "t": "+[[CALCIO/TV]] Atalanta-Milan 𝕀𝕟 𝔻𝕚𝕣𝕖𝕥𝕥𝕒 (Serie A) Ｓｔｒｅａｍｉｎｇ Ｔｖ 18 ｏｔｔｏｂｒｅ ２０２６",
     "s": "Universidad de Córdoba (UCO)",
-    "u": "https://news.google.com/rss/articles/CBMixAJBVV95cUxObHY4NjlCRmdmRHl0b0F4dEEybEhPQ01KTXhNejdqdTZTZW9Hb01IcC1pellqa3VUVm4wbUtCa0NwVDdPQkJlbUpDcnNxejZUWnptd3hOck5qaEdRNW5JX2hFTDYyTVdYT2s2QlpCZ0NJSnRYdHdRc1Y4Mm1vX0h1emtrSTJHSmVEb25wdWo3TnhXazV2SjRFWFNKdENYSlRIRlNFbmFxUE9KSDhrZk9xa2pueG83eXNZRmNaeWxWOEVwQlpkQkRSM3VGMUFuMXl2a0pNdzBPb3dwak1JVEdSVjBSUHJ5SDlBTlFWN1Jzc0YxVFc5d2xWV1YzUmh5Tl9XU2s4clhnTkplR1lkdGUwWEljRm9KQnk3UW00cmxMcmJTcjJWVHJQcXk0TGQxcWplRmF2SmRZWGE1WllXSTNWcnI5d1A?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "17:48",
-    "t": "~>>[Calcio]^* AC Milan - Atalanta In Diretta Streaming HS Football 2026",
-    "s": "Universidad de Córdoba (UCO)",
-    "u": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOTzlPUXZ6dTg0Qlh5N1lVYTJfbU85dmFNMG1tSUl3WjlZY0txODVRZzN3M1lUUXhZT082bHFCTW9vZmVBbDBkX3lmLTZvQ2dpdmF2UEpRU1Z6WEdBNlgyYzZqbGFoOXE2eWdKU2s3WndLYXV4ZmU1ZEdMU1BuNVg5UnpmTjB4bTl1R3JIcXZsUFpoaGJ3dHhTY2xCNmVJN2tvdFdDcGpKWi1tM3J1NG9JblpMWV9neU40LUtoQ0lpTDJFTzhLQllEV1diWHl5SjVRNWxJMXNMTG1iSmFyWW01alpFTXdkMmhjRE5FWE00Z1VBYzN0Z1duOW9jTkFEZ3VQTlFNRkkyZ2J5UGtMbEtvdUhGMjBPQi1XekhsNTlTTWtOV3lQQXotZDZENjItb2lmbGk0djhTS0d5QWI4RDR5YWZ0UVc0MGtJbi1adVFzbm0ydU1jZVE?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "17:48",
-    "t": "+[DIRETTA]**AC Milan - Atalanta In Diretta Streaming Calcio TV 18 ottobre 2026",
-    "s": "Universidad de Córdoba (UCO)",
-    "u": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxObG1JQ3VMN2ZhUWVEMWF1QnloY2dKckxqS0RCVWMxLUhYaWRvSjExQTNkQW5pUVo4N1dBTDhIeW16VllCZUJNRUlLaGd3allIaFhKTmtfQk51Y0g2TEFzeWNaMklScnFvUTBfcmRWek5jbXF1TkpsTnBGY0pEampNYlRtcnp0VDVoNS1GLXBmMkpOc003VmJYazkxeE1zUXZRQzd0TGU3cVZLQ0pOZ2NSQThFVjU5V3E3WWkzbkJKQ1FmTHlqODR5X1ZTSkl2Vzg3dk9hSEdIVkEzLWlKeFN0VEFyRHRxY3pSVnZ4eUhCQ2RCZnI3T0hHbVhvQVlEVk5BeWJPMkZhaEhIQ0VVdzNzbmdibjNNMlJicmRsV1VtZ0ZzOG9kWmpoQ2xnalhMWlBSWS1uSGs3SGxfaDJHcDZ2bWhoOFFtNG5NSHlEWGxmZG9BVUg3T3gteEZiVlgzelphamhj?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "17:31",
-    "t": "!$+[DIRETTA] Atalanta - Milan Calcio dove vederla in diretta tv e streaming gratis 18 de octubre de 2026",
-    "s": "Universidad de Córdoba (UCO)",
-    "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOWjRsYXZERmNXcXd5Z1RNbmNfRzZfeWh4QWlQc0Z3azVhbGVreXZYYk00VGl4YU9uc0gxclZBNmJRTlM3VUtmU09OdlM3Yk0yU2Utc3d0elJmNDZ3LXNCRjZ6VUt5VVFhZWl6SFl4VHZFOGRrbF9EYU00M01FNWpHeWk1ZWppb05hSnRmNEJBOEt1dlVVOUFfdmtmNHpzTmJFMnZIbFRQYjNlSWR3NVl1RUo4SjEwZ3l1RXI1aHhtR3FFNFhXamEwNU95aUMxYk5sX1NJZF9VcG01WmpuUXlTTGx6RE4xcm91Ym9jaTl4S0U2WTVoS2FtaDRXVlFwMjVaR3RMVTUzWVhDUGRRY0M0TEdYZ3dmUzUzdlg4YjZiaEdrdWdiX2M3NEVvalBNaGVUY3Ew?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNYXJwdEZJNGtpRVFFb1BTWmotc1FsaHVzMm5xUDR0MHdCRTdWamFiUEJ3eC1mVi1ScTVoMno5UnE3Z0xXVDdYRDFpaDUzRU5Fd1JRRFh2T0Yxd3FMd1FOSEJrR3ZlVHVlU1pQS0FlaXEwd1IySGgtZTA0WElPRFJ4SkJGdTVIYkRYY3FTSUpLSDRrRU9mUl9NNnpNLVR4RGU2aXNuUzlFWDlEV05SRmtCSUlLbEZFX3FPRkR3X1pMTy1taThFallRZEdtSGoxZDI4ZjFjXzJFaHRQbXZveERVMnhhZG9sTW9aOXU1Z0pFUEtQbXFLcGFCZmRUQ1RySkhzc0ZUd19odUhtRldFNGk0bTMzb2dlSDlUcUgybVVhbDMydHFfcHRoamVGMmFxMDV3T3NxdkhjMFRveWtaUjNUSFVXcFpCanFma2pocVFHeDNndlRQMDctQjFUUWJDN3U3c2NmRklXWUtXbEoyTGl6VWdEazhjR2lvLVctMWU2TGp5QWhaOWJzb3R3cmNjY1JUOERCLV9JM1VpdzJzZWtpWktXV0dqNFZYMnN6Nmd4RkhsMEdtUnhzZ05NNG5Pd3lOWi04d0ROaVl0cTBxV1pEQlY3VUhDV1NsN1pmaXhMSVdFSWw0TTJ6RTdYM2VPRnU1THhucTR1TWlZb2NGTl9fTUpsMUtUa2JwUWo1Z0xKSFltbmRQbkFZ?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-10-18",
+    "h": "20:04",
+    "t": "Cantù, la pazienza dei tifosi è finita: esplode la rabbia. \"Vergognatevi, così si torna in A2\"",
+    "s": "Sportal.it",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaEVSTldQNllMOFBmX19IX01XbGJnVC1SMkRMQnowSm5tVnBfNVAxWGVTeHIwRjJzbHJOd2JLX09yTGFZcE1NZEp1TE82YV9XRmpjZUFQbjRyLV9JTFZ3Z2JEbEVYRUdHeWxwU2pkdHVFdmxVUDB4WnlZdTdDWEZpNjZpVVlubHYyTTBVRXRfbUxQTTZ4bUdWcjVSZEtMbmV0OU5ORDdzM3pyTU1NS0dtdk8wOVNGUDBQWXZxSzZTT25FaHpkaTNTZFRLZmJxdnphTGF2cQ?oc=5"
+   },
    {
     "d": "2026-10-18",
     "h": "19:40",
@@ -459,13 +467,6 @@
     "t": "La Provincia: \"Cantù al primo bivio della stagione\"",
     "s": "Sportando",
     "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUhfVTdJMUR1eWdsQ1lydzU5ZldIWlRIa2dId2JvV0stOElseE95QUgwVGlzQlI2SDdwMTZZTS1hY2ZKS0c5bEZQamJoOU00d3FNX1dCTWVZa3YzbmdYa0lhZkZ2R3dDalNWUHNFdTNzM2IxazV1S3VaOFhZYVhpM1VlOVc?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "09:16",
-    "t": "Como e Cantù, una domenica importante: gli azzurri a Firenze senza Diao e Kean, S.Bernardo a Trieste",
-    "s": "CiaoComo",
-    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOazVhckZiNGpma2M0VU10V0I2b3l2YktSVWxRc1VMNXhxQ3JDcWZGMlF4bHp1ZS00UzBkN0xIUmNfV2JqcUl0WmJHcnk3Ukt6WVNrbXYxT29qbEUySVdxX1NwYl9hdk1PSFJQV2cwLUo1T3JybVVkblhaNDRqeW1KSkMteEczUFR2NVU3TlBUZnpzVWZGTXJ2OFZSTjRRWk9kRnZFYUtYMlVrLXdvUGh6WnJHV2Qya3VYYnFGS1hxb1l3VDNwTDV5R3JNUVdYMWJLZm5HM2ZPcw?oc=5"
    }
   ],
   "como": [
@@ -475,13 +476,6 @@
     "t": "Fiorentina-Como 1-3 | Match Report",
     "s": "Como 1907",
     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jVVYxSG5ob2JyeUxuSXFSWEZyRTQ0Rk8yeXJNbmVZUVJySWpwV3RFbzdrZlAzLVRyRXBhTEpFbHNXVEc4U2VqV1BDM3I4SFhyTWZPVThGX09GYmFlQ21lSEc5Ulh0TV94TEE?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "18:34",
-    "t": "Il Como torna grande: a Firenze finisce 3-1 per la banda Fabregas",
-    "s": "Il Giorno",
-    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY21vc2ptbThSVHNtNlVjU0V0VDZObkdIUEZKRWQ4ajNPcHR4UzVzWEMteFMyMVloeTFOWi0xREFrclhBb01WbU5HbEd0NUJwNlo3THZRbml0Njd2UVRaOG1wMGNjODgxaFVPSFk4ZnlJYVBFMmFJMVVxMHNQR0VnODg2aWZBaHNNYTJpdWtFTXY5cFgxZzhzWFJfVkJFaE1KY1A5dmd3WFZxdXUteUgw?oc=5"
    },
    {
     "d": "2026-10-18",
@@ -524,16 +518,17 @@
     "t": "Calcio, il Como ritrova la vittoria: Fiorentina ko 3-1 al Franchi",
     "s": "Askanews",
     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ3F1NjMwQ1paTUxSZTRIbUF1cmNEN05IdzFDUnkzS0ppeEI2LXM2aElOX2NwQk9mNG1IUE1Ma2pMeDRNdHFGam1jTFBBM1djWE54U1hxWUxOWkEzNGVBV2hXNWpHNWVkUnVMb3BHbmdScEFKRnlPdXVWN2Y0QUdLcmp2dmlpSUhFQUNjbzBVZUtjZ0RBdWU4LVh5dw?oc=5"
+   },
+   {
+    "d": "2026-10-18",
+    "h": "17:22",
+    "t": "Fiorentina-Como 1-3, le pagelle della partita di Serie A",
+    "s": "Sky Sport",
+    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KVG1KSGtZMDBrS2piRWFndTNHSGF6YkpzQWxkcXdRVVM0RVlwaDFqNkhKeklDTFFPTDBvX0xla2xiUGRkRFVyMjJaQV9mWW53bEk5SUlnVlRyVklOSGpzaGxmcGxmbS0ycU00aXlXQjZFSk1FWmVxXzhR?oc=5"
    }
   ]
  },
  "fixtures": [
-  {
-   "date": "2026-10-18",
-   "team": "milan",
-   "match": "Milan – Atalanta",
-   "time": "18:00"
-  },
   {
    "date": "2026-10-25",
    "team": "milan",
@@ -913,11 +908,6 @@
   "cantu": "https://r2.thesportsdb.com/images/media/team/badge/vy599w1784567424.png/small"
  },
  "odds": {
-  "2026-10-18|Milan – Atalanta": {
-   "1": 57,
-   "X": 23,
-   "2": 19
-  },
   "2026-10-21|Como – Manchester United": {
    "1": 41,
    "X": 25,
@@ -934,11 +924,11 @@
    "2": 54
   }
  },
- "updated": "2026-10-18T17:54:58+00:00",
+ "updated": "2026-10-18T18:11:43+00:00",
  "log": [
-  "non finita Milan – Atalanta STATUS_SECOND_HALF",
-  "classifica milan 7 12",
-  "classifica como 4 14",
+  "risultato Milan – Atalanta 3-2",
+  "classifica milan 4 15",
+  "classifica como 5 14",
   "classifica milan_eu 16 3",
   "classifica como_eu 12 3",
   "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 4, 'up': {'n': 'Tortona', 'pos': 14, 'pts': 2}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
@@ -948,10 +938,10 @@
   "stampa milan 8",
   "stampa cantu 8",
   "stampa como 8",
-  "calendario milan 32 partite future",
+  "calendario milan 31 partite future",
   "calendario como 31 partite future",
   "ERR logo cantu HTTP Error 403: Forbidden",
   "loghi ['cantu', 'como', 'milan']",
-  "quote 4"
+  "quote 3"
  ]
 }

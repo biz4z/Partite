@@ -229,15 +229,10 @@ UID:ec06e859c2c5511c@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261018T180000
 DURATION:PT2H
-SUMMARY:⚽ Milan – Atalanta
-DESCRIPTION:Serie A calcio · 7ª giornata\nTV: DAZN · Sky / NOW\nhttps:/
- /biz4z.github.io/Partite/
+SUMMARY:⚽ Milan – Atalanta 3-2
+DESCRIPTION:Serie A calcio · 7ª giornata\nTV: DAZN · Sky / NOW\nRisulta
+ to: 3-2\nhttps://biz4z.github.io/Partite/
 LOCATION:DAZN · Sky / NOW
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Milan – Atalanta tra 30 minuti · DAZN · Sky / NOW
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3deff43a24dcc986@biz4z.github.io
