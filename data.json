@@ -64,15 +64,19 @@
    }
   },
   "cantu": {
-   "pos": 16,
+   "pos": 15,
    "pts": 0,
    "g": 4,
    "up": {
-    "n": "Scafati",
-    "pos": 15,
-    "pts": 0
+    "n": "BC Roma",
+    "pos": 14,
+    "pts": 2
    },
-   "dn": null
+   "dn": {
+    "n": "Scafati",
+    "pos": 16,
+    "pts": 0
+   }
   }
  },
  "cantu": {
@@ -103,7 +107,7 @@
     "time": "18:00",
     "home": "Trieste",
     "away": "Cantù",
-    "score": "33-24"
+    "score": "57-51"
    },
    {
     "date": "2026-10-25",
@@ -289,15 +293,19 @@
    }
   ],
   "standing": {
-   "pos": 16,
+   "pos": 15,
    "pts": 0,
    "g": 4,
    "up": {
-    "n": "Scafati",
-    "pos": 15,
-    "pts": 0
+    "n": "BC Roma",
+    "pos": 14,
+    "pts": 2
    },
-   "dn": null
+   "dn": {
+    "n": "Scafati",
+    "pos": 16,
+    "pts": 0
+   }
   }
  },
  "news": {
@@ -347,6 +355,13 @@
   "milan": [
    {
     "d": "2026-10-18",
+    "h": "18:33",
+    "t": "Serie A, in campo Milan-Atalanta LIVE",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdERxZHlaLXIycEVObkszSW00b1h5SnZTV3ZkOG1sbkdIRVFkeWFXWG9wWmc5MGg0OXBWcDBkNVE0dGV2U0drWGp6cXRtTWlQSWZXZi1jMXRDZTNZX2tuQ09nd2RHZWxsb2JLb1RlS3pZV1hhcWFfVU9oa2liaWlMd1pKTllBTnFhdDlMWUxwckd5YmJ2dkl3b0kxZU03Vl9mUnViVi1Vcks2dDJxQ1Z4d2dxVDBOejV1THEwR1JrZ3NiMWd1c2dVLXNzbEdUZzg1dXBhQU5JS2lNMjVOWVJJ?oc=5"
+   },
+   {
+    "d": "2026-10-18",
     "h": "18:23",
     "t": "[Diretta]sTREAMING!] Milan - Atalanta Serie A Calcio dove vederla in diretta tv e streaming gratis 18 ottobre 2026",
     "s": "Universidad de Córdoba (UCO)",
@@ -368,6 +383,13 @@
    },
    {
     "d": "2026-10-18",
+    "h": "17:55",
+    "t": "[DIRETTA]CALCIO!] Milan Atalanta in Diretta Streaming 26 luglio 2026",
+    "s": "Universidad de Córdoba (UCO)",
+    "u": "https://news.google.com/rss/articles/CBMixAJBVV95cUxObHY4NjlCRmdmRHl0b0F4dEEybEhPQ01KTXhNejdqdTZTZW9Hb01IcC1pellqa3VUVm4wbUtCa0NwVDdPQkJlbUpDcnNxejZUWnptd3hOck5qaEdRNW5JX2hFTDYyTVdYT2s2QlpCZ0NJSnRYdHdRc1Y4Mm1vX0h1emtrSTJHSmVEb25wdWo3TnhXazV2SjRFWFNKdENYSlRIRlNFbmFxUE9KSDhrZk9xa2pueG83eXNZRmNaeWxWOEVwQlpkQkRSM3VGMUFuMXl2a0pNdzBPb3dwak1JVEdSVjBSUHJ5SDlBTlFWN1Jzc0YxVFc5d2xWV1YzUmh5Tl9XU2s4clhnTkplR1lkdGUwWEljRm9KQnk3UW00cmxMcmJTcjJWVHJQcXk0TGQxcWplRmF2SmRZWGE1WllXSTNWcnI5d1A?oc=5"
+   },
+   {
+    "d": "2026-10-18",
     "h": "17:48",
     "t": "~>>[Calcio]^* AC Milan - Atalanta In Diretta Streaming HS Football 2026",
     "s": "Universidad de Córdoba (UCO)",
@@ -382,24 +404,10 @@
    },
    {
     "d": "2026-10-18",
-    "h": "17:35",
-    "t": "[DIRETTA]CALCIO!] Milan Atalanta in Diretta Streaming 26 luglio 2026",
-    "s": "Universidad de Córdoba (UCO)",
-    "u": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPaFBiSXphS3RRd19YaXAtbW9FOGtWMTMzYzZxS3ZsOWs3cmdpcU5POGhPSHRyT2VFRWFyOGZ2LW55RHo1aG4yaGlDWkJ5VG4xMGVJaGIyLU1ob1Y5cURzVUNQSzRlazctaEpqa1I3bWRUUnFGZlNzdFZtMEFnLWNOcUg4LXFraUdyNFRPclp2bEdyVnFFay1hNW1XdGVkTUtfTzAtRlBRTEVGMkdRZHpTazVHMnYtc2ZZajUwNEtfMDEzajhXSEZtNC1IbmczRFlaMXN0a0NFajBlLWZIdEYwc1JZSUVaT0l4SFFxX0dTNGltR3UyeTlVVTFGdEE2bjF4eTdqTzVsa05YTWMzWjZWTGhjNmZMZGRqZlltUllwdV9FOTVQU3dRZVZQZW5zakJiS29rSml0T1UwcjhkcXdxUG13Yw?oc=5"
-   },
-   {
-    "d": "2026-10-18",
     "h": "17:31",
     "t": "!$+[DIRETTA] Atalanta - Milan Calcio dove vederla in diretta tv e streaming gratis 18 de octubre de 2026",
     "s": "Universidad de Córdoba (UCO)",
     "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOWjRsYXZERmNXcXd5Z1RNbmNfRzZfeWh4QWlQc0Z3azVhbGVreXZYYk00VGl4YU9uc0gxclZBNmJRTlM3VUtmU09OdlM3Yk0yU2Utc3d0elJmNDZ3LXNCRjZ6VUt5VVFhZWl6SFl4VHZFOGRrbF9EYU00M01FNWpHeWk1ZWppb05hSnRmNEJBOEt1dlVVOUFfdmtmNHpzTmJFMnZIbFRQYjNlSWR3NVl1RUo4SjEwZ3l1RXI1aHhtR3FFNFhXamEwNU95aUMxYk5sX1NJZF9VcG01WmpuUXlTTGx6RE4xcm91Ym9jaTl4S0U2WTVoS2FtaDRXVlFwMjVaR3RMVTUzWVhDUGRRY0M0TEdYZ3dmUzUzdlg4YjZiaEdrdWdiX2M3NEVvalBNaGVUY3Ew?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "17:11",
-    "t": "Milan-Atalanta, formazioni ufficiali: niente Cissé, c'è Moreira sulla sinistra",
-    "s": "Eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOU1VYYjQ0OC1xUWlkck9CT25CMVJ5dHUteHJIdmY5azNfc1F1dWdiUDhXYV84bFRFaEZNZnA3SlJ4SzZoRS1XWVEzb0N2ZmdBT1pvbUU2MGRsT2RPTlUwdkUwM2s2Z1N4TzF1QlpINkY2ejRTWHluQWVPako3WDdmTHNIRzFqSHRwZ2RQSWtsNGpRRFJuQkFSVTl6UlFmYk03Y0FBSFpnMk5SV1VBRnJGU0Rob2VqMmpXMF9aQm5OZ2xieUY2cGdYTHVJcVFWOU1nQWotcVhOU2JUdll2ckxILWJ3UkRub2R6ZlFmMFMxTml5QVZqYkdYQ1BNUTBzMnZaQlJ0X05QbzJld1ZyVm9qbVZ1RWhjWFE1QW95dHFWUXgtRzdFa3FralNEdk02ZHpjeC1vMmxWTTRGSWlJbWtv?oc=5"
    }
   ],
   "cantu": [
@@ -463,6 +471,13 @@
   "como": [
    {
     "d": "2026-10-18",
+    "h": "18:34",
+    "t": "Il Como torna grande: a Firenze finisce 3-1 per la banda Fabregas",
+    "s": "Il Giorno",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY21vc2ptbThSVHNtNlVjU0V0VDZObkdIUEZKRWQ4ajNPcHR4UzVzWEMteFMyMVloeTFOWi0xREFrclhBb01WbU5HbEd0NUJwNlo3THZRbml0Njd2UVRaOG1wMGNjODgxaFVPSFk4ZnlJYVBFMmFJMVVxMHNQR0VnODg2aWZBaHNNYTJpdWtFTXY5cFgxZzhzWFJfVkJFaE1KY1A5dmd3WFZxdXUteUgw?oc=5"
+   },
+   {
+    "d": "2026-10-18",
     "h": "18:27",
     "t": "Como: Fabregas, abbiamo fatto una partita completa",
     "s": "ANSA",
@@ -502,13 +517,6 @@
     "t": "Calcio, il Como ritrova la vittoria: Fiorentina ko 3-1 al Franchi",
     "s": "Askanews",
     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ3F1NjMwQ1paTUxSZTRIbUF1cmNEN05IdzFDUnkzS0ppeEI2LXM2aElOX2NwQk9mNG1IUE1Ma2pMeDRNdHFGam1jTFBBM1djWE54U1hxWUxOWkEzNGVBV2hXNWpHNWVkUnVMb3BHbmdScEFKRnlPdXVWN2Y0QUdLcmp2dmlpSUhFQUNjbzBVZUtjZ0RBdWU4LVh5dw?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "17:25",
-    "t": "Serie A, Fiorentina-Como 1-2, annullato il gol del pareggio di Pongracic. Cosa è successo",
-    "s": "S&H Magazine",
-    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS3J2U2J0QkFJNUdtSkxkcmg0ZnR0QUs2WGN2MVJvTnFYdHpXRnVYc29OUXo2M1dwOTV1QWpISXJIYVk0OGFDakYtTWFETThSUkdIWmpIcDhTVU9rUm80RTVoMkZVejNmaS1Bb1ctVFBuZDZsOGJaMHNxOXUzdDVOZHM3bXNfT3dXVkhMQ0pwbU0xX29OcG0yNGdMS3dZemNZbjlfOUtocUk0ZGlYWVlXemI5b1FvbEZGM1phS3BDV2dRVE1jMWZQVEVhZjc?oc=5"
    },
    {
     "d": "2026-10-18",
@@ -926,14 +934,14 @@
    "2": 54
   }
  },
- "updated": "2026-10-18T16:49:31+00:00",
+ "updated": "2026-10-18T17:09:54+00:00",
  "log": [
-  "non finita Milan – Atalanta STATUS_IN_PROGRESS",
+  "non finita Milan – Atalanta STATUS_SECOND_HALF",
   "classifica milan 7 12",
   "classifica como 4 14",
   "classifica milan_eu 16 3",
   "classifica como_eu 12 3",
-  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 4, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 0}, 'dn': None}",
+  "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 4, 'up': {'n': 'BC Roma', 'pos': 14, 'pts': 2}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
   "notizie milan 3",
   "notizie cantu 3",
   "notizie como 1",
