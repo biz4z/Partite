@@ -81,233 +81,8 @@
   }
  },
  "cantu": {
-  "games": [
-   {
-    "date": "2026-09-26",
-    "time": "20:00",
-    "home": "Venezia",
-    "away": "Cantù",
-    "score": "85-73"
-   },
-   {
-    "date": "2026-10-05",
-    "time": "20:00",
-    "home": "Cantù",
-    "away": "Udine",
-    "score": "84-85"
-   },
-   {
-    "date": "2026-10-11",
-    "time": "17:00",
-    "home": "Cantù",
-    "away": "Napoli",
-    "score": "80-99"
-   },
-   {
-    "date": "2026-10-18",
-    "time": "18:00",
-    "home": "Trieste",
-    "away": "Cantù",
-    "score": "92-72"
-   },
-   {
-    "date": "2026-10-25",
-    "time": "18:30",
-    "home": "Reggio Emilia",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-11-02",
-    "time": "20:30",
-    "home": "Cantù",
-    "away": "Olimpia Milano",
-    "score": ""
-   },
-   {
-    "date": "2026-11-08",
-    "time": "16:00",
-    "home": "Maxima Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-11-15",
-    "time": "17:30",
-    "home": "Cantù",
-    "away": "Tortona",
-    "score": ""
-   },
-   {
-    "date": "2026-11-22",
-    "time": "17:30",
-    "home": "Scafati",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-06",
-    "time": "16:00",
-    "home": "Cantù",
-    "away": "Varese",
-    "score": ""
-   },
-   {
-    "date": "2026-12-13",
-    "time": "",
-    "home": "Verona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-20",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trento",
-    "score": ""
-   },
-   {
-    "date": "2026-12-27",
-    "time": "",
-    "home": "BC Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-03",
-    "time": "",
-    "home": "Cantù",
-    "away": "Treviso",
-    "score": ""
-   },
-   {
-    "date": "2027-01-10",
-    "time": "",
-    "home": "Virtus Bologna",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-17",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trieste",
-    "score": ""
-   },
-   {
-    "date": "2027-01-24",
-    "time": "",
-    "home": "Udine",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-31",
-    "time": "",
-    "home": "Cantù",
-    "away": "Verona",
-    "score": ""
-   },
-   {
-    "date": "2027-02-07",
-    "time": "",
-    "home": "Varese",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-02-14",
-    "time": "",
-    "home": "Cantù",
-    "away": "BC Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-07",
-    "time": "",
-    "home": "Cantù",
-    "away": "Maxima Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-14",
-    "time": "",
-    "home": "Treviso",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-03-21",
-    "time": "",
-    "home": "Cantù",
-    "away": "Scafati",
-    "score": ""
-   },
-   {
-    "date": "2027-03-27",
-    "time": "",
-    "home": "Trento",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-04",
-    "time": "",
-    "home": "Cantù",
-    "away": "Reggio Emilia",
-    "score": ""
-   },
-   {
-    "date": "2027-04-11",
-    "time": "",
-    "home": "Tortona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-18",
-    "time": "",
-    "home": "Cantù",
-    "away": "Virtus Bologna",
-    "score": ""
-   },
-   {
-    "date": "2027-04-25",
-    "time": "",
-    "home": "Olimpia Milano",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-05-02",
-    "time": "",
-    "home": "Cantù",
-    "away": "Venezia",
-    "score": ""
-   },
-   {
-    "date": "2027-05-09",
-    "time": "",
-    "home": "Napoli",
-    "away": "Cantù",
-    "score": ""
-   }
-  ],
-  "standing": {
-   "pos": 15,
-   "pts": 0,
-   "g": 4,
-   "up": {
-    "n": "Tortona",
-    "pos": 14,
-    "pts": 2
-   },
-   "dn": {
-    "n": "Scafati",
-    "pos": 16,
-    "pts": 0
-   }
-  }
+  "games": [],
+  "standing": null
  },
  "news": {
   "milan": [
@@ -428,6 +203,20 @@
    },
    {
     "d": "2026-10-18",
+    "h": "21:36",
+    "t": "Statistiche Pallacanestro Trieste vs Acqua S.Bernardo Cantù 4° Giornata",
+    "s": "Lega Basket",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHNDeEVFTzh4NElNOUFmclV4aS10OUhuYk02ZlA3SGV5YzBIb25Bb1VLeFk2VWdwUGhMVm9TN2JyNDdnSW96X3R0NGZGMFZrVHR2UGZQTTFNVHBGb0FwY1AxUlZsQi1CZXFNdGxmUXprZG1hR3Z0d0p5eXVUdEN6cXkzNTBKS1d5MUFMSk1VUWRkcUNxdW8w?oc=5"
+   },
+   {
+    "d": "2026-10-18",
+    "h": "21:08",
+    "t": "Highlights Pallacanestro Trieste vs Acqua S.Bernardo Cantù 4° Giornata",
+    "s": "Lega Basket",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEw3QUFpVlo3dTZreGdiNkp5X1NsbUUwc2JqUDBDbzk0cm9hcXdDaV9OOC1wWHBrQzFGdXpqU1dWYlBkRHM3b0J1MkF3eE9XWnNwU1R1a194MGdacEExUEF4VjBPSk8tRDhuNzVzR1dJemhQdFBscURKVmRNRmxiR2V2TS1kTnlfWmtzZ05Na1Q?oc=5"
+   },
+   {
+    "d": "2026-10-18",
     "h": "21:00",
     "t": "Galloway e Jones trascinano la Pallacanestro Trieste alla prima vittoria stagionale, l'Acqua S.Bernardo Cantù k.o. per 92-72",
     "s": "Lega Basket",
@@ -449,27 +238,20 @@
    },
    {
     "d": "2026-10-18",
-    "h": "20:30",
-    "t": "Miglior giocatore Pallacanestro Trieste vs Acqua S.Bernardo Cantù 4° Giornata",
-    "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLURET1BWTHBIWG1ocEZ1UndDWHVlSTMzS25zREw0anFhZm5PVUtqbnJMeFVMbVZHUVd5VDRvT0VoRzk1Mm9wNU9hLVYySVU1V1lUeWlHQzRhdFpJNWp1QmhSMkptZTFic0JKRlYwaldyMzQza1BWekdmTExoYVYwMTB5S19nMzd0OU96bQ?oc=5"
-   },
-   {
-    "d": "2026-10-18",
     "h": "20:29",
     "t": "La Pallacanestro Cantù sconfitta al PalaTrieste",
     "s": "Espansione TV",
     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUtUUVlQTlNTRHF2TGRadjZzQ3N0TE5pSC15SVRWay1FdTZhMHpfLVRqQk5jWkJabGNfcnI2ekFwN01UUjdCMjA3b005RnpPZTBhOHpxbkhsblQ3Rmx1YjVMRmowY2ZxbTV1NjhiMVpuSEpvRTRnNU05R3NTOVFuRlFtVEEzcTQ2WGk2REZyRF8?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "20:07",
-    "t": "Migliori Pallacanestro Trieste vs Acqua S.Bernardo Cantù 4° Giornata",
-    "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc05ienNMX3cyZm1uYjl0MDE3NHNCZ2ptcEtxY0QxdEpsY2ViMEFkRDl2N2w1d3pZMU45XzE5UlZ4QlBXcmJETWRXZktCYW1IYmFNRFVKVjh6ZFVRODdKRk5OUXY1akpSal92d19FMGlhcWdyWkZuZUpWUGdnS2VCUUJmNXY1QWJMZURLN293?oc=5"
    }
   ],
   "como": [
+   {
+    "d": "2026-10-19",
+    "h": "04:05",
+    "t": "Su che canale vedere in tv Como-Manchester United, Champions League calcio: orario, programma, streaming",
+    "s": "OA Sport",
+    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX1VPNzlaVHBuZzdTUy1tOE52WGVmWElSVk5qbVpyWnNzZU41cXloWEJiR2JiYlA4UlU0Vl9WVlNUTWpXQ2JYcXBfWmhyRHVEQnBhdmdDQWxyX3c0Z25RR3gzRWpvOElMRzBwTjdjemxfMGJWdzJhbXZpNEFRd2pid0doRG5FQlNkM09YWl9tOGJsWnJoaUhPemhmRXh3U3JVVzR2SVJsMGVMS0F0aDRjTmtMQ3g4RjVOQVRzUmF0Um1USk5uOTZaZ1BUeVrSAdIBQVVfeXFMTVo4RGZDM0F1dmxZWDBkNlFCLWNjWktZRXZXZ2RsVjQ1b0htOXAxWWdMYVhCWnVnY2VYblRMUWhEV3V0blpxRC11ODc1bTFCNUV0dHpzb2Vya1NHbWxWSEVyeFZqeXQxdDFuSEFneXhXR3M2ajFHWVkxd2pGbW8tUktfY29JQzN0bDVmZkZCU2QwUFU2V1Q3SzBqMHU3djhpNTQ2TkVhMXY3TkpDdTFSNzVMTktJSEdXcHZlODVOY2V0NVZXNDhkRXVDQ3lJMnlDSmJ3?oc=5"
+   },
    {
     "d": "2026-10-18",
     "h": "23:07",
@@ -518,13 +300,6 @@
     "t": "Fiorentina-Como 1-3 | Match Report",
     "s": "Como 1907",
     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jVVYxSG5ob2JyeUxuSXFSWEZyRTQ0Rk8yeXJNbmVZUVJySWpwV3RFbzdrZlAzLVRyRXBhTEpFbHNXVEc4U2VqV1BDM3I4SFhyTWZPVThGX09GYmFlQ21lSEc5Ulh0TV94TEE?oc=5"
-   },
-   {
-    "d": "2026-10-18",
-    "h": "19:02",
-    "t": "Fiorentina-Como (1-3), Fabregas: \"Liberali è un conoscitore di calcio\"",
-    "s": "11contro11",
-    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORXdBQzFaZk51eXAwRVpzb2hlSGVPU3VQRGJBYWFjN1ZFZ0xDckY5M0dGNWt0NGZYdFFLbXoyWjg3LXJaZURBakdDcVJ0SzRhbU5xNldvdFk2czJja1NuUWFFQ0FLTWQyS3NBYl9fV3lRZWhmZ3NBZ2Y0X3pfbkpnQmdmSjlzWG5oTU1Cak1QVmI?oc=5"
    }
   ]
  },
@@ -924,15 +699,15 @@
    "2": 55
   }
  },
- "updated": "2026-10-19T02:15:23+00:00",
+ "updated": "2026-10-19T02:47:28+00:00",
  "log": [
   "classifica milan 4 15",
   "classifica como 5 14",
   "classifica milan_eu 16 3",
   "classifica como_eu 12 3",
-  "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 4, 'up': {'n': 'Tortona', 'pos': 14, 'pts': 2}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
+  "cantu 0 partite None",
   "notizie milan 3",
-  "notizie cantu 3",
+  "notizie cantu 0",
   "notizie como 1",
   "stampa milan 8",
   "stampa cantu 8",
