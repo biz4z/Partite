@@ -363,6 +363,13 @@
    },
    {
     "d": "2026-10-19",
+    "h": "16:29",
+    "t": "Krosche si riavvicina al Milan ma dalla Germania frenano: \"L'Eintracht ha fissato una clausola rescissoria\"",
+    "s": "Sportmediaset",
+    "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONzJ2eUpiM2ZLRWVhMXRNY3ZmVURnaDhRcHJGWnJMQWdtTXpQQ3dLd1pDNjk5UTkzdm5VVkxBTTZjODBUYmU1alNkZFZxUXlTOUYtdUx1WllsRlpNUV9fa0pxUUkxMERwbGg5em02WjhHZC0yUWQ2T19GTTJvMGRBenFvTE5rNjhsOEhLdjlXeUVhN3BzNUZGeUNqeXJfZ0VWc3dCZDVrWkdma2RDdG5DektDMC1YbnVRR0lxVVJtb0NnQ01leVpiZkJKeWJTWVpDSGdXMUUxNWhCLVFoQnlYRWxsUjdsRndZTHdJ?oc=5"
+   },
+   {
+    "d": "2026-10-19",
     "h": "14:00",
     "t": "Milan-Bologna, tutte le informazioni sui biglietti nel settore ospiti",
     "s": "Calcio Bologna",
@@ -402,13 +409,6 @@
     "t": "Milan - Frosinone Altre partite: Live Calcio Aggiornamenti",
     "s": "www.eurosport.it",
     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmdFWUhRWVVwMVdLeWg1a2FqNVlhVXVlQkJRcTdCbGFPU2RIRDFQUE1HT3BadWhSalBKRzByb3Vsc0dKR2RWRVZNNl9fcmFLUlF6T0thblZkLVM3N3RkQkhBdkV3QVQyalVZN1E5Yl9RZ210SlM5dUM1ZmdsQWowU0I0UEhLeS12eVExT2puZ01WaTFqX2JyNC1nUmE?oc=5"
-   },
-   {
-    "d": "2026-10-19",
-    "h": "11:48",
-    "t": "Formazioni Milan - Frosinone: Serie A Calcio",
-    "s": "www.eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORGNqRnMzUDlhMFhaUFdvRllWbm9zSDFzTlpReUIweXN0UjJhQXdtMlFxTDQwT3JYQy1ybUtKR0luaXZ4eHZVS21wcUd3VlNBLWt1bTRSckpCN1hhd2lJcmhkcy1hanZ4Vlg4M0VJM1FFeEg5Z3BqcThxbjJZVTgxNmpLaUpKMWZJMFJfaElINlhDUkhvR2cxcnQzZw?oc=5"
    }
   ],
   "cantu": [
@@ -921,7 +921,7 @@
   "2026-10-25|Udinese – Milan": {
    "1": 19,
    "X": 24,
-   "2": 56
+   "2": 57
   },
   "2026-10-27|Torino – Como": {
    "1": 21,
@@ -934,7 +934,7 @@
    "2": 19
   }
  },
- "updated": "2026-10-19T15:22:31+00:00",
+ "updated": "2026-10-19T15:55:20+00:00",
  "log": [
   "classifica milan 4 15",
   "classifica como 5 14",
