@@ -414,6 +414,13 @@
   "cantu": [
    {
     "d": "2026-10-20",
+    "h": "09:30",
+    "t": "Cantù, flop mercato e falsa partenza. Adesso rischiano in tanti",
+    "s": "La Provincia di Como",
+    "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOODRxeWJHeWhlT0VQdlhXdlpKelNkbXdmOFhJbndBTzl0cmFEODNmNDdMTGpkUS00TjQ2XzcwNG9zZjdoRTlkR0MwTXlsTENUeks4cXZFWDE1SmNoTlpudWR2djFDaTI2dXZBelNacHZjNk1aNWp0QmkwWDN0QWxidzRHRzhaeW8zZm5raXNYODQ2aXZDMU96aEd2NGxBSzl5NF9JVE42SzRiOXRtNFY3dGdDQmhuMmYxeWNCWUlCYldVVDZCalZFY1prUnpHMXVzaEJLdDR6c2NaMHdaN2h6bGJzN1BOd1BIb0lSR2pR?oc=5"
+   },
+   {
+    "d": "2026-10-20",
     "h": "01:35",
     "t": "Pallacanestro Cantù 26-27: giocatori sotto contratto, durate e mercato",
     "s": "Backdoorpodcast.com",
@@ -460,13 +467,6 @@
     "t": "BASKET: ACQUA S.BERNARDO CANTÙ ACQUISTA L’ALA LITUANA OLISEVICIUS",
     "s": "LeccoNews",
     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ2lSLV9OcTRoTXRZTnZfSnM0aGhoWUsxOS1GT2hUNkZ1bXk4NlduTUljUXk0UzNvMlFtUllBVTBLYm5tVmU1YTlMdGZhTWRwdDVRYU5RNVE1R1Vwb2NsN1VndDNFZFVFN3BMd05qS0xnQURKMnM5SnVCRGpySXJBSDRiTlFjbzEtV2VoZjQ2eURzUVBzZ2JUeElQN2hjUnMyRTVzbDJR?oc=5"
-   },
-   {
-    "d": "2026-10-19",
-    "h": "12:44",
-    "t": "Trieste travolge Cantù: primi punti stagionali e dominio nella ripresa",
-    "s": "Backdoorpodcast.com",
-    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JSmV6bjRlVTdVblJueTViR08xTVpINnFpOTNESEk3RUp6U0lNSTR6OXZrLU9SSm1sZFd6WEJ4Qmo0ZWlWejJqV0NGV2ZKVlZnZ3psb3NZNUk1bVZQN0dfa3dQNk5Wb3lDZFI4eU0waHhGX2J1b1Z2ZzU5WWhJMVU?oc=5"
    }
   ],
   "como": [
@@ -934,7 +934,7 @@
    "2": 19
   }
  },
- "updated": "2026-10-20T08:02:55+00:00",
+ "updated": "2026-10-20T08:35:59+00:00",
  "log": [
   "classifica milan 4 15",
   "classifica como 5 14",
