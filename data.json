@@ -312,6 +312,11 @@
  "news": {
   "milan": [
    {
+    "d": "2026-10-20",
+    "t": "Comunicato Ufficiale: Riccardo Grassini",
+    "u": "https://www.acmilan.com/it/news/articoli/media/2026-10-20/comunicato-ufficiale-riccardo-grassini"
+   },
+   {
     "d": "2026-10-19",
     "t": "Rabiot MVP di Milan-Atalanta",
     "u": "https://www.acmilan.com/it/news/articoli/awards/2026-10-19/rabiot-mvp-di-milan-atalanta"
@@ -320,11 +325,6 @@
     "d": "2026-10-18",
     "t": "Vittoria bella e pesante, Atalanta KO",
     "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-10-18/vittoria-bella-e-pesante-atalanta-ko"
-   },
-   {
-    "d": "2026-10-18",
-    "t": "Milan-Atalanta: la presentazione",
-    "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-10-18/milan-atalanta-match-preview"
    }
   ],
   "cantu": [
@@ -449,17 +449,17 @@
    },
    {
     "d": "2026-10-19",
+    "h": "16:46",
+    "t": "Acqua S. Bernardo Cantù | Galloway Press Conference🔴🎙️",
+    "s": "Pallacanestro Trieste",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWXpCX2ZDYlNFeDc2bWR4bVF3OU1kQzIxOWEtdkN6U3RFWXVIVUhkdTFsSkVzc0J3cE5NTFloRExXZGwxUEZ3NTVKU0UxbW5YWW5vcDd4M01EaTZ3Y1p1VFVveGtycGplczVld2gySHJnUFNXWXRMQktFV3ZjbTNkOXU1X3dMQzNHOGpRWWhxUXhmcDRtTWhGOGw1b1B3UEdwNjl1SFFDTWdBRV94TWVMNk80dEZ6N1Zid3VHNmxaLTJQTXZC?oc=5"
+   },
+   {
+    "d": "2026-10-19",
     "h": "15:57",
     "t": "L’intensità di Trieste-Cantù negli scatti di Walter Angelica e Panda Images",
     "s": "MegaBasket",
     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbjZjMTB5THRhYjhxczVYdjNTS09xaHhBUW9iNkdqTEhyMkw4QXE1U19RTWpPSFJyY0N4a1RialR4WHp3X09vYlFXQXlKMEZOWk1iZC1qQmN2aDdTQlYyTEF1NzVGQWRGdkpJQm5YODdiejhMWWNldGM2RzNfMWlMWk9PLTg5dW9XUUZKRnRPdWxjaGY2Z3ZaeGJBXzBHMmhsUDlIYUNlbVluZTJBN0VCdlROSjdGbUxPOWpOUTJla0g?oc=5"
-   },
-   {
-    "d": "2026-10-19",
-    "h": "14:56",
-    "t": "Acqua S. Bernardo Cantù | Galloway Press Conference🔴🎙️",
-    "s": "Pallacanestro Trieste",
-    "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54LXp6VGtuemFKOXBnSkVNMUxYWnNuOUctZVBJWFlsTXdoMElJcWM3enNoeFpBWVpRUVhWWm14NjAxQld5b2lGY3gzU0ZidnhwU3h6X0t6TVZTckpFWTVxWVlTVGFaUQ?oc=5"
    },
    {
     "d": "2026-10-19",
@@ -470,6 +470,20 @@
    }
   ],
   "como": [
+   {
+    "d": "2026-10-20",
+    "h": "17:27",
+    "t": "Fabregas carica il Como: “Crisi United? Nel calcio non esiste. Godiamocela, pensiamo a dove eravamo quattro anni fa”",
+    "s": "Corriere dello Sport",
+    "u": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPNE9UWjR0OXV6bGtXQWJoSU9hWmt3M0FWeW5YUkkyRHhCQzA4S1hFZThsQ0xoQXJYb3FFZmY4LU1HcHhUM0ZBWVJiTWNEcEU0bTd3Z2tseC1JTVFiY1FrLVFxN1JQSk5UUlZ0UzdmOW5PR0Q2eHlKaDY0eXdVejhNOXkwR2RYQUxFR1hOUFdBbWE5V21xUVlzbmE2d2x0eVJzaDk2R1IxdW5jX1d3V1dIR1p5VXFnT184c1hjZk5YakFRWEVhSHNEU19ta3BFdWNpeWpXY0lYSm5NVFZIVDBtejVSV0d1YW5zMjloM2txWGdjUXE2c3hWdm1DRTdQQTFkNTBfdTR4NGtfM0RzSFVDOEpyZzdTMWk1UzFhSzFCMNIBogJBVV95cUxOTDV1dVJBVHRuaklXZ0hjMkRBQ1J0S2lJNHNNNEhzU190OGpWTFZDc0x6Y2hDSGU3SWtDcW1lTXdUWlI2WDJJclJURVNULXE4NjBJYllfRzd4aU1uT0lGUTJsaDRtTU50aVdla0V6Zlhma3hDdkUwS3JZeFRtd1prdEowLW9UVmNJNmVDT3p3OU9VaDMtU3RlcmdydmJuelRsSDZfQ3hJdUdTcTUtZlRzckpJREYydHo5b0xrNDZNRTBnV2VVcVE5RkVsYzFsSW9vVnJNOHNVUHp4TnhkS3dVeTAyVjltQXNHMjFwREFobjc5NmxXcjVtY2hpUHJKdXJOMjIyS1VGQzJIMkRWZDJ4X1FYalRWcHhwZkJwTEdqYnoydw?oc=5"
+   },
+   {
+    "d": "2026-10-20",
+    "h": "13:08",
+    "t": "Champions League, Como-Manchester United: probabili formazioni e dove vedere la partita",
+    "s": "QuiComo",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0JyXzc4S1UyYzlqWkpWQ0wzYVJjSENmczlOQ1RZcWl0TUNsSk4tNzJDSlJxTTJDOWN4U1cteGdwWTA3VDlqLUhUU0ItU1J5dDQzQ1paajlISmEwZkZ0eURfdzVkUzVEZDZiMGNkN28tYWpMV0lJanVVbml1NXVrR2x5Y3NDMGZob0U4YjM0LTVTTG1tWVZybnU1R2pnT0lxRFlRS081YmNOZ0RNN0s0bHp2TDJFZzRVWVJCU3Rn?oc=5"
+   },
    {
     "d": "2026-10-20",
     "h": "12:30",
@@ -500,13 +514,6 @@
    },
    {
     "d": "2026-10-19",
-    "h": "17:44",
-    "t": "FIORENTINA - Chiesti chiarimenti alla Lega Calcio per gli episodi arbitrali contro il Como",
-    "s": "Napoli Magazine",
-    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM1BnTHFOZ05QV2FJUHZkR01qb3VrTmdNdHZoUUtmNThDb24xNC1hQVhPTFc5UHRUYzluTDFhTlk4ZjFEQU9pS3JCV29icEZIZ0lqU2doN2VfMWlmSXVmWV9DQUROaG1mR3JXaTZ6TVU1M25nR3lmWlh0STJUajBFTlQ0Mm1vMk9yQzZ1T3NrUjJmbjlLUGlBT19PX1VUWS1DVGtYeUdWRGtDZ0YzZy0ySFpqdm1Sc1RSZnF5cFFzZU1mVTlMTFNob3RWa3B0Nkc5bHBjOERiVGVKdw?oc=5"
-   },
-   {
-    "d": "2026-10-19",
     "h": "12:10",
     "t": "Formazioni Como - Cagliari: Serie A Calcio",
     "s": "www.eurosport.it",
@@ -518,13 +525,6 @@
     "t": "Statistiche Como - Cagliari: Risultati Calcio",
     "s": "www.eurosport.it",
     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3NfbnU1V2s2MjFmUVAtTk95bmh3TEpyalJhYVdSVWxOakhkR0t6eW10eXdZMmZpVFZvNXRGNHE5NlcxaGdkQy1sMGFhODJSWVg2NlZyY0gxTzVodG1ORGNKeVktMklvVjZkYlVSTmNCN3A0TUt1MmtLcm1wVTZnSEVERk1wdFhrNnNqZFBzdG4tOExoRkVB?oc=5"
-   },
-   {
-    "d": "2026-10-19",
-    "h": "12:10",
-    "t": "Como - Cagliari Altre partite: Live Calcio Aggiornamenti",
-    "s": "www.eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLU9oeVYyVndlUnBWVlZZTlR5Q0ViMmhrU1lQUlFiUzZybU9hMjFFSzJyMUpiQl9ucTF1T2dBSDdscVhSaHJ0S2syLUlJOUNlVWdlMjlNOGZQTWpCRUU2N3RTX3Y4cUtTQlRmbkVKaEMxX0s4VjlaWGVUSkkzdkFaa3AxMkM5SDVJektvZWN5VTlMV2JwYWxRVXVn?oc=5"
    }
   ]
  },
@@ -919,7 +919,7 @@
    "2": 32
   },
   "2026-10-24|Como – Sassuolo": {
-   "1": 64,
+   "1": 63,
    "X": 21,
    "2": 15
   },
@@ -939,7 +939,7 @@
    "2": 19
   }
  },
- "updated": "2026-10-20T15:15:02+00:00",
+ "updated": "2026-10-20T15:48:13+00:00",
  "log": [
   "classifica milan 4 15",
   "classifica como 5 14",
@@ -948,7 +948,7 @@
   "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 4, 'up': {'n': 'Tortona', 'pos': 14, 'pts': 2}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
   "notizie milan 3",
   "notizie cantu 3",
-  "notizie como 1",
+  "ERR notizie como IncompleteRead(41086 bytes read)",
   "stampa milan 8",
   "stampa cantu 8",
   "stampa como 8",
