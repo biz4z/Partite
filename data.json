@@ -50,17 +50,17 @@
    }
   },
   "como_eu": {
-   "pos": 12,
+   "pos": 13,
    "pts": 3,
    "g": 2,
    "up": {
     "n": "Shakhtar Donetsk",
-    "pos": 11,
+    "pos": 12,
     "pts": 4
    },
    "dn": {
     "n": "Manchester United",
-    "pos": 13,
+    "pos": 14,
     "pts": 3
    }
   },
@@ -472,6 +472,13 @@
   "como": [
    {
     "d": "2026-10-20",
+    "h": "20:45",
+    "t": "Champions: Carrick 'non mi servono rassicurazioni, grande rispetto per il Como'",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaHRQZ0VoLVRJNnZtYWRLakdGeW1uUnJnVXpEWHBSelJ4cmNQNjRPSkdOUG5US015NnQtVF9xMUdzVWNGYjRnc0xlX3ZVWlZVS05CNmNXTVZtODRJaFRhcENTY0pLVGZERm96dUk3a19pWEt5NFJYd0hVYnlhLThxelFQWWRWUnNlcVJoX2V0c3pHS1ZQbDRkajJaSTVIQmIyZnBSeXZ0TXBHNmpSQ19rNENmZ3N3V05sQ0c1WWtMYU1ZbktMYzJyNFVJZk9oTXBoU0xTOG5fUWhRNnlNUUJMc2taSV9fRzBlQ1J6R09qeUNuQUdiLWlSOTNlaEQ2c0JOb2h6dQ?oc=5"
+   },
+   {
+    "d": "2026-10-20",
     "h": "19:56",
     "t": "Como 1907 porta “Quelli che… con Luca ODV” in Champions League",
     "s": "Como 1907",
@@ -518,13 +525,6 @@
     "t": "Soncin e l'intrigo dei portieri: il dualismo del Como 1907 intrica le scelte del CT per la Nazionale",
     "s": "Firenze Viola",
     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZzNCZE1ON05JeXc0QjhJWnhjbDNvcXRobHo2RVZQVXc4aFhLTjEtN1RJaUtUVlZSUjVaYk1ibDNFd09tZ0JfbE5vdWRjVWQ1UlFwTzFyR3JUSEs1UVJkZERFdFJkUVZQWTJSdHFvd1cyQkhoMFRIVjF2SnNSQjhvTlE2eHFCZFJMSmFxMXpENEhrZXB1YmxFcGQtZTN2aHdoZU5JbkZqS3l1emtuS0FtWFRxUmdmaHJHSFh3?oc=5"
-   },
-   {
-    "d": "2026-10-20",
-    "h": "11:42",
-    "t": "Domani Como-Manchester United: lettori di Calcio Como votate la vostra formazione titolare",
-    "s": "www.calciocomo.it",
-    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUhXdVZ2Tll3VXpONUU1N0s1UUp3R0h6cDlWUE5wOUtZQ1NWV1QybDhtc3NYVEdzUEs5aS10alNERTZidk5VRWdFaGphdXpCc2haSTE2RXY2eF9uZWJjX3hwc1AtWkF0NDVqUU9oSWt6di1pSU5BTXMweHRCWXg5ZzNTTHNNSFc0Y1Fub2czUTNBNmRvMVY4UlNtQjNkYktUcml5Z3pxVVExRkRiSXhGSkhlV01JSms?oc=5"
    }
   ]
  },
@@ -939,12 +939,12 @@
    "2": 18
   }
  },
- "updated": "2026-10-20T18:18:24+00:00",
+ "updated": "2026-10-20T19:01:33+00:00",
  "log": [
   "classifica milan 4 15",
   "classifica como 5 14",
   "classifica milan_eu 16 3",
-  "classifica como_eu 12 3",
+  "classifica como_eu 13 3",
   "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 4, 'up': {'n': 'Tortona', 'pos': 14, 'pts': 2}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
   "notizie milan 3",
   "notizie cantu 3",
