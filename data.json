@@ -493,13 +493,6 @@
    },
    {
     "d": "2026-10-20",
-    "h": "19:20",
-    "t": "Formazioni Como - Manchester United: Champions League Calcio",
-    "s": "www.eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObl9WbXNpZ2lUMS1Ka3ZXQzFGUmlNRGxrb3g0LUxBa256ZGVYZFk2VGszTVdWM1N1TkRpck41d1ZNZTNkTm54R2hQU0lzeERiaV9QREFDelh2QXdZZnZSYVVDd2F2YVNOTTlqNW5oVE1DRXBRdjhyME9Tbl9saUQxQ0xhWGFoZzBQSzdsbzlkVXlNb3BXWGRSZ0huR1lGU2ROMklvYjhzb3Vlb2JEdF8zc3VwbkhYOUk?oc=5"
-   },
-   {
-    "d": "2026-10-20",
     "h": "19:02",
     "t": "Live Como - Manchester United - Champions League: Punteggi & Highlights Calcio - 21/10/2026",
     "s": "Eurosport.it",
@@ -525,6 +518,13 @@
     "t": "Champions League: Como-Manchester United in campo mercoledì alle 18.45 DIRETTA",
     "s": "ANSA",
     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOemdFcGFDRlR3TGxDTTVycjYxTkdMaWpCUFZwSXF3X1pNQkNnNjhQYVZDYy1XQVRCYWk1SElyZHd4a3YyRG1XVHhMRTM5cW5DZV8zYmhUUGJTN3dhcGxpOG1VdjhFSHdILUFlWV9jMktkNTR0QkZkYlUwbHFGSnZXV1F3QWhuZjdRWFBpQ0pKY3lzVmlnSFFlLVpOQVY1TDVsMTVXRjREQzBLMHc5aTBSaDNJcGVDSjdmd3h0Nmg4blh5eGhhSG40TjlrLWtJV0ItRVRaVGloWDJPSFpqMWVoVzMyWTd6RXgtdlZ3Qm9WUjNMZW11TVHSAfsBQVVfeXFMUEVHellucXdmckVCZEtLTUpuQVZMTWtFUWFsdWhxSjZZRks3RUlDMGFhdVVxUXVka3NzWm1hMXM1dkNlWGR4bmFwRmFqQXRvVkM4Rk9OS3VqMGZwczZWZWwzRjlHam9VSnVVemRCVWhYd1U1RjBPWDNEVmJJUVp4a0g1SzJjMUVBbDF4Z2lJeHRkWjVqMHpmZk0xcHYzUkEtRlh4UGxrVDA0NkR1dVpOLTVrNm9DRjhROV9fWHV5VVFpeGhucXlhNkFtMWVhaGpES200WHFuT1pBbThPU184UVdXb0MxWmxwVjVvaVhJeEpRaGZ4aWo3U0ZQbEk?oc=5"
+   },
+   {
+    "d": "2026-10-20",
+    "h": "17:21",
+    "t": "Fabregas annuncia: \"Diao rientra dopo la sosta\". Stop lungo anche per un altro attaccante. Niente Inter-Como",
+    "s": "Tribuna.com",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2FMN3IteElWalc1ZVBUNk5RaWNfSFllS2xrb3RmSlllMTgwSXkyenhxbEtVdUN0MTV0cEF0NlI0TE1WcVRyRmhud2dDSk1MQm04VGZVaVdvTEE4SHpNUFpKbXJ5WWhKckRJZ2pOWTN4QXB1djc1UUN1d2tZTERBVWJZb0lRVE93aXFzSF91N0ZWZ3NPNWw3N21GU2RNMUZ1TmxBY0dtd0tjcERrYTR0VHdkM3RrRVZKWkhMdmtMdlM4dGZldkZCX04xS29sQdIBzgFBVV95cUxNT2FMN3IteElWalc1ZVBUNk5RaWNfSFllS2xrb3RmSlllMTgwSXkyenhxbEtVdUN0MTV0cEF0NlI0TE1WcVRyRmhud2dDSk1MQm04VGZVaVdvTEE4SHpNUFpKbXJ5WWhKckRJZ2pOWTN4QXB1djc1UUN1d2tZTERBVWJZb0lRVE93aXFzSF91N0ZWZ3NPNWw3N21GU2RNMUZ1TmxBY0dtd0tjcERrYTR0VHdkM3RrRVZKWkhMdmtMdlM4dGZldkZCX04xS29sQQ?oc=5"
    }
   ]
  },
@@ -914,9 +914,9 @@
    "2": 29
   },
   "2026-10-21|Como – Manchester United": {
-   "1": 44,
+   "1": 43,
    "X": 25,
-   "2": 31
+   "2": 32
   },
   "2026-10-24|Como – Sassuolo": {
    "1": 61,
@@ -939,7 +939,7 @@
    "2": 18
   }
  },
- "updated": "2026-10-20T21:03:53+00:00",
+ "updated": "2026-10-20T21:33:23+00:00",
  "log": [
   "classifica milan 4 15",
   "classifica como 5 14",
