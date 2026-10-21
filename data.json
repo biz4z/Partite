@@ -312,6 +312,11 @@
  "news": {
   "milan": [
    {
+    "d": "2026-10-21",
+    "t": "Comunicato Ufficiale: Christian Vechiu",
+    "u": "https://www.acmilan.com/it/news/articoli/media/2026-10-21/comunicato-ufficiale-christian-vechiu"
+   },
+   {
     "d": "2026-10-20",
     "t": "Comunicato Ufficiale: Riccardo Grassini",
     "u": "https://www.acmilan.com/it/news/articoli/media/2026-10-20/comunicato-ufficiale-riccardo-grassini"
@@ -320,11 +325,6 @@
     "d": "2026-10-19",
     "t": "Rabiot MVP di Milan-Atalanta",
     "u": "https://www.acmilan.com/it/news/articoli/awards/2026-10-19/rabiot-mvp-di-milan-atalanta"
-   },
-   {
-    "d": "2026-10-18",
-    "t": "Vittoria bella e pesante, Atalanta KO",
-    "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-10-18/vittoria-bella-e-pesante-atalanta-ko"
    }
   ],
   "cantu": [
@@ -354,6 +354,13 @@
  },
  "press": {
   "milan": [
+   {
+    "d": "2026-10-21",
+    "h": "16:28",
+    "t": "Milan, infortunio per Goncalo Ramos: salta il Bournemouth, derby a rischio",
+    "s": "S&H Magazine",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFNuazZDaEFaSHFNX2hPZVFmY1Z3bG1pZy1FMmVlVGgzc0llNlc3R1cwdFIwTkFmVG5kQ24tZ2xvZWpPbF9LTmxqNjJvUkEwLUhNWDlmUkQyRThCSjBTcGlmWWt5NFVLcXdzQ3IyWXdCa3d3bTYzU0k0WjVQeVpxcDFEVWNvMFN0ZmhHRUpSUncybGc0c3Q4MGt4dF9hdnJmcG9VUlZZeUFsemdMa3FRZlBKSGdDOEZH?oc=5"
+   },
    {
     "d": "2026-10-21",
     "h": "15:17",
@@ -402,13 +409,6 @@
     "t": "Tomori-Milan, a gennaio sarà addio. C’è il Tottenham",
     "s": "TaorminaNews24",
     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KczlpWnlWLW9POU5DdDB2TldkZnVsZXo1WkNVbEZrQzl5dzk4cnAycFFZbGw2TWQwNmlGSG5zbUdwNXF2Zl9GeFNjRHN2WVJ4a1FmbzVLeXJBdmJTUTRkV0FUbnh1VVpRVm40ano5bDhxUQ?oc=5"
-   },
-   {
-    "d": "2026-10-21",
-    "h": "13:35",
-    "t": "Infortunio Ramos (Milan), sovraccarico muscolare: salta gara col Bournemouth",
-    "s": "Sky Sport",
-    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbl9Idzh4R2YwbVpGcDFwbkduOE1mS2stYmxlelBHY2FpZHF1engwaDhuVW1VaDBnalQ2Ym9iT2Z1LVhlVno4dXltYzJNa2dUU1VYT0pqY3lSMHg4VHJiUkhaRlFKck5vdEFrY0d6dTNaLW1zR1ZKaEFRMmRqamFGSkw5aXp5TW8xY3hZQjRHd2tYZw?oc=5"
    }
   ],
   "cantu": [
@@ -418,13 +418,6 @@
     "t": "Nota di Pallacanestro Cantù: \"Nessuno di noi è soddisfatto della situazione odierna e ci aspettiamo molto di più da ognuno dei nostri tesserati\"",
     "s": "Basketinside.com",
     "u": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOdjJWR256WWsyYkFEMWY0S2syYVpkOEZ5NVZTMDBqUDNTUnM5cHlHbVlkRXEyTFJudnpzWFoxeG5RN0JLbGp1WnBodWJqWnFsQXBSMmJfN19fZ1JhM09LV3VhOUhRcENDdHhuUW8tLWt1WGloR2lmN1Q1RnR3V3hUcnY2anhsazkwSzltSlJpaUU2clg4ZVp2bVdfWEs3T1ZKZWZBWl9RUGotTVlXQXdybDVlUmJLX29xV1NUMmc1ZTFkZXhKcS1xcnlGUEhkUWRQQW9HWld4eTIxSlY0akRCQkJVSmhaWUhSOXlVSHA3OGdmbGIxVDZmVkphYlZzNndEVW9SY0pleEpjVlJRZUZ4VHc1MXN4YXkxeXh5cA?oc=5"
-   },
-   {
-    "d": "2026-10-21",
-    "h": "16:32",
-    "t": "Pallacanestro Cantù, la proprietà conferma il sostegno e guarda al mercato",
-    "s": "Prima Como",
-    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1JTLTZFMkxJTnIzekV1UjFlNmxJYzdmeUZNUnZSUnhKT1pDYmpHY1pCaHNuLThhSWFyRmRqcUR6LXhFX1NuWGdRWEdHdFNDckxpSFZ6WE9PTHpIUU9SRnJTTDBqY3BSNlJMLVlsdzJnSzhzbzJfcG41a2huenJGVHdrSEo3bzM3M0c5YnFqV1JOOWVrZ1FZaU4xQUlyOS1xTnJB?oc=5"
    },
    {
     "d": "2026-10-21",
@@ -467,6 +460,13 @@
     "t": "Crisi Cantù: Gravett e Brown in bilico. Vitucci non è in discussione, ma le prossime partite possono cambiare tutto",
     "s": "Pianeta Basket",
     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcTNVajZoZm5xSTE2LTA2cDJfV3Nta2cwMXhsdC1aak9rUW44S2dDbDNCcmdsbGpVdHdQNEtuemxLcFBZbmRQejdiaXN0VHQ0VFc5dXk5ZElEVGVLODFoVG5oeW1TOHNEN0YzSUhKQUdVaXNDM0tiN2ZvYWxSTGd6ZTZDbFE0Wko4ZE1HTXUyQjFjSFU0MXA1Q3c5S05Vbl9qV2tJUkxQNC1rSS1Da0hYSnVQTW03NlVCNElBRklaZ1BjZGV1VXhiR055OHFnX0JTbE80dE5Na3o3ajYtTU9VWWg1Mlo?oc=5"
+   },
+   {
+    "d": "2026-10-20",
+    "h": "09:30",
+    "t": "Cantù, flop mercato e falsa partenza. Adesso rischiano in tanti",
+    "s": "La Provincia di Como",
+    "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOODRxeWJHeWhlT0VQdlhXdlpKelNkbXdmOFhJbndBTzl0cmFEODNmNDdMTGpkUS00TjQ2XzcwNG9zZjdoRTlkR0MwTXlsTENUeks4cXZFWDE1SmNoTlpudWR2djFDaTI2dXZBelNacHZjNk1aNWp0QmkwWDN0QWxidzRHRzhaeW8zZm5raXNYODQ2aXZDMU96aEd2NGxBSzl5NF9JVE42SzRiOXRtNFY3dGdDQmhuMmYxeWNCWUlCYldVVDZCalZFY1prUnpHMXVzaEJLdDR6c2NaMHdaN2h6bGJzN1BOd1BIb0lSR2pR?oc=5"
    }
   ],
   "como": [
@@ -500,6 +500,20 @@
    },
    {
     "d": "2026-10-21",
+    "h": "15:45",
+    "t": "Como Passport è ufficialmente",
+    "s": "Como 1907",
+    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZHVuVmU0OVNhVV9VUkhQYW1kRmdOdkJ1Ml8yMUZmVXUydkttWW1Fc0x2VEMzREVlbjhvb3lmV3BrSTAwRHZjLXhlcUxOX2tGdTZrckZlMUJueXhGeUpaWEc1aXp2bzFCRk1vcm45c0FON2loWDYtTFNjeXpnWExVaHpJbEVvTmR1YmxXeEI5bDNBcmczWl9UOTdyQnVYSG5MN0hZbWZIdGRQNFM3QlNYX2NfME1SZXVRQ1FOTktlSE43UGpZYlhtakliWlEzSktEOVZXZmpfckFQQW8?oc=5"
+   },
+   {
+    "d": "2026-10-21",
+    "h": "15:38",
+    "t": "Como - Manchester United",
+    "s": "Diretta",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQlJwWEZDemlWMjRRR0kzNEtCWDV3YndYWk95WEZmY0M1WDl4Y0V5bk1yenFkbGxHQ0g4SUJqWVlBTFZpTUZ5dGZScUJpSDh3blJkU0gwNDlUaDk2d2hjNlVyeDhNRWxzUTZQd1J5V0RHcXUzWUJPY0RnQ3lsNm9ma3lR?oc=5"
+   },
+   {
+    "d": "2026-10-21",
     "h": "15:26",
     "t": "Il Como ha un tifoso speciale con un cognome speciale: Messi",
     "s": "CiaoComo",
@@ -511,20 +525,6 @@
     "t": "Sfida tra Como 1907 e Sassuolo Calcio, PokerStarsNews match sponsor",
     "s": "il Giornale",
     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWFKZXlvZVhqMjh0T0pGbE8zcTBaeDdLVy10ME0tdTJ1TTBvN0dnNXJGQjluTUl4ZTRNN1dhNE1iUE1DbzlQbXNtdy1Ddk5YaWp5dExrSU1JTFNyMW9MOEtoQkVLR3lDblVNVzVtZlZCenh3T3F4dURLRHN5WjFUUnRpajdWUUhuR2ozWHJOcGNTWm5wSEtQdG9sN2hkSUotN09CcDVCWU4?oc=5"
-   },
-   {
-    "d": "2026-10-21",
-    "h": "14:07",
-    "t": "⚽ Como-Manchester United, UEFA Champions League: la diretta live streaming TV di calcio 🛑 Notizie dell'ultim'ora 📆",
-    "s": "musicletter",
-    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcFNYd0FLc09xN21ad0NXMklPUGQtSFNMSFBweFRIVnMxNkc5MDVRcG1SdDU2aE5RdkF0eG5qY0FzNFpnMjd6UU9HT2xtSTA3UEx5c1pRM2w2V3Vlb3Nwb1RVdXMtakNIa2ZPNV9SMDE3NGtUOGt0dGxuRm9lVWVwY08zbGhkSVJNLUtQdG45MEpLaVlHeVM4OTJybWNOY2l1LVBqekppakx4anE0T24tV3dRemw2LXhUN19XSkd4SXFMbGFKRUltdTVTNWpjc1ZGaXFiV2JVa1VFUEFhMnlSclZn?oc=5"
-   },
-   {
-    "d": "2026-10-21",
-    "h": "12:46",
-    "t": "Calcio in tv: Champions League, giocano Como e Inter",
-    "s": "La Stampa",
-    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTZRNlRybGt6R05tTkZkMGFkakFrOFRPaWlsSTFOWVpvTUV3UmpBdzZNUTBsamhRS2NxV2NuVk14SnkxelliejlaSXpWR0Uwa1Fkai1CZmRmRkJFMnlBbzlERklWd2xFVTMydkV5bDB3VEc1Y2tOQVpVVXNZZkdTai1jWkdPanJsWVpzSWo1Y1Fja1JiN0VVYWRLMmtoVmNiUXpKNldvY0Q5d9IBrwFBVV95cUxQUnl3Y1ZCUlBac3JPSlNXYTBhNEVFWm1BUnd0d3lJLUQwSF80ZGRsRGhmWXIwNFo3dG8xM1hHS2NoQXJHSC1GdWtwZk1xQ0V6U1lsVzRYdl9DWkx6R1FEQTdfTzUzaWpSOWZDei03bGlYTGw5OThfOWxZUm9iM0ZJajZoMXdUV29VRWtRQnRKR0czQUc4aDdjcjI3b2FJSnJJLUlMc2lmam11N1BuWnlj?oc=5"
    }
   ]
  },
@@ -909,9 +909,9 @@
  },
  "odds": {
   "2026-10-22|Bournemouth – Milan": {
-   "1": 47,
+   "1": 48,
    "X": 26,
-   "2": 28
+   "2": 27
   },
   "2026-10-21|Como – Manchester United": {
    "1": 39,
@@ -939,7 +939,7 @@
    "2": 18
   }
  },
- "updated": "2026-10-21T14:56:42+00:00",
+ "updated": "2026-10-21T15:24:28+00:00",
  "log": [
   "non finita Como – Manchester United STATUS_SCHEDULED",
   "classifica milan 4 15",
