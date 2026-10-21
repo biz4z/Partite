@@ -249,15 +249,10 @@ UID:4feb35573b2e4a69@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261021T184500
 DURATION:PT2H
-SUMMARY:⚽ Como – Manchester United
+SUMMARY:⚽ Como – Manchester United 4-1
 DESCRIPTION:UEFA Champions League · fase campionato 3ª giornata\nTV: Sky
-  / NOW\nhttps://biz4z.github.io/Partite/
+  / NOW\nRisultato: 4-1\nhttps://biz4z.github.io/Partite/
 LOCATION:Sky / NOW
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Como – Manchester United tra 30 minuti · Sky / NOW
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:efdded8fc7d866cc@biz4z.github.io

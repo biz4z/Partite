@@ -1,7 +1,8 @@
 {
  "results": {
   "2026-10-18|como": "1-3",
-  "2026-10-18|milan": "3-2"
+  "2026-10-18|milan": "3-2",
+  "2026-10-21|como": "4-1"
  },
  "standings": {
   "milan": {
@@ -50,18 +51,18 @@
    }
   },
   "como_eu": {
-   "pos": 17,
-   "pts": 3,
-   "g": 2,
+   "pos": 6,
+   "pts": 6,
+   "g": 3,
    "up": {
-    "n": "PSV Eindhoven",
-    "pos": 16,
-    "pts": 4
+    "n": "Barcelona",
+    "pos": 5,
+    "pts": 6
    },
    "dn": {
-    "n": "Manchester United",
-    "pos": 18,
-    "pts": 3
+    "n": "Manchester City",
+    "pos": 7,
+    "pts": 6
    }
   },
   "cantu": {
@@ -313,6 +314,11 @@
   "milan": [
    {
     "d": "2026-10-21",
+    "t": "Amorim: \"A Bournemouth un esame importante\"",
+    "u": "https://www.acmilan.com/it/news/articoli/conferenza-stampa/2026-10-21/amorim-a-bournemouth-un-esame-importante"
+   },
+   {
+    "d": "2026-10-21",
     "t": "Comunicato Ufficiale: Christian Vechiu",
     "u": "https://www.acmilan.com/it/news/articoli/media/2026-10-21/comunicato-ufficiale-christian-vechiu"
    },
@@ -320,11 +326,6 @@
     "d": "2026-10-20",
     "t": "Comunicato Ufficiale: Riccardo Grassini",
     "u": "https://www.acmilan.com/it/news/articoli/media/2026-10-20/comunicato-ufficiale-riccardo-grassini"
-   },
-   {
-    "d": "2026-10-19",
-    "t": "Rabiot MVP di Milan-Atalanta",
-    "u": "https://www.acmilan.com/it/news/articoli/awards/2026-10-19/rabiot-mvp-di-milan-atalanta"
    }
   ],
   "cantu": [
@@ -361,6 +362,20 @@
   "milan": [
    {
     "d": "2026-10-21",
+    "h": "20:37",
+    "t": "=^+>[ROJA@CALCIO!]Milan Atalanta In Streaming Diretta e TV NO Rojadirecta 21 ottobre 2026",
+    "s": "北陸地方整備局",
+    "u": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMk1vdVNjMzNrclR0SU50OVNqQUdEMy1CbGZ1aXhEb2QwLThsM3A0MVZWTWFvTENCMS02RGRLanRGaWZJQnJJRWVNd0NFZmF0NmZUMmlhQXNhMW52M3JJMTRCZGdFcHp2TTJCUWJxakdnYlF2ZDdzMGVhY1QwM2hScy0wdUhJVTdzRjlZWWhON1M2bE9LOWs2YWtVWHNtV1pOQTU3bUhjWjQ0RkI1bzRVdUpLSGJhcDZmR2lJa3pRZ1Y2d1FhWFUzNmdSMk5NS2d0alE5NGNrY1czZnAyaDhUVW5zNUFaWTNiWEZsUnpwRWhxTjV4MjRBUG9fMjBZSVdsQVpmU3V1NWQ4UzdnVVUxQnBLNHlqSmJCdkcwSnpuUndsNzNKZ1E?oc=5"
+   },
+   {
+    "d": "2026-10-21",
+    "h": "19:58",
+    "t": "Milan: Amorim 'sfogo Rabiot? Serve capire alcune cose del match con l'Atalanta'",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMW9tRFFBdjZBY3JxSVBLZERxTkl6S2pXR3JSbnlfRm1peDIwSlpONmVRMDVYMTVCZHc4Q3dXcFYzMF9PVVRnYWVnbllPSUdVN1N0ek1GV0haQUhtcDkzbDJfTm84YTA5ckRDWjNHTVVPeWRheXlhRXBnanlCZ0E0R3RiQTdHV19rOGpBOVlpNEFRMjJCWTh6bG94VVBwSWJlLVFQZm1WMzRkZVI4d1d6UF9ybm9XdnNrVHNTZ1UydVc1SHA3SG1yWnA1cTFoeXo5NkRaM0NELWIzWnNzZS1hMzV3WHVrTDUwM1VESVNtTEo?oc=5"
+   },
+   {
+    "d": "2026-10-21",
     "h": "19:47",
     "t": "Europa League: Amorim 'Bournemouth ha qualità, prova importante per il Milan'",
     "s": "ANSA",
@@ -371,7 +386,7 @@
     "h": "19:37",
     "t": "Conference: Bellanova, ripartiamo dai 35' di grande calcio con il Milan",
     "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZXVqWWhWSUZCNUNLSURUcEk2dVRpcjJTZkk2LWZkcS0wR195Z3JMMTNEY0FNRm44UUh4S3UtWmx0eTVwYVVpOFdjQlpuU0Z5UEhyYkZsdnRHQUVRRmZNczhIcVpTb05VTWd1b1YyVXZIcHpKanRGR19tdWRtaVJNQ09meUVsenl0RVUzNkgxQmY1Z1ZQR3dHQ1ctSkE1ZnR6Znc5VkFTLUpva0JKUEwyMzBQaXJfbXRESUhkSUphZ1JCaHMzRXhDcFJTTVlSakk2dFNQVVZxZEJOVFlQcEljTU00eDlIRE9IUm1ydXJaU0ozTEdBeWtPYy1VONIBgAJBVV95cUxPalA3dG5Ld2dwQjdjUVJuVnYtSjVEVVdsYWh4c0dfZ1BCT3FIV3FFeWxzbkpqTU51c3Z6Tld2M01CM0NsWl9iWGlPYzdMd254cDJWUmlyM25YR3JhMEY1NDhlU2NLdDAzTi1DbDFIU2s4QVRnNUw1VHVWNzREMmNBU3ROZF9ENkZ2OHkxTkZnQ0haUFVVT0JsOEZnUnlrV0RSM05KU2p5NjVUZUtYZXdObjlYUTlPX3BRZm5QUVlKcWY4TzVsdXdMaDJXZktMSV9aMGtnQTlXVzk4THZHdzRMejBNdUtFS0ZzSzkyYzhMS3BpWXg5ZmpiYUlHcWpCWURp?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcWY3Nk1ZY2tJcDBEQ1NUdUtXVjgwaG1VU1RrWmlsOXFXMGRkSy1PcnpJc19SeWRnWmF5TU1Yd25IaFFUdmVCQjFyUVFCX3RmX1QyczlEYWtUQTNmV21QVUkxUVZaUmtZM1JvbTBSQUozcGlaWkRIeS0tU19faXVXX2lST3ZlZEJCUWpoYzJiZWlzb2FtSFV4N3hFVmZtSllTWnFTeXVmSXdqS3dac0J1WTdHTFBvZE5LTlhSV1pxdE9jMG83WE1feWlTVVRPT3dkOWVHSlo2R2hoejFjZjhiSG1DSVRqaW05SE5zVTNrdmHSAfYBQVVfeXFMT1cxY1dIT1o0a3hmUHZhcURSV2haUlRuSnZ1SGlRTEd6OEJXRWVUeFh2WFJPbndxSEFISzRiWlZoMjRTTk1OWUJLUDZtcG1UNFZvRGxrWG5rdFpJbjg1LXIweHNmdldBSmdFMERwMFpzOWp6Y00weUVkc2V0bWFCc2ZuMWpDMDRadDJ6bEVkQnFNdGJtdnVQT2l2aXZjbldKVHNOV05wd2dSU1hOV0w4ZThReVNVdWl4b1JBUTkwcXdwZGpzOW9rM2xUTXJkcUZEME9WUlNldXROeGdQYjJieFR4dlZQblNFb2IyYnFBUURuc2w5dC1n?oc=5"
    },
    {
     "d": "2026-10-21",
@@ -389,31 +404,17 @@
    },
    {
     "d": "2026-10-21",
+    "h": "16:28",
+    "t": "Milan, infortunio per Goncalo Ramos: salta il Bournemouth, derby a rischio",
+    "s": "S&H Magazine",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFNuazZDaEFaSHFNX2hPZVFmY1Z3bG1pZy1FMmVlVGgzc0llNlc3R1cwdFIwTkFmVG5kQ24tZ2xvZWpPbF9LTmxqNjJvUkEwLUhNWDlmUkQyRThCSjBTcGlmWWt5NFVLcXdzQ3IyWXdCa3d3bTYzU0k0WjVQeVpxcDFEVWNvMFN0ZmhHRUpSUncybGc0c3Q4MGt4dF9hdnJmcG9VUlZZeUFsemdMa3FRZlBKSGdDOEZH?oc=5"
+   },
+   {
+    "d": "2026-10-21",
     "h": "16:21",
     "t": "Udinese-Milan, conferenza stampa di Runjaic sabato 24 ottobre alle 16",
     "s": "Diario FVG",
     "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdE9ySktoR2tpc1MwNjhUbmtiQVNyWlYzUXQ5TkY2XzNPOWx2VlRSZWN3ZmdJZU5xMEtPaXlSSEtyUkhoc3E3bC03WDJOc2E3aktqd3FWSmdUcFd1Z2JzQUdEWXNUOVduWlFaWnNXWnpxME5MSnNKYzN2cy1WMDRzOQ?oc=5"
-   },
-   {
-    "d": "2026-10-21",
-    "h": "15:17",
-    "t": "Milan contro i prezzi alti in trasferta allo Stadio Friuli: \"Costo ingiusto, corretto boicottare la trasferta\"",
-    "s": "UdineToday",
-    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmxVZzkxYW5GV0ZKSXE0ZFRuNE1URTEtWm1XZWhUSkdaMnZNZXNQN2x5dXJBWGt5Q2U0UVRWWlNuMW9JRVQ5Y0Z3azBjdzdEal9INk9YWU0tRU54NDE4MXdseWZzbndTekhXYkZVS1dyX2RRU1NWVnB0TmRmRFUwcGI1TkVDUmxwYkppRFFRN0wyWFp0?oc=5"
-   },
-   {
-    "d": "2026-10-21",
-    "h": "15:15",
-    "t": "Il Milan contro il caro trasferte: «Serve un tetto ai prezzi dei biglietti ospiti»",
-    "s": "Calcio e Finanza",
-    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSE9peW5XMnNJYWhBdUhNLVRRazluT3IwS2hlQkVTd1VhZnJ0NW54SlBRdVk1b2I3c2ttWVl6LUkwMS1pb09TUzRhVkJHMm5MZ3RFaEF3Y1pYYkpTUVVkUFltY1JxdkNZVl9pSmZGTVIzWU9URzFlMGVoaGM3b1llMlozS0xpcHZlaUhTQw?oc=5"
-   },
-   {
-    "d": "2026-10-21",
-    "h": "15:12",
-    "t": "Milan, si ferma Ramos: affaticamento al soleo del polpaccio sinistro. Out col Bournemouth, domani gli esami",
-    "s": "Il Messaggero",
-    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkN5dmZGUUR4R3hMY2drNnA5cy1PR3pSRk8xVDRldEpaODZZRHNXMnZDYlZGbE9pT1pOQ3U0a25iV19kc2Y0SDdlQk5lRlVSM1pyYV9WTk1pamlmbk16SzIxWmdTclJqWVgxRlVsUkVWWUIyRmNJRkRuRFRKQ1c5Y2YyX3YtakNKcDFqNnRyYVlDOFFDa3d0eWMtelo2UXdDZ3YtVzVuNWl5eUNB0gGoAUFVX3lxTE53bjJtVEhWbVRRdlR6U0lkbFZHZWpyWW1nT0lQcnVPZ05CLTJmbFJ5QVkzcHJTLTBGSmJkbVRDY29TUlNaYXZXMVVHYkhWaC1fWWlsRFdMUF9VdG5CSGI0ZkVmVVpraXYwMVZFZ3hOcjlzcE54NzRGTW1wWlJGR2lCbjRCc2d4NlpsTGlYakN5WXQwZFAzUGh3ZzZvMGpFSm5vUW5MMHl0cA?oc=5"
    }
   ],
   "cantu": [
@@ -477,6 +478,20 @@
   "como": [
    {
     "d": "2026-10-21",
+    "h": "20:07",
+    "t": "⚽ Como-Manchester United, UEFA Champions League: la diretta live streaming TV di calcio 🛑 Notizie dell'ultim'ora 📆",
+    "s": "musicletter",
+    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcFNYd0FLc09xN21ad0NXMklPUGQtSFNMSFBweFRIVnMxNkc5MDVRcG1SdDU2aE5RdkF0eG5qY0FzNFpnMjd6UU9HT2xtSTA3UEx5c1pRM2w2V3Vlb3Nwb1RVdXMtakNIa2ZPNV9SMDE3NGtUOGt0dGxuRm9lVWVwY08zbGhkSVJNLUtQdG45MEpLaVlHeVM4OTJybWNOY2l1LVBqekppakx4anE0T24tV3dRemw2LXhUN19XSkd4SXFMbGFKRUltdTVTNWpjc1ZGaXFiV2JVa1VFUEFhMnlSclZn?oc=5"
+   },
+   {
+    "d": "2026-10-21",
+    "h": "20:05",
+    "t": "UEFA Youth League | Como",
+    "s": "Como 1907",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNUl6MXUwWW1ZN2NfMFV6SXNUVHlPNnd0WTYxVTB4ZUtfN2k5SHVQb19UbUxrLUVKVUdoZmRUcGhidjVnQk5WZ3pzZHVVMFNlMkotT05VQ01MY3BjRHNZb0hOUkVfS210d2prYzI5V2E1WHFwVnBsNjE2ZE1SVnJ2bk1LM1VtejVvaUg1LVBna1N4QQ?oc=5"
+   },
+   {
+    "d": "2026-10-21",
     "h": "19:45",
     "t": "Probabile Formazione Como - Sassuolo - 8° Giornata",
     "s": "La Gazzetta dello Sport",
@@ -491,17 +506,17 @@
    },
    {
     "d": "2026-10-21",
+    "h": "18:49",
+    "t": "Como-Manchester United 1-0: diretta live e risultato in tempo reale",
+    "s": "Calciomagazine",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSjBQV0tvdGpudW92VnFsWXR1aVBPMU9xcWo3RHhpOHJRTnUxZ3VRVFVyWkFxeDc0TWVQYWNDUWtTbXZ1Z3Rzam5WaTJVb29rZTNTTzJmc09JM3cyN25sV0hjM3pmTTZqTUJxUUowY3laZHdpTUl1bG1YdDNITkN2Q0RybjlHQnRER1V4X3ZFb09CWnlrRFp5a1RzUHZFdUwt0gGmAUFVX3lxTE5PUUJxa0VPUklFbm84c1BvUlZNT2lJeW9zRlRfQ2Z6THdKem1RLUtJN2lKd2p6RGdNaDJ6RW9sbHFnU3QyaW00NXlNNGs3dG80QTF0WnpaSzNTb2YtbFpodV9nZXRobEVpOEVZaFhnLTlmczlXUVh3ZURkT280UFNKM1VNZ2poM1N6ZGxlMlZYUXRoeUhxT2dLZDhfXzc5RlBMamZQT0E?oc=5"
+   },
+   {
+    "d": "2026-10-21",
     "h": "18:38",
     "t": "+[!STREAMING@TV] Manchester Utd - Como Calcio oggi in diretta 21 ottobre 2026",
     "s": "北陸地方整備局",
     "u": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZzd0T0tjMkpnaE43UE9JTXFNcnBvMU9SQmhSVWpHM01scjl4MGNPV1dfXzlTNzE2SEdIUDdkYklEMnZzSVNib2xDM2QwVUtTLWMySVA4MlVHODVQaE9LNVNERWRkWDZicEpyWFVqcW5YbE1ud056dXUyRW4wU05NdGF6ZGNVM05LblM0Nl9yaURTVVlSZkF4ODBSQ2pvaDYtbDVLVjhZTmdyUFdkdl96X3E2T1NBTFBqRHJXRVViNXUzc3p4WDEzWThsZkVIVjlNOW5lRU1DMXh1YWVSZWtfeTFRcVpSeUNvTzRVaFY2NE42MmVRa0FreC16M3ctQjhVckQ4YXYwWGIzNzdqd1ItRlltVk1oRkJoOGZiVmMxZU1CQQ?oc=5"
-   },
-   {
-    "d": "2026-10-21",
-    "h": "18:37",
-    "t": "‍‍‍[CALCIO-LIVE] Como - Manchester United Oggi in Diretta",
-    "s": "北陸地方整備局",
-    "u": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOanFYUmZEQ1lIRGpGT3BSU1FNMTJwUnRGVzJmbkNIS05TN19iT3dVSWlNQkJ6eGVzTjRmeUg2YzFFNHNxOU1UV2FqU2JxTHl5TjBJdXRzOUx4RE1heWtlUVE5ZTVFcEpyZS05OEZkQkI3ajBKVXp6QXFVTGctMlVsOXBXUVNyVVRnOHB6Ri11Y2wtdC1TMXA0RXpudl8yV0t5SFRxWVFXUGlGMi1JbDFELWRJTHNGVVhqci1mRVRsOTJraDlCVzdaWldFUnVfOGgwM2pRWUhBQ20xUDMtV1F0YThXd1hFREFhQ29RYjdsTzNLdjc5ZzRyTTVtU3ZndldtVEtqRHJraDlZQkFPX3B5WTllam5IeVlXaUt4M2pYemc?oc=5"
    },
    {
     "d": "2026-10-21",
@@ -516,20 +531,6 @@
     "t": "‍‍‍[LIVE-STREAM] Como - Manchester United Calcio in Diretta",
     "s": "北陸地方整備局",
     "u": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOTUw5NU9FTzk2ZlZWejd4ZXpVNTdEbkQ1eEszRV9rU1h3RGpEYXBONEdIN3RmU3VVQmY3UC1xak50Y2tqWnMzOGYwVlhHSk1IbVZBczg1akRUX1BsRVR2R2lfZmtjeFR1MF9YbG9CbUY1X2toVmxVYmdfYXVpZ3poVE5objMzVktOejhSa3FuV0VmZzh1ak0zVWFBbF9GaVBXY190M1U3M1p2a3d0TjhaekU3S19GWWhGaDJvZVVlMzgxS0R6Q2pNMlVfdlpwR2FwLXZLQmxEZVFEUWR2RmF1SGM3eWhSX05wRTZ1Q2VnNHhwanpJYTFGLXVmYi15bVVoWFNTc3FmT0JIb19tTXNaTndoeUVsYnc?oc=5"
-   },
-   {
-    "d": "2026-10-21",
-    "h": "18:37",
-    "t": "‍‍‍[LIVE-MATCH]Como - Manchester United Diretta Calcio",
-    "s": "北陸地方整備局",
-    "u": "https://news.google.com/rss/articles/CBMirwJBVV95cUxORTNWMy1VeVl4RUN2UVlPMmJRcXhmajJ4T1RVdkxIUFB1TmJYTVl2WW9CR1FVbHlFZnQ2Ylk4Y2lNMFVwZGxJTUY2bmJmY3dCZ1JrbWxKLW9JVzJDSW4yS0swbFdXakFyX2JXQ0tpVnliMWlNRkFsVG9fdEl3QnU5Vl93S25GcWdMMlJjTHNkdHRrOGlhOXJzS0R5R0NMMjB5Y1NhbjhXUGJ4NklNUG9NbTRXdGhhRG1RbkRmM0lRTzFPOWFuQ2RsSzFySnBEX1RsWkp1ZHp2dk50amFBUzdzTGFrLWp1Z1RCSmlCX0FpaEVTeFVYSF9kejIycnY4X3hLc0xuZ0lIeHRvMXk4ai1EZS1PX3VqOVdpNE9DLUgtdjhYUUdKZzExTnlHc3BvN3c?oc=5"
-   },
-   {
-    "d": "2026-10-21",
-    "h": "18:36",
-    "t": "Champions League: in campo Como-Manchester United 1-0 DIRETTA",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQW5RaGFZRzRsYTB0N2JTb0U1SlpkMUM3YjZNV3NVNXJOWlpueTNQeXF5MTUteXlPa3NSMkxlY1l6S1dVV25zaDZlWkRxZzEzZjNfTmswRVBUcjVobXZjWWFEb015RUtyNDJEck12Q1ZUSTI0TU5kUXlmNTdFRHJZb1BwcGNlWkZST1kzQU1LSDEzSnVZN0NHRW9aXzR6Yk0xWUoxbFhLLWxtUUVhUjBiaGxyUFd2d25xSThKbDRuXzJqaU1wZWppd2dNcnFaUFVPdnE2OWw0SmgtSkZxSUN0SnoxdWpYNFhERWNMOVhQdHPSAfYBQVVfeXFMT0FHbW4wa1ZEZXhyYkotRXJhUmw5M0NaVHoyRUxVdjNDS3NzRks2Uk03eVM1UG5tTHpwcmlaSmhLSFFGenVtLW1PWG9Rb0JIRnp6RllYYWtZc2x1X1ByUzhrUDZnX3JwYTdkTDdhSDF6QmVWcEQtWFZrNTQtSGRLYWxLYzNfbWdkMXdsZTBwRHdVVk9NaVZ0VlBUOHM0TDJHVWY1ZzVSQVRZRVhWekpYTHE1Zl9QczBzdnhLYjItVEhOOGFhdF9IbWYxdXJabFZsZ2N5ZExZbU1Ya3ZQUDU0cDhTMjFPTmNKVDhmMEFMU1FTbm0tWkpR?oc=5"
    }
   ]
  },
@@ -918,11 +919,6 @@
    "X": 26,
    "2": 27
   },
-  "2026-10-21|Como – Manchester United": {
-   "1": 40,
-   "X": 25,
-   "2": 35
-  },
   "2026-10-24|Como – Sassuolo": {
    "1": 61,
    "X": 21,
@@ -944,13 +940,13 @@
    "2": 18
   }
  },
- "updated": "2026-10-21T18:06:23+00:00",
+ "updated": "2026-10-21T18:40:21+00:00",
  "log": [
-  "non finita Como – Manchester United STATUS_SECOND_HALF",
+  "risultato Como – Manchester United 4-1",
   "classifica milan 4 15",
   "classifica como 5 14",
   "classifica milan_eu 16 3",
-  "classifica como_eu 17 3",
+  "classifica como_eu 6 6",
   "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 4, 'up': {'n': 'Tortona', 'pos': 14, 'pts': 2}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
   "notizie milan 3",
   "notizie cantu 3",
@@ -962,6 +958,6 @@
   "calendario como 31 partite future",
   "ERR logo cantu HTTP Error 403: Forbidden",
   "loghi ['cantu', 'como', 'milan']",
-  "quote 6"
+  "quote 5"
  ]
 }
