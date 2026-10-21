@@ -472,6 +472,13 @@
   "como": [
    {
     "d": "2026-10-21",
+    "h": "12:46",
+    "t": "Calcio in tv: Champions League, giocano Como e Inter",
+    "s": "La Stampa",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTZRNlRybGt6R05tTkZkMGFkakFrOFRPaWlsSTFOWVpvTUV3UmpBdzZNUTBsamhRS2NxV2NuVk14SnkxelliejlaSXpWR0Uwa1Fkai1CZmRmRkJFMnlBbzlERklWd2xFVTMydkV5bDB3VEc1Y2tOQVpVVXNZZkdTai1jWkdPanJsWVpzSWo1Y1Fja1JiN0VVYWRLMmtoVmNiUXpKNldvY0Q5d9IBrwFBVV95cUxQUnl3Y1ZCUlBac3JPSlNXYTBhNEVFWm1BUnd0d3lJLUQwSF80ZGRsRGhmWXIwNFo3dG8xM1hHS2NoQXJHSC1GdWtwZk1xQ0V6U1lsVzRYdl9DWkx6R1FEQTdfTzUzaWpSOWZDei03bGlYTGw5OThfOWxZUm9iM0ZJajZoMXdUV29VRWtRQnRKR0czQUc4aDdjcjI3b2FJSnJJLUlMc2lmam11N1BuWnlj?oc=5"
+   },
+   {
+    "d": "2026-10-21",
     "h": "11:27",
     "t": "Como, Caqueret inserito in lista Champions. Sostituisce Jesus",
     "s": "La Provincia di Como",
@@ -518,13 +525,6 @@
     "t": "Como-Manchester United oggi in Champions League: orario, probabili formazioni e dove vederla in tv",
     "s": "LaPresse",
     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTTNNNnlZclEwZmUzWUl5LUtkM0daMTVYUVJ3bE5rTjIxWDg3MlVHTlU1LWVOWGpMTXhiVVpGNFZlTEg0dHh2ci14NE52UHlZN01iUDdhbUQxUThDTWVtbHp4TVBfWTl4RzFvbVA0NFpSWDE4dlNhRkdTN1ZKbWRYc0pHR2FuZTlLVzhzd05VSUVRUE56dXJNcWlHTWdoZHdjUERIck84eUxEeDdmXzJFZWJORVNqak9XekpjZ2dVc0xsOFk2OVA2WGRBb3lkd3d2Qld3cHpn?oc=5"
-   },
-   {
-    "d": "2026-10-21",
-    "h": "08:48",
-    "t": "Il calcio in TV oggi, mercoledì 21 ottobre: Inter e Como in Champions, dove vedere i match live",
-    "s": "Libero",
-    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbkFQVENEdHVSa3pValhqTzVCQ0ozbXZGRFhBekJfbXpDdVJDcTlyakNKWS1ld3QzVkM3WS1RREdqOVVqS2hNc1dKMjRrSVZNRm5FdnUwU0JsZzN4TmNTbEJ6LTdOaE83ZFV0WEFiTHpCLXpnazRmVWRHWmNxa01SR1NteHF4MXhGakZ3OG15WGRkYTN2a01uRmlCcWJPVFVxbW9KSW9XWk1SWFNzNExZMVNpaXgxaExsWHFUenJn0gHDAUFVX3lxTFAzQzFVS2Z1c0tYVGlzVXJiOTd0dVFQbFlMNW0wZGttMEJ4WEZCSURkNk9pMU1URlE1bkdEaDJNc1JsZWFCaVdOYTJLTkQ2QWZiTE4zWGVWRkxkSktaQ2tVdlB1amxxYnJ3UFF3dkdQMFFyQXRaQ1hGNmxKRnZzb29nR1pzNE9kZnUyTVVJZW4zbWtPbHhuUDlKbk9xYXJBOWFBN3hrX2JjNkw4ZVVJSmoxUG1Id0NnN0RGNjdzR24xZFVOYw?oc=5"
    }
   ]
  },
@@ -914,9 +914,9 @@
    "2": 29
   },
   "2026-10-21|Como – Manchester United": {
-   "1": 42,
+   "1": 40,
    "X": 25,
-   "2": 34
+   "2": 35
   },
   "2026-10-24|Como – Sassuolo": {
    "1": 61,
@@ -939,7 +939,7 @@
    "2": 18
   }
  },
- "updated": "2026-10-21T10:54:54+00:00",
+ "updated": "2026-10-21T11:20:38+00:00",
  "log": [
   "non finita Como – Manchester United STATUS_SCHEDULED",
   "classifica milan 4 15",
