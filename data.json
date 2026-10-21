@@ -329,6 +329,11 @@
   ],
   "cantu": [
    {
+    "d": "2026-10-21",
+    "t": "Cantù fa visita a Reggio Emilia",
+    "u": "https://pallacanestrocantu.com/cantu-fa-visita-a-reggio-emilia/"
+   },
+   {
     "d": "2026-10-18",
     "t": "Vitucci DOPO Trieste-Cantù: “Abbiamo subito troppo”",
     "u": "https://pallacanestrocantu.com/vitucci-dopo-trieste-cantu-abbiamo-subito-troppo/"
@@ -337,23 +342,25 @@
     "d": "2026-10-18",
     "t": "Trieste vince 92-72",
     "u": "https://pallacanestrocantu.com/trieste-vince-92-72/"
-   },
-   {
-    "d": "2026-10-16",
-    "t": "Coach Vitucci prima di Trieste-Cantù: “Partita importante”",
-    "u": "https://pallacanestrocantu.com/coach-vitucci-prima-di-trieste-cantu-partita-importante/"
    }
   ],
   "como": [
    {
-    "d": "2026-10-17",
-    "t": "La presentazione | Fiorentina-Como",
-    "u": "https://comofootball.com/match-preview-fiorentina-como/"
+    "d": "2026-10-18",
+    "t": "Fiorentina-Como 1-3: la cronaca della partita",
+    "u": "https://comofootball.com/fiorentina-como-1-3-match-report/"
    }
   ]
  },
  "press": {
   "milan": [
+   {
+    "d": "2026-10-21",
+    "h": "10:53",
+    "t": "Il Milan ha pronti due colpi da novanta: ecco chi arriva da Amorim",
+    "s": "News Mondo",
+    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xN1dPVmlXMjg5d2IyWVZtVEE2bnY0MW92MEVUakdfYmJ1N004QnlkdU9sQ3hFdl9UT2RkUmRXWWdkdElrNU5DcHlsaXJpdnF2aGJEQXBpVWpEdFFsTUJmeEV3OUVVZjVXYXBv?oc=5"
+   },
    {
     "d": "2026-10-21",
     "h": "10:24",
@@ -402,13 +409,6 @@
     "t": "Europa League: il danese Krogh arbitra la Juve, greco Fotias per il Milan",
     "s": "ANSA",
     "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPV0RJN3l2cGkyOUwtQk5PLXM4b1BkVUtyT2xYUWRrWlUtNlBEWDJCZ2k2YldIQW9RajVnWTlSclZoT3Y4NjdxYTZxdXQwMHlZREZiNnQ2OHJxNUNhRmZvZlFReExfd0laQWhzWEp6N1RIclU2eUtKajQ0b1ZCTkU5S0tfN05KamFKX090UVlvb3ZULWI1U3JqaG1HMFpsSWdQNVJGSFNwVWdZZU1DYVNTQmJwdGJnQ1JHaEVheC1aU3FRa19LdUM2cDRncmZFT1V2UlJ3Q0kzdnhXTjRoRXJXWF9UdmdQSWVETTQ3VGxiNXZZdFl2QXJjelRGWk9NV1nSAYQCQVVfeXFMUFhDRUVacXRfOEUwc3RMbnRFbklJSEJaZzlPdTI0a0Q3djMxajlZNmtoVW9aTjFjTnlmZXlGSWFFMFpmbHQyYjhRUWpGTTNYZml1V1l3M1VHbm5uXzVXWGNhN1ZYMnBVXzRwQkJMWXg1TmNnUWd5NUpKSXBlUFVDMkhfQ3p1dEdwVUhfeW1sRjZUM3VKS3c4dkhYaUlvelY3MEcyc084aUVheW9PNThmT2JuUWlpbVlkSVZPeXJDai0zeG1WUi1ydXVMLWM2RlJFTE1uNjBSUFBweVEwR1hsbkZnZmlSUm42NzV1NEpSa1hvSHdyVXBUXzQ3d3FkV2JyTk0zWDc?oc=5"
-   },
-   {
-    "d": "2026-10-20",
-    "h": "09:04",
-    "t": "Milan-Inter, sale l’attesa per il derby di San Siro: data, orario e biglietti",
-    "s": "Corriere dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOGN2WjRweVEzZG5CcmFuaXhvN29uUDlFaGpnS2liZkdqU3JJbDJVY292d0dfa3hyZjI1WTMwS3VvQWtROE1PQUdYX3k1WTRrZzljX2xvczNLbW1FczEtRUdaajZRSFdleUl0T2UwTHZlcmlGUjN5WWpvYVdoTWhDZXNDWXh3RUxnOHhKREhXVGlkMmpGeU53TXV1VV84QmsxVkJRUXpqMF9aWlNtV2VtanZBMWY2UVBGb0UzTjdFUUZIcGxVRjFwN083Z1lIMlJpX3BLUjg2aGVjQdIB3AFBVV95cUxPd2xTMmZUcnFYN0xTcEdzVnRncVVBaWJ3ZlM5b2VMWkpRcnRKT0pLWmQ4cWZEN2RjZzVUNVNPWE1vOUFtQ2pRVklMSVJOQnRvaWlEVTZDTVNtcWdNeHdQc3E2TGFnVTRGSlMxSUFqajRSajZBYUtJajgtUkpsLXNYQXNhSkZNVE8tc0hVeVRvWVlrV1pVaEJIVUc1UGg4Um1WcHNESjRzYTR5VW1acGlHZ1h6TVJPd3FxNV9IMlR0ZDZiZ1RRcjBreHZlRGpKZk03eFZYb2lWNTNpVzR0?oc=5"
    }
   ],
   "cantu": [
@@ -472,10 +472,17 @@
   "como": [
    {
     "d": "2026-10-21",
-    "h": "09:54",
-    "t": "Como 1907-Sassuolo: PokerStarsNews sarà il match sponsor della sfida",
-    "s": "JAMMA",
-    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3J5WWF0SUdiRDF4V3B3WU1BVFBnS0F2b2wtYXdPbWlxcWY5MkJoSUJkMWJQdHpxam9MSFJaTWlwQnpCUnVjSENZa3FDczBzOU5oOWplLWZ6eWN1VVBzaDJ6bVRDbFF0Z3NrTGxuSGZsVDdiRzZXRWkzMno0UWRIeTZjMFA3THdFQ2pnNWZidXdMTVFMVktYYkdJdnpWTURFTHhtcXJzdjBrUTNiU1lfaw?oc=5"
+    "h": "10:53",
+    "t": "Como-United: andiamo! La storia è qui",
+    "s": "La Provincia di Como",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXI4N3ZBNlRRSFo3U001ejBQOW1ZS0JhSG42bHlyLTh1RmFCeWp2aUlUZGJLZkl0ZGRtNllqRDR1LWZUTWs3MWVrSTFsUkdwUGdZZ3JkWTV0c212S29FVWZldi1RVHNCTnp6MV9MbkdZTlZUMW1yeGhVeUpPR2RsaG5jX1U1czhoVjRDYkNIaERYQ25nLVkyU3V3NTZsdW5VUnJlTzhlM1FwaUhwMHIxMG5EUFVyVDhmVGc0dHR2U0Q?oc=5"
+   },
+   {
+    "d": "2026-10-21",
+    "h": "10:43",
+    "t": "Como 1907-Sassuolo Calcio: PokerStarsNews match sponsor della partita",
+    "s": "DAZN",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYnBQdDdxMG5oRFJoZ1ZQTE1XakJGWGVPeFd1UXZLZXBkdTNFazRTSVJHeEh6Ri1ILVBzTTM5eVJwaTNwQkFVMmNYMk9GcU9Eb29najdWdTlmWnVzeHB6Q2o0bWs2dlA1VUdmVUJzazVLdDBuSVNWR0VsaUUwSHd6T09mSE9WekxRX3VfVFRqNWJQSzNDVktXbmpoRmJ0RFV6MURTTHkzQTltNUlXNVNVd0lFb3FGbENRaEZsQjVn?oc=5"
    },
    {
     "d": "2026-10-21",
@@ -518,13 +525,6 @@
     "t": "Como-Manchester United: Sky, Prime o Dazn? Dove vederla in streaming e in tv",
     "s": "La Gazzetta dello Sport",
     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORTdydjZaMlFwbnA1QUhBQ3pVUi1ldHF0OExPZ3dtYno0NDE4Y2tzOHV0NkU4MnczMlFmSE5SYUpmSFE0bWlPUmNTMHV5QU9VOVBLaXA4Q3JoeFg0S2J5N2JtSFE3MVVZT3hfOXlzNGQyanlfOVJhaThyakJUOFpzVUF0YlBZa3NKdG1vSEh4MHNGSnlXRzBsRDYzdW9RU0M5UWtGbW83cWhIc1hXTDRWU3o1TV9xem1BT2FZeWl0dDZlRzhKX01VSklXU0lYd2vSAdQBQVVfeXFMTTFhbXlFbmM0czh3dnZTTXROQll2dnJUVVlqclBsNDNCOFNSVFVmZElXa0hWVEJJdWg5bk1aZTJjWUVENWFpcnB5SVFqWnpLbkE0RzNKUE9nX00tOWFiY1E3YTRrYWR5VGJRQ000ZWNVZ0x0bHpBZ2NGRExsdkxuSGJGN2sxVVQyaUFreGlaRGVnaHF0NVJ5M25kem5Vb0xVY0pHTXBwS1Y1Y3BTTVlNZTlET2ZUZUEyNGN3YmVWejZIc1Byb2NtSElKSFZRMFY0LXU4OEM?oc=5"
-   },
-   {
-    "d": "2026-10-21",
-    "h": "07:00",
-    "t": "Calcio in Tv, le gare trasmesse oggi: termina la 3ª giornata di Champions con Inter e Como",
-    "s": "Tutto Napoli",
-    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORDFBaVpHYlpjd1FSaURkcm8tYzZsWDZ0WE1jR1dlMmR1UExKcWpiZmRUMC1EbmY5eEZtQy1MVDJPRnRxaEU3WXZfRmxOSEVNYXlTQjQ0QThwem1wWUVza0RoOTliRzdhSTZJOUVVYlNGbENQaFEtYUpBM3R3b3BkOE83UlpCWmplaHd2ZmdNNkJXLU80THVTcVR0YklhNUhmV0djLUVlM3hTU25rVG1BOQ?oc=5"
    }
   ]
  },
@@ -939,7 +939,7 @@
    "2": 18
   }
  },
- "updated": "2026-10-21T08:41:40+00:00",
+ "updated": "2026-10-21T09:16:23+00:00",
  "log": [
   "non finita Como – Manchester United STATUS_SCHEDULED",
   "classifica milan 4 15",
