@@ -51,17 +51,17 @@
    }
   },
   "como_eu": {
-   "pos": 6,
+   "pos": 9,
    "pts": 6,
    "g": 3,
    "up": {
     "n": "Barcelona",
-    "pos": 5,
+    "pos": 8,
     "pts": 6
    },
    "dn": {
     "n": "Manchester City",
-    "pos": 7,
+    "pos": 10,
     "pts": 6
    }
   },
@@ -395,6 +395,13 @@
    },
    {
     "d": "2026-10-21",
+    "h": "19:56",
+    "t": "Bournemouth-Milan, Amorim: «Gioca Cisse ed è solo al 50% delle sue potenzialità. Gonçalo Ramos? Niente di troppo grave»",
+    "s": "Il Messaggero",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQelBrWXozM1V3ZWVWLVNPUUdYeVdDaE53dkRpX2RtM0xORUx0Ny05SXNNX3h0N0Etc1lFQVpHcVhlbVZxZEZrVUlKdVNLQjJ5WXhoNExhb2IwcHpCMFluTWJ6bVVPZnZSRG1KaEQ3T1Y2amJZeVpIRXlBRGRtVjNnZW43dW9sdnF1dXUtZGdYQUZaNzB3UE9tMS14b0x3WFV5bng2V1hOeUF0aF9hNnpleURXMS1zdHFFMTlzbWhjNmRZb0daTTRQNXpWWWVURU3SAcsBQVVfeXFMTnNXbnJvRWRkRzB1OHpSakJVVUdCcllnY1dYcVBJR0tuQmdEd2o4VDdhVVBoWXFaN0V5N1FYREF5eEpNbHV1OGM0Wnl2QzB0dlJpQWpYZVUyRldZdnlyN2g5ckMxcUJGM3QtemhWbUY2bnpSR0lsYVJDVFAwZWZkQ1BPdUhtX2xYR0RMY19LS3JxNWJjRVV0ZnYwZUhXMGNQTk5yLTl6WEptbVY5Tkh3NnJSTlJBZldrR3FrQkdqbzY2bnRJbkpLS1YtYkE?oc=5"
+   },
+   {
+    "d": "2026-10-21",
     "h": "19:47",
     "t": "Europa League: Amorim 'Bournemouth ha qualità, prova importante per il Milan'",
     "s": "ANSA",
@@ -406,13 +413,6 @@
     "t": "Conference: Bellanova, ripartiamo dai 35' di grande calcio con il Milan",
     "s": "ANSA",
     "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZXVqWWhWSUZCNUNLSURUcEk2dVRpcjJTZkk2LWZkcS0wR195Z3JMMTNEY0FNRm44UUh4S3UtWmx0eTVwYVVpOFdjQlpuU0Z5UEhyYkZsdnRHQUVRRmZNczhIcVpTb05VTWd1b1YyVXZIcHpKanRGR19tdWRtaVJNQ09meUVsenl0RVUzNkgxQmY1Z1ZQR3dHQ1ctSkE1ZnR6Znc5VkFTLUpva0JKUEwyMzBQaXJfbXRESUhkSUphZ1JCaHMzRXhDcFJTTVlSakk2dFNQVVZxZEJOVFlQcEljTU00eDlIRE9IUm1ydXJaU0ozTEdBeWtPYy1VONIBgAJBVV95cUxPalA3dG5Ld2dwQjdjUVJuVnYtSjVEVVdsYWh4c0dfZ1BCT3FIV3FFeWxzbkpqTU51c3Z6Tld2M01CM0NsWl9iWGlPYzdMd254cDJWUmlyM25YR3JhMEY1NDhlU2NLdDAzTi1DbDFIU2s4QVRnNUw1VHVWNzREMmNBU3ROZF9ENkZ2OHkxTkZnQ0haUFVVT0JsOEZnUnlrV0RSM05KU2p5NjVUZUtYZXdObjlYUTlPX3BRZm5QUVlKcWY4TzVsdXdMaDJXZktMSV9aMGtnQTlXVzk4THZHdzRMejBNdUtFS0ZzSzkyYzhMS3BpWXg5ZmpiYUlHcWpCWURp?oc=5"
-   },
-   {
-    "d": "2026-10-21",
-    "h": "19:30",
-    "t": "Infortunio Ramos (Milan), sovraccarico muscolare: salta gara col Bournemouth",
-    "s": "Sky Sport",
-    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbl9Idzh4R2YwbVpGcDFwbkduOE1mS2stYmxlelBHY2FpZHF1engwaDhuVW1VaDBnalQ2Ym9iT2Z1LVhlVno4dXltYzJNa2dUU1VYT0pqY3lSMHg4VHJiUkhaRlFKck5vdEFrY0d6dTNaLW1zR1ZKaEFRMmRqamFGSkw5aXp5TW8xY3hZQjRHd2tYZw?oc=5"
    },
    {
     "d": "2026-10-21",
@@ -483,6 +483,13 @@
   "como": [
    {
     "d": "2026-10-21",
+    "h": "22:55",
+    "t": "Como 1907-Manchester United 4-1",
+    "s": "Como 1907",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaGwzM3JISG8tYktqYnRKeFFsMDRrVEpycllaTElSLVpXSkh3QjRvQlVUUXFYSmRCamVlVVhpdTB5V2lkNFBLemNBQjJiTC1zbDdsTEo1ZV9zTHNXN0M2ajhrMlpsNlZrNGlRTlBuVVFXUmFRcVR4a2xhR2R6aGYtU0xsV09uaEpXRnplUjh0UnVBYXFDdUVV?oc=5"
+   },
+   {
+    "d": "2026-10-21",
     "h": "22:45",
     "t": "Probabile Formazione Como - Sassuolo - 8° Giornata",
     "s": "La Gazzetta dello Sport",
@@ -490,10 +497,17 @@
    },
    {
     "d": "2026-10-21",
+    "h": "21:20",
+    "t": "VIDEO Como-Manchester United 4-1, reazioni social: \"United bullizzato, Como devastante\"",
+    "s": "calciowebpuglia",
+    "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lbHd6ZDkyalNJSHNlaU5HZjd0YTdYOFlDaGdWdVViZnlPSW5ZY05udVAwckh4THZoOWo5QUNoS0htU3M1VG9hZE13SmE2TVlnQXZQaVVhQndNcE5sbl9faQ?oc=5"
+   },
+   {
+    "d": "2026-10-21",
     "h": "21:11",
-    "t": "Champions League: Como batte Manchester United 4-1",
+    "t": "Champions League: show di Nico Paz, un Como sfavillante travolge lo United",
     "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeFFLQ2ctcW5Nbnl4cUhqdlpTbWxEV1lOVTdadlgyNnZLTlhBN0k1ejl5RkZFQ1hubWU0UXZSU01YejVaMElTZHlycEhIMzN5QllOUnRmR2VfOVdOWmFCTkczZV9IcWdXYTZjeUZra01sSkxnaDZuTGZSdHhLMjh1cWk0Q0N1VGkwbkZBb1l4RXRoM3ZDaFZxcERpeG8zVWdwdlBFZmFacjJld04weXY0bjdST2N3blRZNV85YVNCa0V1bWM3bmhkZWZYYmM0VzBMa1BBLWxueWxOanZJQU5fbm1R0gHnAUFVX3lxTE9vcUVETEtON3ByX1FZVlNtaHZic2c3eVZObE9OT0ZNcUJwTnNrc05pMkJyM1JORS1JczRYRnZEaFlfQXJzd1gyVE1XRV83WFRnbl9nTXN5V3BJcUtqanB2U2trOUdoeDVpN3FRRnRnQW16MGlFeHgyRU1ZVnNWaEUxVzlQTUpYUFNSR2xKSWx5MGhWVmt5VkFKTmRwVWlSNFN0aWNOTlFUeG8xSnM1V3NCTDhSSWRFZnU5cmU3b3ZRVGpHZVB3ajZadEZOb1dibVl1Sk9YTU5SbS14MnJGQmlpbFZ0RzZUQQ?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeFFLQ2ctcW5Nbnl4cUhqdlpTbWxEV1lOVTdadlgyNnZLTlhBN0k1ejl5RkZFQ1hubWU0UXZSU01YejVaMElTZHlycEhIMzN5QllOUnRmR2VfOVdOWmFCTkczZV9IcWdXYTZjeUZra01sSkxnaDZuTGZSdHhLMjh1cWk0Q0N1VGkwbkZBb1l4RXRoM3ZDaFZxcERpeG8zVWdwdlBFZmFacjJld04weXY0bjdST2N3blRZNV85YVNCa0V1bWM3bmhkZWZYYmM0VzBMa1BBLWxueWxOanZJQU5fbm1R?oc=5"
    },
    {
     "d": "2026-10-21",
@@ -522,20 +536,6 @@
     "t": "Champions League - Lezione di calcio del Como al Manchester United!",
     "s": "Torino Granata",
     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVdkWTBXWV9KYWo0MGxNS3dpQkNQTktuMUtFWVZuUzZ6bmt0eWJaTklyTmhHT2JBT3otMXBJVmxxZmlvVkNjQjcwR0gzd0d5RU1GSGpmdFRyZ3UtOUhlandCQndiTTJBX29vUEI5enNJRGRVLTFfY3hRVGZPWXJWM1Jma2Fwajg1c083V0xGajNBUnpaRHJ0c0I4akt1OFVYRXpN?oc=5"
-   },
-   {
-    "d": "2026-10-21",
-    "h": "20:44",
-    "t": "Como-Manchester United 4-1, pagelle: Paz strepitoso, ma tutto il Como è una sinfonia",
-    "s": "Eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQZFNkd19vLWkzbFQzc1JxQUJIYl9tYm1UX3I1ZFlWbmVIVE43RHdhZEtUbE5kM3p0bWkzRkl4R0Z4Q0hSUi1DYWhMU3pnekpEZnQ0U2o4U2YwQmJsQXpTR2VXVVZtLVY0alFzT2FHWDhnNnlNY0t2eXBhanMwbWNnQlZLOWRwRXZsOEZVc2lCbkJwLTJta3hFdFZHMDVZSDEwOUJ6UU5uSG5PRDdDWkItSGhOUUFHandpNFUtYUROaWJzR2FRZ0JRczFTZXg4Tk5iQS11UWRUTEw4eUk5ZXhwZG5VbmtFdmNELXNOR0hLeVVncWZpYzRfaWZHbkw0N0g1REsyal90c0J4LU5PN3Atb1BuZlBzMW1IdVEwUl9KNm5wZDA4VjZVemN5STZYQQ?oc=5"
-   },
-   {
-    "d": "2026-10-21",
-    "h": "20:43",
-    "t": "Champions, Como-Manchester United 4-1",
-    "s": "Corriere del Ticino",
-    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV2hfd0psdEw4UER0M0RUT0FpMEZTYkpaOVBvR05mRUxfT1UxdThJaTFUZ3ZyN2txRVlwVEY4RGlnYWtZd01FanBEQzJmZk1Ral9tcnBiTzNSYk5VcmVFVkV3MFZrdkg4R0hhNmlESTg0QTRMLXNnanFnN3F1QjBpOQ?oc=5"
    }
   ]
  },
@@ -945,12 +945,12 @@
    "2": 18
   }
  },
- "updated": "2026-10-21T20:46:10+00:00",
+ "updated": "2026-10-21T21:14:21+00:00",
  "log": [
   "classifica milan 4 15",
   "classifica como 5 14",
   "classifica milan_eu 16 3",
-  "classifica como_eu 6 6",
+  "classifica como_eu 9 6",
   "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 4, 'up': {'n': 'Tortona', 'pos': 14, 'pts': 2}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
   "notizie milan 3",
   "notizie cantu 3",
