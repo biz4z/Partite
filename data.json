@@ -315,6 +315,11 @@
   "milan": [
    {
     "d": "2026-10-22",
+    "t": "Rossoneri sconfitti a Bournemouth",
+    "u": "https://www.acmilan.com/it/news/articoli/europa-league/2026-10-22/rossoneri-sconfitti-a-bournemouth"
+   },
+   {
+    "d": "2026-10-22",
     "t": "Bournemouth-Milan: la presentazione",
     "u": "https://www.acmilan.com/it/news/articoli/europa-league/2026-10-22/bournemouth-milan-match-preview"
    },
@@ -322,11 +327,6 @@
     "d": "2026-10-21",
     "t": "Amorim: \"A Bournemouth un esame importante\"",
     "u": "https://www.acmilan.com/it/news/articoli/conferenza-stampa/2026-10-21/amorim-a-bournemouth-un-esame-importante"
-   },
-   {
-    "d": "2026-10-21",
-    "t": "Comunicato Ufficiale: Christian Vechiu",
-    "u": "https://www.acmilan.com/it/news/articoli/media/2026-10-21/comunicato-ufficiale-christian-vechiu"
    }
   ],
   "cantu": [
@@ -375,6 +375,13 @@
    },
    {
     "d": "2026-10-22",
+    "h": "23:45",
+    "t": "Calcio, pari Juve e ko Milan in Europa League. Atalanta sconfitta in Conference League",
+    "s": "OA Sport",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdTNkRGxNNy10dnNISGtpWXBZQUxCYnUzSjFfWVQycUE4bEN5U20zZzQ5VGZxdE16UGlWcWxPNTk0UTVzUlp1bVVlX0VnM21rSWZGVURQSVpOSlJndWljQ3U5ZElWS2hPRzNQbkVqWG1PM2JIZXdPdWdIQW54VldNQ01mdXNhV1pCNGtsZ1JPWXF1N21BbmkyUlVzbGdUVE92ZnJ5enAxRXlEQW9YOXU4d0FJbEthVE3SAbwBQVVfeXFMT2ZPc3c4SHhfVmU0YldQQVZraDcxd0Y4LWJxaTNSSUV0aFN1LW9sLWNNNExpYkUzanFPb2t5QkdpeDV0SV9qLUVibmZXLV8tV2R5VENPRmRfMUhwb2JhX29ZZFN0SjRIZjB0dmtfZ21zeVZvd2dPQkVET0NqdlRGcjU0NU4xbExTeFAta2xWNjJjczJIS3NNekd0TTdzNXNwamZDSFdnOXFzU05oS1N3UGxEWW5HRjZ0S3VPYjA?oc=5"
+   },
+   {
+    "d": "2026-10-22",
     "h": "23:27",
     "t": "Europa League: follia Maignan, il Milan affonda 3-0 con il Bournemouth",
     "s": "ANSA",
@@ -403,24 +410,17 @@
    },
    {
     "d": "2026-10-22",
+    "h": "23:06",
+    "t": "Bournemouth-Milan 3-0, pagelle: Maignan rovina tutto, Cisse non è un 9",
+    "s": "Eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPS0Npc2pvek5VR0JHbmNncnNtVDdzTEVoSUhyTHdaRGdWQ3JYVnpic3Jpem84QWdKZEM2S1RkNDdrR21Bb0E1alpfbG5Oc2wtM3pHUEFad0M0VFZUQXJodFQzT054SGVka0JvNDRDNTZZLVoxZTB6dllTc0FHXzR4ak5oa1ZhNVdIY0Q3VVU4YlF4VzBPQWVpU0FFaFRoYTU1X041bUVRaWFtSUNIbXhsdzh6TEZ3akdTZlZaS0NGbVlhWk5Db0hBTTBwZzhiTUIwd2VnYXQ3MTBhS0d0RDNrMU5KM1NOc1RYSGExVXdIdzZyWUJzNnZ5WDlmbmtrUHZrMlFXYlNVdUZ0R01aQ0NhYmRRY0lEU1dhX2haX3BVaVNkNzdfdjhZTkNuaVVsNmFQLWstdHc0X3dJWkstTXRHWnB3?oc=5"
+   },
+   {
+    "d": "2026-10-22",
     "h": "23:05",
     "t": "VIDEO. Bournemouth Milan 3-0: gol e highlights",
     "s": "Sky Sport",
     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1NGOEs4ZERCanFob0h0Wi1Uelp3OWQ0YmJGU2s1SVNXWExRMVJjT2xvdktwdmVvZFF6Q2h3YnVLUTFCeVk5NHNud1NudzFNOHlRakVQYjdRZ2RWam9xYlFnV1UteDZodm04LW1jc2h5NW1wbEl1Sjk0aG1RUXJtUFJrMnpsSkpNY1c1OW5Ub3dfTzdldFJVWmlfTm82LXdWVnhSMGl1ZWJfanV4UW9tSUZZMA?oc=5"
-   },
-   {
-    "d": "2026-10-22",
-    "h": "22:57",
-    "t": "Europa League: Bournemouth-Milan 3-0",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlpqZUQwb3BqWWNDYlRCSlo5NVRyNERBc0gtLXRkdVM0SUllZ1puLXY4QndXTmZjbXJUQk1LTFMxVVM0TUYyRVRKOVRNWWFuWkdVQ2lJUmVocjdOVUhBQWdFX2dCWjgyZGVTWXBqVUZVcjB0TEVtLU9oRWkyZHR6Rjdobml1TzlxS0ZMNkFHTlZ1QTNyWDkxU3ZvOHBFNzJrU3QxRnRPc25oUkN0dnJjSmw1X3pMa2kza2xBaFh4TFZrbHNKTVlMdURCcWQ2c0HSAdQBQVVfeXFMTXFHUU0yVzJPb1RyS3ZfUjNLSWtXZzh1TE91MmxwN25GR1V0RVhwWU1vZ3JzZ1NXNEhJVGx5QldIVVAxSmpPOXpPXzJWOF9RRkdkRlRoNHp3bHFYRHRWUHVTMjAwSFVFc1NCM1R3YVV5RHRUNG02N0Y4bjNGSjNRQ3ZSajFXSjhoMU1CLUY3dW94d3ZWTEhkR2lsTm1yYWk4QXcxZmlodkhNdzJ6NDlEaEVrS0RUa2dVeGtraGYyaXBTRW90MGdmX3ByMHpJMzA1d0UwYWg?oc=5"
-   },
-   {
-    "d": "2026-10-22",
-    "h": "22:48",
-    "t": "Europa League: in campo Bournemouth-Milan 3-0 e Ajax-Atalanta 1-0 DIRETTA GOL",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZUFBUHJteDBWZVlVLWMtMnJJQnBPaF9vM1Y2LUtVRHVQMWJ1MkpzUk5GdC0zOU43WGpsVW9xWUFQM2hhejZRTWxIY0sxS3lvYmtwaWdWVGdTcnBIeFJIUDdKNGYwVndKM2VRTlhROGZIdERJaU9aRENUS2ItT0JJNURtM3k4YmtzRXBQcExveGxNSjk1Q0g5UmxmMldhWlh3SVhnd25rQkNiRmQyY0s4SFplTlVwNi0yMmNYQ0ozQ3lpUHVrUFhfSC0xU1I3d1RhTnVlSmRackMyeldwMF9sck5MVU40UGlkUFVkNzd2Ym83LWtGOFZVU0RQTlNMZU5VaUoxdkdB0gGLAkFVX3lxTE42ZDVEblRNdVpZQ3lDaWpGS2JrMVdFZzVDa3MyYUVBam5IbzlyUlVxaUpFMHdVVGJRcHBUaGNybHkxbnV6UUpCQklpbDYwR21hWDVvdTBnX3F3TGtGUUd2NzZ4ZXFMR3I3WXQwVVFFeDNOVDU0a0lqT19IeVlwUUhQazIxWEd4N2MzU1pQdVRMcE1kSUZOVmNDMXBDbkU5SDh1eUNNbTJDX2FJOXNZWHhCRHJVcWpWZmZTMEdmQ0VBcEdyU043c3dxWVVNekVrNkdiRXBVNF95eGZ4NG9iTTBJSlpGUE9kQ3JqdzlJQ3V3TWhZMkRrLUJld01WWkRpUWdFMEFWSjNtbDBFbw?oc=5"
    }
   ],
   "cantu": [
@@ -501,7 +501,7 @@
     "h": "16:11",
     "t": "Calcio: Sassuolo, due dubbi per Aquilani in vista di Como",
     "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTGQ5NlFONGhBX1hJbThGbXBjUkdKS2JWU2lTWEtWVUs2OEdSMGlxM1NCSDloLUt1Wk1zYXZoQ0RwajhqSS0wXzNqT1VQLXJBZTN5UjZNQ3IxejhkUFJZZHBveV9lOWhWeGxub0lyVTBiSGxIZlpqcUJ6b3NVYlhMcllFeHBodXpmY2R1S0dxMldtUlJHMGl5OG1NQ2NMaG81azdfRTZmY2E5cDFHLWRkdDR4Nm5BaHZwckVaNk80WXlaVEFJb0lMUW1VZUU1QkdTbXNHb2RTTnV3UWpSOWN0TzdXTEIwbWJ2Q1HSAe8BQVVfeXFMTUhEYkk1WWdBXzVBNHJBN3V5Z0dWM2R4R25XaDU3M1FUREpBUkdFSkRpTHJsMHNPTm9sZnRQYzBWMkFERUF4Y3dmMXBmOGtoWk96a1pLeDdWci1RZGFXOHp2dWFIMlNGdTlZQ1Y4UXRDcE45YnJhMDdhMG5pTE9tcFpIQXJLTHdMYzlVOUl6Zm9Ecl9melB2VURLMmJKTHNOblAzdXlTSnIwZWVqeExFOERZTjNLX25yRXoxdjlOSlhYalJCelZHcGZHOWFBQmlrWVkzRnF5Um9ILXVleUR1b01BUmZqS3hEeExrNl9QUDA?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTGQ5NlFONGhBX1hJbThGbXBjUkdKS2JWU2lTWEtWVUs2OEdSMGlxM1NCSDloLUt1Wk1zYXZoQ0RwajhqSS0wXzNqT1VQLXJBZTN5UjZNQ3IxejhkUFJZZHBveV9lOWhWeGxub0lyVTBiSGxIZlpqcUJ6b3NVYlhMcllFeHBodXpmY2R1S0dxMldtUlJHMGl5OG1NQ2NMaG81azdfRTZmY2E5cDFHLWRkdDR4Nm5BaHZwckVaNk80WXlaVEFJb0lMUW1VZUU1QkdTbXNHb2RTTnV3UWpSOWN0TzdXTEIwbWJ2Q1E?oc=5"
    },
    {
     "d": "2026-10-22",
@@ -526,17 +526,17 @@
    },
    {
     "d": "2026-10-22",
+    "h": "14:08",
+    "t": "Como - Sassuolo Video correlati: Live Calcio Aggiornamenti",
+    "s": "eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEF1RUdyREdoeXpXaWM4ZHRKdkxSVlh4cHFRVHRSZXppbG5mckN0RWNjSDNVSTBJSDBRZFBKcFM5OGp4eU5SSHZWcGM3c0JNOE85OWJ6ekUxZG9qTi00SWUtU3N4amk2T3lwZ1A2c0FQdG8wYXFnX2VYQVJBaXE2RzhJSWUwTlE3RDFPbUdCd0V2MnVCc2NVTw?oc=5"
+   },
+   {
+    "d": "2026-10-22",
     "h": "13:07",
     "t": "Champions League 2026/27: le vittorie di Inter e Como in 10 foto",
     "s": "LaPresse",
     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTFXYWY0NEctQTVoR3FIcHY0TGdWR0N3RUVybmhzMm0xMDcxZWZoZDVOZEdyZFRlVjdNSW5IWFlsZ0dwZlcxV0ZPbnY2ZmgyQ1FmLTRNQXJNRnpOZlNhYkZaRldSeEpwZ1VKUC1iaU85ZEFqYzAxZm85Y29ZN0RQelV1X25hXzNySDE2V3JhaDVBVk41NzRjZHNPVHdNbWtpLWNhZHRqbHpNQQ?oc=5"
-   },
-   {
-    "d": "2026-10-22",
-    "h": "12:29",
-    "t": "Como da sogno in Champions: Manchester United ko e i premi UEFA volano",
-    "s": "Calcio e Finanza",
-    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHhDQzFEb2hTbGIwSTlPSGVmVG96ekV4S0FMZExzbVQzaURkYV9QZnlydGYyTnd0UnRSR1NpVUJuOFJ1TkI4bW9VcEJzc1JzOE9Ed2VhbTJlQUlnVXNmU1I0dm03MTE3dm50cmxtZWtvbmRjYlJsSGtEY0tIVUw4dzFfWVhsZw?oc=5"
    }
   ]
  },
@@ -941,7 +941,7 @@
    "2": 18
   }
  },
- "updated": "2026-10-22T21:50:36+00:00",
+ "updated": "2026-10-22T22:15:17+00:00",
  "log": [
   "classifica milan 4 15",
   "classifica como 5 14",
