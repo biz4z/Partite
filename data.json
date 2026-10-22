@@ -36,17 +36,17 @@
    }
   },
   "milan_eu": {
-   "pos": 16,
+   "pos": 19,
    "pts": 3,
    "g": 2,
    "up": {
     "n": "Crystal Palace",
-    "pos": 15,
+    "pos": 18,
     "pts": 3
    },
    "dn": {
     "n": "Jagiellonia Bialystok",
-    "pos": 17,
+    "pos": 20,
     "pts": 3
    }
   },
@@ -82,233 +82,8 @@
   }
  },
  "cantu": {
-  "games": [
-   {
-    "date": "2026-09-26",
-    "time": "20:00",
-    "home": "Venezia",
-    "away": "Cantù",
-    "score": "85-73"
-   },
-   {
-    "date": "2026-10-05",
-    "time": "20:00",
-    "home": "Cantù",
-    "away": "Udine",
-    "score": "84-85"
-   },
-   {
-    "date": "2026-10-11",
-    "time": "17:00",
-    "home": "Cantù",
-    "away": "Napoli",
-    "score": "80-99"
-   },
-   {
-    "date": "2026-10-18",
-    "time": "18:00",
-    "home": "Trieste",
-    "away": "Cantù",
-    "score": "92-72"
-   },
-   {
-    "date": "2026-10-25",
-    "time": "18:30",
-    "home": "Reggio Emilia",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-11-02",
-    "time": "20:30",
-    "home": "Cantù",
-    "away": "Olimpia Milano",
-    "score": ""
-   },
-   {
-    "date": "2026-11-08",
-    "time": "16:00",
-    "home": "Maxima Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-11-15",
-    "time": "17:30",
-    "home": "Cantù",
-    "away": "Tortona",
-    "score": ""
-   },
-   {
-    "date": "2026-11-22",
-    "time": "17:30",
-    "home": "Scafati",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-06",
-    "time": "16:00",
-    "home": "Cantù",
-    "away": "Varese",
-    "score": ""
-   },
-   {
-    "date": "2026-12-13",
-    "time": "",
-    "home": "Verona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-20",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trento",
-    "score": ""
-   },
-   {
-    "date": "2026-12-27",
-    "time": "",
-    "home": "BC Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-03",
-    "time": "",
-    "home": "Cantù",
-    "away": "Treviso",
-    "score": ""
-   },
-   {
-    "date": "2027-01-10",
-    "time": "",
-    "home": "Virtus Bologna",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-17",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trieste",
-    "score": ""
-   },
-   {
-    "date": "2027-01-24",
-    "time": "",
-    "home": "Udine",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-31",
-    "time": "",
-    "home": "Cantù",
-    "away": "Verona",
-    "score": ""
-   },
-   {
-    "date": "2027-02-07",
-    "time": "",
-    "home": "Varese",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-02-14",
-    "time": "",
-    "home": "Cantù",
-    "away": "BC Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-07",
-    "time": "",
-    "home": "Cantù",
-    "away": "Maxima Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-14",
-    "time": "",
-    "home": "Treviso",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-03-21",
-    "time": "",
-    "home": "Cantù",
-    "away": "Scafati",
-    "score": ""
-   },
-   {
-    "date": "2027-03-27",
-    "time": "",
-    "home": "Trento",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-04",
-    "time": "",
-    "home": "Cantù",
-    "away": "Reggio Emilia",
-    "score": ""
-   },
-   {
-    "date": "2027-04-11",
-    "time": "",
-    "home": "Tortona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-18",
-    "time": "",
-    "home": "Cantù",
-    "away": "Virtus Bologna",
-    "score": ""
-   },
-   {
-    "date": "2027-04-25",
-    "time": "",
-    "home": "Olimpia Milano",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-05-02",
-    "time": "",
-    "home": "Cantù",
-    "away": "Venezia",
-    "score": ""
-   },
-   {
-    "date": "2027-05-09",
-    "time": "",
-    "home": "Napoli",
-    "away": "Cantù",
-    "score": ""
-   }
-  ],
-  "standing": {
-   "pos": 15,
-   "pts": 0,
-   "g": 4,
-   "up": {
-    "n": "Tortona",
-    "pos": 14,
-    "pts": 2
-   },
-   "dn": {
-    "n": "Scafati",
-    "pos": 16,
-    "pts": 0
-   }
-  }
+  "games": [],
+  "standing": null
  },
  "news": {
   "milan": [
@@ -367,6 +142,34 @@
   "milan": [
    {
     "d": "2026-10-22",
+    "h": "20:38",
+    "t": "+!Ecco come Milan Bournemouth In 𝔻𝕚𝕣𝕖𝕥𝕥𝕒 streaming Gratis (𝗖𝗮𝗹𝗰𝗶𝗼) TV",
+    "s": "北陸地方整備局",
+    "u": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNUWZ5bkFlYWJaLUJmSDdrV3hua09ocXk0ZDJjMTZPdGNVckxhNVZ3OGNwTXlJTXFaZ2VKdWo5OG5hYjEzODhPU0dfc24yQ2d0bkFlSGpmRGpKem95WUFDa3hNekxBLV94d0JSMmVfR2hnelNtSDNwek1fcUl6N05DLUVmRm51UjI4c2F0MmR1c1lja3RacTk1VjJHVFk2Z0dKRnFZMXZfYlV3aTRIcXRpT0lHRk1uSVQ3dERiYzZNQUJWaGVGdm44MzB0dmxVOWJPYVQxd25FWjNwUzkwSFBkOUlzZlVkR1FPaWYzcVFoWHU3OVNvVDNnWEdKVWcyQnRVSFFBRFlmeF9mSUx2VXZ5dnlERlRpLXlwMzlxaXdGRWktSFp3Q2tfWkNCbldGZkVpYmNXYmpkcFFZSGFubVdCSXhqNjh6UWMyLXljT2ZFSEpHNnBRTk9kbFhLQ1NRQmlZUXVkajlPZWFTaU5QbHJNOFB5MDFlYy1SOFdKY2hoak9mZw?oc=5"
+   },
+   {
+    "d": "2026-10-22",
+    "h": "20:28",
+    "t": "+[DIRETTA]**Bournemouth - Milan In Diretta Streaming Calcio TV 23 ottobre 2026",
+    "s": "北陸地方整備局",
+    "u": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPakFDNWhyY3dvSWc4c1Nlb0RDZ2RTUGdBNmg2a0FNbUxlcU9Xa2U3VldUX0xQcTQyQTVNczVfQXhZdjBENG1JVFhRUUZ4ZnllNWFKRlY0RjdzQXZYNU5HRHVmb1RyR1dLekpIbFM5NXVNUXVRM2otTUdLZUlBZTUya0Q1Z1hIWkc3OUNKTXI0TjQyQlpGYWtpVlZVMG5Qc1VRQVFDSjFOaHRTZkQ5N2N0RUY0S3RWNTdTdmlnYUt6TkhkcWphekpiT29qalBFenEwQzZrcTlrTEVoS3lDb1RZdTF5anpja0w5V0xCNWFVV2RFd3ViY0QtRGIwMG5SS0pFX1Nkd0h5Q2NQaEU0c1BvM2lmRVhvS01aaU9qZkZmQk1wWF84?oc=5"
+   },
+   {
+    "d": "2026-10-22",
+    "h": "20:25",
+    "t": "【Calcio!】AC Milan vs Bournemouth - Diretta streaming gratuita",
+    "s": "北陸地方整備局",
+    "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcko3bnRrYlpKTmNrUDYxV0RkdVdwY2pCNkF5YXFCNENXM1lJaF9vZ1VOcmpLdlFuUHVKWFVGbzZDTE01N2V0aVdqa2ZSZkdOaTY2NG9fSjhRN2hZZHM2ZW9rSnZXYkl3ekU1QTZ5SVdxTVRjNEV0bDNFNWczaUVHbEt4RFRHLVhsQ2RocEtsQjExRlFCekJzOTh6SE9SbkRrQW1GS1lPVE1qU3l5bEVOanIzQk9hX0tfZjU3WGgwT2NxM0xzSU9VVUhrb1dWZ052aVdabWRWVjZqd0FSNVBqcWpoZ25oRzVJTGt2MEZ0RQ?oc=5"
+   },
+   {
+    "d": "2026-10-22",
+    "h": "19:55",
+    "t": "Bournemouth-Milan, le ufficiali: Cisse centravanti, c'è Di Gregorio",
+    "s": "Eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQakFkMWVUR1c2Q2ljS001cnZXZEtsRC15dHAzZUZVbzJxYmJabENCNTcyZWRsSENnSHdid1NlNzI0ZkxCRTMwaXU1dnQtc0FLUVBJQTJYZDh4TzBRbFRwTWx0eTZuQXpic294b3dvek16OUQtNkJsby1mbHdPT0paelg1Xy1oVk9DQnF6eXFGVUtueFNwRkFkcXFMVVpuV0lxQkF3ekt3alZaZEJMRWVYSXBZcVpEQnlLMEl1YVZBS0h6VFNnaW5wRHpuWWhrRnYzOTJvak03RHB0SzRlczhSN1U4V192a25jOWFteWpCZnRpZ3VZVjFzQkJ0ZWlyQmJlVjhIaF9QUWtYQ2ZmSjZzNXNoS3lEekhUVzZUVTNSM3lybTUydnJLbkRXNDRkTVpQVGRkVl9ScDlZaDV4TEFqM1ZFZw?oc=5"
+   },
+   {
+    "d": "2026-10-22",
     "h": "19:54",
     "t": "Bournemouth-Milan, dove vedere la partita di Europa League in tv e streaming",
     "s": "Sky Sport",
@@ -381,13 +184,6 @@
    },
    {
     "d": "2026-10-22",
-    "h": "17:45",
-    "t": "Bournemouth Milan streaming e diretta tv: dove vedere la partita di Europa League",
-    "s": "TPI - The Post Internazionale",
-    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU5nTk1laUt2Sk4tQjNUSDktYXFEN1NkMDBTYXA1VzBfeXoxbXo3TmhZR0FTWHgxb3ZuUGdURnFEZWhoZERFdk0yVS0wZ0NjMk83cjdZTlo1YndMVUYwZFBKbDBGbnktcVhMTVR2UkFTbmcxV3ZHNU5QTkRsZ2lMVVNtY2pCM09mOUZtTWF6LTZ6eFh3S2FvZm9DcFk4SU5peG15UHdyS21aNW850gGsAUFVX3lxTFBlTmdOTWVpS3ZKTi1CM1RIOS1hcUQ3U2QwMFNhcDVXMF95ejFtejdOaFlHQVNYeDFvdm5QZ1RGcURlaGhkREV2TTJVLTBnQ2MyTzdyN1lOWjVid0xVRjBkUEpsMEZueS1xWExNVHZSQVNuZzFXdkc1TlBORGxnaUxVU21jakIzT2Y5Rm1NYXotNnp4WHdLYW9mb0NwWThJTml4bXlQd3JLbVo1bzk?oc=5"
-   },
-   {
-    "d": "2026-10-22",
     "h": "17:31",
     "t": "L'Europa League riparte con il terzo turno: i premi UEFA per Juventus e Milan",
     "s": "Calcio e Finanza",
@@ -399,27 +195,6 @@
     "t": "Milan chiede un tetto ai prezzi per i settori ospiti",
     "s": "Cronachedi",
     "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdFl5WFhaQjNzb1ZkR09FLTFzX3dQM2stdUtKcGFlbU5HaXQ5cjVzd0lNTnJpYnZONlRWWVQ3YWNOcm4yR0FWd3FaXzZHT2I3TmxxSVRpUmlUY0s2XzZack00dWg0bGN0Mm9pY3BTeVBXT0VTTE45YmF4Mm8tNVZoSw?oc=5"
-   },
-   {
-    "d": "2026-10-22",
-    "h": "16:36",
-    "t": "Milan: nessuna lesione per Ramos, risonanza negativa",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbkw4bHVZbkxQVXAzWlJlVTdDc2ZGMWdGbHRRa1BfQ2hocllwdG9oeVJlQmJCZ19SSlZWaGlIMkF0U085YnFyUk9rNHRwU1R6cnJIclc2R1g4Q0lXZFpQLUw4blg0VG40SV9tMlJkUjBuV1J4a29kdmlkTlVxalQzeWFiUHMtWEVrQmE4bG9YR29ibC1qMkEyemZEaW5QV0lDMVFVaXJXWWhKSHBrRXVqd2xEWl8waVRPQ1dkYmc5UFB6VGF6TGFBcHdHTGVsVGZkcU9zWVZ1N2NqLS1mYVFrLWs0RdIB6AFBVV95cUxNYTFiUm1QWnFsWmVkeVNDUHBzT3ZuS2hqS0R3RjVtRXF5TVVxZ0d3VWRJXzdabDIzWXRkb0tIYjdZWVY3YkNlU2ZpNklsbzhVRjYzUGtOQXJ3d2xxUlR6OUtzUDd1ZnZJNjgzeEVOQllkSlV5dlY3U2hYS3BzQ0VEWEtITi1mV01NcFZJczU4WGM5VE91X0tjUUhNbnBITms1TG5iMzlPYzhGMktkSlc2Vi1OVWJ1NUoxUmVTMTRCRHFhRXF1clY0Vm04TDh1NEhvQjMzSnNsYmNaNXlCTVdlYVNEZWI1RXJX?oc=5"
-   },
-   {
-    "d": "2026-10-22",
-    "h": "16:35",
-    "t": "Udinese-Milan: probabili formazioni, statistiche quando e dove vederla",
-    "s": "Eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTBWcm82YkdHSVdTaHM0bEJMbV9iMldNNzdqWHBMSENGMVJ0c3MzX1BJMkhLQUpFU3d5dENndU8za3ZZN1ZaYVZucmdnQThfZTJ5Y0daVm1YZWpxX3B5Q0NQU0tFbGtFaS0xWlp6VEZ0WldXRUlVTEJiT2M4TzhkcEMtZE1ycFRPc2pkYUZSUFNVUDNnaElQdmh3NWpZTHN4TFIyakxBTTgwTXN1VUhHRFpHb211ZmI0ZVE5cHpOYVNZaTBnS0xXUGlZNVdYWnJJMFlHWTFXV1I0UQ?oc=5"
-   },
-   {
-    "d": "2026-10-22",
-    "h": "16:27",
-    "t": "Milan, per Chukwueze rischio lungo stop. Sospiro di sollievo per Gonçalo Ramos",
-    "s": "Sportmediaset",
-    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWFRmSXdYbzhONU43WEgxcE1wX3Nrd2gzMHV1YU44WWN3cnFTeXFuZG9ITW81Nm5qNkdKMVVUVUNyWVN3NXBRdk5VX0luSHRWTlAtNWhEdGotS0JCcWk2MS1nWU1vLS1Tci1CZ0lDZ0h2YVllZ043bzI1SnBUNnNUaE5NT2cxQUdaQV9IdGc4YVAyRFJsbHRWR0gyZ1hRcDlDN3l2RjhvVWZfNVM3VGl6Q29NaGZJazNlVDhpVG95TEIzZ195bnZyYTR5Z0lpcFgwaVVDODlrejRlMnls?oc=5"
    }
   ],
   "cantu": [
@@ -439,10 +214,17 @@
    },
    {
     "d": "2026-10-22",
-    "h": "09:35",
-    "t": "UNA Hotels Reggio Emilia vs Acqua S.Bernardo Cantù 5° Giornata",
+    "h": "11:22",
+    "t": "Giofrè ha il via libera per rafforzare Cantù",
+    "s": "Superbasket.it",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTEJFQ205U2ljVTNRX0RYQXF4RmRYR0V4OU1xVzZLR0J5dEFvZEtIMkRkaThtYk5WN0VVSmNZbnNPbGliMFJyRWl5ZjVlREI0SHhOLWNyTmNJcUxRYnRZdC1BVWZ2MFRWbkNoc3VmemxVTVpkQ2F0SDBnaVdxbkl5ZFZqYWNOTzZM?oc=5"
+   },
+   {
+    "d": "2026-10-22",
+    "h": "09:36",
+    "t": "Migliori UNA Hotels Reggio Emilia vs Acqua S.Bernardo Cantù 5° Giornata",
     "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc3NJM2YzWEZicHI5dlRVRGlmSXVQdmM2NTNyV2RCN3puVTlhNzJMZURjeUlocUFkdFdnQnpnNHRDcF9oUDVIYnl1dVo3a2M5MHlFalNzNk9CVHk3NHVNZ0VaRFlNOGxGU3BzQnpKMFlDZ2M0Ml91OTJwT3hlX2xhaFc2M1FZZTdVMTdHRg?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQakpvUk55TUp4RUQzelBIa2FscDVGaWUzRmNXMEJNVHBRUjZmN0U2WS1nSVRJaWxIQ1NpLXd6enVLM09TQVBnLV9od2FnQnU2UjRvNU5EQjBveHF4ZThTQXRSa0h1ZUZycGd4ZTFPUHRFN3IwaF9OUVc4UV9kWEluQ1FDVE53VnZxcE9ZQk4ySDAyUQ?oc=5"
    },
    {
     "d": "2026-10-22",
@@ -450,13 +232,6 @@
     "t": "Pallacanestro Cantù, nuove risorse per il mercato per superare la crisi",
     "s": "Pianeta Basket",
     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRV9nWGZHQ244bXZhUnJUZDk2RHpyZkVxVkJmb254SzBaeFlrSmpOdm1WcU5VTnMtdkRJSGE5RnJ6NFZacGZrNS1jNUM1ZGY0V1k4NWpnZWZpSjFHbktSTWVpR2ZpWVlJMnJxd3ZMcVBkT2k0TEc2aFhhR3lMamhGRm91b2hGSzN0ZVkwcjV1MjFyUXZOS1NCVWVDNE5EWHdhb2FldktqY09kWlgz?oc=5"
-   },
-   {
-    "d": "2026-10-22",
-    "h": "08:10",
-    "t": "Cantù pronta a intervenire ancora sul mercato: Giofrè ha il via libera",
-    "s": "Sportando",
-    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS0VxV3J6Ungzc0xqWEd2RXNIckc4ZTJrWE5vaDVQcEFEM3ZiT2c3Q1NQbEozMVdzVVJtVUNuUnQwcmlLSnJFejQzUEdoZk1VbEZiZzcyZHlmSktUdGh1dWZvelVnX21TbVpBdHFiTUFpSldBVTNJMlZtVU0tN1JYR3hTMThrOGVOSVNYOHZwckd1ZmUyUjZFcFRlRHpnZW0x?oc=5"
    },
    {
     "d": "2026-10-21",
@@ -497,10 +272,10 @@
    },
    {
     "d": "2026-10-22",
-    "h": "15:30",
-    "t": "Il Como non cambia mai idea di calcio | i numeri dietro la storica vittoria contro il Manchester United",
-    "s": "Zazoom Social News",
-    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQlllNWVkZVdOcW44a3dlajBOd1p6TmpNc1lVbEloQjMzSGJFUFRGZ0M0YUlJbFY5aTlzS3gxaEZ6NEEwR3lHT3Rza3VOYUdIeUROeFVTNHJDQ18yTTBQeWZrOG9iMVQwbTg2RTJBVDlSYkNtaHJRekVsOC0wQXhTc0g0RXMtLXNWQUVvWGtuOS1TbzRpc1lMVWFKTlRGRHI4RTBZSUx2NUFPczVxbW1hVEVzSkt0WXlwTkxDLWNYSVo4a0cxVTVUOTNvR3A5dzUyQmhVaWtDZm5PcW5o?oc=5"
+    "h": "15:16",
+    "t": "Il Como non cambia mai idea di calcio: i numeri dietro la storica vittoria contro il Manchester United",
+    "s": "Il Fatto Quotidiano",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX3NMOXdiRWcycDZ1OFVIUjcyb2lhemc4cUhkamJaV1lkY1Rrd3VGU2M0U0tWWlV4U2FfaWNVcTE1dFBLemI3eU5BbUNxTTFtVEszcDN4ZWtkcG5vakRpMnVqRjBFNFBYdDM1UGpnUS1NRm5kcFhtcEk4NmhveHpaTTV0RzdaZ1RybGh3Z2c1clpXd1dWZkQ1OFg1WVlTV2t1bW8zSzJ0YkZwazctWnNya2NMR2hXSjZjMVhGTnNB?oc=5"
    },
    {
     "d": "2026-10-22",
@@ -525,17 +300,17 @@
    },
    {
     "d": "2026-10-22",
-    "h": "12:04",
-    "t": "Como-United 4-1, 5 verità: i lariani corrono più di una squadra di Premier. Paz ormai fuoriclasse",
-    "s": "Eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPX2VtbmVtQ0I4NGNXOTl0X3BXMmMyS3VsUGN6NGpuTHlLVU9Xc3o5SHRKelBObS1SVjYzVzRmTDF6R2ZqYWdXbk9yc1dGUkVEMzJqREJaMnhjbzA3c0JHVUxuanlSQzRxN0tqQ2ZOWFZfZGktVGZqRHB1akVXODhNNjRiTFRKSXlyTjgxUGNBb1hrNW9lZ0lHVWg5V192WGowSWJBcC1vdW92UVdTUTNwUVI3YmdYNHo1V1pFUFRyV3l5VUI4MVRaNlY4WVR6V2R2LXV2OGdMcmltaGdIcEtYZlQwWGt4Rnc4c3Jmb19WMmo4TG1EbjI2Uk9Sb2JoNk1hc0hUQVk0R1JjQkFCMjk3RlVBTTBmcmZMUEFxSmNqSXZidzR4WF80R1FoR2xFUlZQeGlGYjdVUHkxOEQ1TnNOYVFOR1F2a1RJQUFqVy13?oc=5"
-   },
-   {
-    "d": "2026-10-22",
     "h": "11:02",
     "t": "Champions, il Como ha travolto il Manchester United 4-1",
     "s": "Cronachedi",
     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1l1aTNVVUptMFlpVU9UWmM1M3FCUlU4MDBzQzFjc2FOWkIyZmtiTkZRQTFBcHNULVdQOW1UUEdocVNQRXVZQ2FxT0lYVHFhMkdCOVMwaXhtVGVKc2tRRnlaRGFYRENtTklZeS1lWWJWaG0wSm1HSlFIa09ORjFzdTg0WQ?oc=5"
+   },
+   {
+    "d": "2026-10-22",
+    "h": "09:50",
+    "t": "Como, Fabregas e il 4-1 allo United: l’analisi di Garlando sulla Gazzetta",
+    "s": "calciowebpuglia",
+    "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPVGx3Z25Ja00yM3J5MWFxT280WnB2eWc3LUhFWENBY3NJbExROENBSEw1RERxUzlMemJoUmRrVFZ4VklyNzhyQlQ1bm5TeDY4RGFxYjlmNWg?oc=5"
    }
   ]
  },
@@ -921,8 +696,8 @@
  "odds": {
   "2026-10-22|Bournemouth – Milan": {
    "1": 53,
-   "X": 24,
-   "2": 23
+   "X": 25,
+   "2": 22
   },
   "2026-10-24|Como – Sassuolo": {
    "1": 61,
@@ -945,16 +720,16 @@
    "2": 18
   }
  },
- "updated": "2026-10-22T18:06:52+00:00",
+ "updated": "2026-10-22T18:40:25+00:00",
  "log": [
   "non finita Bournemouth – Milan STATUS_SCHEDULED",
   "classifica milan 4 15",
   "classifica como 5 14",
-  "classifica milan_eu 16 3",
+  "classifica milan_eu 19 3",
   "classifica como_eu 9 6",
-  "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 4, 'up': {'n': 'Tortona', 'pos': 14, 'pts': 2}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
+  "cantu 0 partite None",
   "notizie milan 3",
-  "notizie cantu 3",
+  "notizie cantu 0",
   "notizie como 3",
   "stampa milan 8",
   "stampa cantu 8",
