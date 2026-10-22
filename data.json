@@ -2,7 +2,8 @@
  "results": {
   "2026-10-18|como": "1-3",
   "2026-10-18|milan": "3-2",
-  "2026-10-21|como": "4-1"
+  "2026-10-21|como": "4-1",
+  "2026-10-22|milan": "3-0"
  },
  "standings": {
   "milan": {
@@ -36,17 +37,17 @@
    }
   },
   "milan_eu": {
-   "pos": 19,
+   "pos": 24,
    "pts": 3,
-   "g": 2,
+   "g": 3,
    "up": {
-    "n": "Crystal Palace",
-    "pos": 18,
+    "n": "TSG Hoffenheim",
+    "pos": 23,
     "pts": 3
    },
    "dn": {
-    "n": "Jagiellonia Bialystok",
-    "pos": 20,
+    "n": "Celta Vigo",
+    "pos": 25,
     "pts": 3
    }
   },
@@ -367,6 +368,34 @@
   "milan": [
    {
     "d": "2026-10-22",
+    "h": "23:14",
+    "t": "La follia di Maignan condanna il Milan",
+    "s": "VAVEL Italia",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ1p6MHpBODlPRG1mRkFHQzNleHRGZHFQQV9UZjV3NzFfRE80Q2k3LU9lcnlHV1I0TUhEM1o0MUFfeXBpcHlXS2NuWTNpcWR0ektEVEFRTTEwQVhUMmY2MUF1WWQxemNFRDBxMDVGREpDZHBBckxtdU01ZXJQWDdnVGNJNktmWldia0djeERmMGE3TTNvX3lqa2x4a3lteXJKYXRvWHo4djAtYlJLeWNfWkJkS1dLUzAwOUJF?oc=5"
+   },
+   {
+    "d": "2026-10-22",
+    "h": "23:07",
+    "t": "Europa League, il Milan affonda a Bournemouth: gli inglesi vincono 3-0, rossoneri in 10 dal primo tempo",
+    "s": "il Giornale",
+    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbVVGOE8xSVJ6ejVCaGpmdzZ1LThVdTNHYzBCS1VkbEMyZFFYUFFRczcyUllKZW50ejhrVW4xUnFHZlA4MEtCWm9QUUZWZ2s5Y0NfYjFJQU40dzBQUUZJdUJzODVTVDkwa3BmRF9CRFFWR0U2QVFqTGJlbmJvTHpqR1gtRnFxczlncElUejlsaXN4QlozZjlqekp4LUNpN2U3YWRBNmwzYm1ORDAtY2R1UW1vYlF1YmppOWhNLTVfSVBjNmlPamR5WXAwOWZEaEJhRWVGWVBn?oc=5"
+   },
+   {
+    "d": "2026-10-22",
+    "h": "23:02",
+    "t": "Milan, buone notizie dall'infermeria per Ramos ma non per Chukwueze: si prevede lungo stop",
+    "s": "Diretta",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcl96ZTladUVNSW4zTk5ETGpNbUJLdktXZUNfVk9uaUtZWGJrZHg3ajdjX1dYdXdfbmJvR2NGSDQ5WjlUMWVsZENOY3d5RXd6c2ZtOVRQb2hNRUdVWGRKR2YxQTVRNkJJNkxnTFNzYi05REl1NV8yVDV4UkZsSEV0bnVwTk45ekc0cUxKT2FJdHdzM2x0SUdQbjVJUDltMUZFM2lyY2dfaUxPcS1FaU9HZDY0VWtmeEpSRThhUzdmaUtwa2JH?oc=5"
+   },
+   {
+    "d": "2026-10-22",
+    "h": "22:57",
+    "t": "Europa League: Bournemouth-Milan 3-0",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlpqZUQwb3BqWWNDYlRCSlo5NVRyNERBc0gtLXRkdVM0SUllZ1puLXY4QndXTmZjbXJUQk1LTFMxVVM0TUYyRVRKOVRNWWFuWkdVQ2lJUmVocjdOVUhBQWdFX2dCWjgyZGVTWXBqVUZVcjB0TEVtLU9oRWkyZHR6Rjdobml1TzlxS0ZMNkFHTlZ1QTNyWDkxU3ZvOHBFNzJrU3QxRnRPc25oUkN0dnJjSmw1X3pMa2kza2xBaFh4TFZrbHNKTVlMdURCcWQ2c0HSAdQBQVVfeXFMTXFHUU0yVzJPb1RyS3ZfUjNLSWtXZzh1TE91MmxwN25GR1V0RVhwWU1vZ3JzZ1NXNEhJVGx5QldIVVAxSmpPOXpPXzJWOF9RRkdkRlRoNHp3bHFYRHRWUHVTMjAwSFVFc1NCM1R3YVV5RHRUNG02N0Y4bjNGSjNRQ3ZSajFXSjhoMU1CLUY3dW94d3ZWTEhkR2lsTm1yYWk4QXcxZmlodkhNdzJ6NDlEaEVrS0RUa2dVeGtraGYyaXBTRW90MGdmX3ByMHpJMzA1d0UwYWg?oc=5"
+   },
+   {
+    "d": "2026-10-22",
     "h": "22:28",
     "t": "Bournemouth-Milan moviola: Maignan espulso, il tocco di mano di De Winter che ha provocato il rigore. Cosa è successo",
     "s": "Il Messaggero",
@@ -392,34 +421,6 @@
     "t": "[DIRETTA]LIVE!] Bournemouth - Milan Calcio Diretta tv e streaming gratis 22 ottobre 2026",
     "s": "北陸地方整備局",
     "u": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPVFJpMVJGUGl6QjVVS2pyci1LV3BRVF9kY01oaGhhem95WGI2cUlySTNmZFlmR0R0aUlLQkV6X2JpN0stOVJmTDZZaXdHdTFuZmV5TGRBT21UREFCWENhbU5KakNMSl9YNkI2MVgxLTdjQjBlMS1wT1F2LWU4YXA3bElwNElPYTlVb19oYmpQdDEzNlNJNFJ0VjRjNFJRcWE2VWF3U2RwX1hwRFZtaWdjTUEyYnc4Sl9wdWpnZi0xYTlRSHJydExwRDVQRWlGSWxHR1RtLXpFRUZ1eEtEenF1YjJTVnlZLW9KV0tpWTlnR0hyVmMxekV0Y2lkdzNoM290dFI3dEVPdlFadXdNSzBhN2xNc05peG0xQjlV?oc=5"
-   },
-   {
-    "d": "2026-10-22",
-    "h": "21:57",
-    "t": "Follia di Maignan, colpo al volto ad un avversario: espulsione e Milan sotto 2-0 col Bournemouth",
-    "s": "CalcioNapoli24",
-    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU3lyaEZfMnItR29HZ0oyQWlzQjV2QUs5QVpwZnpTYk9ETnRpczRlUUNwZUlWNXItcTE2TnBRZENjelhMTS01b0RrSjJtV2VEUmZWcExaVFM1OVJrc0FCOGdwSHpzcWRfVC1fN0k1TDJadUhRaUZKQW5OWkQxVHUxSzVRNGJOaEVlRFV4NTg3TXNMajkzZ0R0bEM5ZEVKbHhEUTEzQmJic2JUMGJLQ3NITGRRV3cwRXNYMkducFBvV2pJVFU?oc=5"
-   },
-   {
-    "d": "2026-10-22",
-    "h": "21:56",
-    "t": "Maignan perde la testa in Bournemouth-Milan: mani in faccia all’avversario, rosso e rigore",
-    "s": "Fanpage",
-    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbk1fZGJDVkYtY2ZrQUNFa1dQUzVodkx0ZGU4eXljYlFoU0EwSjRLZkhWMzUwc1FmUjMwRjhiS0ZYQ2gyemlFRm0tNWJ0QnYxeHJpY2kyOE8wczVWUzdVdUsxazM2NGRhdHRrYTJDOHVLQ29rRXlIMFBNTGxsbzZwRFFZUW9sUGpwalFNcFlFWm84ckh0OEZnX3l4NURvYVZNak5TdkVldWNPSHFKX0RXRWlGR0hLaVR0V0FnelQtaXNHdw?oc=5"
-   },
-   {
-    "d": "2026-10-22",
-    "h": "21:50",
-    "t": "Bournemouth-Milan, follia Maignan al 28’, rossoneri nei guai",
-    "s": "Adnkronos",
-    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEl0bFR6RkdIaHM1VXRtTVR3Z3dDZk5QTzA0RmRFNjFKSnNXdlQ5d280ZmFwbXNEOXpHenZ0ckg1d205UERrTW5pVGJKUk5ONVJaZGVtUXM4NTBRS2RsZ3p0Z2RSWERNME8zeWc5QjdrMkxvbVZXZUhVVG1hbHdOYTRRZFRaY1dJTjRvYnZ5TThwX2E2UzkzQmJB?oc=5"
-   },
-   {
-    "d": "2026-10-22",
-    "h": "21:47",
-    "t": "Milan, Maignan espulso: cosa ha fatto e perché l’arbitro ha concesso il rigore al Bournemouth",
-    "s": "la Repubblica",
-    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRm95WjBVbFhZUmRvckNuS2xTZC1aeGRqV3RuT2Nwa1k1NG1wUktTcGE2TTFpZW9vSEU2dnBoM1JkbGt3YW5Hc2tqZGNxeldJOWR2VUxVYUthRXVfbDlOTTJITU9JR0NWQ2JWRzJUWGt5SXRjT2hVdmtlbmZsU2hMNFBWVDdFMmtNWEpqNHdEbnE1Rng2RmtfZ3F3U1BFSzA2aURQWDFpUzlHZEFyU01XctIBtgFBVV95cUxQTlJXSlp5Ni0xUmpEMWVLTkZYX0t1cnU5TlFGcUZ1d1VHV3g3QWoyUlQ4ZzROcHBubkZlLU5UemRGbGJRNlFqZnpVeU9RTzhpeURCOERzajNJNTc2T0p6ckhwVmZZOEF5QVRCd19DQS1vd0t4ZFVFVkRBdXJlc0FOSVlZenNNd2c2VDJnNXR4cHlRaXlpWjFVMUxkX3doTXB2S2dZZU9LYXZ5eENZenFqQkRCV0p6dw?oc=5"
    }
   ],
   "cantu": [
@@ -483,17 +484,17 @@
   "como": [
    {
     "d": "2026-10-22",
+    "h": "22:59",
+    "t": "Probabile Formazione Como - Sassuolo - 8° Giornata",
+    "s": "La Gazzetta dello Sport",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uMmQxcHAycTU4UnRCMWhVUWFFYVlUSzRHOTI4SDNMLUp1WHFkSVVNLU04ZlNOOFdtcGoydlVGREo1Nm54SHdSTDJCVm9kOFR3OTExbXltYmRCZDVxLVU3dFlyQ1J1SWlZekpkZ0hTVQ?oc=5"
+   },
+   {
+    "d": "2026-10-22",
     "h": "21:00",
     "t": "Sassuolo Calcio news oggi: Van Der Brempt si presenta, Aquilani pensa al Como",
     "s": "Sassuolo News",
     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNUV6VEI1Zi1xVUxRMWV1Nmd1V0hGeVpTWXl0VWlMdC1MRDNoTzlFR05YMlhTRzNTNEVPdm5uX1Z3aVFfUE5jZFFyYTNzbXNfbWwxZkthcWh0Sjd3MXRna1ZoVkpMaFVCRFVXbm5zcjBaY3ZJZnZaU25jVnpPOVZSNjZXaDdIdHdmNDRIMGwxZWZqc2RjempucUUwaE40UUxRRnNnSmhZRWRqZkdlUkYzdFZGQzNSRl9XeXJ1NnBkakJRdVFkQmRNM3hn?oc=5"
-   },
-   {
-    "d": "2026-10-22",
-    "h": "19:58",
-    "t": "Probabile Formazione Como - Sassuolo - 8° Giornata",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uMmQxcHAycTU4UnRCMWhVUWFFYVlUSzRHOTI4SDNMLUp1WHFkSVVNLU04ZlNOOFdtcGoydlVGREo1Nm54SHdSTDJCVm9kOFR3OTExbXltYmRCZDVxLVU3dFlyQ1J1SWlZekpkZ0hTVQ?oc=5"
    },
    {
     "d": "2026-10-22",
@@ -919,20 +920,15 @@
   "cantu": "https://r2.thesportsdb.com/images/media/team/badge/vy599w1784567424.png/small"
  },
  "odds": {
-  "2026-10-22|Bournemouth – Milan": {
-   "1": 52,
-   "X": 25,
-   "2": 23
-  },
   "2026-10-24|Como – Sassuolo": {
    "1": 61,
    "X": 21,
    "2": 18
   },
   "2026-10-25|Udinese – Milan": {
-   "1": 18,
-   "X": 24,
-   "2": 58
+   "1": 20,
+   "X": 25,
+   "2": 56
   },
   "2026-10-27|Torino – Como": {
    "1": 20,
@@ -945,12 +941,12 @@
    "2": 18
   }
  },
- "updated": "2026-10-22T20:49:40+00:00",
+ "updated": "2026-10-22T21:17:26+00:00",
  "log": [
-  "non finita Bournemouth – Milan STATUS_IN_PROGRESS",
+  "risultato Bournemouth – Milan 3-0",
   "classifica milan 4 15",
   "classifica como 5 14",
-  "classifica milan_eu 19 3",
+  "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
   "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 4, 'up': {'n': 'Tortona', 'pos': 14, 'pts': 2}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
   "notizie milan 3",
@@ -963,6 +959,6 @@
   "calendario como 31 partite future",
   "ERR logo cantu HTTP Error 403: Forbidden",
   "loghi ['cantu', 'como', 'milan']",
-  "quote 5"
+  "quote 4"
  ]
 }

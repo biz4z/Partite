@@ -259,15 +259,10 @@ UID:efdded8fc7d866cc@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261022T210000
 DURATION:PT2H
-SUMMARY:⚽ Bournemouth – Milan
+SUMMARY:⚽ Bournemouth – Milan 3-0
 DESCRIPTION:UEFA Europa League · fase campionato 3ª giornata\nTV: Sky / 
- NOW\nhttps://biz4z.github.io/Partite/
+ NOW\nRisultato: 3-0\nhttps://biz4z.github.io/Partite/
 LOCATION:Sky / NOW
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Bournemouth – Milan tra 30 minuti · Sky / NOW
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ae68daf7ec4754f7@biz4z.github.io
