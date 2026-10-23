@@ -314,6 +314,11 @@
  "news": {
   "milan": [
    {
+    "d": "2026-10-23",
+    "t": "Comunicato Ufficiale: Cristiano Dotta",
+    "u": "https://www.acmilan.com/it/news/articoli/media/2026-10-23/comunicato-ufficiale-cristiano-dotta"
+   },
+   {
     "d": "2026-10-22",
     "t": "Rossoneri sconfitti a Bournemouth",
     "u": "https://www.acmilan.com/it/news/articoli/europa-league/2026-10-22/rossoneri-sconfitti-a-bournemouth"
@@ -322,11 +327,6 @@
     "d": "2026-10-22",
     "t": "Bournemouth-Milan: la presentazione",
     "u": "https://www.acmilan.com/it/news/articoli/europa-league/2026-10-22/bournemouth-milan-match-preview"
-   },
-   {
-    "d": "2026-10-21",
-    "t": "Amorim: \"A Bournemouth un esame importante\"",
-    "u": "https://www.acmilan.com/it/news/articoli/conferenza-stampa/2026-10-21/amorim-a-bournemouth-un-esame-importante"
    }
   ],
   "cantu": [
@@ -375,6 +375,13 @@
    },
    {
     "d": "2026-10-23",
+    "h": "13:24",
+    "t": "8. Giornata: Udinese Calcio - AC Milan - Diavoli in Paradiso - Forum | Sayfa 1",
+    "s": "Transfermarkt",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMV82T1ZRTU1xYnNhczAxWGtGS2ZIazNHeUhCUG5EYkpZTlVldFJzSlpncGUyNDBFVDNDTm9tYnNLdXVNSWl0WHF6S1Z3U19LUmdZNGJYWndJNkNsLUI5LW1zcDV2WXZidVFLYjRSMTdUaTBTSzB0dVFCNjJNRmhOdUgtS2FEblhsV292bFJzdWZ4ekdhdzFiNXhid2Zpd2s?oc=5"
+   },
+   {
+    "d": "2026-10-23",
     "h": "12:47",
     "t": "8. Giornata: Udinese Calcio - AC Milan - Diavoli in Paradiso - Forum | Page 1",
     "s": "Transfermarkt",
@@ -414,13 +421,6 @@
     "t": "Milan, Amorim sul rosso a Maignan: \"È stato spinto nettamente\"",
     "s": "Sportmediaset",
     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzBvYm9vcm5RNGFjZUN6TFpSOXVaZXVUYWNPazBfNDZzSnEtbWhDSGkzZkVkdVB0dWpRSXVEcVV4YkxhXzBzbG8tSDJiQVQyNjU2eGZObGRuSnNYMnhOQ0VCNU83ZGQ0MW1YRFlnRnFVYnZYLXI5amVpNktkb1hhQ1gyWVFYMHNRZjVvMXFlTkpubVFpaFhzVDZ4SnhsYnVHQTIyQkR6a21QTkJuM3FQTGJJdTgtckYxSzdZNmtQc2dmSmfSAXhBVV95cUxPaHVwQ05NeUh3dGhVQ09xbXZRXzhzVWJGVXpXYmFDNlh2M0dONEZSbXlyTEFkSVJ0cUVpaDFzaU91OXRmZGdRT0JZenRLTnE5c3VQRzJNZzdvZFFPSmhKdUNrbzdpampjSHdCdEh2T0NicmZ5VnBYMGI?oc=5"
-   },
-   {
-    "d": "2026-10-23",
-    "h": "07:45",
-    "t": "Bournemouth-Milan, le pagelle dei rossoneri: Tomori soffre, Moreira stenta",
-    "s": "Corriere dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSzQyYUk0NEdvbm84V1lvbWhOYmZkY0JuRkhrdGpDd2hWdDFIMFVkc29PV1BUb3N6dVVDejZzRkZpM1g5ZEVNbTRHZ0F4UHRpZ19HLVBOanB6djdrME95dlNsNV9peXNoeE4yaExMOEotUTN4TWJ6TXZHMHc5OWttcjlfeENZSDkxMlpoUVB6RlNWMmJ3N2lLSjlIVWZEZGxtOXhrRndZR1B1THpxQ2dTVmhoM21YWVlOcjdKcEZmNzNPa2lvWUR3M0t1cEtCczR5TDcwRHY1WU9yNGFMalJWZHkwYVl1d0nSAeoBQVVfeXFMTUJWd0dZSzFjRXd1NWZjS2RGWXdQM2ZPcE9BYjlsUnhOOXExejNqcWJrSGxGcE1JRXZkVlEtNEV3QWtEOFUwbTdHeVpLZ3NFa2RFLU1TVFNzOVhKOW5jRUZON2xJNGRkZVlaTkVlbWh2U2dFMlZuNm9jU2ZpSmROTVZEWmtKeVFpRjNjdDlhSkZnQ1dmWXdsTy1ablFnT3VsNjQydmZYVENqVzFHNTR6VmkyS0ZVbkpkcV9YYWU4MzFOTkVYNjI5UGl1Njg0UHBJcVExS3NFdHhOSDhuUmVvdUN3UmdaV3BsNFNR?oc=5"
    }
   ],
   "cantu": [
@@ -454,10 +454,10 @@
    },
    {
     "d": "2026-10-22",
-    "h": "09:36",
-    "t": "Migliori UNA Hotels Reggio Emilia vs Acqua S.Bernardo Cantù 5° Giornata",
+    "h": "09:35",
+    "t": "UNA Hotels Reggio Emilia vs Acqua S.Bernardo Cantù 5° Giornata",
     "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQakpvUk55TUp4RUQzelBIa2FscDVGaWUzRmNXMEJNVHBRUjZmN0U2WS1nSVRJaWxIQ1NpLXd6enVLM09TQVBnLV9od2FnQnU2UjRvNU5EQjBveHF4ZThTQXRSa0h1ZUZycGd4ZTFPUHRFN3IwaF9OUVc4UV9kWEluQ1FDVE53VnZxcE9ZQk4ySDAyUQ?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc3NJM2YzWEZicHI5dlRVRGlmSXVQdmM2NTNyV2RCN3puVTlhNzJMZURjeUlocUFkdFdnQnpnNHRDcF9oUDVIYnl1dVo3a2M5MHlFalNzNk9CVHk3NHVNZ0VaRFlNOGxGU3BzQnpKMFlDZ2M0Ml91OTJwT3hlX2xhaFc2M1FZZTdVMTdHRg?oc=5"
    },
    {
     "d": "2026-10-22",
@@ -482,6 +482,13 @@
    }
   ],
   "como": [
+   {
+    "d": "2026-10-23",
+    "h": "15:12",
+    "t": "Live Como - Sassuolo - Serie A: Punteggi & Highlights Calcio - 24/10/2026",
+    "s": "Eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2YwTzNMS1ZFYUl5ZW92RVdfd1daaHlhc1JFSGVTdHVDNlNrVGVvTnBGMmhtNS1tcXZxV001RkF2R1FDd1BFUnJKVDJRN2VDTGtfcFd3bHlUZ3ZFTld4UFIxUEdibUcxY0dGeERHOU9lY1FwNEgwSEJiazRzTWlfRlhmQ1hERmxxLWtWYVRJQ3lCby0wVHc?oc=5"
+   },
    {
     "d": "2026-10-23",
     "h": "14:11",
@@ -516,13 +523,6 @@
     "t": "Como, guaio Liberali: si è fatto male nel riscaldamento col Manchester e ora il Sassuolo è a rischio",
     "s": "La Gazzetta dello Sport",
     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVUp2ZVJCVFRvZi1yRHJvMGExQW9peHEtNURQRTM4YUhCSXluSDF1M1IxU0JoaE5xVHpDQU9jQy1qZVZRN1BIWWNkNWo2ZmFzek9Xc3g5YVFtNmdrajNYVjY2Zm52M2tiVWVKbGl2aXVxc25QZTdTNzhJRk81QXE3QVJ2QmNzbEdhTUxwdDRtLVd3SjY2MDVDd0U2UVVyeFN6MWFkVV96cEd3Mi1QOEhWbHdud242NGN3ZHAwclFHeW44d3VtNmtwN3VXTXphWmtQQVdlNTVBVm01OUo3bHNDTDVvUjYtV2t1MWtn0gHwAUFVX3lxTE1sZlpoazd3TVI5LWJBUHd1ZnJjQmVnenhGSlNRTGU3Q3lHVVBsUlV2Z1Ftb1hqSDJ3V0g4YlNlRjdLWmJJQ2VfbmV5NDROaFpEMURQZEw1SHVFTXRreEwwNWRWLWhSam15X3RRNHFlYk9pYjI3UVBzN1U5LXJlbDcxSGNUeC1IZ3ZNdzVSV05iOUk5by1FVVh1ZDR6MVAzZ2lvMjlwQ2l3ZGtXTUNmMWNHVzFGcTlsbDY4TEwwMUJTZllDd2RJVGVRRVlManRQdXU0SnI1elpsdXA5TDRMSV9MNEx2QWVCZk51ZU9wbFg1cA?oc=5"
-   },
-   {
-    "d": "2026-10-22",
-    "h": "21:07",
-    "t": "Como Passport è ufficialmente",
-    "s": "Como 1907",
-    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZHVuVmU0OVNhVV9VUkhQYW1kRmdOdkJ1Ml8yMUZmVXUydkttWW1Fc0x2VEMzREVlbjhvb3lmV3BrSTAwRHZjLXhlcUxOX2tGdTZrckZlMUJueXhGeUpaWEc1aXp2bzFCRk1vcm45c0FON2loWDYtTFNjeXpnWExVaHpJbEVvTmR1YmxXeEI5bDNBcmczWl9UOTdyQnVYSG5MN0hZbWZIdGRQNFM3QlNYX2NfME1SZXVRQ1FOTktlSE43UGpZYlhtakliWlEzSktEOVZXZmpfckFQQW8?oc=5"
    },
    {
     "d": "2026-10-22",
@@ -941,7 +941,7 @@
    "2": 18
   }
  },
- "updated": "2026-10-23T12:52:40+00:00",
+ "updated": "2026-10-23T13:28:08+00:00",
  "log": [
   "classifica milan 4 15",
   "classifica como 5 14",
