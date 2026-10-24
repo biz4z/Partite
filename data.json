@@ -911,9 +911,9 @@
  },
  "odds": {
   "2026-10-25|Udinese – Milan": {
-   "1": 22,
-   "X": 26,
-   "2": 52
+   "1": 21,
+   "X": 25,
+   "2": 53
   },
   "2026-10-27|Torino – Como": {
    "1": 21,
@@ -926,7 +926,7 @@
    "2": 18
   }
  },
- "updated": "2026-10-24T16:43:44+00:00",
+ "updated": "2026-10-24T17:09:34+00:00",
  "log": [
   "classifica milan 5 15",
   "classifica como 4 17",
@@ -936,9 +936,9 @@
   "notizie milan 3",
   "notizie cantu 3",
   "notizie como 2",
-  "stampa milan 8",
-  "stampa cantu 8",
-  "stampa como 8",
+  "ERR stampa milan HTTP Error 503: Service Unavailable",
+  "ERR stampa cantu HTTP Error 503: Service Unavailable",
+  "ERR stampa como HTTP Error 503: Service Unavailable",
   "calendario milan 31 partite future",
   "calendario como 30 partite future",
   "ERR logo cantu HTTP Error 403: Forbidden",
