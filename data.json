@@ -420,6 +420,13 @@
   ],
   "cantu": [
    {
+    "d": "2026-10-24",
+    "h": "10:30",
+    "t": "Pallacanestro Cantù, fiducia a Vitucci ma Giofrè ha mandato di intervenire sul mercato",
+    "s": "Sportando",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2NqcEM3S1lGdUVCbV9nbG9tYTN5dmhBTmxOdnJwZDg5YldDUGRtbW5IbndiTXF0d1poeUM0WW1abWJuOWRsZ1lkQXM0NHl6MkJad0FsXzJFdjdHTDNMekZWejNuRjJ2VVNkQk9zdVFaZVJyeTBZX3BucHM3REg2WXAxZWlHTFgzY2NUOUNGZEJENDN5RVgyWFdyNWZQRUNPQmNnYnpNcS1lYW9rSDcxUHZCdGhkdw?oc=5"
+   },
+   {
     "d": "2026-10-23",
     "h": "22:52",
     "t": "Pallacanestro Cantù 26-27: giocatori sotto contratto, durate e mercato",
@@ -467,13 +474,6 @@
     "t": "Giofrè ha il via libera per rafforzare Cantù",
     "s": "Superbasket.it",
     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTEJFQ205U2ljVTNRX0RYQXF4RmRYR0V4OU1xVzZLR0J5dEFvZEtIMkRkaThtYk5WN0VVSmNZbnNPbGliMFJyRWl5ZjVlREI0SHhOLWNyTmNJcUxRYnRZdC1BVWZ2MFRWbkNoc3VmemxVTVpkQ2F0SDBnaVdxbkl5ZFZqYWNOTzZM?oc=5"
-   },
-   {
-    "d": "2026-10-22",
-    "h": "09:36",
-    "t": "Migliori UNA Hotels Reggio Emilia vs Acqua S.Bernardo Cantù 5° Giornata",
-    "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQakpvUk55TUp4RUQzelBIa2FscDVGaWUzRmNXMEJNVHBRUjZmN0U2WS1nSVRJaWxIQ1NpLXd6enVLM09TQVBnLV9od2FnQnU2UjRvNU5EQjBveHF4ZThTQXRSa0h1ZUZycGd4ZTFPUHRFN3IwaF9OUVc4UV9kWEluQ1FDVE53VnZxcE9ZQk4ySDAyUQ?oc=5"
    }
   ],
   "como": [
@@ -918,7 +918,7 @@
   "2026-10-24|Como – Sassuolo": {
    "1": 64,
    "X": 20,
-   "2": 17
+   "2": 16
   },
   "2026-10-25|Udinese – Milan": {
    "1": 19,
@@ -936,7 +936,7 @@
    "2": 18
   }
  },
- "updated": "2026-10-24T08:07:25+00:00",
+ "updated": "2026-10-24T08:36:03+00:00",
  "log": [
   "non finita Como – Sassuolo STATUS_SCHEDULED",
   "classifica milan 4 15",
