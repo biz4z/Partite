@@ -356,11 +356,6 @@
     "d": "2026-10-21",
     "t": "UEFA Youth League | Como 1907-Manchester United 2-1: la cronaca della partita",
     "u": "https://comofootball.com/uefa-youth-league-como-1907-manchester-united-2-1-match-report/"
-   },
-   {
-    "d": "2026-10-21",
-    "t": "La presentazione | Como 1907-Manchester United",
-    "u": "https://comofootball.com/match-preview-como-1907-manchester-united/"
    }
   ]
  },
@@ -425,13 +420,6 @@
   ],
   "cantu": [
    {
-    "d": "2026-10-24",
-    "h": "08:51",
-    "t": "Priftis non si fida. \"Con Cantù servono cuore ed energia»",
-    "s": "Quotidiano Sportivo",
-    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHFGU0FCX3Y4R3pjdXVFTXpIZUhWOUREWDlpdVF5SS1KX2Y5aGg2bXh5WThqX0xadV93VUMwMWFQTmVaQzRWcVhoMkhkemxwTHBHTUFubEV2TUJvLS14bVQwSEppQk5LU3hScFR5RHZJNjRxbWg3TUEtcWhFQmx4bg?oc=5"
-   },
-   {
     "d": "2026-10-23",
     "h": "22:52",
     "t": "Pallacanestro Cantù 26-27: giocatori sotto contratto, durate e mercato",
@@ -479,6 +467,13 @@
     "t": "Giofrè ha il via libera per rafforzare Cantù",
     "s": "Superbasket.it",
     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTEJFQ205U2ljVTNRX0RYQXF4RmRYR0V4OU1xVzZLR0J5dEFvZEtIMkRkaThtYk5WN0VVSmNZbnNPbGliMFJyRWl5ZjVlREI0SHhOLWNyTmNJcUxRYnRZdC1BVWZ2MFRWbkNoc3VmemxVTVpkQ2F0SDBnaVdxbkl5ZFZqYWNOTzZM?oc=5"
+   },
+   {
+    "d": "2026-10-22",
+    "h": "09:36",
+    "t": "Migliori UNA Hotels Reggio Emilia vs Acqua S.Bernardo Cantù 5° Giornata",
+    "s": "Lega Basket",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQakpvUk55TUp4RUQzelBIa2FscDVGaWUzRmNXMEJNVHBRUjZmN0U2WS1nSVRJaWxIQ1NpLXd6enVLM09TQVBnLV9od2FnQnU2UjRvNU5EQjBveHF4ZThTQXRSa0h1ZUZycGd4ZTFPUHRFN3IwaF9OUVc4UV9kWEluQ1FDVE53VnZxcE9ZQk4ySDAyUQ?oc=5"
    }
   ],
   "como": [
@@ -931,7 +926,7 @@
    "2": 56
   },
   "2026-10-27|Torino – Como": {
-   "1": 20,
+   "1": 21,
    "X": 26,
    "2": 53
   },
@@ -941,7 +936,7 @@
    "2": 18
   }
  },
- "updated": "2026-10-24T07:41:10+00:00",
+ "updated": "2026-10-24T08:07:25+00:00",
  "log": [
   "non finita Como – Sassuolo STATUS_SCHEDULED",
   "classifica milan 4 15",
@@ -951,7 +946,7 @@
   "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 4, 'up': {'n': 'Tortona', 'pos': 14, 'pts': 2}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
   "notizie milan 3",
   "notizie cantu 3",
-  "notizie como 3",
+  "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
   "stampa como 8",
