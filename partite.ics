@@ -269,15 +269,10 @@ UID:ae68daf7ec4754f7@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261024T150000
 DURATION:PT2H
-SUMMARY:⚽ Como – Sassuolo
-DESCRIPTION:Serie A calcio · 8ª giornata\nTV: DAZN\nhttps://biz4z.github
- .io/Partite/
+SUMMARY:⚽ Como – Sassuolo 2-0
+DESCRIPTION:Serie A calcio · 8ª giornata\nTV: DAZN\nRisultato: 2-0\nhttp
+ s://biz4z.github.io/Partite/
 LOCATION:DAZN
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Como – Sassuolo tra 30 minuti · DAZN
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cb43b2e0c4fd7823@biz4z.github.io

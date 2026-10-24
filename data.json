@@ -3,37 +3,38 @@
   "2026-10-18|como": "1-3",
   "2026-10-18|milan": "3-2",
   "2026-10-21|como": "4-1",
-  "2026-10-22|milan": "3-0"
+  "2026-10-22|milan": "3-0",
+  "2026-10-24|como": "2-0"
  },
  "standings": {
   "milan": {
-   "pos": 4,
+   "pos": 5,
    "pts": 15,
    "g": 7,
+   "up": {
+    "n": "Como",
+    "pos": 4,
+    "pts": 17
+   },
+   "dn": {
+    "n": "Frosinone",
+    "pos": 6,
+    "pts": 13
+   }
+  },
+  "como": {
+   "pos": 4,
+   "pts": 17,
+   "g": 8,
    "up": {
     "n": "Roma",
     "pos": 3,
     "pts": 17
    },
    "dn": {
-    "n": "Como",
-    "pos": 5,
-    "pts": 14
-   }
-  },
-  "como": {
-   "pos": 5,
-   "pts": 14,
-   "g": 7,
-   "up": {
     "n": "Milan",
-    "pos": 4,
+    "pos": 5,
     "pts": 15
-   },
-   "dn": {
-    "n": "Frosinone",
-    "pos": 6,
-    "pts": 13
    }
   },
   "milan_eu": {
@@ -363,6 +364,27 @@
   "milan": [
    {
     "d": "2026-10-24",
+    "h": "16:40",
+    "t": "Udinese-Milan: probabili formazioni, statistiche quando e dove vederla",
+    "s": "Eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTBWcm82YkdHSVdTaHM0bEJMbV9iMldNNzdqWHBMSENGMVJ0c3MzX1BJMkhLQUpFU3d5dENndU8za3ZZN1ZaYVZucmdnQThfZTJ5Y0daVm1YZWpxX3B5Q0NQU0tFbGtFaS0xWlp6VEZ0WldXRUlVTEJiT2M4TzhkcEMtZE1ycFRPc2pkYUZSUFNVUDNnaElQdmh3NWpZTHN4TFIyakxBTTgwTXN1VUhHRFpHb211ZmI0ZVE5cHpOYVNZaTBnS0xXUGlZNVdYWnJJMFlHWTFXV1I0UQ?oc=5"
+   },
+   {
+    "d": "2026-10-24",
+    "h": "15:59",
+    "t": "Formazioni Udinese-Milan: le ultime sulla partita e dove vederla in tv e streaming",
+    "s": "Goal.com",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOemRJMXFIdWsxeHRfUmRDT2JfMTV5aDlLVE1XMUxjcF9Ddzc5TEp0MF9hOTdubHBjbmxWQ1NicW10cDJNblg5NExKMWh3UXZIMzkxTWs1RDg5YmFHMGFmbGJsWmJMcWViN29kTU5YOWxxZW8zM0V6OHgyMFJiNU5ESDRfMXYyTXBxVnJld18zdHpoZVhzZ0xPLTU0Sy1Rc1phb3MxOHZIbU1NYU9fNjIyTmlITkVVakZaV0NKaHVtRGU4MVF4RWprQnd3bGVhZw?oc=5"
+   },
+   {
+    "d": "2026-10-24",
+    "h": "15:23",
+    "t": "Milan: brutte notizie per Amorim, ko Rabiot, Moreira e Gila",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMHd5UjFxU2NrZ1hWWFVyRjZJakVxNXVscVFHMTV6Y0ZNbWxyYm5WWExqLWZSR09mTHB1aXJjcjZlMV9OSmZMX0tTby0yeUtqMUQ4SnJIY1BLRDdZdzFtUGl3TUlXQklXWlktdFJXYmZDYS10VXd4YUROU1JHTEg5ZzlLcnhXV0ItTFpEYW1iRjRRem5WbktZenE1MHNrN2tnODh3QzlZUTBhdUFKMVc5T3dDc2NneXVjVjhnQV9ObWNzLWVBajZWZFh6U1hkeThXVFkwM1FpdFN4MmFQVnlQSkRIcTNQS2JnbFJr0gHwAUFVX3lxTE84aHJxWV9QQnFxcnlSQ2tzejF1TjBybE5DcGdkRXAzUHFTenM5VE42MXQtTm5ucExjOE0zaDRLNUZWVnhYVXpfeDlxNldmNmwwbnAxN1FfdEZXend4blVQRGdNcUZNZDNsSk10TDVoQ0xteXhmZVlVV2Yzd3ZBbU11WHNFTlJfTmExaVJoLUpaTk1xczJHR1pRT2tZM2E2QmhWbGRwbktLRFpJR1RMNERMblo0S21BZWdEaGNMcVBUWk9kNWtMcGs1TzlpM3BXdHFrUmpoZDNkZ3pfdGkwVXVTLXVjN0VXMjBXUHBnejhYYg?oc=5"
+   },
+   {
+    "d": "2026-10-24",
     "h": "15:13",
     "t": "Infortuni Milan, come stanno Gila, Rabiot e Moreira?",
     "s": "DAZN",
@@ -395,37 +417,9 @@
     "t": "Milan, il turnover va spiegato",
     "s": "Corriere dello Sport",
     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOazluWEFiV2lVLWNFeURvUEs2SzBISVhMR0VQLW9TNGVtUE52czdBZ3ZrUVdJZlhOcWYzdDZRX0M0RWFnNGVqZzFrV0xsdnlNSUVVelBUWUdBQ2NHTkgtMmlKT1F5SmZ6QjBjWXFMR0xCR1Axd0JNR1FpWE9uZnVLQ09CeHA0MkNJQmVSOHlLYlpoOFR1UHdCeElEVkd5VnI5YVZCd3VhanRMX0xSY0I40gGyAUFVX3lxTFBmZjNFdE5VMUFpOHFWUjY5TzQwNGpBWmxzYmtEWXRTZVIzWlVTeU9ZVGdwTGlFdVVFdGExLWJVeTZicngtRE5zMEQtemNpaGxQNU5iZlg2aFRQY2NMMmhMNDFIcVdLa29FWDJCVXRKYXFRU3JVVnd4NklTXzU1TE5jakM4TDJhT0FwR1VuVDZBY2YxdVBTZFh2SHR2cDhHazh5dGdCUk15TW83RVFONkxuQnc?oc=5"
-   },
-   {
-    "d": "2026-10-24",
-    "h": "09:13",
-    "t": "Udinese vs AC Milan",
-    "s": "Calcio.com",
-    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX281cEF3cVNEQlVyU2ZkSFFXMk53aEUyU3R1Y19PQ3d1Qy1hSlhOTHZBYm9fZEF6SXRIX1pHb0FIN2JGT1plaHFmZHk1YlA1eVdtTU90TXc2UjlPT2draDRuNkZBZ3NUcnkyLUtfa1h4YUFOVGdRS2trU3BySWt4Qng5V2FFQy12WmpqN3dEYmczVzJCUWQ4?oc=5"
-   },
-   {
-    "d": "2026-10-24",
-    "h": "05:45",
-    "t": "Milan, emergenza totale a Udine: si fermano per infortunio Gila, Rabiot e Moreira",
-    "s": "Diretta",
-    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEExcmxFWklHODJ4Z1B4MmpuLTNqTlp2alg5dWNFN3F5SDVGUXdpQ0hxOTJURFFpdkE1LTRuZmYwWGZIWi13MG1mUzFDUGdSX0hiT2E2S2Rta05PN21OdjJjNm1pTThtY3NRcnhSR2EtOEthclpTZk9kZ19yeUt3eG1TbHpCd3I2dnZ0MFFhTXZBYjItRkRyVUtnWU9OTEg3X3VBVmw0c2hzV1RxQ1k2NUx0UlBsVm5VbWVsZ1lCVVUwaktIdnZ0ZG1Kdw?oc=5"
-   },
-   {
-    "d": "2026-10-23",
-    "h": "20:58",
-    "t": "Maignan, valanga di odio social dopo Bournemouth. Il Milan: “Insulti inaccettabili”",
-    "s": "la Repubblica",
-    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYmFLVi1OS1ZWUHJTbnRjUllfclU3aHE4NGtYYUw3T0pjNktFNWxuVGZwTXdqdmRJZGR2ckZFQ2RXelFsRU1Ib1Q5WWRMeGJYRzQwYS1ma29kNk9laTc5b0tKNFFWRGdqX3JFQmpWU1g1TnNwanFmal80bm41bkNpZnB0cEo3TElOT0hjNXJGelhXb3pqaEREcEUySThoTTZ4M29Ld1JVQ09pYzYxaVhLS2EwaUNiVUJrV3ZDSndB0gHDAUFVX3lxTE5oQzJMYUFtdkNSX1AzMVRoNzlxU3BWRkt6d3V5anR2dldFSWZ3cUZPWXZrOVk2NzRCNFotYmNsU0F5SWNvZEt3a0NxajRJNElCTm4tZUpyUnFUZm1JS05mMlhnMDBjQV9WejJhUjZTR2dibUh5RVh1Z3lmZkt5ZzBjUWhLMGY2c0hFWGV2RzFWbnVaZGhMTkFZZF9YWVB4VEhCdDAxNmxka2I2QXhPd3Ffb1hlRUdQaDhOWWo0Z3BjY3BmYw?oc=5"
    }
   ],
   "cantu": [
-   {
-    "d": "2026-10-24",
-    "h": "15:15",
-    "t": "Pallacanestro Cantù 26-27: giocatori sotto contratto, durate e mercato",
-    "s": "Backdoorpodcast.com",
-    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYjR6VFpvWWZfY2dwQVdmbFhVZU9Nc2FITzhVMjEzVVktRG5QZnlYSDdjOHVQWUZORlk3Q1FaWEZjX2syVUctd0d3RHlBUkFrV2NjU2wyV1F6c3dfYU1vbk5PeTdTcGV5cUJ5WXFhYV9Mb2RwSVhJUGdRQlRWRl85eFUtUVlRSDRFclZFSHhrSnIwRGRLSkE?oc=5"
-   },
    {
     "d": "2026-10-24",
     "h": "13:14",
@@ -474,6 +468,13 @@
     "t": "Pallacanestro Cantù, fiducia a Vitucci ma Giofrè ha mandato di intervenire sul mercato",
     "s": "Sportando",
     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2NqcEM3S1lGdUVCbV9nbG9tYTN5dmhBTmxOdnJwZDg5YldDUGRtbW5IbndiTXF0d1poeUM0WW1abWJuOWRsZ1lkQXM0NHl6MkJad0FsXzJFdjdHTDNMekZWejNuRjJ2VVNkQk9zdVFaZVJyeTBZX3BucHM3REg2WXAxZWlHTFgzY2NUOUNGZEJENDN5RVgyWFdyNWZQRUNPQmNnYnpNcS1lYW9rSDcxUHZCdGhkdw?oc=5"
+   },
+   {
+    "d": "2026-10-24",
+    "h": "08:51",
+    "t": "Priftis non si fida. \"Con Cantù servono cuore ed energia”",
+    "s": "Quotidiano Sportivo",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHFGU0FCX3Y4R3pjdXVFTXpIZUhWOUREWDlpdVF5SS1KX2Y5aGg2bXh5WThqX0xadV93VUMwMWFQTmVaQzRWcVhoMkhkemxwTHBHTUFubEV2TUJvLS14bVQwSEppQk5LU3hScFR5RHZJNjRxbWg3TUEtcWhFQmx4bg?oc=5"
    }
   ],
   "como": [
@@ -529,9 +530,9 @@
    {
     "d": "2026-10-24",
     "h": "14:55",
-    "t": "#~~~~[VEDRE@CALcio+it]+!] Sassuolo Como in diretta 24 ｏｔｔｏｂｒｅ 2026",
+    "t": "++%[CALCIO!!] US Sassuolo — Como Calcio diretta 24 ｏｔｔｏｂｒｅ 2026 |Italian Serie A",
     "s": "小豆島町",
-    "u": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNOFQybl8xSFQtR3M1SHR1OFQzNENXS0N1WXhFQktMbm1BOFFtUWdiMFhOMU9TNjMzN3labFFqUktZeExISmtObkxDajhpQkNIVHVVd19BY1hRbDFMenZSbWVaeTQ1UC04Q0NCLWRIN09KOTZ0OFlDbTlsNkVUZERHWkl5bGpvMkpOelEyT08tYUtmTFZPSFNSSU9pMmNmNExnUDlEWGxndER1R2ZSQWNtd2FrNzhLMklKejRBUjFQYk1wZXR2X1ltdVMwbW13MVJWVVczT3pMM09sNzFkcjlyT1FQeWlFNXJEd1psSmpuanRYRjdMY21YN2RDYzFmWHpkQ3V1M3kyQkRlVVllQ0NmN1pKX0ppT1VfSlBDVTh0WkFYTDBPaUtuRE15MWx6R0FfMGt5RDV4cU82VUxETExQSHgxemZQTk12bXpuYURieUNQdnpuSm5BWWtqeVUxZUE?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOWVZoMi14a3gxSlB5Umx6ZHEzMjl2b21Kd3g5LUVRN1RaZkNzOVFKX0l4ejRJM2MyZXZQMUE3VW93S3QxMDNSTjY2R2hBMVlaSTU0UlRhLWRFWk9EQlptZ2Z1RE50bEdJSVZLV3JBM2tYN2dyTDFTaGZTa29XT2N5dERsa2g1NnhvOHc5THB5bTBnbDRSQm5xOWVqWlpXdC05V0dtd0pHcjAzdE5pbmY5VUJBbDN5d3NzVWl3eDNpcm1hU25kNlNtUXBFMW9CMy1yaVd3eTdielI5N0N5UDdFU3pLZ1RkVFcwYjlQaHVGaTlmMjBVMFhLNmhuNWNHLXlxenFRWmlGMjd1VHJ3bUF1X3hsQmJGdy1hNTNWRU03S1BCOFR1VXVuUzhJWlhxdEsxdXpxSnEwbk1rSnBDeTZ0eWhaV2szU3FfcVdNcGFHazMzRmhEdHVyMWZXVDFIVjA?oc=5"
    }
   ]
  },
@@ -915,15 +916,10 @@
   "cantu": "https://r2.thesportsdb.com/images/media/team/badge/vy599w1784567424.png/small"
  },
  "odds": {
-  "2026-10-24|Como – Sassuolo": {
-   "1": 64,
-   "X": 20,
-   "2": 15
-  },
   "2026-10-25|Udinese – Milan": {
-   "1": 21,
+   "1": 22,
    "X": 26,
-   "2": 53
+   "2": 52
   },
   "2026-10-27|Torino – Como": {
    "1": 21,
@@ -936,11 +932,11 @@
    "2": 18
   }
  },
- "updated": "2026-10-24T14:35:42+00:00",
+ "updated": "2026-10-24T15:01:37+00:00",
  "log": [
-  "non finita Como – Sassuolo STATUS_SECOND_HALF",
-  "classifica milan 4 15",
-  "classifica como 5 14",
+  "risultato Como – Sassuolo 2-0",
+  "classifica milan 5 15",
+  "classifica como 4 17",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
   "cantu 30 partite {'pos': 15, 'pts': 0, 'g': 4, 'up': {'n': 'Tortona', 'pos': 14, 'pts': 2}, 'dn': {'n': 'Scafati', 'pos': 16, 'pts': 0}}",
@@ -954,6 +950,6 @@
   "calendario como 31 partite future",
   "ERR logo cantu HTTP Error 403: Forbidden",
   "loghi ['cantu', 'como', 'milan']",
-  "quote 4"
+  "quote 3"
  ]
 }
