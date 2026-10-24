@@ -29,7 +29,7 @@
    "up": {
     "n": "Roma",
     "pos": 3,
-    "pts": 17
+    "pts": 18
    },
    "dn": {
     "n": "Milan",
@@ -364,6 +364,13 @@
   "milan": [
    {
     "d": "2026-10-24",
+    "h": "19:41",
+    "t": "Udinese-Milan: probabili formazioni, statistiche quando e dove vederla",
+    "s": "Eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTBWcm82YkdHSVdTaHM0bEJMbV9iMldNNzdqWHBMSENGMVJ0c3MzX1BJMkhLQUpFU3d5dENndU8za3ZZN1ZaYVZucmdnQThfZTJ5Y0daVm1YZWpxX3B5Q0NQU0tFbGtFaS0xWlp6VEZ0WldXRUlVTEJiT2M4TzhkcEMtZE1ycFRPc2pkYUZSUFNVUDNnaElQdmh3NWpZTHN4TFIyakxBTTgwTXN1VUhHRFpHb211ZmI0ZVE5cHpOYVNZaTBnS0xXUGlZNVdYWnJJMFlHWTFXV1I0UQ?oc=5"
+   },
+   {
+    "d": "2026-10-24",
     "h": "19:27",
     "t": "Formazioni Udinese-Milan: le ultime sulla partita e dove vederla in tv e streaming",
     "s": "Goal.com",
@@ -389,13 +396,6 @@
     "t": "Udinese: Runjaic 'col Lecce punto più basso, ripartire con il Milan'",
     "s": "ANSA",
     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQURUd2JxUlhjdVUzT1JmVmZsWHRxelBOU0pUZE5Yb1RHd1dRcjN3Z2UyUFZ1RFNMTnRzem9UcmU4RnI3QXNOSVlJV2xNQ0M1TEY3RVVDQ1FmVlZDeGE1el85cVhRQVVYRTZnbGFhczBEdDhfcDBjRTlDTDRFaDJMVnlfQU5QNktHY1lsTGlfZU1pVlZnZ2laaThsbWlzY1BiTXpTTDlxTkJwR0tKRlc4M0QtUUJGdGZXMjk4cnEtTXA1dkl4dkh5SVF5U0Z3ZTFxN3QxaUJLWTRkVGJLUjAzcm1XVEZpWVNYVXJYNFRaVGZWSWc5b0HSAfsBQVVfeXFMUFJDMV81RjZPSTAzNE5rbVE3eWozc1dEVlU1eXdKellkNE5NbjJweVo1MERJZ1dLTS1EYnJYN284VDZ0Q09XTFBqaTdxVHc2SzFDNFB2Q0E5VUo0MTIxcFh1TnROckFueGZOdURGU1NISnhRY1laZXh6ZjNQaTlGS0tlaEQ2d1dvYUJlSnlxMmNyYldPZG1pSFBMOXFJSHdhcHJUc0RwTUw0Z3hIbVZqcklfTjU1dVBBdzMyTzZxRFVHSkwzZ2N1QXNwVVkxcjJ4M0pkNXBfWktRZUpaXzNNV2d2MWoya1dybnd5TVo2RU56VFBqSlo2TXEtems?oc=5"
-   },
-   {
-    "d": "2026-10-24",
-    "h": "16:40",
-    "t": "Udinese-Milan: probabili formazioni, statistiche quando e dove vederla",
-    "s": "Eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTBWcm82YkdHSVdTaHM0bEJMbV9iMldNNzdqWHBMSENGMVJ0c3MzX1BJMkhLQUpFU3d5dENndU8za3ZZN1ZaYVZucmdnQThfZTJ5Y0daVm1YZWpxX3B5Q0NQU0tFbGtFaS0xWlp6VEZ0WldXRUlVTEJiT2M4TzhkcEMtZE1ycFRPc2pkYUZSUFNVUDNnaElQdmh3NWpZTHN4TFIyakxBTTgwTXN1VUhHRFpHb211ZmI0ZVE5cHpOYVNZaTBnS0xXUGlZNVdYWnJJMFlHWTFXV1I0UQ?oc=5"
    },
    {
     "d": "2026-10-24",
@@ -926,7 +926,7 @@
    "2": 18
   }
  },
- "updated": "2026-10-24T17:34:35+00:00",
+ "updated": "2026-10-24T17:58:30+00:00",
  "log": [
   "classifica milan 5 15",
   "classifica como 4 17",
