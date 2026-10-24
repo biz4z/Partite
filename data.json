@@ -80,8 +80,229 @@
   }
  },
  "cantu": {
-  "games": [],
-  "standing": null
+  "games": [
+   {
+    "date": "2026-09-26",
+    "time": "20:00",
+    "home": "Venezia",
+    "away": "Cantù",
+    "score": "85-73"
+   },
+   {
+    "date": "2026-10-05",
+    "time": "20:00",
+    "home": "Cantù",
+    "away": "Udine",
+    "score": "84-85"
+   },
+   {
+    "date": "2026-10-11",
+    "time": "17:00",
+    "home": "Cantù",
+    "away": "Napoli",
+    "score": "80-99"
+   },
+   {
+    "date": "2026-10-18",
+    "time": "18:00",
+    "home": "Trieste",
+    "away": "Cantù",
+    "score": "92-72"
+   },
+   {
+    "date": "2026-10-25",
+    "time": "18:30",
+    "home": "Reggio Emilia",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-11-02",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Olimpia Milano",
+    "score": ""
+   },
+   {
+    "date": "2026-11-08",
+    "time": "16:00",
+    "home": "Maxima Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-11-15",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Tortona",
+    "score": ""
+   },
+   {
+    "date": "2026-11-22",
+    "time": "17:30",
+    "home": "Scafati",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home": "Cantù",
+    "away": "Varese",
+    "score": ""
+   },
+   {
+    "date": "2026-12-13",
+    "time": "",
+    "home": "Verona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-20",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trento",
+    "score": ""
+   },
+   {
+    "date": "2026-12-27",
+    "time": "",
+    "home": "BC Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-03",
+    "time": "",
+    "home": "Cantù",
+    "away": "Treviso",
+    "score": ""
+   },
+   {
+    "date": "2027-01-10",
+    "time": "",
+    "home": "Virtus Bologna",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-17",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trieste",
+    "score": ""
+   },
+   {
+    "date": "2027-01-24",
+    "time": "",
+    "home": "Udine",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-31",
+    "time": "",
+    "home": "Cantù",
+    "away": "Verona",
+    "score": ""
+   },
+   {
+    "date": "2027-02-07",
+    "time": "",
+    "home": "Varese",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-02-14",
+    "time": "",
+    "home": "Cantù",
+    "away": "BC Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-07",
+    "time": "",
+    "home": "Cantù",
+    "away": "Maxima Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-14",
+    "time": "",
+    "home": "Treviso",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-03-21",
+    "time": "",
+    "home": "Cantù",
+    "away": "Scafati",
+    "score": ""
+   },
+   {
+    "date": "2027-03-27",
+    "time": "",
+    "home": "Trento",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-04",
+    "time": "",
+    "home": "Cantù",
+    "away": "Reggio Emilia",
+    "score": ""
+   },
+   {
+    "date": "2027-04-11",
+    "time": "",
+    "home": "Tortona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-18",
+    "time": "",
+    "home": "Cantù",
+    "away": "Virtus Bologna",
+    "score": ""
+   },
+   {
+    "date": "2027-04-25",
+    "time": "",
+    "home": "Olimpia Milano",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-05-02",
+    "time": "",
+    "home": "Cantù",
+    "away": "Venezia",
+    "score": ""
+   },
+   {
+    "date": "2027-05-09",
+    "time": "",
+    "home": "Napoli",
+    "away": "Cantù",
+    "score": ""
+   }
+  ],
+  "standing": {
+   "pos": 16,
+   "pts": 0,
+   "g": 4,
+   "up": {
+    "n": "Tortona",
+    "pos": 15,
+    "pts": 2
+   },
+   "dn": null
+  }
  },
  "news": {
   "milan": [
@@ -135,17 +356,24 @@
   "milan": [
    {
     "d": "2026-10-25",
-    "h": "00:59",
+    "h": "01:30",
     "t": "Formazioni Udinese-Milan: le ultime sulla partita e dove vederla in tv e streaming",
     "s": "Goal.com",
     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOemRJMXFIdWsxeHRfUmRDT2JfMTV5aDlLVE1XMUxjcF9Ddzc5TEp0MF9hOTdubHBjbmxWQ1NicW10cDJNblg5NExKMWh3UXZIMzkxTWs1RDg5YmFHMGFmbGJsWmJMcWViN29kTU5YOWxxZW8zM0V6OHgyMFJiNU5ESDRfMXYyTXBxVnJld18zdHpoZVhzZ0xPLTU0Sy1Rc1phb3MxOHZIbU1NYU9fNjIyTmlITkVVakZaV0NKaHVtRGU4MVF4RWprQnd3bGVhZw?oc=5"
    },
    {
-    "d": "2026-10-24",
-    "h": "23:40",
+    "d": "2026-10-25",
+    "h": "01:10",
     "t": "Dove vedere Udinese-Milan in diretta tv e in streaming: canali, data, orario e formazioni",
     "s": "Goal.com",
     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbjRtMEhVcEtEQjVNbVdNSmtmQVFma3ByWkhVYVhIUmx1TFdfVGx6OW93REhibGFtQmdtS1lVM2tHNG8xYW1hUWlxenMyekRTTkxFb1JZMDJoN3FKQWRMdThxQ3RiODdiZ1pjZ0pSZ0MwcEJDOWtNcWFLQnpvVTliUVVBUDN6cnE1Xzdwdm5PQ1BYVHdaYUVLVG1rdjUyTlBsSUZnTFdFZ3hhV0hTbHZMRHpZQ1BCQWVwRDdyTmRybFVOZXJ5ZFNhVEtkTTU5ZE9zVEtXQw?oc=5"
+   },
+   {
+    "d": "2026-10-25",
+    "h": "00:02",
+    "t": "8. Giornata: Udinese Calcio - AC Milan - Diavoli in Paradiso - Foro | Página 1",
+    "s": "Transfermarkt",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT3FZVjhVM3RFVXY2VV9Ra3ZWWFZqcWhvc1I4dmlqYTB3ZXJSU3IyRDRmd2ZZS0Q0Nlc2MVV6VmZyXzJjeHVobE1WT0UwcEMzTE5mMGgwVWVHeVBKMkdfc1Zhd1FoNnJ2MHdLd3R1ZkFVU2hxb3l4b2Y2WTBfaEJLVGtIcnRKMU5PMmR5R204UEQ1dktuLWxQYWVn?oc=5"
    },
    {
     "d": "2026-10-24",
@@ -174,13 +402,6 @@
     "t": "Milan decimato dagli infortuni, l'ANSA: Cardinale è preoccupato",
     "s": "Sportmediaset",
     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY0JPSnZwOTlyVXRNUDRCV01GZUpuNkN6VFVJOWFwZVNNTFJEMm9mRzRVM1FnQk9qdllQNXZWYkJwX19seEFXd3daM2VFTUY0anlpNEtBampVRTVudGJLY0Y3X1A4WjdJc2ZaYW5PNnAtd0psWnR5NVcwQTR2OGVoYnlRYjBoLW9CVmlPRGdUOVZxbjJaMXBkZk1jUzkzN2VVX2pUSFBUeER2di1IV2ZRYkdGdjViVXJCYmlwY2NVbmpYWEZlWU1UX3ZR?oc=5"
-   },
-   {
-    "d": "2026-10-24",
-    "h": "19:03",
-    "t": "Milan: brutte notizie per Amorim, ko Rabiot, Moreira e Gila",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMHd5UjFxU2NrZ1hWWFVyRjZJakVxNXVscVFHMTV6Y0ZNbWxyYm5WWExqLWZSR09mTHB1aXJjcjZlMV9OSmZMX0tTby0yeUtqMUQ4SnJIY1BLRDdZdzFtUGl3TUlXQklXWlktdFJXYmZDYS10VXd4YUROU1JHTEg5ZzlLcnhXV0ItTFpEYW1iRjRRem5WbktZenE1MHNrN2tnODh3QzlZUTBhdUFKMVc5T3dDc2NneXVjVjhnQV9ObWNzLWVBajZWZFh6U1hkeThXVFkwM1FpdFN4MmFQVnlQSkRIcTNQS2JnbFJr0gHwAUFVX3lxTE84aHJxWV9QQnFxcnlSQ2tzejF1TjBybE5DcGdkRXAzUHFTenM5VE42MXQtTm5ucExjOE0zaDRLNUZWVnhYVXpfeDlxNldmNmwwbnAxN1FfdEZXend4blVQRGdNcUZNZDNsSk10TDVoQ0xteXhmZVlVV2Yzd3ZBbU11WHNFTlJfTmExaVJoLUpaTk1xczJHR1pRT2tZM2E2QmhWbGRwbktLRFpJR1RMNERMblo0S21BZWdEaGNMcVBUWk9kNWtMcGs1TzlpM3BXdHFrUmpoZDNkZ3pfdGkwVXVTLXVjN0VXMjBXUHBnejhYYg?oc=5"
    },
    {
     "d": "2026-10-24",
@@ -286,13 +507,6 @@
    },
    {
     "d": "2026-10-24",
-    "h": "18:13",
-    "t": "[Diretta]sTREAMING!] Sassuolo - Como Calcio oggi in tv 24 ottobre 2026",
-    "s": "小豆島町",
-    "u": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQaEo2YnJGZjN2NHdLVUNWcDlSZkZjUElwdE52Uk9lZV9pS2RVR3lfaFA0TTZCVmtWQnRPX2Zoalg2Tko4d3VOS0ZkOGdFYkhTQm1KMktvb1oxZ2F3TFhmZWRSWEJiaXo4YklaQ1RQTE15dGVyUFZGRk9yM09uTHRfeFRwUGlyZGdpbUs3ZkpQZUtvV3RBWEMzMnkwV1RmMFVJS092LWdPQmkycmRyN1Nzcnh5dFgtU1FBXzV3SVpPRVdSaWp0ZFJmdVJETHhFdzQwSGlIT3VCejFlTHMtREJLU3dILXFqUktKcEtrS2dyODZOUzFzc2NyLVNxVUpjRWJFdTFpQ3ljTGl5UmFoZFQzQ1p4UE1keFRXUHE3ZkJJN19iSGlkUUNjcEpLaGlhdkJBN0NpX0xEbU5fQlc0djNJVDAxbVl3dEZTdlV2WU9xcU5VZzZ0Nm45RDVFejZyN1BIV05obFdDZWN1TWVXOVNR?oc=5"
-   },
-   {
-    "d": "2026-10-24",
     "h": "17:53",
     "t": "Como 1907-Sassuolo 2-0 | Match Report Serie A",
     "s": "Como 1907",
@@ -304,6 +518,13 @@
     "t": "Como, Kaiki: \"Sono felice di fare il mio calcio divertente. Spero di dimostrare di essere all'altezza\"",
     "s": "TUTTOmercatoWEB",
     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaTRVdEpzdGQwUDN4OVRvdF9yWU0ySnVBSWVtcjFNWnJSMDF5TU5OLVYxZmlLeEh0XzBxbmh4bl8tSVBiZjA5TWlab2tGUVJzV20xSFB5UkdkLXo4a05Ka0hoQ3RzYlBxMjhURUYteGlMR1U5S040Q2tGTFdXUkNpQS05emRGeFRBa1M1RllsbnRlRUhPRXpWMzZiUkJ4TTBhQWdkOGxWVkY3SmtBZzJORlZBSQ?oc=5"
+   },
+   {
+    "d": "2026-10-24",
+    "h": "17:39",
+    "t": "Como-Sassuolo 2-0, pagelle: Douvikas show, Caqueret convince, Berardi grande assente",
+    "s": "Eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQczFIMlJrWmprR2k0TzA1T0tadVZJM0YwRldqbG5EWkgzZ3FaSUM4YzFwWGY1MEY3TWd2UVFXM2JGUWY2a0pWbTBkXzZRZFJKa01yUXFZaW1ZYWRKM09WYzNBZEpzX0doUndFdGxVR2lVbTBOYm9oMHk1MFZ2WUpQOVpoMzNQeGF4eTdzREZ1NjFhbzNnYU0yQU9pM2lLallkdzRjd1NMTzJBT1dSS0dhUkk2aG96ZnJFXy1wbmNUdWI3UmExeXBBZTl2cUhiUzhSZlBmNzVtOEIwc0ZVbjh4RUJJWVNVYXF3cnNVMXdDdEUtek9tVndiMUhVaE9aeUVpaXVLX19KVWt3OGc5bEV2U2dNMU1KSGwwLWRkaTVWaFY?oc=5"
    }
   ]
  },
@@ -702,16 +923,16 @@
    "2": 43
   }
  },
- "updated": "2026-10-24T23:07:37+00:00",
+ "updated": "2026-10-24T23:30:21+00:00",
  "log": [
   "non finita Udinese – Milan STATUS_SCHEDULED",
   "classifica milan 5 15",
   "classifica como 4 17",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 0 partite None",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 4, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
-  "notizie cantu 0",
+  "notizie cantu 3",
   "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
