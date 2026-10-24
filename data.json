@@ -362,13 +362,6 @@
  "press": {
   "milan": [
    {
-    "d": "2026-10-24",
-    "h": "10:50",
-    "t": "Milan, il turnover va spiegato",
-    "s": "Corriere dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOazluWEFiV2lVLWNFeURvUEs2SzBISVhMR0VQLW9TNGVtUE52czdBZ3ZrUVdJZlhOcWYzdDZRX0M0RWFnNGVqZzFrV0xsdnlNSUVVelBUWUdBQ2NHTkgtMmlKT1F5SmZ6QjBjWXFMR0xCR1Axd0JNR1FpWE9uZnVLQ09CeHA0MkNJQmVSOHlLYlpoOFR1UHdCeElEVkd5VnI5YVZCd3VhanRMX0xSY0I40gGyAUFVX3lxTFBmZjNFdE5VMUFpOHFWUjY5TzQwNGpBWmxzYmtEWXRTZVIzWlVTeU9ZVGdwTGlFdVVFdGExLWJVeTZicngtRE5zMEQtemNpaGxQNU5iZlg2aFRQY2NMMmhMNDFIcVdLa29FWDJCVXRKYXFRU3JVVnd4NklTXzU1TE5jakM4TDJhT0FwR1VuVDZBY2YxdVBTZFh2SHR2cDhHazh5dGdCUk15TW83RVFONkxuQnc?oc=5"
-   },
-   {
     "d": "2026-10-23",
     "h": "20:58",
     "t": "Maignan, valanga di odio social dopo Bournemouth. Il Milan: “Insulti inaccettabili”",
@@ -416,6 +409,13 @@
     "t": "Udinese-Milan, le probabili formazioni: novità Ramos e le ultime su Zaniolo, Cisse, Modric e Hutchinson",
     "s": "SOS Fanta",
     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW9OaEt5ZzhZTEs3LUQyTXEyUWNfTUFjREZHcHpiVXppeWNpc1ExcDR0UDcwXzVVaWcxNzQwMzVXbjRyVE5vT1VxeDRyS1ZYa0FhbEtONmpOdHdic2lwcTVDNDRBTWFxLTgyQ1ZNRUZrMTNZWXNqWkgzYUsyUkpxR1NpVDJTLUtqbzJ6c0pSWHlZQ3M3T3F4RnpyZmZWaGdtdldmUXgxWlhEbVZOTEktVTZhNFRTMGVS0gG-AUFVX3lxTE8tZVZ2b0gtZjBmV1JVOVA5NEVIQldobVJKS21yWjRJTGFTdjVaMXpUTWFYakozdVEwWGVPRVJXOThIbEtkb3d6VGhKQ1ppVDMwcTBqTUdMWXcxYkxaWDFXVkYyazhINExyc3ZadDlYSGItM0stX241bldkUVJiTm5iMVdRc20tTHI5VmtUbnJFZHVPNFE5SklKNzlfamJsR2tHYmxYOEpaNFZySVdSX2U4WVNQbWQ1TTUxRDdFMXc?oc=5"
+   },
+   {
+    "d": "2026-10-23",
+    "h": "13:29",
+    "t": "Milan, Maignan: 'Il mio gesto non era intenzionale'",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQUpmRVdjb1A4SnBGbWRPN0luYThmcFlnU3BDazRkbE5ET0FCT1lqZnBrMHhaVkhNbXBfWlZfZl85eVFJbzZjVl85ZDd5elB0VUdIbF9QZWZHa1Y1YVZoWGtfZ2M1YjItYWZmRmtDZF9ybUwtRFozTWNpRWRFRUxsRl82QXNvZnlENHkwWGxCak9ZbjQ5YmlZVWhuSm1ucnVINktCVUlmU1RIWHFiTjRVbW95NXRjWDdLU2k2dGlxbTNOMmRya2pGQkpjVXk1NmpCTmNLU1FEVXlHODlveVZV0gHkAUFVX3lxTE5jY0NuWWxTS2NlSUd0ZWtvR3ZsLTVLNFYzMlFoTDJOWllTdUNSZHFvTUhsZHo1UmtWVXVCOXhTT3pybm1MTDZZV2U2a0tzZE51U0w1cGE3QXNaRndfNnVMZTJRZTVTYXUwUzRhVFdZNzg0YW5YOWdBSXZMZGFVbnM0bzU2cnFnSWxidHZDd051aXh2Z1QwSkJ1dUxXQnczczRjQlhXUlFNNEwxdHFib1lrbm5aVkQzb3FlZUVWTFdWQnlLX3habzcxc2FacFFDb0lDdGNLQ1VqWXE0Z2tna2NHWlFRVg?oc=5"
    }
   ],
   "cantu": [
@@ -486,10 +486,17 @@
    },
    {
     "d": "2026-10-24",
-    "h": "10:09",
+    "h": "10:08",
     "t": "Match Preview | Como",
     "s": "Como 1907",
     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGUFZjQ2dEa2xzM3ktZEZoUmpEMkJEVjZ1QW80V0hDUVhPbnVDSU5UUG9oVkszUlFtMGxaTTNfb0FjRkx3RUNudEFHRDJFTkR1U3prMTJkM29jTjJ3MDF1T2RTTmxWLXk1LWc?oc=5"
+   },
+   {
+    "d": "2026-10-24",
+    "h": "10:00",
+    "t": "Probabile Formazione Como - Sassuolo - 8° Giornata",
+    "s": "La Gazzetta dello Sport",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uMmQxcHAycTU4UnRCMWhVUWFFYVlUSzRHOTI4SDNMLUp1WHFkSVVNLU04ZlNOOFdtcGoydlVGREo1Nm54SHdSTDJCVm9kOFR3OTExbXltYmRCZDVxLVU3dFlyQ1J1SWlZekpkZ0hTVQ?oc=5"
    },
    {
     "d": "2026-10-24",
@@ -525,13 +532,6 @@
     "t": "Como-Sassuolo, le probabili formazioni della partita di Serie A",
     "s": "Sky Sport",
     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3NJbENDLVZWUV94NTk0X1VYc3ZQYnVrSWJCQmk3SGh4cVVfcmFuTldsajIxcVdTaVNJYlZSTU1rS3BhWUhvdG5SZmhsQlI5Q0NiS0hhMENZYWF5UmtzakEzbWxWVHhObnVkT1hlbmIyUms2U2QwNXZxdUVvZVUwalBOdHAyUG1PMlVjcTNmWDZUWHhRZmVr?oc=5"
-   },
-   {
-    "d": "2026-10-23",
-    "h": "17:21",
-    "t": "Nico come te nessuno mai: i lettori di Calcio Como lo votano MVP contro lo United con una media altissima",
-    "s": "www.calciocomo.it",
-    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY0I2cTl3TmhrU09vWFB4eGxqenhTNXh2alMwYXhhQ1FPeXZpVVBTWlRRWFhzQVh0QWdYOGh3bllLMjZzTldKUS1iQ3F4SVMzcnV1dGZZUV9DZzJmQ09ueW5tOXVOX0VzNXlqTlk0aXBXaEVwYjNYNjh5UXMtZHMwTlNFZURhaTNTN1h5NGl3dUhZN2pRYWNKTjBidlNraU43MU1mQ0ZuNjRmdGdERkJiYXdJVzJYLUxEZlBGVHBaRk0yOU90a2hkNjdiWQ?oc=5"
    }
   ]
  },
@@ -936,7 +936,7 @@
    "2": 18
   }
  },
- "updated": "2026-10-24T10:00:30+00:00",
+ "updated": "2026-10-24T10:25:14+00:00",
  "log": [
   "non finita Como – Sassuolo STATUS_SCHEDULED",
   "classifica milan 4 15",
