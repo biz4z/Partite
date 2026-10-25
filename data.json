@@ -68,15 +68,19 @@
    }
   },
   "cantu": {
-   "pos": 16,
-   "pts": 0,
+   "pos": 14,
+   "pts": 2,
    "g": 5,
    "up": {
-    "n": "Tortona",
-    "pos": 15,
+    "n": "Reggio Emilia",
+    "pos": 13,
     "pts": 2
    },
-   "dn": null
+   "dn": {
+    "n": "Scafati",
+    "pos": 15,
+    "pts": 2
+   }
   }
  },
  "cantu": {
@@ -114,7 +118,7 @@
     "time": "18:30",
     "home": "Reggio Emilia",
     "away": "Cantù",
-    "score": "23-20"
+    "score": "27-28"
    },
    {
     "date": "2026-11-02",
@@ -293,15 +297,19 @@
    }
   ],
   "standing": {
-   "pos": 16,
-   "pts": 0,
+   "pos": 14,
+   "pts": 2,
    "g": 5,
    "up": {
-    "n": "Tortona",
-    "pos": 15,
+    "n": "Reggio Emilia",
+    "pos": 13,
     "pts": 2
    },
-   "dn": null
+   "dn": {
+    "n": "Scafati",
+    "pos": 15,
+    "pts": 2
+   }
   }
  },
  "news": {
@@ -386,6 +394,13 @@
    },
    {
     "d": "2026-10-25",
+    "h": "14:32",
+    "t": "Era \"un giocatore fuori categoria\" poi è praticamente sparito. E ora il Milan riscopre Silvano Vos",
+    "s": "La Gazzetta dello Sport",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZzd1OGN4MXRUYVpPMW5uZVFyRVFFNE5HcS1Ua05tc203X0pQcGJtV3RZc1MyZUVGNVFnbXJOV3hiYUtPc3ZTdE1uOXZMUy1ZZ3RIUlJ4Z2lvbzM1dEpTRmpQbS1VQ1NLS00wWFJGdTQxWTVzRDViTnhYMG81NzNHZ0IxNjU0VDBveEFHSngzQWExckg1ZjVNR1BPVTI5WjlMTEJIeDlnbkhyN1ZVODItSFZNd9IBswFBVV95cUxQZzd1OGN4MXRUYVpPMW5uZVFyRVFFNE5HcS1Ua05tc203X0pQcGJtV3RZc1MyZUVGNVFnbXJOV3hiYUtPc3ZTdE1uOXZMUy1ZZ3RIUlJ4Z2lvbzM1dEpTRmpQbS1VQ1NLS00wWFJGdTQxWTVzRDViTnhYMG81NzNHZ0IxNjU0VDBveEFHSngzQWExckg1ZjVNR1BPVTI5WjlMTEJIeDlnbkhyN1ZVODItSFZNdw?oc=5"
+   },
+   {
+    "d": "2026-10-25",
     "h": "14:29",
     "t": "&&!!(((CALCIO))) AC Milan U23 Club Milano In Diretta Streaming 25.10.2026",
     "s": "小豆島町",
@@ -397,13 +412,6 @@
     "t": "⚽ Udinese-Milan, calcio serie A: la diretta live streaming TV 🛑 Notizie dell’ultim’ora 📆 domenica 25 ottobre 2026",
     "s": "musicletter",
     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMXBTYTY1S3pfVXFpUHY0bkRzWWpxU3c1dHlrVDBLQlotM2dyZmF1SGVsVWlqZFpQSURFbUhpX2xzWU94ZkZ4aGlJZnBab3ctdVhKSmY5RVJBMjlPSGNGd0dQNGUtVmhTeWpxX2F2Ujk4UWc1RXBPV3BGQ2xrcDZRdWJlTC0wYkVYSVNYTWU0N0ZtU1RlWkdOUDFpdWtldWFDaFZQWHIwNVVUbTkzdV9Gd2oyYXIwQ1RoUlcxMmRaQQ?oc=5"
-   },
-   {
-    "d": "2026-10-25",
-    "h": "13:16",
-    "t": "Udinese, con il Milan vietato sbagliare",
-    "s": "RaiNews",
-    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRUktZHMtWDhZdjRrd241NGw4UkdKLVpkbDVTQXA0VzlhdldCZFNGTkVtZUxaN0xXTnNwQjhSbmF1QnRqVjB6QURkQW1nbDNpZEdZUVh0SXJ3WnFTNUpGQUhVaGFPTGNDWVJkbHUzbG9ONEdENURPN0pmaGxiYmhxbEZ3MDBsb0VKcE1QODRZMG1TU1dDcW1EcVBIcFhpOFp0S2tvX19HT0hPZERoTXVqdWtSTy03Qmlqenl2OWtYZWNDWkhBeVZZ0gHMAUFVX3lxTE8zNTNESF9nMHFTcXZ5R3NtT05jUTZLU210TjZORUNiNk1Gb2JNRnZmMm11Q19sX1M5bkFVVWVzb0xuVEJicTlQYXpMamhMS25TOW5meHpNdkNWMGs1SWZCa2s4ZEtvcGQ4MkFMa3ItdlFaQ1l5UWltdmQyVUZhdTdiUjRzV19WYmRYRUM1N3lQSUt1cng2SkRoMGhRNmJKQm53cWJRRFEtLXMtcTRWS0xMbkNxcGZmT2xZaDVmYkxTdGRyYmZ1cmV5SEI1VA?oc=5"
    }
   ],
   "cantu": [
@@ -918,14 +926,14 @@
    "2": 43
   }
  },
- "updated": "2026-10-25T17:52:35+00:00",
+ "updated": "2026-10-25T18:10:17+00:00",
  "log": [
   "non finita Udinese – Milan STATUS_SCHEDULED",
   "classifica milan 5 15",
   "classifica como 4 17",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
+  "cantu 30 partite {'pos': 14, 'pts': 2, 'g': 5, 'up': {'n': 'Reggio Emilia', 'pos': 13, 'pts': 2}, 'dn': {'n': 'Scafati', 'pos': 15, 'pts': 2}}",
   "notizie milan 3",
   "notizie cantu 3",
   "notizie como 1",
