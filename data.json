@@ -114,7 +114,7 @@
     "time": "18:30",
     "home": "Reggio Emilia",
     "away": "Cantù",
-    "score": "54-52"
+    "score": "81-60"
    },
    {
     "date": "2026-11-02",
@@ -324,6 +324,11 @@
   ],
   "cantu": [
    {
+    "d": "2026-10-25",
+    "t": "A Reggio Emilia finisce 81-60",
+    "u": "https://pallacanestrocantu.com/a-reggio-emilia-finisce-81-60/"
+   },
+   {
     "d": "2026-10-23",
     "t": "Coach Vitucci presenta Reggio Emilia-Cantù: “Mi aspetto Una prova di grande determinazione”",
     "u": "https://pallacanestrocantu.com/coach-vitucci-presenta-reggio-cantu-mi-aspetto-una-prova-di-grande-determinazione/"
@@ -332,11 +337,6 @@
     "d": "2026-10-22",
     "t": "Gli ex di Reggio Emilia-Cantù",
     "u": "https://pallacanestrocantu.com/gli-ex-di-reggio-emilia-cantu/"
-   },
-   {
-    "d": "2026-10-21",
-    "t": "Cantù Next rinnova a Pallacanestro Cantù il proprio sostegno e l’impegno per il futuro",
-    "u": "https://pallacanestrocantu.com/cantu-next-rinnova-a-pallacanestro-cantu-il-proprio-sostegno-e-limpegno-per-il-futuro/"
    }
   ],
   "como": [
@@ -393,17 +393,17 @@
    },
    {
     "d": "2026-10-25",
+    "h": "19:20",
+    "t": "Udinese-Milan, le formazioni ufficiali",
+    "s": "Gianluca Di Marzio",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb1Z4NnQ2dGp2dHRYd1FsZzNBWDMyYTVXanh1WWRteXluSVlmOTlMU2ZKdlhaSHJZTGx1M2tyQVVjMTRheHFzTnNORk9veWFXNERyejZ0ZC0tUGpMdS1rMWFOUXYtNm1jV0ZpM3pwb1J5NHZIMTdkQ01tSUJLZG1BcHFXcW5OX0F1VjJpUFlkSQ?oc=5"
+   },
+   {
+    "d": "2026-10-25",
     "h": "19:16",
     "t": "Dove vedere Udinese-Milan in diretta tv e in streaming: canali, data, orario e formazioni",
     "s": "Goal.com",
     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcU05ZklMRXhITXdaRU84MDZSMEEydFJONFpuMk1KQWtBRDg2cWtIYm1rdk9sWkFPZndobFFZVzlCV0JIdVFPS21QcURsUUtyY1hhbzRYT3JENDdtdGZqRFVRT1REVFh3R3piTTR6MmoxSUpPb0hOeXkwSFlfOFJSQTAzbzhSajJfOHFha3c1VFVURl9XWVdVTEVUeEtRMzRPWng2Q21hRTk?oc=5"
-   },
-   {
-    "d": "2026-10-25",
-    "h": "18:50",
-    "t": "8. Giornata: Udinese Calcio - AC Milan - Diavoli in Paradiso - Fórum | Página 1",
-    "s": "Transfermarkt",
-    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFhsRXpOWklOVTl3Z1RXeEFIRkNjRmlERlZUVWN4UjYtLVZuZEU2SDZTR3pMVHNYZmRUS3llS0VraWlsa2xYeVdwUDhNekx1SDZ1eG1TOHFPNU5ORGFMeXhUbHgzdnowSXI5NlRkTlFVTGV6OWFDeHNsNVg5ejJuVFpjNEVlM0J5OU9tYmRFOERFSVNWYTAwZm13?oc=5"
    }
   ],
   "cantu": [
@@ -508,18 +508,18 @@
     "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NRlhkNHRETUUxNlp3NGo3RGxQdlp6OEtEa1JqVE0yWkU0anB3SHFSWVh2ZzhUVHhUbkEtd0psYWg2cEJfdmZZZjd3VVpXeElzMW9LSUVsMkg0WnkwZVk1dXh6WWdScS1kSGdZ?oc=5"
    },
    {
-    "d": "2026-10-25",
-    "h": "00:02",
-    "t": "[CALCIO-LIVE] Como-Sassuolo Calcio Serie A In Ｄｉｒｅｔｔａ Ｓｔｒｅａｍｉｎｇ Ｇｒａｔｉｓ 24 ottobre 2026",
-    "s": "小豆島町",
-    "u": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxORjFJY2Z5U0RyTG5uSGx5R0VSMTg3NG9hakZoNkhEQjJ4YW5rdzd2WURHa043SEVjOExpY0N2SmNKRlFvRzdDbFJjRW1vX0k5b2VTRWI4OHdDSV9kVWMxbTNuZW1QaTRvdW5xWV8zaU1UM0FyV0wtTGRQTjNmQTNudl82N2x2RDVSLWR3OHBtT2lNTEtLaDRwcGdhay1laW1DcndoMUpmZnJrNlVSUGlHSkFvdU9YUE01NlBpamhDV2d2V2hYMzVsSjFCaDRoaW9nRm5hMGR5THg3VU1LTUVjeW8wSjhjVENBVG05WkNtNkdDR2pwdzM4WWUzNW9ZLVJCZl9jMkkyM3JjYjVqbHQ4eENob0hUQkxTOTJwSmdnSXdyLXFjdlZhZm0xRTVQSHdEb28tWFM4cWU2Zmc3NzRkVTMtX3BSZ3hVMHBqN2dOUFdlRVFwWEF1MzJpb1hXOVoyRS03SjhydDVPZEo4NnRVTnNkZEFvaFFrOFE?oc=5"
-   },
-   {
     "d": "2026-10-24",
     "h": "21:56",
     "t": "Calcio Serie A – Doppietta di Douvikas e Sassuolo battuto: finisce 2-0 per il Como",
     "s": "Alessandria Oggi",
     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUDVGRUtXaHZzX1gxUHRqVGdzQUpCREFOVFJ3TlFybXl5V2s3eU1TLUU4WHU0b0VzX0dHejNPY3lxLUxFa2c2SDF4ck5jemtxZi1TcGtQeWNfUFoxRHFPaUZQWVJ0SFQ1R2EzRDFuTXNES3VBN1pmeGtlaDE2bmtJNmxJcXlHS0FnUFB2QmVWWE5HYldraWRZSjdkRzNDUGIxTnY1RTBic1BudnZ3dk5OMDNUWEVSTk16NFJtS3FDX1pDTkN3eUwtdg?oc=5"
+   },
+   {
+    "d": "2026-10-24",
+    "h": "21:00",
+    "t": "Sassuolo Calcio news oggi: ko 2-0 a Como, prosegue il mal di trasferta",
+    "s": "Sassuolo News",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUnp1ZG85V1J0UWQ5MDdZUUlJS2Y5NlMxSDhtb0g2ZXJXREQyeWF0ejQ3V0NrRnZXVWVMM3kzbTg0aUJHWGZ4STZGb1RhZmpBMGFyazJoYnIxbU9RRzFFWGd0SU5WclhHRVFDN2tOVjBCS1VEVndhdjYzUkIxTk40SUlSV2g4VUpYSmVIMXBNa3FxbVRzNldsREEtd0dwNjZyR3JJc0NR?oc=5"
    }
   ]
  },
@@ -900,7 +900,7 @@
   "2026-10-25|Udinese – Milan": {
    "1": 21,
    "X": 27,
-   "2": 51
+   "2": 52
   },
   "2026-10-27|Torino – Como": {
    "1": 21,
@@ -918,7 +918,7 @@
    "2": 43
   }
  },
- "updated": "2026-10-25T19:10:13+00:00",
+ "updated": "2026-10-25T19:34:16+00:00",
  "log": [
   "non finita Udinese – Milan STATUS_SCHEDULED",
   "classifica milan 5 15",
