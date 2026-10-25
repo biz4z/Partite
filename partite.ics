@@ -289,15 +289,10 @@ UID:44554ea446e2af20@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261025T204500
 DURATION:PT2H
-SUMMARY:⚽ Udinese – Milan
-DESCRIPTION:Serie A calcio · 8ª giornata\nTV: DAZN\nhttps://biz4z.github
- .io/Partite/
+SUMMARY:⚽ Udinese – Milan 0-2
+DESCRIPTION:Serie A calcio · 8ª giornata\nTV: DAZN\nRisultato: 0-2\nhttp
+ s://biz4z.github.io/Partite/
 LOCATION:DAZN
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Udinese – Milan tra 30 minuti · DAZN
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2e29a75b13bd6efc@biz4z.github.io

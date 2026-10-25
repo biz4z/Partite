@@ -4,27 +4,13 @@
   "2026-10-18|milan": "3-2",
   "2026-10-21|como": "4-1",
   "2026-10-22|milan": "3-0",
-  "2026-10-24|como": "2-0"
+  "2026-10-24|como": "2-0",
+  "2026-10-25|milan": "0-2"
  },
  "standings": {
   "milan": {
-   "pos": 5,
-   "pts": 15,
-   "g": 7,
-   "up": {
-    "n": "Como",
-    "pos": 4,
-    "pts": 17
-   },
-   "dn": {
-    "n": "Frosinone",
-    "pos": 6,
-    "pts": 14
-   }
-  },
-  "como": {
    "pos": 4,
-   "pts": 17,
+   "pts": 18,
    "g": 8,
    "up": {
     "n": "Roma",
@@ -32,9 +18,24 @@
     "pts": 18
    },
    "dn": {
-    "n": "Milan",
+    "n": "Como",
     "pos": 5,
-    "pts": 15
+    "pts": 17
+   }
+  },
+  "como": {
+   "pos": 5,
+   "pts": 17,
+   "g": 8,
+   "up": {
+    "n": "Milan",
+    "pos": 4,
+    "pts": 18
+   },
+   "dn": {
+    "n": "Frosinone",
+    "pos": 6,
+    "pts": 14
    }
   },
   "milan_eu": {
@@ -351,6 +352,20 @@
   "milan": [
    {
     "d": "2026-10-25",
+    "h": "22:38",
+    "t": "Udinese-Milan 0-2, pagelle e tabellino: Pulisic scintillante, Modric illumina, Bartesaghi convincente da esterno alto, Davis troppo solo, Ekkelenkamp in ombra",
+    "s": "Goal.com",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2t3LVpPa3QxS2NuTzFJZkJ0UWp0NUpldklHdEZYdUt6RlVXSXVXS3FTS1NuV3oxX3R2OTdXNm1yeFdPSVpPakJlaGRXYkZhSnVKYnNiQXNGNFNHeE53c0xING1oc0l4VTNZQzVXdVpodDlfQUFCdHBvTVg4VjBvUzlmRWIxanN5SnR5UXlCbm43ZldrbGtSVXo3MVh0SExaeFdRaXl6ZWJfdGFLdUV5RHNNbXY?oc=5"
+   },
+   {
+    "d": "2026-10-25",
+    "h": "22:37",
+    "t": "L'Udinese stecca per la sesta di fila, al Friuli passa 2 a 0 il Milan",
+    "s": "UdineToday",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYnZ3cnBTc3A5RHFBSjdWQzZTMnE3dW1tcUpwQlE1bU5iZzdEa1hKNkY2ZDNOYXdzSDZhZHc0b0Yxb2lYTmtIMWpBTFoxbWdFTEJLUVkwajBQdXlqb3lHYlVIYzFlZWdqelJ1Vk56WXBsNzdlc1NfN1VpODNWeDhvbzNmTk5LVGhySEVRTGVEZF9LS0ZQdTk3cU1acFBFWE4yYjNQTg?oc=5"
+   },
+   {
+    "d": "2026-10-25",
     "h": "21:13",
     "t": "Serie A, in campo Udinese-Milan LIVE",
     "s": "ANSA",
@@ -379,31 +394,17 @@
    },
    {
     "d": "2026-10-25",
+    "h": "20:34",
+    "t": "!![LIVE-MATCH] Udinese - AC Milan In Diretta Calcio LALIGA spagnola",
+    "s": "Fabryka Norblina",
+    "u": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQdlJFQnJreHo4Um0yRHUtSXJfUXdKYzF2MTJUY0h4SWUwbF9VMmRfamFzUEltSXVCVjRFTGZhdUFDdGJYVzNQMkJqYnF3eS1IWFZHZG45WnZncXBDaENsd1UxdllqbWxFbTJyRHM1dkVEeG9OcHV3N2NRakt1a19jVFFndkJ4WllVcndlRUlMY3ByVFRyeVNMTk5KRE9yZFVpaGZwcG12VzROUzVTMnNSMzVBY21wdUpuQ1JUWWNzLTM3b3FqSUg3VnZPNlRYSktnNERZRHJZTjRXQkdmeEdxb0lYSU9YWmxUc2UwLXcxaEVjcVdFdGV3NWxKUVUxVUJKQVF2bU1VdzZseWwtTkRpYU9YSWMtQUhuemR3ei1sLU53ckVqWkVYTy15Y3V1ajc5TEtfY3hXaTdWVFFNZ1JGcmwwWWp5bzBEQlhITHZSamVfcEhJRk5HTlFDY21xWmJxZmU1dDMyRGd0LTRKWE9GZkRmcWJ5OGo4RWE0MmZiQWdfR0hUekQxeQ?oc=5"
+   },
+   {
+    "d": "2026-10-25",
     "h": "20:01",
     "t": "[Diretta]LaIVE!] Milan - Udinese calcio in diretta streaming dove vederla la partita in 25 ottobre 2026",
     "s": "FC東京オフィシャルホームページ",
     "u": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOcUt3YkxQbTh0eEdOVHNLQl9CQ2F3RjY0YjFOYnhGZTZQOGgyWHdNOVU0cmVtc1l0aGJHRDNrWktLSktIMTdTYWZKMzhjd0FKR29BSUVtbXlhckp2UjNSQnd3cXU5RjN4cVVFSlRwSnRYUlRSbU96X2NiTG9jQmpOMlAycXVMcG5DVDByYjJ2NzEzbWpjT2U4V1Vab0JOR25IRllNOEJiTWg3bk4wVUZpYl9vV3BXWlRTWjc1Z3RJQ0lYRmVGN3g0OUxlSGFndWNCNGdITHRwV0l6R2dlVlVIcXZQbWtLV0xQRC1zUk8tZmtjamFKaFNXN3U0RkE1aVZqVS1OTlQ1VGpqOEJFcmNTTnA0bGR6bHNlTXNsX05ZbWw2TVluNUE5dXZpaw?oc=5"
-   },
-   {
-    "d": "2026-10-25",
-    "h": "19:55",
-    "t": "Diretta Udinese Milan | Streaming video tv: delicata per due (Serie A, oggi 25 ottobre 2026)",
-    "s": "IlSussidiario.net",
-    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWlp6OFJUaEg5a2hWV1pYY1h6X3FTMENORVpzdmdTR3A4cTBMdlVhSTAwZG9oODBrYmtDcGpxQ3k4ODdCbmhxWVVRa2lYal9BTzQ1dV9mWTRZR2R6eFQwMUFKQVQzMkJROWk5X0FJTHBfSG5Ca1Y1MWpLSlR3LTF6TlhLSHJvSzZlTURyMU1HVXZFN2ZHRld3UHkwSnNMcFd3bFk5YTNpX1RtSnlVcE9fNE14d0l5emtwclM0Ri1NaXZBbTVaWUs1OEpn0gHPAUFVX3lxTE5EUjNnWHI2TmcxNHctSXk1RkFUZGpnaC1jMXI3aTN1Y29fN19hVk0xOXVXRzVZbl92YVktWEJfcnNKTjByeC1VUVdIcmR2X2VSWEF4ajZteGwxMEVDZUZfRHBMLVNlR2R1X1RhdEVHaG5wX3BkTGVNWGFxeVNhenRNV19wU3NPT1JxX3RMZWpna3JFanI4dk9fakNMd0tFMnhwc2JzME82dlVpRVVZQWdCZkwwYUNmVVlaTHNHX0JIQW83U1dqT1czUzhCc1Vlcw?oc=5"
-   },
-   {
-    "d": "2026-10-25",
-    "h": "19:36",
-    "t": "⚽ Udinese-Milan, calcio serie A: la diretta live streaming TV 🛑 Notizie dell’ultim’ora 📆 domenica 25 ottobre 2026",
-    "s": "musicletter",
-    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMXBTYTY1S3pfVXFpUHY0bkRzWWpxU3c1dHlrVDBLQlotM2dyZmF1SGVsVWlqZFpQSURFbUhpX2xzWU94ZkZ4aGlJZnBab3ctdVhKSmY5RVJBMjlPSGNGd0dQNGUtVmhTeWpxX2F2Ujk4UWc1RXBPV3BGQ2xrcDZRdWJlTC0wYkVYSVNYTWU0N0ZtU1RlWkdOUDFpdWtldWFDaFZQWHIwNVVUbTkzdV9Gd2oyYXIwQ1RoUlcxMmRaQQ?oc=5"
-   },
-   {
-    "d": "2026-10-25",
-    "h": "19:31",
-    "t": "Udinese-Milan, le formazioni ufficiali: Diawara, Bartesaghi e Hutchinson titolari",
-    "s": "Eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNelVWaFA0bFlEV2FxRWk0VjZqaFlhaGtUZUpoR2xzQTZXTktvSG1zc2R1ajlJNmR5OXY1UldFNmIxUGJmVUNldkRIZEtFZkl5NllIVjFsWUQxeVVsdHlHYkd0bkl0d1EyWUgtaEtycnd1bnp2Z0VCTHlDX3pIVkZQVnRvajlWNEVWeFVLaEVqOVJndGJRdnR0MlhYNjFkSDZQbnVNaXRsRDk2bGNXX3VQbWJGbDNGeHhZYXdlOHEtTWZkNTZwd2FMQVBHRlRDQ3ltTWRnRWdGdk40amlsU2JnVlVHV0pVajQ?oc=5"
    }
   ],
   "cantu": [
@@ -430,14 +431,7 @@
    },
    {
     "d": "2026-10-25",
-    "h": "21:00",
-    "t": "Cantù, molti tifosi ormai si arrendono: si parla già di A2",
-    "s": "Sportal.it",
-    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUtndVBjXzFQVlJzWjZLSTgxS1g0OTNCY3J0akF4bFhHamM5b3d1c1JxLVpsMG5Sc3BXUWJBR3Q5UXdCSkVMTzBqSF9ORzlUTHF4NlBpLUxDZmZxVDdaLTJHZFp2eDdmSWU0MEp2QXl6WlMzM3VvNUtwMWM0UVlpc3hyNFNvSHpON1JmNUx6SnFlRmlWUWJiZ3VUU1V3TFg2X0pLejRQdXUwZw?oc=5"
-   },
-   {
-    "d": "2026-10-25",
-    "h": "20:45",
+    "h": "20:51",
     "t": "Basket, la Una Hotels soffre ma alla fine ha la meglio su Cantù 81-60",
     "s": "Reggionline",
     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZXhOaGR3LUFrMklMOVMta1ZSTm4xSnpmaFIzS0dqQm5Ud1QxVFljb0pTOXNra3pEbFBET2lMYmRaWGpndVNFcldrVnZUbEg3a20zZFRnVmRlNHZfWGpRdERLdWhza3p0RUZlTDRCYjJfRkRzTHk3T3VFOVhXWnpMYjloMkhMVms3cVhXaXozWUk1M01Wbk9tLW84RVZMbjNIYU5oVg?oc=5"
@@ -462,6 +456,13 @@
     "t": "UNA Hotels Reggio Emilia - Acqua S.Bernardo Cantù domenica ore 18.30 (live su LBATV), Severini a -2 triple dalle 200 in Serie A",
     "s": "Sportando",
     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZC1scTVsZTJUVjRNNk96Mm5QaU1LaWNUd3d0WlBXT0VSekFnOG05U2lqN3NNZ0FiaFhoblBtcWJSeDd1eXhDX3AxNUV6bWZPc2NSWndXTU5rZUwyV1JoRHJhVXNBd1NiaHJTUGdzREJWRVVHUWh6TXpUODZ0MC13bEpnVlhKQWJzUGlsZHZFVHR2cFE0RUpZNC1jMHVDUmRfblBCbGtta1V2Qk1XeUxydzRlWFRhNDdGTzJJX2VtcTJtWVR6NUFJV29kVWI2WGFLclNHcW1PTnRvc2JaSkpFbzVlN3JOQQ?oc=5"
+   },
+   {
+    "d": "2026-10-25",
+    "h": "11:44",
+    "t": "Cantù, a Reggio Emilia per uscire dalla crisi: il precedente che fa sperare i brianzoli",
+    "s": "Pianeta Basket",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX0hVX3ZZYzFwdmdPZTlSWmVyRXZ6VVdLRzBXazJiYVZvSWkxVWFsbGZyTjNRLUduaWlESUpEYU9zT3Q2VmJ1dXE5dGF6Z3kxa2ctaDlRMnhoTkFQLVZ0bVZVQkxhOGRYakdPbWFfZm5lLXBTMVhzSk5pS2p5NlpHdlRyS2VicUlNZ01JcUswaERnNFA5MTZYbGctT09sVGQydE9Qckl3UVJ5WU5hbG53T3FxcENqcDRCU0NzUjQtNGRiMTBnazR6OVlzRnN6Z28?oc=5"
    }
   ],
   "como": [
@@ -474,24 +475,17 @@
    },
    {
     "d": "2026-10-25",
-    "h": "10:24",
-    "t": "Scheda Como - Serie A Girone Unico Italia",
-    "s": "Tuttocampo",
-    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSWp1dVl3VGlRaDdqQzVId1ZOcUNZZGZ2YnhDZDdJbEtEU210XzFzM1B1LW5iOWM3Q0NEXzFSXzdPTFJ3eHJYcUFaNTdpNU5KcndWb2ZPU2tpZDQ1T2pxRFd4dmxzUkFFazJJRUZDY1o0ajZIVHhhMW9RZ24wMXFZbF9MZFZxdw?oc=5"
-   },
-   {
-    "d": "2026-10-25",
-    "h": "09:31",
-    "t": "Scheda squadra San Giuseppe Como",
-    "s": "Tuttocampo",
-    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTkYyNDRjVVhHMmhHVWd6azlFc0EyUy1vWU1WbE93Tnk4b0hoMm9PdHNlc1FWRXRYUW9yeWJJOEFFOGJ3cU1BSE9tNEt5M2ZxUUFhU1ZyNWN0MTZXc3BGN1dzcmFJMmw5VjFOX2hubWNZakRrX2NINEZHM1g4cFBpY3BkNzJBbTBOY3o4UHBOY2NzNVJmNUZiZWdDUkRCS1pubVkyUmdSMDhmWVZRQzZiWGY1NldVSHU5MUQyYg?oc=5"
-   },
-   {
-    "d": "2026-10-25",
     "h": "09:23",
     "t": "Gli anticipi: Lazio e Como senza problemi. Pari spettacolo al \"Maradona\"",
     "s": "Calcio Lecce",
     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdVhqenFYRlFOSnJHb1djTVJKQUItRVVJQWZDdG5WQUZjWGxPZVBNZUhETTkyQVBtb0hCbjl1OGFFRHZ3RTltczhLbkd4UnhyQVBtSlNHbUM1cVJVUDE1X0tVbXBYelVUemZSUnZLVnM1VlFQYk1hVkJ4aDlNdm1uR0xLM0h3U1pMaUMwWmZqaDlKaFBXMUpkVGNmRDZIMnRPZDhNeDlLQkFudXM?oc=5"
+   },
+   {
+    "d": "2026-10-25",
+    "h": "08:02",
+    "t": "Scheda Socco - Amatori CSI Calcio a 7 Serie C Open Como - Girone B Lombardia",
+    "s": "Tuttocampo",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWXRuRWhWbS1JZHlmaUdlLXVnQnNEcU1ManNrLVRQREVHSTVXYXVNbVl2dWJQVDE2b0Vla3pibGxybFhkNllJV2Iza2hra2ZkSVpnQlFFMVRVczFPMDlqVGJEZmtSd0JxMzNOVnhtRjEyTjUtdnluSTBGTjdnekI0R2NYN1lnX05JVThCMWd1ZDdhVmVmREVGRmYybjlQUGFxdEN2X0ZDQng?oc=5"
    },
    {
     "d": "2026-10-25",
@@ -502,10 +496,17 @@
    },
    {
     "d": "2026-10-25",
-    "h": "00:05",
-    "t": "Il Como come esempio",
-    "s": "Sportitalia",
-    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NRlhkNHRETUUxNlp3NGo3RGxQdlp6OEtEa1JqVE0yWkU0anB3SHFSWVh2ZzhUVHhUbkEtd0psYWg2cEJfdmZZZjd3VVpXeElzMW9LSUVsMkg0WnkwZVk1dXh6WWdScS1kSGdZ?oc=5"
+    "h": "07:01",
+    "t": "Como - Sassuolo Altre partite: Live Calcio Aggiornamenti",
+    "s": "www.eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQekdDSDZVc0duSzAwWTdqNUNqQkFaRnEwc2xiWjhZRW5rcGxKcWZlcWl3WDJaWC1NT2Zrcmx0QXotUDhRbXVkYXI1Z29qdDNXN3I4RU9rb2FIX1RReE5xQXZzc1dicjlralVRUGUxQzU5NHhTUHlzY29SbzVjWmlYcDdzTEY5SHZUZTRCdnNaQjVrUzJnVkFsaUtsOTc0OTFS?oc=5"
+   },
+   {
+    "d": "2026-10-25",
+    "h": "00:06",
+    "t": "Le parole di mister Colantuono prima di Como 1907-Sassuolo",
+    "s": "U.S. Sassuolo Calcio",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnBIaXlEcVN0dU5IWk5hdWd5Y1l5YjBKN1lxbDM0clFrbEYyYVR1VlA2RHFCRUJKRnRSOElsenViMXYyMC1ZeDc1UU5wbjhOOFRpZWtSU3VmUEMwUjlUM21JOUxlX0hWQVdlemdOSV94ZV9xVTZtWmdyV2RNbkhvWFBkSS1JakgyT1hmbVprdUlCME9KLXJrSW1lUk00V1lF?oc=5"
    },
    {
     "d": "2026-10-24",
@@ -516,20 +517,14 @@
    },
    {
     "d": "2026-10-24",
-    "h": "21:47",
-    "t": "Scheda Como - Allievi Nazionali U17 Serie A / B - Girone B Italia",
-    "s": "Tuttocampo",
-    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlkxbkRSd1FsZ1hxaDBfNzdjOTk2Z2txZno5UzlDUi1FZ05iSndSY1B1enBXdm1PYVRLNnZPSF9NTGhnc2s1RXVVMUNvaXhPRFBYLWJUakpEb3lSa1RfTXNEeFItcC1OVnFTOXlPSDNNYXJnMmd1bTJIUGVPak1JU1FONFpBQnJ4aEg2c2Zqb3YxN3RLVTE1ekR2Yw?oc=5"
+    "h": "20:46",
+    "t": "Colantuono prima di Como 1907-Sassuolo: \"Le ragazze meritano un risultato positivo\"",
+    "s": "Sassuolo News",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWJQbEIyTFVoa25YNWxndHNqTkpERmt1RnE3VHlsUUdhUWRyTW1pQnlRcXFYU0pvY3BqRHZlUTctX3owVGZjRWppdmxwSTdsWWNpM3hveHBFZXltU3ZlamdjV3JOMGFTNDdYQnN5SHhlRWZzaG85TVA1YU9ERkZEbTFqYm1rLWZTMG1MQV85ZzI0UWI1Z1NUSnJVNDhhOEpQLWViQmxuVmJMU016b0xvT2tyMnpfMTFTbTVZQi1IcTdzMXM?oc=5"
    }
   ]
  },
  "fixtures": [
-  {
-   "date": "2026-10-25",
-   "team": "milan",
-   "match": "Udinese – Milan",
-   "time": "20:45"
-  },
   {
    "date": "2026-10-28",
    "team": "milan",
@@ -897,11 +892,6 @@
   "cantu": "https://r2.thesportsdb.com/images/media/team/badge/vy599w1784567424.png/small"
  },
  "odds": {
-  "2026-10-25|Udinese – Milan": {
-   "1": 20,
-   "X": 27,
-   "2": 53
-  },
   "2026-10-27|Torino – Como": {
    "1": 21,
    "X": 26,
@@ -923,11 +913,11 @@
    "2": 43
   }
  },
- "updated": "2026-10-25T21:28:26+00:00",
+ "updated": "2026-10-25T21:53:36+00:00",
  "log": [
-  "non finita Udinese – Milan STATUS_IN_PROGRESS",
-  "classifica milan 5 15",
-  "classifica como 4 17",
+  "risultato Udinese – Milan 0-2",
+  "classifica milan 4 18",
+  "classifica como 5 17",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
   "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
@@ -937,10 +927,10 @@
   "stampa milan 8",
   "stampa cantu 8",
   "stampa como 8",
-  "calendario milan 31 partite future",
+  "calendario milan 30 partite future",
   "calendario como 30 partite future",
   "ERR logo cantu HTTP Error 403: Forbidden",
   "loghi ['cantu', 'como', 'milan']",
-  "quote 5"
+  "quote 4"
  ]
 }
