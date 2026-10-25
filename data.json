@@ -904,8 +904,8 @@
  "odds": {
   "2026-10-25|Udinese – Milan": {
    "1": 21,
-   "X": 25,
-   "2": 53
+   "X": 26,
+   "2": 54
   },
   "2026-10-27|Torino – Como": {
    "1": 21,
@@ -923,7 +923,7 @@
    "2": 43
   }
  },
- "updated": "2026-10-25T00:41:38+00:00",
+ "updated": "2026-10-25T01:48:34+00:00",
  "log": [
   "non finita Udinese – Milan STATUS_SCHEDULED",
   "classifica milan 5 15",
