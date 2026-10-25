@@ -72,7 +72,7 @@
    "pts": 0,
    "g": 4,
    "up": {
-    "n": "Scafati",
+    "n": "Tortona",
     "pos": 15,
     "pts": 2
    },
@@ -297,7 +297,7 @@
    "pts": 0,
    "g": 4,
    "up": {
-    "n": "Scafati",
+    "n": "Tortona",
     "pos": 15,
     "pts": 2
    },
@@ -356,6 +356,13 @@
   "milan": [
    {
     "d": "2026-10-25",
+    "h": "13:16",
+    "t": "Udinese, con il Milan vietato sbagliare",
+    "s": "RaiNews",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRUktZHMtWDhZdjRrd241NGw4UkdKLVpkbDVTQXA0VzlhdldCZFNGTkVtZUxaN0xXTnNwQjhSbmF1QnRqVjB6QURkQW1nbDNpZEdZUVh0SXJ3WnFTNUpGQUhVaGFPTGNDWVJkbHUzbG9ONEdENURPN0pmaGxiYmhxbEZ3MDBsb0VKcE1QODRZMG1TU1dDcW1EcVBIcFhpOFp0S2tvX19HT0hPZERoTXVqdWtSTy03Qmlqenl2OWtYZWNDWkhBeVZZ0gHMAUFVX3lxTE8zNTNESF9nMHFTcXZ5R3NtT05jUTZLU210TjZORUNiNk1Gb2JNRnZmMm11Q19sX1M5bkFVVWVzb0xuVEJicTlQYXpMamhMS25TOW5meHpNdkNWMGs1SWZCa2s4ZEtvcGQ4MkFMa3ItdlFaQ1l5UWltdmQyVUZhdTdiUjRzV19WYmRYRUM1N3lQSUt1cng2SkRoMGhRNmJKQm53cWJRRFEtLXMtcTRWS0xMbkNxcGZmT2xZaDVmYkxTdGRyYmZ1cmV5SEI1VA?oc=5"
+   },
+   {
+    "d": "2026-10-25",
     "h": "12:38",
     "t": "Formazioni Udinese-Milan: le ultime sulla partita e dove vederla in tv e streaming",
     "s": "Goal.com",
@@ -402,16 +409,16 @@
     "t": "Milan: Gila e Moreira recuperano tra Bologna e Derby, qualche dubbio in più su Rabiot",
     "s": "Sportmediaset",
     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ1RiQW00YzNZTWcwdmZWTUpQRkJRYUJ2c0N2Y0VhTnVlNEJ0ZExINjZwVGNmYTc4NlFNR3BEcUVob3pGQmNTLUJJMkJubHNUdVM2OFRNRlRsdUYtV2FoZDZNS1NPNVVWaXh0THlXUGFFWjhfdEh4cVZwYUZvV0NpcDZJd2NSaktGUzV2SDNLUGZVTTZ3SHhsbXdUSVYtNnRXU1Y5bTdsREFLelV6cDN3cUx1OWdhd1JiTHNnLWJWM2dIQUVfVXE3Snp3YzdpV05IRk9vSmpIc01zamtTRVNjcjBrSVMxNjA?oc=5"
-   },
-   {
-    "d": "2026-10-24",
-    "h": "20:31",
-    "t": "Udinese-Milan, le probabili formazioni del match di Serie A",
-    "s": "Sky Sport",
-    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNzhjY1lLM0hTVWZHa3RlcXEyWkRETEs4S0ZkSlA4dERBc0RDTjl0NHotWklodUNxamthYXNtbGJBM21HNjRTUE5qT1RwM0JwbkE2Sk51aDVTbzdldnJMczI3SGxtUm40bXVpRE5VaGk2Umx5SWVpNVFHM1lRRU1ucW5kLTVUdUl1cEFjeU1ndkNHS28wMGJv?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-10-25",
+    "h": "11:57",
+    "t": "UNA Hotels Reggio Emilia - Acqua S.Bernardo Cantù domenica ore 18.30 (live su LBATV), Severini a -2 triple dalle 200 in Serie A",
+    "s": "Sportando",
+    "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZC1scTVsZTJUVjRNNk96Mm5QaU1LaWNUd3d0WlBXT0VSekFnOG05U2lqN3NNZ0FiaFhoblBtcWJSeDd1eXhDX3AxNUV6bWZPc2NSWndXTU5rZUwyV1JoRHJhVXNBd1NiaHJTUGdzREJWRVVHUWh6TXpUODZ0MC13bEpnVlhKQWJzUGlsZHZFVHR2cFE0RUpZNC1jMHVDUmRfblBCbGtta1V2Qk1XeUxydzRlWFRhNDdGTzJJX2VtcTJtWVR6NUFJV29kVWI2WGFLclNHcW1PTnRvc2JaSkpFbzVlN3JOQQ?oc=5"
+   },
    {
     "d": "2026-10-25",
     "h": "11:44",
@@ -460,29 +467,29 @@
     "t": "Basket, al PalaBigi arriva Cantù. Priftis: “Vincere a tutti i costi”. VIDEO",
     "s": "Reggionline",
     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV1BCbjg5UjNhVzlYS0lSMzFFeHNUc09sWVRiZ3hyY0RpS1dOaXdaT3F2YWMyNHVFanhBY3VtbEVUd3VRMGgxUktnc1BPRkI3cVBTQW00QnFEQ0dOczlRNHNkTXFXVW50MnI3X1JVSWJqVXMxOTc1eVVkTTBWVUJRT0ZkbWdrazdBbkVQVnVkdGZERVRMVG9VT2F3?oc=5"
-   },
-   {
-    "d": "2026-10-24",
-    "h": "12:28",
-    "t": "Reggio Emilia sfida Cantù, Priftis senza filtri: «Vincere a tutti i costi»",
-    "s": "Backdoorpodcast.com",
-    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NdzBfa3VXQVQ0U1RMTHBKZk0xbjByVnFRZzVVaktYVjN4djkyMG1ZSGQ0a1I1dGhkYUNtck44d19lNVVibVgwanpQTkhTU0NzeEx4NGg0OGZ5MFBEUHlIMUFwWkZmVVdQMHJVY0trOFo?oc=5"
    }
   ],
   "como": [
+   {
+    "d": "2026-10-25",
+    "h": "10:24",
+    "t": "Scheda Como - Serie A Girone Unico Italia",
+    "s": "Tuttocampo",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSWp1dVl3VGlRaDdqQzVId1ZOcUNZZGZ2YnhDZDdJbEtEU210XzFzM1B1LW5iOWM3Q0NEXzFSXzdPTFJ3eHJYcUFaNTdpNU5KcndWb2ZPU2tpZDQ1T2pxRFd4dmxzUkFFazJJRUZDY1o0ajZIVHhhMW9RZ24wMXFZbF9MZFZxdw?oc=5"
+   },
+   {
+    "d": "2026-10-25",
+    "h": "09:31",
+    "t": "Scheda squadra San Giuseppe Como",
+    "s": "Tuttocampo",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTkYyNDRjVVhHMmhHVWd6azlFc0EyUy1vWU1WbE93Tnk4b0hoMm9PdHNlc1FWRXRYUW9yeWJJOEFFOGJ3cU1BSE9tNEt5M2ZxUUFhU1ZyNWN0MTZXc3BGN1dzcmFJMmw5VjFOX2hubWNZakRrX2NINEZHM1g4cFBpY3BkNzJBbTBOY3o4UHBOY2NzNVJmNUZiZWdDUkRCS1pubVkyUmdSMDhmWVZRQzZiWGY1NldVSHU5MUQyYg?oc=5"
+   },
    {
     "d": "2026-10-25",
     "h": "07:16",
     "t": "Dove vedere Calcio Como 1907-Sassuolo in diretta tv e in streaming: canali, data, orario e formazioni",
     "s": "Goal.com",
     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdGExb0NsVjVMUXFRM0RuUE13cUNJQWI5bWs3TzFNMjRLQ3hoRVY1N1ZKYzYwWVVMRkduYkx4RlRRdFhZOFprbGs1RTdnZkp6aHAxNkJXOTJleTNsVHZlV0pqMlVNWUl6a2FkOV84czJZOU5HMGV6N2VQM1Bja2g1OE1DdUgwUm1RY3hsSWVKYm1hYzByVUx0b0JiNlZmaWdNcUZSelI2c3lUQ0NSZ2tGb3dzd1BYTjdx?oc=5"
-   },
-   {
-    "d": "2026-10-25",
-    "h": "07:01",
-    "t": "Como - Sassuolo Altre partite: Live Calcio Aggiornamenti",
-    "s": "www.eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQekdDSDZVc0duSzAwWTdqNUNqQkFaRnEwc2xiWjhZRW5rcGxKcWZlcWl3WDJaWC1NT2Zrcmx0QXotUDhRbXVkYXI1Z29qdDNXN3I4RU9rb2FIX1RReE5xQXZzc1dicjlralVRUGUxQzU5NHhTUHlzY29SbzVjWmlYcDdzTEY5SHZUZTRCdnNaQjVrUzJnVkFsaUtsOTc0OTFS?oc=5"
    },
    {
     "d": "2026-10-25",
@@ -518,13 +525,6 @@
     "t": "Ancora festa per il Como, la doppietta di Douvikas stende il Sassuolo",
     "s": "ANSA",
     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjNvSnRENnlpZFBCZVdobXAxUmxkMkpYY3ZfUUhMcEE2U3oxdVdHZ2lyQjB1cjgtOTlkSXJqandYX3ZkV3J5RUtYY1N0aHhvamRNeEhLdDJ3R2dSTmJPNnU1UjgtWk50YkZzeHJEZU9RcmRUQzRSeWdsbWtGMmRiZ1ZyXzFXdEN0X28zT2FNWFpPdEpjVDJEeWpfaHVMMFNkZTRxdjVrZWZ4VTFEMDF0Zno5VGxSNkw3eEFwdUpqaFg3UQ?oc=5"
-   },
-   {
-    "d": "2026-10-24",
-    "h": "18:13",
-    "t": "[Diretta]sTREAMING!] Sassuolo - Como Calcio oggi in tv 24 ottobre 2026",
-    "s": "小豆島町",
-    "u": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQaEo2YnJGZjN2NHdLVUNWcDlSZkZjUElwdE52Uk9lZV9pS2RVR3lfaFA0TTZCVmtWQnRPX2Zoalg2Tko4d3VOS0ZkOGdFYkhTQm1KMktvb1oxZ2F3TFhmZWRSWEJiaXo4YklaQ1RQTE15dGVyUFZGRk9yM09uTHRfeFRwUGlyZGdpbUs3ZkpQZUtvV3RBWEMzMnkwV1RmMFVJS092LWdPQmkycmRyN1Nzcnh5dFgtU1FBXzV3SVpPRVdSaWp0ZFJmdVJETHhFdzQwSGlIT3VCejFlTHMtREJLU3dILXFqUktKcEtrS2dyODZOUzFzc2NyLVNxVUpjRWJFdTFpQ3ljTGl5UmFoZFQzQ1p4UE1keFRXUHE3ZkJJN19iSGlkUUNjcEpLaGlhdkJBN0NpX0xEbU5fQlc0djNJVDAxbVl3dEZTdlV2WU9xcU5VZzZ0Nm45RDVFejZyN1BIV05obFdDZWN1TWVXOVNR?oc=5"
    }
   ]
  },
@@ -923,14 +923,14 @@
    "2": 43
   }
  },
- "updated": "2026-10-25T12:17:54+00:00",
+ "updated": "2026-10-25T12:59:59+00:00",
  "log": [
   "non finita Udinese – Milan STATUS_SCHEDULED",
   "classifica milan 5 15",
   "classifica como 4 17",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 4, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 4, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
   "notizie cantu 3",
   "notizie como 2",
