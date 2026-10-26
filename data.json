@@ -308,6 +308,11 @@
  "news": {
   "milan": [
    {
+    "d": "2026-10-26",
+    "t": "Bartesaghi MVP di Udinese-Milan",
+    "u": "https://www.acmilan.com/it/news/articoli/awards/2026-10-26/bartesaghi-mvp-di-udinese-milan"
+   },
+   {
     "d": "2026-10-25",
     "t": "Pulisic e Hutchinson firmano il 2-0 contro l'Udinese",
     "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-10-25/pulisic-e-hutchinson-firmano-il-2-0-contro-l-udinese"
@@ -316,11 +321,6 @@
     "d": "2026-10-25",
     "t": "Udinese-Milan: la presentazione",
     "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-10-25/udinese-milan-match-preview"
-   },
-   {
-    "d": "2026-10-23",
-    "t": "Comunicato Ufficiale: Cristiano Dotta",
-    "u": "https://www.acmilan.com/it/news/articoli/media/2026-10-23/comunicato-ufficiale-cristiano-dotta"
    }
   ],
   "cantu": [
@@ -410,6 +410,13 @@
   "cantu": [
    {
     "d": "2026-10-26",
+    "h": "11:02",
+    "t": "Due avvicendamenti a Cantù in settimana: chi è a rischio taglio",
+    "s": "Sportal.it",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUVQxMmVGMzlMVXpfRFhJRWd6Qkl0R2VYeXNhLU5HQU5xVjJONmZPcnZubkxFT0NodHkwVEZqczViN2ZfbG15MjF6T1c1b3FIZE9FX0ZnQ0g3SzY4ZkZVd3YzMHlBWGRUSTZzUENfOG1FMTJ2a2lMMXFzMURJZ2Jxb2xxaWg5TmluUnNlMjVfc1BlTll4RjgyMHFtOU82YnhNaElQbktlTUVMUWk3aXJrXzNR?oc=5"
+   },
+   {
+    "d": "2026-10-26",
     "h": "10:09",
     "t": "Cantù non reagisce: Frank Vitucci auspica rinforzi immediati",
     "s": "Sportal.it",
@@ -421,6 +428,13 @@
     "t": "Cantù ultima, contestazione Eagles. Giofré accelera sul mercato: attesi due cambi",
     "s": "Pianeta Basket",
     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbi1OSm9xZWhnaGc4cnZYdlNIOGRhYlBrVF83c2F1d2diZDBGUDBNc1VtRWF5MHlHVHVWMWRBNjkwbkFFNVFyWTBpNjlrdzRlQ1Yzay1PZG00Z05KZjF1QUs0LVdYdU44T2JweEFEcHdxNjlmSTdBZ3lJX0NhRGJmblZhcTBwWElTTV94YnNTZDVXQmNYaWptWllzZmFTZ3g3Wi03UHp5RTdrcURzZE9jaEk5ZFdLZGc?oc=5"
+   },
+   {
+    "d": "2026-10-26",
+    "h": "09:45",
+    "t": "Pallacanestro Cantù 26-27: giocatori sotto contratto, durate e mercato",
+    "s": "Backdoorpodcast.com",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYjR6VFpvWWZfY2dwQVdmbFhVZU9Nc2FITzhVMjEzVVktRG5QZnlYSDdjOHVQWUZORlk3Q1FaWEZjX2syVUctd0d3RHlBUkFrV2NjU2wyV1F6c3dfYU1vbk5PeTdTcGV5cUJ5WXFhYV9Mb2RwSVhJUGdRQlRWRl85eFUtUVlRSDRFclZFSHhrSnIwRGRLSkE?oc=5"
    },
    {
     "d": "2026-10-26",
@@ -449,20 +463,6 @@
     "t": "Pallacanestro Cantù, Vitucci chiede altri interventi sul mercato: Non possiamo aspettare",
     "s": "Sportando",
     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMU5vNF83NFdFT0g4UkJMZlVtSTBNMm1FZ1lIanRuXzhuZEdtWG9ZTlppSDVacHhtdlNYLVVzN3lTemF4elFrMk4zaHFzZnMtaHNxZEo1TUF4dS1TcEh4azljSG55VXpjd21ubmtlbXhEZHFrd2RGbVlpREFnXzFaVjc2SU1FcmlGMDJKYi1ZdEMzczhhYVQyck1kcFB2cGhxQzRwYjRKUTZLemFBU3ZNa0ppZnYzYjg?oc=5"
-   },
-   {
-    "d": "2026-10-26",
-    "h": "06:02",
-    "t": "UNA Hotels Reggio Emilia - Acqua S.Bernardo Cantù | Highlights Serie A SisalClub 2026/27",
-    "s": "Tuttosport",
-    "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOc2NwOG1IMjFZUl91ekJHODdROC0xdWtfVURYZ1h3dHhfWkdleVdPNlFHcVJxbFZhb2pUY1c1UzdSbmN3UlA0OVlQREQtRVQ3bVExWE9ZQWZ5Rzg2WmEyYW12Z0xGRXVaQUFxQV93NVJQMkNVdlplaU5VVEhjZGRTWXdIdmF2YXRQQmhKMVR1V0ZQekNmbGVlQkNaNmdqRkpFUjhyRjMzTkxnSl9Iak1qNlpxQnB6X0ZJeExwZ2EydjRZNkhMYXFQZWIzUUZnckpHNG9VUWdkV1dOV2VDQW9NRl9nbjl3Qk8wSENz?oc=5"
-   },
-   {
-    "d": "2026-10-26",
-    "h": "03:30",
-    "t": "Varese-Cantù, l'esame per confermare le imbattute",
-    "s": "La Prealpina",
-    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbENlWGRfNjgtY01LYmtYU3pBbWRROUFhdDdxRTZCeEd4Rm55TjFrdFJsWVBqdXBZdHZWRGlwcWo1MEhEdGV5REFlN2s0eE9DRTg2LXExanF2WnJ4b3ZReDdHUDdGa2NSU09VZkNMMk5CX2Zuem9MRlNqVk9YVnBQY2p4SWpPcXVkaHlCeEc1ajA0QU9qZEh6Zmd3VzA?oc=5"
    }
   ],
   "como": [
@@ -918,7 +918,7 @@
    "2": 43
   }
  },
- "updated": "2026-10-26T09:49:32+00:00",
+ "updated": "2026-10-26T10:25:56+00:00",
  "log": [
   "classifica milan 4 18",
   "classifica como 5 17",
@@ -927,7 +927,7 @@
   "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
   "notizie cantu 3",
-  "notizie como 1",
+  "notizie como 0",
   "stampa milan 8",
   "stampa cantu 8",
   "stampa como 8",
