@@ -299,15 +299,10 @@ UID:2e29a75b13bd6efc@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261027T204500
 DURATION:PT2H
-SUMMARY:⚽ Torino – Como
-DESCRIPTION:Serie A calcio · 9ª giornata\nTV: DAZN · Sky / NOW\nhttps:/
- /biz4z.github.io/Partite/
+SUMMARY:⚽ Torino – Como 1-3
+DESCRIPTION:Serie A calcio · 9ª giornata\nTV: DAZN · Sky / NOW\nRisulta
+ to: 1-3\nhttps://biz4z.github.io/Partite/
 LOCATION:DAZN · Sky / NOW
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Torino – Como tra 30 minuti · DAZN · Sky / NOW
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6981ee8ee2118477@biz4z.github.io

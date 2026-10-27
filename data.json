@@ -5,37 +5,38 @@
   "2026-10-21|como": "4-1",
   "2026-10-22|milan": "3-0",
   "2026-10-24|como": "2-0",
-  "2026-10-25|milan": "0-2"
+  "2026-10-25|milan": "0-2",
+  "2026-10-27|como": "1-3"
  },
  "standings": {
   "milan": {
-   "pos": 4,
+   "pos": 5,
    "pts": 18,
    "g": 8,
    "up": {
-    "n": "Roma",
-    "pos": 3,
-    "pts": 18
-   },
-   "dn": {
     "n": "Como",
-    "pos": 5,
-    "pts": 17
-   }
-  },
-  "como": {
-   "pos": 5,
-   "pts": 17,
-   "g": 8,
-   "up": {
-    "n": "Milan",
     "pos": 4,
-    "pts": 18
+    "pts": 20
    },
    "dn": {
     "n": "Frosinone",
     "pos": 6,
     "pts": 14
+   }
+  },
+  "como": {
+   "pos": 4,
+   "pts": 20,
+   "g": 9,
+   "up": {
+    "n": "Roma",
+    "pos": 3,
+    "pts": 21
+   },
+   "dn": {
+    "n": "Milan",
+    "pos": 5,
+    "pts": 18
    }
   },
   "milan_eu": {
@@ -897,11 +898,6 @@
    "X": 18,
    "2": 12
   },
-  "2026-10-27|Torino – Como": {
-   "1": 20,
-   "X": 25,
-   "2": 55
-  },
   "2026-10-28|Milan – Bologna": {
    "1": 56,
    "X": 25,
@@ -913,9 +909,9 @@
    "2": 45
   },
   "2026-11-01|Como – Venezia": {
-   "1": 69,
+   "1": 71,
    "X": 17,
-   "2": 13
+   "2": 12
   },
   "2026-11-04|Lens – Como": {
    "1": 32,
@@ -923,24 +919,24 @@
    "2": 44
   }
  },
- "updated": "2026-10-27T21:25:00+00:00",
+ "updated": "2026-10-27T21:59:54+00:00",
  "log": [
-  "non finita Torino – Como STATUS_SECOND_HALF",
-  "classifica milan 4 18",
-  "classifica como 5 17",
+  "risultato Torino – Como 1-3",
+  "classifica milan 5 18",
+  "classifica como 4 20",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
   "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
   "notizie cantu 3",
   "notizie como 1",
-  "stampa milan 8",
-  "stampa cantu 8",
-  "stampa como 8",
+  "ERR stampa milan HTTP Error 503: Service Unavailable",
+  "ERR stampa cantu HTTP Error 503: Service Unavailable",
+  "ERR stampa como HTTP Error 503: Service Unavailable",
   "calendario milan 30 partite future",
   "calendario como 30 partite future",
   "ERR logo cantu HTTP Error 403: Forbidden",
   "loghi ['cantu', 'como', 'milan']",
-  "quote 6"
+  "quote 5"
  ]
 }
