@@ -382,7 +382,7 @@
     "d": "2026-10-27",
     "h": "11:07",
     "t": "Allarme in casa Milan: Amorim trema verso il derby",
-    "s": "newsmondo.it",
+    "s": "News Mondo",
     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeldqNWx0X0JobzhmdWJ5aWMxb2lqbDFNNkhsYzJFYmxvMDhGeEYxcTYzdUlMTmdQRDVhMFdaT2I1dHVyekRseWVsWE5XU0Vob3dTa1hZYjNIVEdSZmNLS3d5QzVSR2pzY3pjeGQ3WmtlMzJuWlNjX1dHRlNXVlRQSGMycw?oc=5"
    },
    {
@@ -468,6 +468,13 @@
   "como": [
    {
     "d": "2026-10-27",
+    "h": "16:12",
+    "t": "Serie A: Torino-Como in campo alle 20.45 DIRETTA",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPalZLUmxoVzZRanl5dHI5azkwRHlhS0tkYnlpdmNyYURqaGwzLVE0ejVyR0N4NWZCTFR1TzlFWXJXLWR6dHVhSkJxWTVtUUhLRzFYTzlyR2gwUzA5Tnh1RnNMQlpIRXdPWERrZ2tKRlpPcURUQ3QtZTJaVmFmSVJPQXBGNDU5NDF0d3VaaXFQRXU5RF80UHZqaDdYd20xU2hZbWlCSHN6VDBiT2NtNDdybGpEVExCbmg3M2ZlT1RUY3d5MTFSZjFHb2cyWExQNkgzN2hoVVI1aUZseTBBdXZF?oc=5"
+   },
+   {
+    "d": "2026-10-27",
     "h": "14:10",
     "t": "Sànchez al posto di Butez, poi la formazione tipo: le scelte dei lettori di Calcio Como",
     "s": "www.calciocomo.it",
@@ -503,13 +510,6 @@
    },
    {
     "d": "2026-10-27",
-    "h": "11:05",
-    "t": "Scheda squadra Como 1907",
-    "s": "Tuttocampo",
-    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMVdURVFfZ3NweDhoVFhoMk15VF9vT3dSeGZzUEJ2c2ZrWThici1DemlYOWp0T29QNDd2UU12cm5PWlVVTkxsRDF5ZDdKajJpVE54T2NuQS1BU2N0M3NYbVJDWVVLMVRfZlVhWndEXzloTkVpLTRQQlhDNjVGcWZOWTdiMzJ5X3ljRGxjT2hXY0FGaU5veEhfNGVHVXFZSGs?oc=5"
-   },
-   {
-    "d": "2026-10-27",
     "h": "10:39",
     "t": "Como, c'è anche Revolut Business sulla terza maglia: la partnership va oltre il campo",
     "s": "Sportmediaset",
@@ -517,10 +517,10 @@
    },
    {
     "d": "2026-10-27",
-    "h": "09:01",
-    "t": "📰 Torino-Como, serie A calcio: diretta tv live streaming 🛑 Notizie dell’ultim’ora 📆 martedì 27 ottobre 2026",
-    "s": "musicletter",
-    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHY5MUZ5ZmpnYlB3ckMzOXVMSTd4cDlkUk4wWlRfQUtBUTBEMlN4OWg0VjFJSTNDTExrTllPVGJ0ekZEV0l5aDY3YzFMN0JkNzk5cXgtcEJQRzRKZ3lQcFpmdlZjZ25sNzcyWmlnUk5WMDdCbUFuSzZLMzhiUWE3SE92a1MydnVrcEx0VnR0QW1pMENMWFFsVkJTQ0FTMHRHNXVtOHI2VVRMV1BMclI2TDhqZ0Q4c01J?oc=5"
+    "h": "10:15",
+    "t": "Scheda squadra Como 1907",
+    "s": "Tuttocampo",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR2NEOGFMcWdOdmRwaDYySF9wTWhYWnR0Y1k2Z1A2dUZvazlJNk9aMVpmZ3pSS3ZvS29GWElBN1pKOV93dE9KVy01azY3X0ZpRzF5UjNXQWVzUzdIY2V1RHNaNE1MeDNBMDY5c0xlNTU4bDg5SFZxY1ZVWVA2dVlqOGMzc2dnZmRCYlR3Z0dCWUM?oc=5"
    }
   ]
  },
@@ -923,7 +923,7 @@
    "2": 43
   }
  },
- "updated": "2026-10-27T14:49:23+00:00",
+ "updated": "2026-10-27T15:32:23+00:00",
  "log": [
   "non finita Torino – Como STATUS_SCHEDULED",
   "classifica milan 4 18",
