@@ -352,6 +352,13 @@
   "milan": [
    {
     "d": "2026-10-27",
+    "h": "14:00",
+    "t": "Milan, è emergenza verso Bologna: out Gila, Rabiot e non solo",
+    "s": "Calcio Bologna",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMV9JYkJZTnZKV2tXMUFaZTJqOFhSWmU4Z0RWdzN3Mm91MTFiaWt0LUxNMEx6aV9KTjIxNHR2SGZqYVVQS1ZKUTlZcHp1Ql9mRGFDX1pMUUxTUWtKbGZNWkVMTEhTekdWZ3hpV3RJc1JucW9NM2owM29KOU80MWdqOURZVEtjXzVicXpwZmtrV2hFdnJTQ3lpWnkyMnM5RW5W?oc=5"
+   },
+   {
+    "d": "2026-10-27",
     "h": "13:04",
     "t": "Milan-Bologna: anteprima, probabili formazioni e consigli fantacalcio",
     "s": "Calciodangolo",
@@ -370,13 +377,6 @@
     "t": "Allarme in casa Milan: Amorim trema verso il derby",
     "s": "newsmondo.it",
     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeldqNWx0X0JobzhmdWJ5aWMxb2lqbDFNNkhsYzJFYmxvMDhGeEYxcTYzdUlMTmdQRDVhMFdaT2I1dHVyekRseWVsWE5XU0Vob3dTa1hZYjNIVEdSZmNLS3d5QzVSR2pzY3pjeGQ3WmtlMzJuWlNjX1dHRlNXVlRQSGMycw?oc=5"
-   },
-   {
-    "d": "2026-10-27",
-    "h": "10:19",
-    "t": "VIDEO. Milan, emergenza infortuni verso il derby: 8 giocatori indisponibili",
-    "s": "Sky Sport",
-    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU3FkQ2tLNnNIYi1tOUQtWUppUnEyRE50RXdPVks5RkhPdWRYTVBCdHJIUHZCZDBEWGpwdkZ1ZnJyeUpuSVNySXJlVDV5M0YtQ1IydGNybTVSSjlDeUg1c3JBZGczVkxIeUl5cVBtNktsdTNidG5BNi15cE9WX0dxa3VnMk9IQQ?oc=5"
    },
    {
     "d": "2026-10-27",
@@ -923,7 +923,7 @@
    "2": 43
   }
  },
- "updated": "2026-10-27T12:23:10+00:00",
+ "updated": "2026-10-27T13:15:52+00:00",
  "log": [
   "non finita Torino – Como STATUS_SCHEDULED",
   "classifica milan 4 18",
