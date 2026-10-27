@@ -352,6 +352,13 @@
   "milan": [
    {
     "d": "2026-10-27",
+    "h": "15:26",
+    "t": "Milan-Bologna, come seguire la diretta: TV e streaming da San Siro",
+    "s": "DerbyDerbyDerby",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdzVOZ0FtTzNEOGV1V3VfT0VjSnlSV0JfakdFZXBYT19mbUNfSzRsS0o2aUtZcUpBUDZOQkZaN0laazJ2Wk9YZ2pvU1JHUUFjeVdEakdjQVNvVE96cFBIUk41dGV5WVdSOUdlUkZhQmYtaENieHh4dlU1Qkg3LUdQWEo2SzFBVGVNdm43SkRTdHhvRUVLVHo5RmNENGdKTVVXc3R5VGxQSEpud9IBrwFBVV95cUxQT2dWLTlpakREekxDSnVuanQxYXEwTmRERTVDUEZUNW0tZEVXN2xweXZvUHlMWUlqRFhnRTBjclJkN2Yzb1R5QjN5azFvcDhubGNlM0d2R3FpQWc4cG5OQ0xoYl94bmk0ZXMxdUlVWHFFdXplQ3cyeHFZTEhMYm1BbWJqN3paV0l3Y05nUlk2ZWs3elNLbVkwb2Z3b3Vva0xEN1hPSnJHbmNLVzU4Vm5R?oc=5"
+   },
+   {
+    "d": "2026-10-27",
     "h": "14:00",
     "t": "Milan, è emergenza verso Bologna: out Gila, Rabiot e non solo",
     "s": "Calcio Bologna",
@@ -398,13 +405,6 @@
     "t": "Pulisic-Milan, è fatta per il rinnovo sino al 2031",
     "s": "TaorminaNews24",
     "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mZVN4UThuUmZpVGRYaHNFRmpFRzgyUlpYbi01MEE3Q1Q0bVM1LVJudno4aWFvTlY0LWEtLUlaeWJtek5Ra2NXQVlwOVNZZnVTVk9qUzVKLURJSnZmNmxLMXhET2Y?oc=5"
-   },
-   {
-    "d": "2026-10-27",
-    "h": "07:29",
-    "t": "Milan-Bologna: probabili formazioni e diretta. Dove si vede in tv e streaming",
-    "s": "Tuttosport",
-    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2l5Wk5vdXo3RHByZE1OcHpYU3dRSTQxOUw5RC1kMUh3WF9XWTc1djhNR0ZzenNkYml2bGFjNVZYYkttY0xLVjBSNWZzWTFUN19FcHlrT21PcDVHRjVIOVJVbXNoLTBtWk9xWk5BaS0wQjJNYU1LU1dwbGozYjJ4SDNSMkZWTm82bFNmYWJ5U25VR2wwWkJPbndTRXpYWXk1UDAyMWVRc3h1c1YtSFpIclMtVFctdVZyYXRFYTREYlYwM2RjSWdIVEJHbVNsZlVrRUhJZnVqLXNjUnfSAd4BQVVfeXFMT1kwa0dhUGtOU1RTeFF1RkZLcWZjdDItZ2RUQ0YtbjREYXdzYTktQzFqeG4zWElSVTRmU2NTV0ZFcjh3UVNnZG1MWlNLUmFROERsXzZ3TGMwMXotNFdjR0Y1VHVKaG9uel90MmZ3WVBIc1M4cHZ5ZGltd2xNTXBCSWx2SVd5ZXY4dzlWM2xqM0VpbGZzMGs4ck5JaGx3MWFBaUtoVkhqRW5sOUxXbzB2UExjaXdJNDB2MFhMaTJ1ZTJVYUtnMWZJSW1kaVltcFB5TFpFN3dUNURHRVlodzRn?oc=5"
    }
   ],
   "cantu": [
@@ -468,10 +468,24 @@
   "como": [
    {
     "d": "2026-10-27",
+    "h": "14:10",
+    "t": "Sànchez al posto di Butez, poi la formazione tipo: le scelte dei lettori di Calcio Como",
+    "s": "www.calciocomo.it",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0JkSW9mN1l4VHBTTG9GWEJWRGQ4X0RzSmlEQ3FwZWJQQ3h0YS1HaHl5eERBNHpBX0xJS25jMGNabXI4U1dlZjFPT1Z5QnlGV0I2YmdnV283MmlKOF96WFUtOW12UFBfVjNseGE2TVFKRktlWnZRdXYwdVBhc1pHUGtVUlMteXI2bktzWWtKbV9UN2xYSXVRQnBESnI1MXYtNWNEOXQ1ZUhrUkNydld2cFlB?oc=5"
+   },
+   {
+    "d": "2026-10-27",
     "h": "12:18",
     "t": "Piscina Sinigaglia, due in lizza per la gestione: Ice Club Como e Como Nuoto assieme al Como 1907",
     "s": "Espansione TV",
     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONXZ2WFVnRU9kbDYxemcwN0ZZMklkeC1ZSGxRVk9wRTJldWhoVmtPR0F3RDJBdWs3bEk3SWQ1VXpfQ1JPS3gtY1JQSDlqOTlCXzBMWUNhWWtoaC1DYVJSLWMtQ1Y1X1djNjhJZ09KZnpWTC0zZWhoVmVpNnFPRXRicjZ1MG5ZcFptZXhjU3hnOUNHRFB5aVBLbzRQSF9uc1NXSmVTYlhrRXdfN3E1b0tKa2V1ay1pbENOdEdzU2w5dDkxMV9RRm1hMzl3YXRRcUts?oc=5"
+   },
+   {
+    "d": "2026-10-27",
+    "h": "11:41",
+    "t": "Serie A, oggi Torino-Como: orario, probabili formazioni e dove vederla",
+    "s": "S&H Magazine",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkFmeFg5MExhQXVsdFU2Sm92cE5kTGpDSVVKMHlGTUJJRjlrTV9jdVZCa2g1bksxNV94OFFWTW1vdTBwbUFQLVR6ZVRLR0ctbjJlZmZLSjJmd0tqbFNSZ3VXTnNGT3JlWGJTY0N1R2Z6bWs3WEJUNFhwdHlLUm1NOG12YTBEVVMyVjdhUFZXTm5zcFZwbXFHdE44R01EMkozQUF2Vk9MZXpPX1d1M0pYSmhtQQ?oc=5"
    },
    {
     "d": "2026-10-27",
@@ -489,6 +503,13 @@
    },
    {
     "d": "2026-10-27",
+    "h": "11:05",
+    "t": "Scheda squadra Como 1907",
+    "s": "Tuttocampo",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMVdURVFfZ3NweDhoVFhoMk15VF9vT3dSeGZzUEJ2c2ZrWThici1DemlYOWp0T29QNDd2UU12cm5PWlVVTkxsRDF5ZDdKajJpVE54T2NuQS1BU2N0M3NYbVJDWVVLMVRfZlVhWndEXzloTkVpLTRQQlhDNjVGcWZOWTdiMzJ5X3ljRGxjT2hXY0FGaU5veEhfNGVHVXFZSGs?oc=5"
+   },
+   {
+    "d": "2026-10-27",
     "h": "10:39",
     "t": "Como, c'è anche Revolut Business sulla terza maglia: la partnership va oltre il campo",
     "s": "Sportmediaset",
@@ -500,27 +521,6 @@
     "t": "📰 Torino-Como, serie A calcio: diretta tv live streaming 🛑 Notizie dell’ultim’ora 📆 martedì 27 ottobre 2026",
     "s": "musicletter",
     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHY5MUZ5ZmpnYlB3ckMzOXVMSTd4cDlkUk4wWlRfQUtBUTBEMlN4OWg0VjFJSTNDTExrTllPVGJ0ekZEV0l5aDY3YzFMN0JkNzk5cXgtcEJQRzRKZ3lQcFpmdlZjZ25sNzcyWmlnUk5WMDdCbUFuSzZLMzhiUWE3SE92a1MydnVrcEx0VnR0QW1pMENMWFFsVkJTQ0FTMHRHNXVtOHI2VVRMV1BMclI2TDhqZ0Q4c01J?oc=5"
-   },
-   {
-    "d": "2026-10-27",
-    "h": "08:40",
-    "t": "Dove vedere Roma-Cagliari, Torino-Como: sport in tv del 27 ottobre 2026",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSlJiNEtrOGNlZ0FGeHRIeW1maFBNbzN0dkxRdDQ4RkxwTFdYVGlsdFNNbWtKRnR1dXBPWlV5bFFDNjdHTkZnMHFBOW1BNGtkelVJalNRamJoNVI0SmY2S05BMjFuZ1RKaU5LeXhmak9LcHpPMi1RSEY1WmkwekloeTlZMjJ2M1NkNVZxemZUb0xwLTlHWkluREN1WExyNUpKTHF0aTZYeERMMWNmU1dqR0h6OE9vWnpLclpENjBrdHV0TU9SaDlzOGFFd0dZWUlWZ25jYmZsbFFNd9IB2gFBVV95cUxQSlJiNEtrOGNlZ0FGeHRIeW1maFBNbzN0dkxRdDQ4RkxwTFdYVGlsdFNNbWtKRnR1dXBPWlV5bFFDNjdHTkZnMHFBOW1BNGtkelVJalNRamJoNVI0SmY2S05BMjFuZ1RKaU5LeXhmak9LcHpPMi1RSEY1WmkwekloeTlZMjJ2M1NkNVZxemZUb0xwLTlHWkluREN1WExyNUpKTHF0aTZYeERMMWNmU1dqR0h6OE9vWnpLclpENjBrdHV0TU9SaDlzOGFFd0dZWUlWZ25jYmZsbFFNdw?oc=5"
-   },
-   {
-    "d": "2026-10-27",
-    "h": "08:25",
-    "t": "Quando gioca il Como, prossima partita e dove vederla in diretta streaming: sfida col Torino",
-    "s": "DAZN",
-    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT0M5YWxkTVU1VHItRDJfdGpTNmVJcWx0VUlwVVRDQ0xUZzZXZ2M3dVl4RTk3YnRtWjJnakV4OGQ5YTJJU0p3Y3NhMGJQNDlpWDVqSktrbnZuM0E3aTFuUjROTnIwd2Z2N3VCSGM4TXkwMVpYNjJQdjFQX09VQ0RWTjFjS1lYRmJqRWltZDM0TTNJekZkOE0wMWF4MFdxRXU2TmNjQmlzUFF0ZHFrTm1NTGtkNk1wdGF4djVHZk1FdVZkVngtWEw0dA?oc=5"
-   },
-   {
-    "d": "2026-10-27",
-    "h": "07:56",
-    "t": "Como sul set di “Toro scatenato”. E non vuole fare la comparsa",
-    "s": "La Provincia di Como",
-    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWTlvYXZiQjAxam5BaXVjUEppMGRXbldxcEtIbHd0TUVGOGlrekVFQV80LWFsXzJxTVN6azdSMHB2enBrdkRpTHd0R3dkQ2xBMllfa0F3NEttWTc2ZGMyWVVFb2JTMFdBb1pGdDJSeWZoX3ZEVFE3NjlRYk5acHdTU2ZIaXlQdGZBRkdEbkNhRE1NaHBBaXg2S3UyWHhhLXZ1Rk5zTVZGXzBUMFlYYzc5SWhyai1kUC1vUEhN?oc=5"
    }
   ]
  },
@@ -898,9 +898,9 @@
    "2": 12
   },
   "2026-10-27|Torino – Como": {
-   "1": 21,
+   "1": 22,
    "X": 25,
-   "2": 54
+   "2": 53
   },
   "2026-10-28|Milan – Bologna": {
    "1": 57,
@@ -923,7 +923,7 @@
    "2": 43
   }
  },
- "updated": "2026-10-27T14:04:23+00:00",
+ "updated": "2026-10-27T14:49:23+00:00",
  "log": [
   "non finita Torino – Como STATUS_SCHEDULED",
   "classifica milan 4 18",
