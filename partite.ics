@@ -309,15 +309,10 @@ UID:6981ee8ee2118477@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261028T183000
 DURATION:PT2H
-SUMMARY:⚽ Milan – Bologna
-DESCRIPTION:Serie A calcio · 9ª giornata\nTV: DAZN\nhttps://biz4z.github
- .io/Partite/
+SUMMARY:⚽ Milan – Bologna 2-4
+DESCRIPTION:Serie A calcio · 9ª giornata\nTV: DAZN\nRisultato: 2-4\nhttp
+ s://biz4z.github.io/Partite/
 LOCATION:DAZN
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Milan – Bologna tra 30 minuti · DAZN
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d744aea34beaa70b@biz4z.github.io
