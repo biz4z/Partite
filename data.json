@@ -82,229 +82,8 @@
   }
  },
  "cantu": {
-  "games": [
-   {
-    "date": "2026-09-26",
-    "time": "20:00",
-    "home": "Venezia",
-    "away": "Cantù",
-    "score": "85-73"
-   },
-   {
-    "date": "2026-10-05",
-    "time": "20:00",
-    "home": "Cantù",
-    "away": "Udine",
-    "score": "84-85"
-   },
-   {
-    "date": "2026-10-11",
-    "time": "17:00",
-    "home": "Cantù",
-    "away": "Napoli",
-    "score": "80-99"
-   },
-   {
-    "date": "2026-10-18",
-    "time": "18:00",
-    "home": "Trieste",
-    "away": "Cantù",
-    "score": "92-72"
-   },
-   {
-    "date": "2026-10-25",
-    "time": "18:30",
-    "home": "Reggio Emilia",
-    "away": "Cantù",
-    "score": "81-60"
-   },
-   {
-    "date": "2026-11-02",
-    "time": "20:30",
-    "home": "Cantù",
-    "away": "Olimpia Milano",
-    "score": ""
-   },
-   {
-    "date": "2026-11-08",
-    "time": "16:00",
-    "home": "Maxima Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-11-15",
-    "time": "17:30",
-    "home": "Cantù",
-    "away": "Tortona",
-    "score": ""
-   },
-   {
-    "date": "2026-11-22",
-    "time": "17:30",
-    "home": "Scafati",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-06",
-    "time": "16:00",
-    "home": "Cantù",
-    "away": "Varese",
-    "score": ""
-   },
-   {
-    "date": "2026-12-13",
-    "time": "",
-    "home": "Verona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-20",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trento",
-    "score": ""
-   },
-   {
-    "date": "2026-12-27",
-    "time": "",
-    "home": "BC Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-03",
-    "time": "",
-    "home": "Cantù",
-    "away": "Treviso",
-    "score": ""
-   },
-   {
-    "date": "2027-01-10",
-    "time": "",
-    "home": "Virtus Bologna",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-17",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trieste",
-    "score": ""
-   },
-   {
-    "date": "2027-01-24",
-    "time": "",
-    "home": "Udine",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-31",
-    "time": "",
-    "home": "Cantù",
-    "away": "Verona",
-    "score": ""
-   },
-   {
-    "date": "2027-02-07",
-    "time": "",
-    "home": "Varese",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-02-14",
-    "time": "",
-    "home": "Cantù",
-    "away": "BC Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-07",
-    "time": "",
-    "home": "Cantù",
-    "away": "Maxima Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-14",
-    "time": "",
-    "home": "Treviso",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-03-21",
-    "time": "",
-    "home": "Cantù",
-    "away": "Scafati",
-    "score": ""
-   },
-   {
-    "date": "2027-03-27",
-    "time": "",
-    "home": "Trento",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-04",
-    "time": "",
-    "home": "Cantù",
-    "away": "Reggio Emilia",
-    "score": ""
-   },
-   {
-    "date": "2027-04-11",
-    "time": "",
-    "home": "Tortona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-18",
-    "time": "",
-    "home": "Cantù",
-    "away": "Virtus Bologna",
-    "score": ""
-   },
-   {
-    "date": "2027-04-25",
-    "time": "",
-    "home": "Olimpia Milano",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-05-02",
-    "time": "",
-    "home": "Cantù",
-    "away": "Venezia",
-    "score": ""
-   },
-   {
-    "date": "2027-05-09",
-    "time": "",
-    "home": "Napoli",
-    "away": "Cantù",
-    "score": ""
-   }
-  ],
-  "standing": {
-   "pos": 16,
-   "pts": 0,
-   "g": 5,
-   "up": {
-    "n": "Tortona",
-    "pos": 15,
-    "pts": 2
-   },
-   "dn": null
-  }
+  "games": [],
+  "standing": null
  },
  "news": {
   "milan": [
@@ -358,10 +137,31 @@
   "milan": [
    {
     "d": "2026-10-28",
+    "h": "16:04",
+    "t": "Milan-Bologna: dove vedere la partita in tv e streaming | Serie A 2026/27",
+    "s": "Vu Nere Bologna",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSFZrWTUtSHJBMXpJOFV4SWZIUFZlbkxGamRIbWRDNWJ6Tm8yUkZ2VWxudDFsekFVeDZWc2FaZy1XX0NmeHZKdm96UU1zQkdkbUtUdmdZYkFhZlhrbjc0WjFZZW5ZNUZJSzMzdkFkb0lXaW9WYkwtRURTTlpJYjJZclcwUHhzX1BqSEFXWWloTGdiNU1SRGYwakZ2WnBpMjVicmhpOUZTMHZLbXBRT1FBRnlBY21xTmYwV2d1Ui1qVmNLQQ?oc=5"
+   },
+   {
+    "d": "2026-10-28",
+    "h": "15:48",
+    "t": "Milan-Bologna oggi: orario, formazioni, diretta 28 ottobre",
+    "s": "MilanoSportiva.com",
+    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Nb09mRklqQkdtaGJudUVPdnZiTFl5cGhJNlVTZUNSSDhOb0tfelp5NktVOGQ5NDZmaWs1MURvbU5RV2djRE40d0FVcVNveXFqdW9tNnowRmhFYnBlY2dPckVWaUtSTzNfZWZQME56b0dNemtuMTRmNW1B?oc=5"
+   },
+   {
+    "d": "2026-10-28",
     "h": "15:05",
     "t": "Milan-Bologna: probabili formazioni e statistiche",
     "s": "Eurosport.it",
     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU045MGQtWmxWdEg1Z3k0V3lxb3hlQXNFRmJnaFhMZ2h0cG1RYmFpUDJRX1RfQlJNR0dXal92TUV1RW9kX1lDMkVuM1BIbmY1YUVTYjhSUGRuUjdMVUhmenRCNmg1NlpwRlBNdnZlbkpZV194TDlteGstMV9HWnRlaU1FSFhuYkxPY1lFODNKUUhRTDFHMzN2R2h6UlBiNHE1OEVxd002NDJ3RHFkTFU0UExHM2hMeXF4YTZsMDk5Z0xnNU5uYXN1TW04c1lHWGo4TmJ6TkxRUEM5UQ?oc=5"
+   },
+   {
+    "d": "2026-10-28",
+    "h": "14:56",
+    "t": "Goncalo Ramos: \"Sono al Milan grazie ad Amorim, finalmente gioco nel mio ruolo. In futuro... \"",
+    "s": "Sportmediaset",
+    "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMk1vc294dWI0ZzNWTHZNVTRxZlNMX3JaaDlQLThzMWhQY2hVaFZNNGlmMDRqaFY1LXdsZERieDIxY2IyVW93NkFtNXNQeFhWM1dTNFpHX1h2dk9KQnRadGJ0bXp4b2ZvUENfeGNLQU11UTR4LXBEZ0lMT2stc0QzSkxDZ2FoSHd0eHA5VVRzUmYxbEJDaEkwLXNyREZMczVPSXpxMGtQNlZQMGVTb2dud0wxc0pacHdtTnhSZVlTY011UnhxM3UyT2FLbXFubUF6WGZ6MEFvTlVZLS1ZRzY3V19KNHVMWUtMaDJuRVRUWFRsblk?oc=5"
    },
    {
     "d": "2026-10-28",
@@ -390,27 +190,6 @@
     "t": "Milan-Bologna, i convocati di Palladino: out Enem, chiamato Lo Monaco",
     "s": "Calcio Bologna",
     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSXhDMlNhbUJ1V3JJQWEwOEVTSjhOSmtuQjVrQ3l4bG1NbUVWUGlrdDVwY21URTBqT0FhTXlIR29KTng1eUtvRGVrRW9BTU5HLTlBYlFuOUpMaFN3TDRpazRBWllUaFh6ZXZYTFlsemtmSDIwZV9ycWl6UTI4WDdFNjZjQThmYnZuR0JNVTYwd2JUSUln?oc=5"
-   },
-   {
-    "d": "2026-10-28",
-    "h": "11:07",
-    "t": "Dove vedere Milan Bologna in tv e streaming: orario e diretta della Serie A 2026/27",
-    "s": "Calcio e Finanza",
-    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQTN3VEhMWDFRb3U1Ul9mdE02NFR6NThfQjdrT1I3eFZhXzhRTUkyRVJKZnphMVZ5akpyTjhtczZOdDV3amg3MjU5dUZrdGZLUUFYenBJYThkZS1sUjR2YmozLURVQnh0N3RnYy1UanVwdEkzcnk1MDlERDBSWkMwVXlsRmp5bW54aTA0dUZuZlJfR0FoMkxV?oc=5"
-   },
-   {
-    "d": "2026-10-28",
-    "h": "10:34",
-    "t": "Amorim rivoluziona il Milan contro il Bologna: chi mancherà",
-    "s": "News Mondo",
-    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQnZzNHlYcUVPWDhCTmtPb3Z6MmdWc0ZKM1Nua3RnS0ZMcVE5dks0ZFkwTDcwTDhtcE13aVVQVjQ0TTF0Z1hNRjJsTWJqbzF0UmlCa1FUR3FLc3k2bGkxb3VLdEpfTXYyLVFSRDFrS3BPQjd4ci01ekxIQm9zZHd6QVkyQWRpcWNV?oc=5"
-   },
-   {
-    "d": "2026-10-28",
-    "h": "10:33",
-    "t": "Milan, dopo Pulisic rinnovo in arrivo anche per Rabiot: tutti gli aggiornamenti",
-    "s": "DerbyDerbyDerby",
-    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcl85U09MSWppeFJJcENmVHVOTGM3SUxpS0xNUUNpOGRJMmVUVDRidWlMYnF0TG5ZeGNEbDhiMmZMeWtXbm42NkRoX01saTFaRUpRRHRKMmJfTFRCWUdLY0kxdG55QUNiRkotVEVKa3pqLW5wZHNVMEZIbVZCb3ZVbkJ2TS1PU2gxb18xaldEZWwydk1aYm1fbU8zVFFTOFpxNHBkV3NMRldwUUIxQlpONURKRktPcTl0RFR0MlI1c19NamPSAcgBQVVfeXFMUHl5ZlB1VmhxNFMzdEhYcTVLTEhLZVBoR1hkOEE5T3IwclhYT3dXM015VHdadjV4Nk9QMkdMcGEtcFBZajlGSmYtdVVpQk5tRkxXNXBHTW1BQkU1TUU5cDdENHlmdnVBa1ZodmZ5ai1DT1hQN2Q2ODQzVG5WWWZIem1oZGRoek1rZkU2RDZwWkU5YWhuZ0xsRXBIM25RdUVndDNFaHZKNTY1WHkxLVd4V3gtVlhlVjV6aVdFaXlLQXRVX1huLS1VVXc?oc=5"
    }
   ],
   "cantu": [
@@ -474,6 +253,13 @@
   "como": [
    {
     "d": "2026-10-28",
+    "h": "15:20",
+    "t": "Como in lutto, è morto Franco Stefanini: fu centrocampista azzurro per sei stagioni",
+    "s": "www.calciocomo.it",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcm5hdGpHRW1uVy1wRXU0TWlfQS1TNVRlTFYtN09VNUtfUERJSG4yQkQwR3FVNV9FR0ZGblltam1BZDVJMzdpNHIzbVVpT0tSamdiQS01MnRVRXNfZnhFSWppR1FSck5Vb2l3cTlpUDBRMUJQcEZCNGRVOU5lNUViV0laWnc2M3JnampaWG9qZUVRRlA4bkRVVjdGd0hSMU01OXVjSXlvbDdpMnZ1?oc=5"
+   },
+   {
+    "d": "2026-10-28",
     "h": "10:20",
     "t": "La moviola di Calcio Como a Torino-Como 1-3: negato un rigore solare a Da Cunha",
     "s": "www.calciocomo.it",
@@ -520,13 +306,6 @@
     "t": "Torino-Como 1-3, la sintesi della partita",
     "s": "RaiNews",
     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWWR6anJXSWRYZ0ZhYWhQU3lhRWlrSkE4ODdBM0U4X1pLVjVyb2l5TF9OZEl0Z3JxYUdDTGdxZDZ2NHkyckkwa0FKQV9KMk8xMHphdEtQVnFtTUg3Z0E1Q1JtcTI1N25TU1BHamExRXhzS2xtODFtZE50dk5SMkh5c0tqSTVkQjBHU1FCaFdUdk9jYnFHaTdyaU9aUENMbF8tVlVJLVItRmRDcG93d0I1b09ycm5HcDVMOU1zTA?oc=5"
-   },
-   {
-    "d": "2026-10-27",
-    "h": "23:16",
-    "t": "Torino-Como 1-3, Abate: \"Ragazzi encomiabili, abbiamo proposto calcio. La Curva...\"",
-    "s": "Toro News",
-    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeGVmVXAtejlGNDRoRXotTDJwcE5rWGRzVDYtY29qeDZvV0ppWHdrUjRXbkFtM2R1MTNVWl9jMmkyNS02eW1XVHBPcW8wd2xjQ1hkTEtQSEFwMjUybllEc0IzRWU2clJybm5MdHZXd202WlNPVkxSLXRXTkN1QV9QM242UWVsdVRXRno0TUFJMDk2ZkNWeTQyaWpOWHJ6aFdtTGx3eHpIUFJsV3RJM3M5UGJnZWdUMkpjQmVQWTUyQdIBxAFBVV95cUxNaVpxMHI2OE5ONWFSSUk3YlN3S3l2U3JFZzNMLXRpQXlmd0FtYWFERDk4U3hhSzZJaXM2RHdmZ042dGtGZnVEcDV1LUstVU5aX0NSR0M2N0VLTkg3NHV4YzZTQi02ajgzNW0ydEpyMUgyVVZES3JiSmpvUjlnb2RISVlxVVdyTGhfMzdhTktIaFNCWEhOTElXMmVRZ1FxU0U5a3B0VUU1QlZCdmI1UTlCWkpuZkVXUTI1N3l5d3YxVlpzbUVB?oc=5"
    }
   ]
  },
@@ -918,16 +697,16 @@
    "2": 44
   }
  },
- "updated": "2026-10-28T14:26:35+00:00",
+ "updated": "2026-10-28T15:18:36+00:00",
  "log": [
   "non finita Milan – Bologna STATUS_SCHEDULED",
   "classifica milan 5 18",
   "classifica como 4 20",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
+  "cantu 0 partite None",
   "notizie milan 3",
-  "notizie cantu 3",
+  "notizie cantu 0",
   "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
