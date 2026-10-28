@@ -358,6 +358,13 @@
   "milan": [
    {
     "d": "2026-10-28",
+    "h": "12:02",
+    "t": "Milan-Bologna: probabili formazioni e statistiche",
+    "s": "Eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU045MGQtWmxWdEg1Z3k0V3lxb3hlQXNFRmJnaFhMZ2h0cG1RYmFpUDJRX1RfQlJNR0dXal92TUV1RW9kX1lDMkVuM1BIbmY1YUVTYjhSUGRuUjdMVUhmenRCNmg1NlpwRlBNdnZlbkpZV194TDlteGstMV9HWnRlaU1FSFhuYkxPY1lFODNKUUhRTDFHMzN2R2h6UlBiNHE1OEVxd002NDJ3RHFkTFU0UExHM2hMeXF4YTZsMDk5Z0xnNU5uYXN1TW04c1lHWGo4TmJ6TkxRUEM5UQ?oc=5"
+   },
+   {
+    "d": "2026-10-28",
     "h": "11:13",
     "t": "Milan-Bologna, i convocati di Palladino: out Enem, chiamato Lo Monaco",
     "s": "www.calciobologna.it",
@@ -404,13 +411,6 @@
     "t": "Milan-Bologna, dove vederla oggi in diretta TV: orario, formazioni e canale streaming",
     "s": "Fanpage",
     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUW0yZVJ3empLaGlVbVdQdlBkM0pGVlZpN2QzUTZVaVdJNlpqR2V1ZER3MExSZ0pVVzFrQXF2UVBOX2pzSndBazU2TXB3bk5GbWR3ZVNNajFSb1lzZXQ1bFVHbHo0ODNQdWxqWGcwNmZaSUxpZzVjLURSaWJrVkxjMUlUbGY3d1g1cFBRUEVPMmJvX2Rkd0VWN1R4eDBhTDZKelBwNy1zRGhCOWRYY3pDbi1BTTQ?oc=5"
-   },
-   {
-    "d": "2026-10-28",
-    "h": "03:01",
-    "t": "Formazioni Milan - Bologna: Serie A Calcio",
-    "s": "www.eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlJvM0s0UEVqVHJNRkFYTzdtM01DZlRpdXUyVm9aczY4SGcwaC0xaWcxamJod1ZVNWxRWXhBNzFEZkVJV0xGMG1pVl85R1I2SURQRlFHUHhSbXE0WXF3OVJiRHNuSEZGV3hqdmV6Uk5tRWVVQkJQazhQZl90ZWN6d0pYbDNYaXRXTHlvLWRYcFkxMlVBbWx0R0cxTEs2WmM?oc=5"
    }
   ],
   "cantu": [
@@ -900,7 +900,7 @@
   "2026-10-28|Milan – Bologna": {
    "1": 55,
    "X": 26,
-   "2": 20
+   "2": 19
   },
   "2026-10-31|Milan – Inter": {
    "1": 29,
@@ -918,7 +918,7 @@
    "2": 44
   }
  },
- "updated": "2026-10-28T10:30:46+00:00",
+ "updated": "2026-10-28T11:15:14+00:00",
  "log": [
   "non finita Milan – Bologna STATUS_SCHEDULED",
   "classifica milan 5 18",
