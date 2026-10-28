@@ -177,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:170fb1dc346d43cf@biz4z.github.io
 DTSTAMP:20261016T000000Z
-DTSTART;TZID=Europe/Rome:20261011T173000
+DTSTART;TZID=Europe/Rome:20261011T170000
 DURATION:PT2H
 SUMMARY:🏀 Cantù – Napoli 80-99
 DESCRIPTION:Serie A basket (LBA) · 3ª giornata\nTV: LBA TV\nRisultato: 8
@@ -239,15 +239,10 @@ UID:3deff43a24dcc986@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261018T180000
 DURATION:PT2H
-SUMMARY:🏀 Trieste – Cantù
-DESCRIPTION:Serie A basket (LBA) · 4ª giornata\nTV: LBA TV\nhttps://biz4
- z.github.io/Partite/
+SUMMARY:🏀 Trieste – Cantù 92-72
+DESCRIPTION:Serie A basket (LBA) · 4ª giornata\nTV: LBA TV\nRisultato: 9
+ 2-72\nhttps://biz4z.github.io/Partite/
 LOCATION:LBA TV
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Trieste – Cantù tra 30 minuti · LBA TV
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4feb35573b2e4a69@biz4z.github.io
@@ -284,15 +279,10 @@ UID:cb43b2e0c4fd7823@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261025T183000
 DURATION:PT2H
-SUMMARY:🏀 Reggio Emilia – Cantù
-DESCRIPTION:Serie A basket (LBA) · 5ª giornata\nTV: LBA TV\nhttps://biz4
- z.github.io/Partite/
+SUMMARY:🏀 Reggio Emilia – Cantù 81-60
+DESCRIPTION:Serie A basket (LBA) · 5ª giornata\nTV: LBA TV\nRisultato: 8
+ 1-60\nhttps://biz4z.github.io/Partite/
 LOCATION:LBA TV
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reggio Emilia – Cantù tra 30 minuti · LBA TV
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:44554ea446e2af20@biz4z.github.io
