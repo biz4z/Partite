@@ -387,6 +387,13 @@
    },
    {
     "d": "2026-10-28",
+    "h": "23:06",
+    "t": "Milan, prima sconfitta per Amorim: \"Ci è mancata energia\"",
+    "s": "Cronachedi",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU2FOUDl4azV5YlQ1NnFXMWZoTm1zRFhSRWM1cXNoaTRvdXE5cFM2aHB3R2dqa1BueExGNFlhMUcwM2YwdklJS2V1a1pVZktDSWhrVHRWQzhsVkVtelhUMU1iQTI1WGRoUmFwSnBPcFBWZTAwRWY5MGY4QWFQMWxkd2xB?oc=5"
+   },
+   {
+    "d": "2026-10-28",
     "h": "23:00",
     "t": "Milan, Amorim dopo il ko col Bologna: “Mancava energia”. E sul derby aspetta Tomori",
     "s": "Sportitalia",
@@ -405,13 +412,6 @@
     "t": "Amorim: \"Stanchi e senza energia, se non possiamo pressare soffriamo. Ma questo Milan sarà molto forte\"",
     "s": "La Gazzetta dello Sport",
     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQblNYM1Q4WHB4U1pySTF1R0tyc1hyMzlGb2dJSDRwcklJLUgzUnBmSWpuOHc0c2xNVkk2NmxfeEYxWnZXYVZDSkc1cmZpdmM0WW80OFZpN251SUp3dmpyVjA5VnBiaXN4eWZOUjlIdVFuX0hQZ2p0bnViVmQ3eFo1SWI3cGtIVVBRTExiMjlVUW5fcExBZUVXNE81a05NYzRWMkQ2RkhXV2luZUx3ZGJoTGRWQWNWMl9ES2tnWFZDelFmWXNKZzlnQjlB0gHKAUFVX3lxTFBuU1gzVDhYcHhTWnJJMXVHS3JzWHIzOUZvZ0lINHBySUktSDNScGZJam44dzRzbE1WSTY2bF94RjFadldhVkNKRzVyZml2YzRZbzQ4Vmk3bnVJSnd2anJWMDlWcGJpc3h5Zk5SOUh1UW5fSFBnanRudWJWZDd4WjVJYjdwa0hVUFFMTGIyOVVRbl9wTEFlRVc0TzVrTk1jNFYyRDZGSFdXaW5lTHdkYmhMZFZBY1YyX0RLa2dYVkN6UWZZc0pnOWdCOUE?oc=5"
-   },
-   {
-    "d": "2026-10-28",
-    "h": "21:42",
-    "t": "Tripletta di Mbangula, il Milan ko col Bologna e fischiato va a -7 da Inter - Calcio",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQY3dab0swZjlrQ2h2LWNKcktjOHdvOTJVRHVXbFVDYnFRZ19uZTlTVmhXbURaODFFTkxzWkFzeElqNEszRDQza3BvQ2lSekt3OWpTaTZiLVB1cm9jZ1BQd1BoS0VyVWdjQUxFZnF5SWNTejZ6bEdjdURwb0tqTWU2Q0d4eGV6enQ4bmRVTDBxa0QtcWNKbEdDM2pXZTF0ODRLSG1tYkRveUtTbXlKbW9OM2t0WjlJcW9NV3M2TDUwVXZDMnlhYnFXcVJXTVMweWxwOWNYOE9EV0NIRDJtemRFSTgtdndGcGpmdXVDVE9LX1UwdEpDa19XUlpkNTd3eUhMYVE?oc=5"
    }
   ],
   "cantu": [
@@ -895,7 +895,7 @@
   "2026-10-31|Milan – Inter": {
    "1": 27,
    "X": 25,
-   "2": 48
+   "2": 47
   },
   "2026-11-01|Como – Venezia": {
    "1": 72,
@@ -908,7 +908,7 @@
    "2": 44
   }
  },
- "updated": "2026-10-29T03:58:40+00:00",
+ "updated": "2026-10-29T04:40:19+00:00",
  "log": [
   "classifica milan 5 18",
   "classifica como 4 20",
