@@ -344,19 +344,26 @@
   ],
   "como": [
    {
+    "d": "2026-10-29",
+    "t": "UEFA CHAMPIONS LEAGUE | Como 1907 vs AEK Athens | Prima fase di vendita",
+    "u": "https://comofootball.com/uefa-champions-league-como-1907-vs-aek-athens-prima-fase-di-vendita/"
+   },
+   {
     "d": "2026-10-28",
     "t": "Como 1907 - Cagliari | Info e modalità di vendita",
     "u": "https://comofootball.com/como-1907-cagliari-info-e-modalita-di-vendita/"
-   },
-   {
-    "d": "2026-10-27",
-    "t": "Torino-Como 1-3: la cronaca della partita",
-    "u": "https://comofootball.com/torino-como-1-3-match-report/"
    }
   ]
  },
  "press": {
   "milan": [
+   {
+    "d": "2026-10-29",
+    "h": "19:03",
+    "t": "Nuovo San Siro, si chiamerà Generali Stadium: accordo per Inter e Milan",
+    "s": "Sportitalia",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjV0OTBGaHc3QThFcFZ6bUVlUDdQa25lVDRyN0NLV2Q1MkNqZzl6Rl82eF8yRXRjbUlPZjNBYXF4a3h2a3ptdFFsYUpsaVQwd0dwUEVMME9iRTV2UGd0QWJKMEpCcjBFYW15TFVmUG9ZQ3BCV3NzNVFuQXJkQ3U2RU1XYy1DQ09FOEZIWTZUbDI1ZUl4NWE5U2xKX2F0aUQ5OUFkQlM5ci1Od3Rj?oc=5"
+   },
    {
     "d": "2026-10-29",
     "h": "17:57",
@@ -405,13 +412,6 @@
     "t": "Il fantasma di San Siro: perché il Milan non sa accendere Gonçalo Ramos",
     "s": "Il Messaggero",
     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTkdwd0VXcmtlZ3JzQlNXSlR5MUpPQmxLRW5qNjFXU2lIWUlHc291WnJMUFhEaUdFZkFUZ3FBOGJjNW9POU1CeFIzOHJDYzZxX1JfN1JmeTNpYnIxS29RbWZQNXFhNVZnQWN1WmVsV3FScGFjQ0xMaFBWRzhIYzRTUnB1aThCdUVfNHfSAYYBQVVfeXFMT3I2a190SDNnYW9ZV2Q2aDhJVkI0eXQ0dUFxRXJ1bDZaSGs4OTV0dkZ5UzJQVmJuX0pXXzh0SllSci1YRVBXWDh3WlZ2bHprclRhQlFrdmUyclpCMkU5QzZmcF9ydkZWeGZBVjl3djVuNTZ0OF9WN3doeGdTQkRLUVdNZkFkZkE?oc=5"
-   },
-   {
-    "d": "2026-10-29",
-    "h": "14:00",
-    "t": "Il Milan blinda Cisse: accordo sino al 2031",
-    "s": "TaorminaNews24",
-    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfWUNFQVQ3RldoTDVDREVTMjd5TjJVeXFTYk1Ud25UQ0NuTTJkUld5Tmw0NEVELXI3enozVVhzUW0wcGRfZ3BqaEhXTUdySkVvRl8zV1B1YUhuWDhiRHBod09GWXFCRGlJN1BUTQ?oc=5"
    }
   ],
   "cantu": [
@@ -908,7 +908,7 @@
    "2": 44
   }
  },
- "updated": "2026-10-29T17:34:54+00:00",
+ "updated": "2026-10-29T18:19:08+00:00",
  "log": [
   "classifica milan 5 18",
   "classifica como 4 20",
