@@ -83,229 +83,8 @@
   }
  },
  "cantu": {
-  "games": [
-   {
-    "date": "2026-09-26",
-    "time": "20:00",
-    "home": "Venezia",
-    "away": "Cantù",
-    "score": "85-73"
-   },
-   {
-    "date": "2026-10-05",
-    "time": "20:00",
-    "home": "Cantù",
-    "away": "Udine",
-    "score": "84-85"
-   },
-   {
-    "date": "2026-10-11",
-    "time": "17:00",
-    "home": "Cantù",
-    "away": "Napoli",
-    "score": "80-99"
-   },
-   {
-    "date": "2026-10-18",
-    "time": "18:00",
-    "home": "Trieste",
-    "away": "Cantù",
-    "score": "92-72"
-   },
-   {
-    "date": "2026-10-25",
-    "time": "18:30",
-    "home": "Reggio Emilia",
-    "away": "Cantù",
-    "score": "81-60"
-   },
-   {
-    "date": "2026-11-02",
-    "time": "20:30",
-    "home": "Cantù",
-    "away": "Olimpia Milano",
-    "score": ""
-   },
-   {
-    "date": "2026-11-08",
-    "time": "16:00",
-    "home": "Maxima Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-11-15",
-    "time": "17:30",
-    "home": "Cantù",
-    "away": "Tortona",
-    "score": ""
-   },
-   {
-    "date": "2026-11-22",
-    "time": "17:30",
-    "home": "Scafati",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-06",
-    "time": "16:00",
-    "home": "Cantù",
-    "away": "Varese",
-    "score": ""
-   },
-   {
-    "date": "2026-12-13",
-    "time": "",
-    "home": "Verona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-20",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trento",
-    "score": ""
-   },
-   {
-    "date": "2026-12-27",
-    "time": "",
-    "home": "BC Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-03",
-    "time": "",
-    "home": "Cantù",
-    "away": "Treviso",
-    "score": ""
-   },
-   {
-    "date": "2027-01-10",
-    "time": "",
-    "home": "Virtus Bologna",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-17",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trieste",
-    "score": ""
-   },
-   {
-    "date": "2027-01-24",
-    "time": "",
-    "home": "Udine",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-31",
-    "time": "",
-    "home": "Cantù",
-    "away": "Verona",
-    "score": ""
-   },
-   {
-    "date": "2027-02-07",
-    "time": "",
-    "home": "Varese",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-02-14",
-    "time": "",
-    "home": "Cantù",
-    "away": "BC Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-07",
-    "time": "",
-    "home": "Cantù",
-    "away": "Maxima Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-14",
-    "time": "",
-    "home": "Treviso",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-03-21",
-    "time": "",
-    "home": "Cantù",
-    "away": "Scafati",
-    "score": ""
-   },
-   {
-    "date": "2027-03-27",
-    "time": "",
-    "home": "Trento",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-04",
-    "time": "",
-    "home": "Cantù",
-    "away": "Reggio Emilia",
-    "score": ""
-   },
-   {
-    "date": "2027-04-11",
-    "time": "",
-    "home": "Tortona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-18",
-    "time": "",
-    "home": "Cantù",
-    "away": "Virtus Bologna",
-    "score": ""
-   },
-   {
-    "date": "2027-04-25",
-    "time": "",
-    "home": "Olimpia Milano",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-05-02",
-    "time": "",
-    "home": "Cantù",
-    "away": "Venezia",
-    "score": ""
-   },
-   {
-    "date": "2027-05-09",
-    "time": "",
-    "home": "Napoli",
-    "away": "Cantù",
-    "score": ""
-   }
-  ],
-  "standing": {
-   "pos": 16,
-   "pts": 0,
-   "g": 5,
-   "up": {
-    "n": "Tortona",
-    "pos": 15,
-    "pts": 2
-   },
-   "dn": null
-  }
+  "games": [],
+  "standing": null
  },
  "news": {
   "milan": [
@@ -366,13 +145,6 @@
    },
    {
     "d": "2026-10-29",
-    "h": "00:26",
-    "t": "Mbangula come Batistuta, storica tripletta a San Siro contro il Milan dell’ex Juve",
-    "s": "S&H Magazine",
-    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNODlNRXYwS1ZrZ05GUFBpY3pKMDdLbDdtSDhXSW9SNlJjUTFBVFNsT2x5YzRlS3NRRWlxMjhBbWEwZ1lPMzBpT3RvdWZZdk16bzdpS0dVbUp2VGVRMElVbkVFZ0tNSWhRaEctRmU4TTlBMlQ1aVRLS1FZRl9QV3o2dDZyY1lXT2R3c2xIaVllZ0xsclJJQ0Eyc1did1c3ZUFvOVJZUkdZVlhyNDJOU2NvZm54R3J3T0dUY2dnczJza2VTMWZO?oc=5"
-   },
-   {
-    "d": "2026-10-29",
     "h": "00:03",
     "t": "Milan-Bologna 2-4: gli highlights",
     "s": "Sportmediaset",
@@ -401,10 +173,10 @@
    },
    {
     "d": "2026-10-28",
-    "h": "22:03",
-    "t": "Amorim: \"Stanchi e senza energia, se non possiamo pressare soffriamo. Ma questo Milan sarà molto forte\"",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQblNYM1Q4WHB4U1pySTF1R0tyc1hyMzlGb2dJSDRwcklJLUgzUnBmSWpuOHc0c2xNVkk2NmxfeEYxWnZXYVZDSkc1cmZpdmM0WW80OFZpN251SUp3dmpyVjA5VnBiaXN4eWZOUjlIdVFuX0hQZ2p0bnViVmQ3eFo1SWI3cGtIVVBRTExiMjlVUW5fcExBZUVXNE81a05NYzRWMkQ2RkhXV2luZUx3ZGJoTGRWQWNWMl9ES2tnWFZDelFmWXNKZzlnQjlB0gHKAUFVX3lxTFBuU1gzVDhYcHhTWnJJMXVHS3JzWHIzOUZvZ0lINHBySUktSDNScGZJam44dzRzbE1WSTY2bF94RjFadldhVkNKRzVyZml2YzRZbzQ4Vmk3bnVJSnd2anJWMDlWcGJpc3h5Zk5SOUh1UW5fSFBnanRudWJWZDd4WjVJYjdwa0hVUFFMTGIyOVVRbl9wTEFlRVc0TzVrTk1jNFYyRDZGSFdXaW5lTHdkYmhMZFZBY1YyX0RLa2dYVkN6UWZZc0pnOWdCOUE?oc=5"
+    "h": "21:53",
+    "t": "Da Casatenovo a San Siro: tifosi di provincia al Meazza per Milan-Bologna",
+    "s": "MilanoSportiva.com",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVlVkaERvR1g1VDhEem1mSzdyV1JEQ0tyZ1NsYUFGNWVnMlA1NVlXUThjdXRSeU1iTEpDQjlrVXJVX3ByUGk3cU83ODF2QmUxZVpQNEZKMzdZbDgwT3JjVUFNekxuX255aWxFWGZXTzZjMnMtU1hIX3JxNFFjdGpZX3Rn?oc=5"
    },
    {
     "d": "2026-10-28",
@@ -412,9 +184,23 @@
     "t": "Tripletta di Mbangula, il Milan ko col Bologna e fischiato va a -7 da Inter - Calcio",
     "s": "ANSA",
     "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQY3dab0swZjlrQ2h2LWNKcktjOHdvOTJVRHVXbFVDYnFRZ19uZTlTVmhXbURaODFFTkxzWkFzeElqNEszRDQza3BvQ2lSekt3OWpTaTZiLVB1cm9jZ1BQd1BoS0VyVWdjQUxFZnF5SWNTejZ6bEdjdURwb0tqTWU2Q0d4eGV6enQ4bmRVTDBxa0QtcWNKbEdDM2pXZTF0ODRLSG1tYkRveUtTbXlKbW9OM2t0WjlJcW9NV3M2TDUwVXZDMnlhYnFXcVJXTVMweWxwOWNYOE9EV0NIRDJtemRFSTgtdndGcGpmdXVDVE9LX1UwdEpDa19XUlpkNTd3eUhMYVE?oc=5"
+   },
+   {
+    "d": "2026-10-28",
+    "h": "21:22",
+    "t": "Amorim 'Milan stanco, per il derby non so in quanti saremo'",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZEtHWTFEZEZxSWRJcldQSlRNdVFTcWpsQ2hSQjFXZk1aWWFBVVVPWFQtQUZfcGtaelJNV2xidldyeWs2c3R0OVRtMk1UT1FmUTJ4TC1nS1EzNElsUHQ3SjJTMDk1dkxTZlk5dWcyZmJYYlFOMTItVFRpVEp3b2pGOXFXUW9uWXdITVJrWVo4VU9EQmZRclJKbnZ3aWZCZ0R6UlFUVjJHUVpyN0YwZFBTYm93V3FpTDZtMzhSaVJQcGQ5YW1OVWxLM2VOX1psRnQzU1VXTDNKQ21WODJDV1BQRjdwYUd4OG5vV2dn0gHwAUFVX3lxTE5BdkpBbm0zYmUyUXJKWVVPWmNuWHl0WGctbUU2cVpablJkLW80OUZER3VGeXJyMjY1aW1uWXpjSl9NdXJWZkZlal95ZUpMbk5uMFByeDNHY0pndndqYUYwaVpNMENGTnBQZTlNZzZKWG13THZJR0RjVHd3dVdrTXpXSlptNHNmMFc2TUNxYVhfUEltb05FMzRvbFNpUkxoMWYwcDVjczY1clZJd1VxYVRTSF9xVm9WYS1Kd1FIT2RHQVRFVHhmcll3dENPSk12SU1rdHdhNGZCQmJTMXJ3aUhhZ29DUHRCZUxQLWdROE1STg?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-10-29",
+    "h": "02:00",
+    "t": "Pallacanestro Cantù 26-27: giocatori sotto contratto, durate e mercato",
+    "s": "Backdoorpodcast.com",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYjR6VFpvWWZfY2dwQVdmbFhVZU9Nc2FITzhVMjEzVVktRG5QZnlYSDdjOHVQWUZORlk3Q1FaWEZjX2syVUctd0d3RHlBUkFrV2NjU2wyV1F6c3dfYU1vbk5PeTdTcGV5cUJ5WXFhYV9Mb2RwSVhJUGdRQlRWRl85eFUtUVlRSDRFclZFSHhrSnIwRGRLSkE?oc=5"
+   },
    {
     "d": "2026-10-28",
     "h": "11:06",
@@ -463,13 +249,6 @@
     "t": "Pallacanestro Cantù, pazienza finita: contestazione dei tifosi e due colpi sul mercato",
     "s": "Sportando",
     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVI0X09UWUlIVXdHV0NEUTJMYmliYWlEV25TT2xIbjJCZHAzTEUxMXZsVkZmM3p6UUdpekFyc1BmNG9LLWRtY0pwSEZ4VDhPQTVRUVNKTWRKVHFqV3U0NmN4SVJocDlNbVJXX2p0R08zWWl5cVZMcUFQbUVELVhNTGtST29CQkV3bVpIbmE2VV9GWjA5QlZxeVZ2cjJaZ0p0ZU5uNjVnajJCclJpSGZZR21kZS0?oc=5"
-   },
-   {
-    "d": "2026-10-27",
-    "h": "11:11",
-    "t": "🏀EVERY BUCKET | Pallacanestro Trieste - Acqua S.Bernardo Cantù | #LBA",
-    "s": "Pallacanestro Trieste",
-    "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82QmtFQzNSemFHNnZrMUdSVVNDUHFsRTZTcnh0aFViNjJTYXR2YnlVQzVfNktRN1c3dWsyRTdrUFBMY21Dd3NNMVJ1d21ESUpWd2dHWVpOTUtsNUlDRnNzQ3RVZTB2QQ?oc=5"
    }
   ],
   "como": [
@@ -908,15 +687,15 @@
    "2": 44
   }
  },
- "updated": "2026-10-29T01:42:49+00:00",
+ "updated": "2026-10-29T02:27:50+00:00",
  "log": [
   "classifica milan 5 18",
   "classifica como 4 20",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
+  "cantu 0 partite None",
   "notizie milan 3",
-  "notizie cantu 3",
+  "notizie cantu 0",
   "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
