@@ -83,8 +83,229 @@
   }
  },
  "cantu": {
-  "games": [],
-  "standing": null
+  "games": [
+   {
+    "date": "2026-09-26",
+    "time": "20:00",
+    "home": "Venezia",
+    "away": "Cantù",
+    "score": "85-73"
+   },
+   {
+    "date": "2026-10-05",
+    "time": "20:00",
+    "home": "Cantù",
+    "away": "Udine",
+    "score": "84-85"
+   },
+   {
+    "date": "2026-10-11",
+    "time": "17:00",
+    "home": "Cantù",
+    "away": "Napoli",
+    "score": "80-99"
+   },
+   {
+    "date": "2026-10-18",
+    "time": "18:00",
+    "home": "Trieste",
+    "away": "Cantù",
+    "score": "92-72"
+   },
+   {
+    "date": "2026-10-25",
+    "time": "18:30",
+    "home": "Reggio Emilia",
+    "away": "Cantù",
+    "score": "81-60"
+   },
+   {
+    "date": "2026-11-02",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Olimpia Milano",
+    "score": ""
+   },
+   {
+    "date": "2026-11-08",
+    "time": "16:00",
+    "home": "Maxima Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-11-15",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Tortona",
+    "score": ""
+   },
+   {
+    "date": "2026-11-22",
+    "time": "17:30",
+    "home": "Scafati",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home": "Cantù",
+    "away": "Varese",
+    "score": ""
+   },
+   {
+    "date": "2026-12-13",
+    "time": "",
+    "home": "Verona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-20",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trento",
+    "score": ""
+   },
+   {
+    "date": "2026-12-27",
+    "time": "",
+    "home": "BC Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-03",
+    "time": "",
+    "home": "Cantù",
+    "away": "Treviso",
+    "score": ""
+   },
+   {
+    "date": "2027-01-10",
+    "time": "",
+    "home": "Virtus Bologna",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-17",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trieste",
+    "score": ""
+   },
+   {
+    "date": "2027-01-24",
+    "time": "",
+    "home": "Udine",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-31",
+    "time": "",
+    "home": "Cantù",
+    "away": "Verona",
+    "score": ""
+   },
+   {
+    "date": "2027-02-07",
+    "time": "",
+    "home": "Varese",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-02-14",
+    "time": "",
+    "home": "Cantù",
+    "away": "BC Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-07",
+    "time": "",
+    "home": "Cantù",
+    "away": "Maxima Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-14",
+    "time": "",
+    "home": "Treviso",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-03-21",
+    "time": "",
+    "home": "Cantù",
+    "away": "Scafati",
+    "score": ""
+   },
+   {
+    "date": "2027-03-27",
+    "time": "",
+    "home": "Trento",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-04",
+    "time": "",
+    "home": "Cantù",
+    "away": "Reggio Emilia",
+    "score": ""
+   },
+   {
+    "date": "2027-04-11",
+    "time": "",
+    "home": "Tortona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-18",
+    "time": "",
+    "home": "Cantù",
+    "away": "Virtus Bologna",
+    "score": ""
+   },
+   {
+    "date": "2027-04-25",
+    "time": "",
+    "home": "Olimpia Milano",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-05-02",
+    "time": "",
+    "home": "Cantù",
+    "away": "Venezia",
+    "score": ""
+   },
+   {
+    "date": "2027-05-09",
+    "time": "",
+    "home": "Napoli",
+    "away": "Cantù",
+    "score": ""
+   }
+  ],
+  "standing": {
+   "pos": 16,
+   "pts": 0,
+   "g": 5,
+   "up": {
+    "n": "Tortona",
+    "pos": 15,
+    "pts": 2
+   },
+   "dn": null
+  }
  },
  "news": {
   "milan": [
@@ -138,6 +359,20 @@
   "milan": [
    {
     "d": "2026-10-29",
+    "h": "08:14",
+    "t": "Serie A: Milan e Juventus, una crisi che viene da lontano",
+    "s": "Sport24h",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVFOcDcyOWcyTDdPWU4yS08yYWl5bFYzbVhwTkw3Z3lhWjkwR1dHdHZwYmRzVkVFQUR6b21WaGgzeHh6MlNzNTZvWlEtNU5UMFZMRU4wSUlvZ2YwaGJwM01qMDZoYmhWbjhjaHNlU3V3ODRxV3ZOdGRZOWlwOWwyZXRSNjRBTm8?oc=5"
+   },
+   {
+    "d": "2026-10-29",
+    "h": "00:54",
+    "t": "Milan - Bologna 2-4. La sintesi della partita",
+    "s": "RaiNews",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQk9XQVB1UEs4cTUxT2JXclJfNkc1eHpMdWs4OVZWMEpzTkk0MktBUldxdEpOZTFMY3RjdklOSWxpVXZkTnJzT3JNLTE2ZFRPQjlsOXE4TGIwMURqY1l0VHJMMkVVdFZoZUI4OGpFNHhxSVN2ODFLUm1WRjJVOElTWmp2RU5FOGw0Xy1FS0RQOWxIQkNOQlVjbTdBbmc3VG45MkVGYVc5cGV1TTRYeE9LdXdtUU9ZUTlkY2xWd1NmMThpd1ljUkp4ag?oc=5"
+   },
+   {
+    "d": "2026-10-29",
     "h": "00:47",
     "t": "La vera sfida di questo Milan: resistere fino a gennaio",
     "s": "Sportitalia",
@@ -177,20 +412,6 @@
     "t": "Milan, Amorim dopo il ko col Bologna: “Mancava energia”. E sul derby aspetta Tomori",
     "s": "Sportitalia",
     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZk9fdFpZbnZMWk9SaHhsQUNaVmxYQ2gxdzhYUU5NWDREdlJmNmVpUDVCZFg1ZDZYZlgyd3ZHVGV1bVo4RkRVR1lSQ3BUNUdHajY5RjRzYkJFMHlFNFg5Wm55Z3Y5M0UxQnFEbFRqZFNOdFpIa0lheVhSVTh4YWo5RTctM0hoS3lXWmpUWG9mZ1VIOVdzcExNajhvRFNIR3BnQmFIYTVrVlhQU1lsOEdReEhHTHp1VzRU?oc=5"
-   },
-   {
-    "d": "2026-10-28",
-    "h": "22:37",
-    "t": "CALCIO: Mbangula firma l'impresa del Bologna sul Milan",
-    "s": "Teleromagna",
-    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZjlocnpGeEF2anNiNVp4Uks3d1k2VDBNaHZyN0d5d1NzM2NnTmRWMG45aG1ZX0YzU0tvSks4TFRRSlNuODNJV0otZWl4bERyYU9XcFJ4MlpMRk53UnRqX1lsa1NYWmtOWGtWVFRGRzIyYlE2V0FxUnFUVGxDM0E1YWRrcjVzR2IyMDBEeU1JS2dYUVlZVlJPNDdfRm0?oc=5"
-   },
-   {
-    "d": "2026-10-28",
-    "h": "22:03",
-    "t": "Amorim: \"Stanchi e senza energia, se non possiamo pressare soffriamo. Ma questo Milan sarà molto forte\"",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQblNYM1Q4WHB4U1pySTF1R0tyc1hyMzlGb2dJSDRwcklJLUgzUnBmSWpuOHc0c2xNVkk2NmxfeEYxWnZXYVZDSkc1cmZpdmM0WW80OFZpN251SUp3dmpyVjA5VnBiaXN4eWZOUjlIdVFuX0hQZ2p0bnViVmQ3eFo1SWI3cGtIVVBRTExiMjlVUW5fcExBZUVXNE81a05NYzRWMkQ2RkhXV2luZUx3ZGJoTGRWQWNWMl9ES2tnWFZDelFmWXNKZzlnQjlB0gHKAUFVX3lxTFBuU1gzVDhYcHhTWnJJMXVHS3JzWHIzOUZvZ0lINHBySUktSDNScGZJam44dzRzbE1WSTY2bF94RjFadldhVkNKRzVyZml2YzRZbzQ4Vmk3bnVJSnd2anJWMDlWcGJpc3h5Zk5SOUh1UW5fSFBnanRudWJWZDd4WjVJYjdwa0hVUFFMTGIyOVVRbl9wTEFlRVc0TzVrTk1jNFYyRDZGSFdXaW5lTHdkYmhMZFZBY1YyX0RLa2dYVkN6UWZZc0pnOWdCOUE?oc=5"
    }
   ],
   "cantu": [
@@ -268,27 +489,6 @@
    },
    {
     "d": "2026-10-28",
-    "h": "11:26",
-    "t": "Scheda Sagnino - Terza Categoria Como - Girone A Lombardia",
-    "s": "Tuttocampo",
-    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQXlrbjh4LTRkM04wVFRNbUZhZnNqOV8zclVyTjVtcDZqdXkzWExYN1U1QUgwM0ZPamZsWHlIc3VkbHNmT3MyeGsxanVQcTVpZEYwNG12WnlKTHhONEtRdDUtbHJldWNOS1VRMDh1aEp1czBTVmlmSUhMOHlaUTV5RWdCb1R4aDNxNXpKTEtuQVNWNjUzWVpMbw?oc=5"
-   },
-   {
-    "d": "2026-10-28",
-    "h": "11:21",
-    "t": "Scheda Como - Allievi Nazionali U17 Serie A / B - Girone B Italia",
-    "s": "Tuttocampo",
-    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlkxbkRSd1FsZ1hxaDBfNzdjOTk2Z2txZno5UzlDUi1FZ05iSndSY1B1enBXdm1PYVRLNnZPSF9NTGhnc2s1RXVVMUNvaXhPRFBYLWJUakpEb3lSa1RfTXNEeFItcC1OVnFTOXlPSDNNYXJnMmd1bTJIUGVPak1JU1FONFpBQnJ4aEg2c2Zqb3YxN3RLVTE1ekR2Yw?oc=5"
-   },
-   {
-    "d": "2026-10-28",
-    "h": "10:54",
-    "t": "Scheda Como - Giovanissimi Professionisti U14 Gruppo 3 Italia",
-    "s": "Tuttocampo",
-    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzU1QkkyOVhxNDZCXzA4WEdodXVUVWQyZ3U4QWs1OERqTVZLdnBXODJTN21WamRjempDS2VicW5PUmh3eFFxdFpXTjJSZ0RiWHNBY0Vlb1FKa3F5a2R5Szc3WXJFNXR1XzJZY0lpc2FLWEpKZ0xaOHV3LUFXZ0Z0cXBoQUtIbDNSamluSUtWeUFKQjljZWFPTlNzOTZWOTQ?oc=5"
-   },
-   {
-    "d": "2026-10-28",
     "h": "10:20",
     "t": "La moviola di Calcio Como a Torino-Como 1-3: negato un rigore solare a Da Cunha",
     "s": "www.calciocomo.it",
@@ -307,6 +507,27 @@
     "t": "Il Como 1907 punta anche alla piscina Sinigaglia: alleanza con Como Nuoto, sfida per la gestione",
     "s": "QuiComo",
     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeVo5aTRnbkdkclQ4UktreUNlYnUybURmVzQ4YUdHbmVMbG52cFp4SlhNMjQtUXpZTmZWdk93QVpsNHJFVEJZMktYU19FVk9pdy1ORHpyQnJKeDJpQUxtdGYyOTRDM1FoWU9NZ0w0N2FPSDhIdW1Oc0wwQl9DYXJKSTF4WXZkUTZMZ0E?oc=5"
+   },
+   {
+    "d": "2026-10-28",
+    "h": "02:04",
+    "t": "Torino-Como 1-3, pagelle: Comuzzo impera, Paz meraviglia nel finale",
+    "s": "Eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPdnQtV3JFMUQyeDdiZ3hsNTBLMUFDSmlxM19mZzVIb08tc01icXVlRGc2U1liWTBZdWU5WGxDU0E5clZZUXZGMUtfd2dhSDJWLVNjSGNaWnQxSmJOaEJxU0NPMkU1Q2M2eXVLWDVDbW1qTmpLTzQyWFVqVEd1LXQzc0pPNmMwUkNrVHp5U2hsRXV0Y2FTaVh6QW1BbkxXaWxpNE8tamRzZFJBUHlrc2g4YmRuUjFTcnpkT1R5UnE3Z2pfNi1XWGNLREd4YXJ2bXlmcmJoMUhRbTctbEhuemk1ZlhSMXpxLTdkU0poTW9NSzh5Qmg2cWdjUXRpUXotREdXVmRxMEF0YXZ6cnJHOUxKRktBVm0?oc=5"
+   },
+   {
+    "d": "2026-10-28",
+    "h": "00:29",
+    "t": "Torino-Como 1-3 | Match Report",
+    "s": "Como 1907",
+    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3T0txQlB2UUVRc2lOZWdfZXBtNTFNTFRBb1lEZXRqS29iWFBGRW1HbTVSWU9aTi1GM0YxUDBkbWtKN3dnZmNZSUlrYWVkX0pybF9wR2hUVHN4TDg4dGZqT0d1Zy0?oc=5"
+   },
+   {
+    "d": "2026-10-28",
+    "h": "00:25",
+    "t": "Calcio, Lazio e Roma vincono negli anticipi del turno infrasettimanale di Serie A. Ok anche il Como",
+    "s": "OA Sport",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0MxWUJVSm04TmFaTm0xY1ZvQWotdmhmR29mc3R4Z29MeGtzaTBQU2lUeW92N2xtZ0lwal9keHdJb1Z0YXV4d0V4d3pjWXdTQTdyREZZbnZZUmwzLVNkY1BIeFRTVXlSY1A1bG9hSlMwSE00UmR4al9ia1Q1SzY3eERia2d1aEx2NXpGYzYzLVQ2VjFsZEVIcUVuQ1RKM0VPWFlWcUpzMHhNY1BESXJadHBnU3BGR0hPSmNuR2ctamVNTHhZbWI4ONIBzgFBVV95cUxQbVVfMHNXZElUN29sQW0xWVJ5S3F5cnA0Yi1kOEdKaS1XSWJyam1DemJxLUhVRGRENUluWG9qY3doWXJBTTdoYUNGMUdoZHc0RDFPQXBUeEhNWXY2RGdfbDdWMXZXTEpvcWNpeWd0M1pNdUpfbWFhNWVjSE0tWkdMazZ2dHJEbzBpS3NTYlVHSTlYamdLMWtSRnI4U181aWpiUWlBT21UcDh3TXBwV1ZrQ2pSUC1OU2I5ZWpMTjQycTdEelQ0TzNKVmN6UGZ3QQ?oc=5"
    }
   ]
  },
@@ -687,15 +908,15 @@
    "2": 44
   }
  },
- "updated": "2026-10-29T06:53:44+00:00",
+ "updated": "2026-10-29T07:47:16+00:00",
  "log": [
   "classifica milan 5 18",
   "classifica como 4 20",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 0 partite None",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
-  "notizie cantu 0",
+  "notizie cantu 3",
   "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
