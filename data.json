@@ -83,229 +83,8 @@
   }
  },
  "cantu": {
-  "games": [
-   {
-    "date": "2026-09-26",
-    "time": "20:00",
-    "home": "Venezia",
-    "away": "Cantù",
-    "score": "85-73"
-   },
-   {
-    "date": "2026-10-05",
-    "time": "20:00",
-    "home": "Cantù",
-    "away": "Udine",
-    "score": "84-85"
-   },
-   {
-    "date": "2026-10-11",
-    "time": "17:00",
-    "home": "Cantù",
-    "away": "Napoli",
-    "score": "80-99"
-   },
-   {
-    "date": "2026-10-18",
-    "time": "18:00",
-    "home": "Trieste",
-    "away": "Cantù",
-    "score": "92-72"
-   },
-   {
-    "date": "2026-10-25",
-    "time": "18:30",
-    "home": "Reggio Emilia",
-    "away": "Cantù",
-    "score": "81-60"
-   },
-   {
-    "date": "2026-11-02",
-    "time": "20:30",
-    "home": "Cantù",
-    "away": "Olimpia Milano",
-    "score": ""
-   },
-   {
-    "date": "2026-11-08",
-    "time": "16:00",
-    "home": "Maxima Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-11-15",
-    "time": "17:30",
-    "home": "Cantù",
-    "away": "Tortona",
-    "score": ""
-   },
-   {
-    "date": "2026-11-22",
-    "time": "17:30",
-    "home": "Scafati",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-06",
-    "time": "16:00",
-    "home": "Cantù",
-    "away": "Varese",
-    "score": ""
-   },
-   {
-    "date": "2026-12-13",
-    "time": "",
-    "home": "Verona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-20",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trento",
-    "score": ""
-   },
-   {
-    "date": "2026-12-27",
-    "time": "",
-    "home": "BC Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-03",
-    "time": "",
-    "home": "Cantù",
-    "away": "Treviso",
-    "score": ""
-   },
-   {
-    "date": "2027-01-10",
-    "time": "",
-    "home": "Virtus Bologna",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-17",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trieste",
-    "score": ""
-   },
-   {
-    "date": "2027-01-24",
-    "time": "",
-    "home": "Udine",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-31",
-    "time": "",
-    "home": "Cantù",
-    "away": "Verona",
-    "score": ""
-   },
-   {
-    "date": "2027-02-07",
-    "time": "",
-    "home": "Varese",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-02-14",
-    "time": "",
-    "home": "Cantù",
-    "away": "BC Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-07",
-    "time": "",
-    "home": "Cantù",
-    "away": "Maxima Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-14",
-    "time": "",
-    "home": "Treviso",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-03-21",
-    "time": "",
-    "home": "Cantù",
-    "away": "Scafati",
-    "score": ""
-   },
-   {
-    "date": "2027-03-27",
-    "time": "",
-    "home": "Trento",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-04",
-    "time": "",
-    "home": "Cantù",
-    "away": "Reggio Emilia",
-    "score": ""
-   },
-   {
-    "date": "2027-04-11",
-    "time": "",
-    "home": "Tortona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-18",
-    "time": "",
-    "home": "Cantù",
-    "away": "Virtus Bologna",
-    "score": ""
-   },
-   {
-    "date": "2027-04-25",
-    "time": "",
-    "home": "Olimpia Milano",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-05-02",
-    "time": "",
-    "home": "Cantù",
-    "away": "Venezia",
-    "score": ""
-   },
-   {
-    "date": "2027-05-09",
-    "time": "",
-    "home": "Napoli",
-    "away": "Cantù",
-    "score": ""
-   }
-  ],
-  "standing": {
-   "pos": 16,
-   "pts": 0,
-   "g": 5,
-   "up": {
-    "n": "Tortona",
-    "pos": 15,
-    "pts": 2
-   },
-   "dn": null
-  }
+  "games": [],
+  "standing": null
  },
  "news": {
   "milan": [
@@ -358,11 +137,25 @@
  "press": {
   "milan": [
    {
+    "d": "2026-10-30",
+    "h": "00:39",
+    "t": "Ariedo Braida: \"FIGC, Galliani è il calcio. Milan, cercasi strada maestra. Ronaldinho magico\"",
+    "s": "TUTTOmercatoWEB",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcE5rcW5wdi1vTGJvallJdUIxNThSNGl3YkhzUmN6cmJXUFhhVnRfRl95aXhJcUI4OE5ZbjJiX1E3M0t2M2toRFp6SXJkQWNxVWNWamZTbFZDWTlNZnlvVmk1TGpEczd2N1FYNXVQdVNFMmRXUFF4dW1ZX1UxQXlGaWR5S0ZaU1NxZ3k4Q0ZHZjBCUXFVN1JkMjRtSGZXRldEbC1rREJxSkt4aDNPVWM4ZHNqSFZfNi1ha0VnOTJDU3dGQ0hPTzllUkt5eXpSbkNUNVN2MzczM1E?oc=5"
+   },
+   {
     "d": "2026-10-29",
     "h": "23:57",
     "t": "Live Milan - Inter - Serie A: Punteggi & Highlights Calcio - 31/10/2026",
     "s": "Eurosport.it",
     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUDN0a0Y1S09hUHQzX21iRHFzUGRUc0cwTnR3TEpnN1V6enVESlg4SEhNdWVqMnA2eGF4WHpIUUM4dmdDc2czM1haOWpIb3NSMWRzVEVLN3ExUlpUM2tSLXNwX0NoUjc0MUt0b3hvbE5ScjVaYzJrVE5FcVAzb0tiLXNWZ3JrdXBhZmhjSw?oc=5"
+   },
+   {
+    "d": "2026-10-29",
+    "h": "23:01",
+    "t": "Calcio, Milan e Inter alla presentazione del 'Generali Stadium'. Scaroni: \"Gran soddisfazione\"",
+    "s": "alanews",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTjVURmtlaWZXU3FfZlEzRlJSalVZN0NJYkVnNmRNX1dfX21rZ3RoamhzR2RSTlpEaWt3M192R0ZQZGJRSVpFWVVBUGszY1VVTW1RLU92XzNYRlYyMW13WnBlWVd2OWZWSXd0Rk5NM0pJa1lZTjQtWlRsdVYzSDE0UUJxbFRkSHhwdlZQR2hqbFdGQVBmaS1YN1liaVo3Y0djdlA5ejI1UGxCdHJuQkdBc2JfbGs1VTJ2bnd6TDctWGZ4bk5nWmx0d0N1VUQwQWpC?oc=5"
    },
    {
     "d": "2026-10-29",
@@ -380,10 +173,10 @@
    },
    {
     "d": "2026-10-29",
-    "h": "22:26",
-    "t": "Svelato il ‘Generali Stadium’, nuova stadio di Milan e Inter dalla stagione 2031/32: ecco come sarà",
-    "s": "S&H Magazine",
-    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRGRCeklCYlhqTDNJMnM4c2FVQUJ1U1VmcTdyVEpkVkhUQ0tYbGRPQ3VaWTZIYjdUNGxnTS1pd0ZCNm05UFY1TUxwUTBwVjJ4ZVZlZllKLWJFalBpZEJKVGdJWUFBRUNwMjc5NVM2NUJPVHU3aVp4ckFLeXRzbVN0VzNjYnZ6MG9Ka3F1RDhlMTYzVmhqM3BBSFRGcmVjSV9EVW9ZZmpka2ViWjlQa1BMVFRFM1U2QnNGZHp4VkFCakxDM2NpN2cwUk1xWkRRdUNLb0dKVUlWMjE?oc=5"
+    "h": "22:17",
+    "t": "Inter e Milan, il nuovo stadio si chiamerà Generali Stadium",
+    "s": "SpazioCalcio.it",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWkxXbmpUaUJPci12UDV0OF9kSFJTa0NDMmhfVjlHWk9SNTZzWXhtUnFLcUozMnhfT1NGVEZrZzNfc0ZKa1dFUVdFbmdXOTR6T1d0LUNITkZDM041c2JPNnZwYU9XTHpuelZiMUVTcU9GZVpxaFRRcnZOQTZmTTZTbHppNG5xQ0xabmRvZmt5WjVZdlRkY1U3QVBRV3Y1RWFwZkt3VFVR?oc=5"
    },
    {
     "d": "2026-10-29",
@@ -398,20 +191,6 @@
     "t": "Generali Stadium, come sarà il nuovo stadio di Inter e Milan",
     "s": "DAZN",
     "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZVI2LUJqX0Fxc2pGd1JTWThpaVNUQWdpQ1VtVUl4WllFSkZtV2JqV0JHR0Y2Vi1VNUI4MkdwS3pnX2tRN0FrUU43WEhzaVlzbmhLSENRSlZKQUVuX3c5NXRlN0prMTFSXzZUQkpUMUZVWDFVYWhMUzVYSjdMak1Md2VtVHlEMWcteW8xN3VfS21PZUFmTDdwcDFHSU94b01Tb3lmMF8wSnRPRlpzTUpETVotTXVaSzdzWVRtNllGQ0hFa3RQVmoxQVZEb0oyNjRjN19mdlBSZXFHU1VpQWZFOXA4bV9hUFJiX2c?oc=5"
-   },
-   {
-    "d": "2026-10-29",
-    "h": "21:53",
-    "t": "Nuovo stadio di Milan e Inter, le prime immagini",
-    "s": "Sky Sport",
-    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSVNXeXZMbEtJRGR0VWF5ZS0ycUpob3BWWVZzaXBhNFZ4T2U0dkRyM2tnNmRqR0dxcEcxeHJDemdtek1Jby1QOUNZLWlJOTdHRUQzMnpyTHhXYVZhT2hmbjkxdHh3UXRCNVRGdi0xSUxNNFNxQmtGTTRqWWpwNXNkOW9OMWhnQ1p0RGROWnMyUzJ2b3ZiM3c?oc=5"
-   },
-   {
-    "d": "2026-10-29",
-    "h": "19:42",
-    "t": "Calcio, Milan e Inter: il nuovo stadio si chiamerà “Generali Stadium”. I dettagli",
-    "s": "Affaritaliani",
-    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaVVBY2FiQTVob1huMlZCNXBOM0NtazVSNmh2SUpmRnc2alZELWk1RWhselZvZ0NEcEdjbXlZZ1hDaGNvNWpNZlplMWJVM3pweFJscTFIT1JjZ0tsNnNwMDhLZ2RuOHZQamFraE9oTTBYTHBqY1dDTHlqSThUNi1maFRmWlRFTWNOaFR2V2wzWGxaTzR1dXVreGJkOWFRMXNhejdWV0VpQnhBaFBWcWxvdU5ZeG5GTFk?oc=5"
    }
   ],
   "cantu": [
@@ -908,15 +687,15 @@
    "2": 44
   }
  },
- "updated": "2026-10-30T03:02:46+00:00",
+ "updated": "2026-10-30T03:45:51+00:00",
  "log": [
   "classifica milan 5 18",
   "classifica como 4 20",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
+  "cantu 0 partite None",
   "notizie milan 3",
-  "notizie cantu 3",
+  "notizie cantu 0",
   "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
