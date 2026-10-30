@@ -327,6 +327,11 @@
   ],
   "cantu": [
    {
+    "d": "2026-10-30",
+    "t": "L’Energia di Acinque per Pallacanestro Cantù",
+    "u": "https://pallacanestrocantu.com/lenergia-di-acinque-per-pallacanestro-cantu-2/"
+   },
+   {
     "d": "2026-10-28",
     "t": "Al Paladesio Cantù ospita Milano",
     "u": "https://pallacanestrocantu.com/al-paladesio-cantu-ospita-milano/"
@@ -335,11 +340,6 @@
     "d": "2026-10-27",
     "t": "Presentata la quinta edizione dell’High School Canturnament",
     "u": "https://pallacanestrocantu.com/presentata-la-quinta-edizione-dellhigh-school-canturnament/"
-   },
-   {
-    "d": "2026-10-27",
-    "t": "Le condizioni di Simone Ventura",
-    "u": "https://pallacanestrocantu.com/le-condizioni-di-simone-ventura/"
    }
   ],
   "como": [
@@ -359,10 +359,24 @@
   "milan": [
    {
     "d": "2026-10-30",
+    "h": "09:30",
+    "t": "ESCLUSIVA - Melli: \"Milan? Il derby può essere la svolta. Gilardino deve lavorare tanto. E su Ramos...\"",
+    "s": "DerbyDerbyDerby",
+    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUmxDN0xqUjlBMmhtclpoZzFHUDFjbThQWThsa3Fvb3N6NG1HWXlYV29KWmJ6SjFYSWVHQVhxMzdCVVNjN2pvMkFRUkpfV09uYWppTF82Q2MwdnF2aTUwYV9hY3lBYzNPNVhKRFZtUUVKWTNwTi1USUZZMWtkUFV3LVpPVUxNb3pLdzJjZDBfVWV5OHJvRzJOd2kzMGR2alBOTU5PdVRhTzZ1MEp1aEloeFg2R3BJV2pnT21HaTdrT1UxZ3ZLVVA0TERuaTB6aDJLTTRtckxRc0QzZVZVdjRZTEtB0gHnAUFVX3lxTE45eXhINmJRcnd3MWM5dDdCTUw0NXl5YzFLdHYzTmN1WE5TN2J3MTJvakx5QmRpU1hVTFBDQzdyeEJKcGpWeFQ2QlZER3pzM2g4UmpkZko4TUV4WmJZMXM0OUVnNTNPUnY3cG9NcEh3UENvMGRsbndDaXJkOFdHd0lacXpvYVBKejZZWDZxOG80QjJnNWJRcmp0cnc2NTJtaTFHQnlKeVMyT3Utb09BZi02WmFRUWdnSmduNmRpdG5QRV9DZGRrMXNERTVKUmpBYm55TXh0ZUNRTTRWZlhOZkg0UW9YOFZtbw?oc=5"
+   },
+   {
+    "d": "2026-10-30",
     "h": "07:48",
     "t": "Milan-Inter, le probabili formazioni di Amorim e Chivu",
     "s": "Corriere dello Sport",
     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY2locWo0TlVHNFJwLUNQOGh0bWZVUks3YmRJVTBJU2JGeU90Z1pkd1VfNDhrWEg3SGo2Qmd1V3dVNXRsLUtLRGtnSDFyZEFEVlRnUlpnZ055N0dnV1N0WGU1ZWdaWHFMTnd3Umt4MkxCRk9VN0hsMmpVZXpUMmVTQmFFQ3lGbE5oYWt5amlHQjRjR2FrcE1EdllyQV92SHkzTU5Tc2Qta2wzR1JaaUpfVzIwek9mV2RIajZwOVFEcWtCS3o4bUNz0gHKAUFVX3lxTE0wVVFkcGdwRnk4MnFVa3RUNmpoSjFPeUVYU2tjenlaUG5vX0JYQlpPSTNEZzEwRVhubkxOMWd5dnlfNTVYN011Ymg3eG9rVmxtVGxqZEc1RW9lWTVlQ1BTZjFSQjNRZE4tUUJ5b21GZHBGeEc3SFFQeHNSLWx2M0UwNGpPRi1tMFZsVDRmcURQM3pwcmp3cjAxdGxQVGdGMnp0dHhaZWl5UG95SXZrVE9LMk1CQ082R2JjZGc4eVBQc2JCQWk0WWNsTmc?oc=5"
+   },
+   {
+    "d": "2026-10-30",
+    "h": "06:43",
+    "t": "Milan e Inter, presentato il progetto del Generali Stadium: lavori al via nel 2028",
+    "s": "Fantacalcio",
+    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVkg1VGt4MDFKZXFHaGROYmRhX0o0WHZ2OWRZdmFGaXdBeTZpSGhMbThkVHcwUTQyOS1QN0VlTTV0b0xqS29DX3dFcm1EVFRTSVQ2eE1GLUtrOW0zYldYYmdqV3ZaZXB0cHNZTGFTUXJ1LXB5VjlvWlg0RXAtWVRkQk1TNzhuZHZxR2N4MExKeDBaeGxieFQxUjVITFRKS3RqY3ZqUWpCWk80c1lBYnpjd1FQck1fQmFWbGszOVNLQVZOT29Tb2JQQUY3ckZYckhkOHRrbW14enhUdksxZjh5V1VB0gHiAUFVX3lxTFBWSDVUa3gwMUplcUdoZE5iZGFfSjRYdnY5ZFl2YUZpd0F5NmlIaExtOGRUdzBRNDI5LVA3RWVNNXRvTGpLb0Nfd0VybURUVFNJVDZ4TUYtS2s5bTNiV1hiZ2pXdlplcHRwc1lMYVNRcnUtcHlWOW9aWDRFcC1ZVGRCTVM3OG5kdnFHY3gwTEp4MFp4bGJ4VDFSNUhMVEpLdGpjdmpRakJaTzRzWUFiemN3UVByTV9CYVZsazM5U0tBVk5Pb1NvYlBBRjdyRlhySGQ4dGttbXh6eFR2SzFmOHlXVUE?oc=5"
    },
    {
     "d": "2026-10-30",
@@ -373,17 +387,17 @@
    },
    {
     "d": "2026-10-30",
+    "h": "01:19",
+    "t": "Milan, Cardinale conferma Amorim e rilancia le ambizioni scudetto",
+    "s": "Diretta",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTmpmUE9jc0w2NkxqSU1fSkI2aGc3alR5MjVSU002MTF3TXc2SFZnV2Y5dnMzOTdsbnJQT3BKZGF4VkdMSEpGM3FiYTJ6djdWUzVLRmF3cUVBQldKaE9kQzVmT0Zaai1CUUdjTEh3dy1jMjVlNW5TaXplT2hJdF9VVUZlQVRDVmRpZU1pQ1ZxbHlZYW93ekJQSmtwNXVjeWlLaVhQblZkdzZNcDZaamZhY2RRUV9KUVlDVlJZLVBZZUc1WHVqZlBaVXVIcUc4OFlJa1BWSmd5X1Q?oc=5"
+   },
+   {
+    "d": "2026-10-30",
     "h": "00:39",
     "t": "Ariedo Braida: \"FIGC, Galliani è il calcio. Milan, cercasi strada maestra. Ronaldinho magico\"",
     "s": "TUTTOmercatoWEB",
     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcE5rcW5wdi1vTGJvallJdUIxNThSNGl3YkhzUmN6cmJXUFhhVnRfRl95aXhJcUI4OE5ZbjJiX1E3M0t2M2toRFp6SXJkQWNxVWNWamZTbFZDWTlNZnlvVmk1TGpEczd2N1FYNXVQdVNFMmRXUFF4dW1ZX1UxQXlGaWR5S0ZaU1NxZ3k4Q0ZHZjBCUXFVN1JkMjRtSGZXRldEbC1rREJxSkt4aDNPVWM4ZHNqSFZfNi1ha0VnOTJDU3dGQ0hPTzllUkt5eXpSbkNUNVN2MzczM1E?oc=5"
-   },
-   {
-    "d": "2026-10-29",
-    "h": "23:01",
-    "t": "Calcio, Milan e Inter alla presentazione del 'Generali Stadium'. Scaroni: \"Gran soddisfazione\"",
-    "s": "alanews",
-    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTjVURmtlaWZXU3FfZlEzRlJSalVZN0NJYkVnNmRNX1dfX21rZ3RoamhzR2RSTlpEaWt3M192R0ZQZGJRSVpFWVVBUGszY1VVTW1RLU92XzNYRlYyMW13WnBlWVd2OWZWSXd0Rk5NM0pJa1lZTjQtWlRsdVYzSDE0UUJxbFRkSHhwdlZQR2hqbFdGQVBmaS1YN1liaVo3Y0djdlA5ejI1UGxCdHJuQkdBc2JfbGs1VTJ2bnd6TDctWGZ4bk5nWmx0d0N1VUQwQWpC?oc=5"
    },
    {
     "d": "2026-10-29",
@@ -394,24 +408,10 @@
    },
    {
     "d": "2026-10-29",
-    "h": "22:17",
-    "t": "Inter e Milan, il nuovo stadio si chiamerà Generali Stadium",
-    "s": "SpazioCalcio.it",
-    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWkxXbmpUaUJPci12UDV0OF9kSFJTa0NDMmhfVjlHWk9SNTZzWXhtUnFLcUozMnhfT1NGVEZrZzNfc0ZKa1dFUVdFbmdXOTR6T1d0LUNITkZDM041c2JPNnZwYU9XTHpuelZiMUVTcU9GZVpxaFRRcnZOQTZmTTZTbHppNG5xQ0xabmRvZmt5WjVZdlRkY1U3QVBRV3Y1RWFwZkt3VFVR?oc=5"
-   },
-   {
-    "d": "2026-10-29",
-    "h": "22:11",
-    "t": "Milan e Inter svelano il Generali Stadium: avrà 71.500 posti | \"Sarà più San Siro di prima\"",
-    "s": "Sportmediaset",
-    "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaDEtY1R3RExjaW9UWW95RHI1ODM2bWt1b1pMa25TLWlmNmx1OFpZVUE0SWpldjVBTTRPN0lTMTRXTGhmclh5ekV3dGhJLVN0ZGMySWtmM05QejRHeFNUNUhoSUxaRWpTYzBHLTBlb0FMYUNUUUJsX213OTJvNTF6cENIYmxIN0xjRUJaRVRxTDlFeVRMYlNBWUdLTS1qeWlRdFNCVWVOUkxnSGR1cllHcnJGelNueHZEN0k3Q1JmVGx5WFB3VGlJakQ2WTZhRWRTTmZpVkdxVHllaHhUSnYtMFR1bFpOWnFmQ1UzWlJqbDhXbW5YcDQzNGJB?oc=5"
-   },
-   {
-    "d": "2026-10-29",
-    "h": "22:09",
-    "t": "Generali Stadium, come sarà il nuovo stadio di Inter e Milan",
-    "s": "DAZN",
-    "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZVI2LUJqX0Fxc2pGd1JTWThpaVNUQWdpQ1VtVUl4WllFSkZtV2JqV0JHR0Y2Vi1VNUI4MkdwS3pnX2tRN0FrUU43WEhzaVlzbmhLSENRSlZKQUVuX3c5NXRlN0prMTFSXzZUQkpUMUZVWDFVYWhMUzVYSjdMak1Md2VtVHlEMWcteW8xN3VfS21PZUFmTDdwcDFHSU94b01Tb3lmMF8wSnRPRlpzTUpETVotTXVaSzdzWVRtNllGQ0hFa3RQVmoxQVZEb0oyNjRjN19mdlBSZXFHU1VpQWZFOXA4bV9hUFJiX2c?oc=5"
+    "h": "22:26",
+    "t": "Svelato il ‘Generali Stadium’, nuova stadio di Milan e Inter dalla stagione 2031/32: ecco come sarà",
+    "s": "S&H Magazine",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRGRCeklCYlhqTDNJMnM4c2FVQUJ1U1VmcTdyVEpkVkhUQ0tYbGRPQ3VaWTZIYjdUNGxnTS1pd0ZCNm05UFY1TUxwUTBwVjJ4ZVZlZllKLWJFalBpZEJKVGdJWUFBRUNwMjc5NVM2NUJPVHU3aVp4ckFLeXRzbVN0VzNjYnZ6MG9Ka3F1RDhlMTYzVmhqM3BBSFRGcmVjSV9EVW9ZZmpka2ViWjlQa1BMVFRFM1U2QnNGZHp4VkFCakxDM2NpN2cwUk1xWkRRdUNLb0dKVUlWMjE?oc=5"
    }
   ],
   "cantu": [
@@ -908,7 +908,7 @@
    "2": 44
   }
  },
- "updated": "2026-10-30T08:28:14+00:00",
+ "updated": "2026-10-30T09:18:53+00:00",
  "log": [
   "classifica milan 5 18",
   "classifica como 4 20",
