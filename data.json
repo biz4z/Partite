@@ -83,8 +83,229 @@
   }
  },
  "cantu": {
-  "games": [],
-  "standing": null
+  "games": [
+   {
+    "date": "2026-09-26",
+    "time": "20:00",
+    "home": "Venezia",
+    "away": "Cantù",
+    "score": "85-73"
+   },
+   {
+    "date": "2026-10-05",
+    "time": "20:00",
+    "home": "Cantù",
+    "away": "Udine",
+    "score": "84-85"
+   },
+   {
+    "date": "2026-10-11",
+    "time": "17:00",
+    "home": "Cantù",
+    "away": "Napoli",
+    "score": "80-99"
+   },
+   {
+    "date": "2026-10-18",
+    "time": "18:00",
+    "home": "Trieste",
+    "away": "Cantù",
+    "score": "92-72"
+   },
+   {
+    "date": "2026-10-25",
+    "time": "18:30",
+    "home": "Reggio Emilia",
+    "away": "Cantù",
+    "score": "81-60"
+   },
+   {
+    "date": "2026-11-02",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Olimpia Milano",
+    "score": ""
+   },
+   {
+    "date": "2026-11-08",
+    "time": "16:00",
+    "home": "Maxima Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-11-15",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Tortona",
+    "score": ""
+   },
+   {
+    "date": "2026-11-22",
+    "time": "17:30",
+    "home": "Scafati",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home": "Cantù",
+    "away": "Varese",
+    "score": ""
+   },
+   {
+    "date": "2026-12-13",
+    "time": "",
+    "home": "Verona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-20",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trento",
+    "score": ""
+   },
+   {
+    "date": "2026-12-27",
+    "time": "",
+    "home": "BC Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-03",
+    "time": "",
+    "home": "Cantù",
+    "away": "Treviso",
+    "score": ""
+   },
+   {
+    "date": "2027-01-10",
+    "time": "",
+    "home": "Virtus Bologna",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-17",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trieste",
+    "score": ""
+   },
+   {
+    "date": "2027-01-24",
+    "time": "",
+    "home": "Udine",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-31",
+    "time": "",
+    "home": "Cantù",
+    "away": "Verona",
+    "score": ""
+   },
+   {
+    "date": "2027-02-07",
+    "time": "",
+    "home": "Varese",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-02-14",
+    "time": "",
+    "home": "Cantù",
+    "away": "BC Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-07",
+    "time": "",
+    "home": "Cantù",
+    "away": "Maxima Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-14",
+    "time": "",
+    "home": "Treviso",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-03-21",
+    "time": "",
+    "home": "Cantù",
+    "away": "Scafati",
+    "score": ""
+   },
+   {
+    "date": "2027-03-27",
+    "time": "",
+    "home": "Trento",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-04",
+    "time": "",
+    "home": "Cantù",
+    "away": "Reggio Emilia",
+    "score": ""
+   },
+   {
+    "date": "2027-04-11",
+    "time": "",
+    "home": "Tortona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-18",
+    "time": "",
+    "home": "Cantù",
+    "away": "Virtus Bologna",
+    "score": ""
+   },
+   {
+    "date": "2027-04-25",
+    "time": "",
+    "home": "Olimpia Milano",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-05-02",
+    "time": "",
+    "home": "Cantù",
+    "away": "Venezia",
+    "score": ""
+   },
+   {
+    "date": "2027-05-09",
+    "time": "",
+    "home": "Napoli",
+    "away": "Cantù",
+    "score": ""
+   }
+  ],
+  "standing": {
+   "pos": 16,
+   "pts": 0,
+   "g": 5,
+   "up": {
+    "n": "Tortona",
+    "pos": 15,
+    "pts": 2
+   },
+   "dn": null
+  }
  },
  "news": {
   "milan": [
@@ -159,13 +380,6 @@
    },
    {
     "d": "2026-10-29",
-    "h": "23:00",
-    "t": "Generali Stadium, dentro il nuovo San Siro di Inter e Milan: il video render",
-    "s": "LaPresse",
-    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWUs4akVMQ1JJUk9EYnBTVWg2U0dOOUJfbDFCbVgzM2lleHBya2V3M09mbU9ranhWdUR5WUZRR0Y3cG1BSzVMWWtiZG5DdTlhNjFTek93R1lxNFZPY1M1ZjRUWVp2cDJUM2ZDSkZIeTFJdWJ6d2lMVmQ0dWszd3JSSmUzd0lvVUdSOGpHaURzSnZmWFVqRTRIWFY5MVJ3Y01sY2FpTmlKSXh1TjUyWFFWZWl4R09SSjNk?oc=5"
-   },
-   {
-    "d": "2026-10-29",
     "h": "22:32",
     "t": "Milan e Inter arrivano insieme alla presentazione del nuovo San Siro",
     "s": "Sportmediaset",
@@ -191,6 +405,13 @@
     "t": "Generali Stadium, come sarà il nuovo stadio di Inter e Milan",
     "s": "DAZN",
     "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZVI2LUJqX0Fxc2pGd1JTWThpaVNUQWdpQ1VtVUl4WllFSkZtV2JqV0JHR0Y2Vi1VNUI4MkdwS3pnX2tRN0FrUU43WEhzaVlzbmhLSENRSlZKQUVuX3c5NXRlN0prMTFSXzZUQkpUMUZVWDFVYWhMUzVYSjdMak1Md2VtVHlEMWcteW8xN3VfS21PZUFmTDdwcDFHSU94b01Tb3lmMF8wSnRPRlpzTUpETVotTXVaSzdzWVRtNllGQ0hFa3RQVmoxQVZEb0oyNjRjN19mdlBSZXFHU1VpQWZFOXA4bV9hUFJiX2c?oc=5"
+   },
+   {
+    "d": "2026-10-29",
+    "h": "22:08",
+    "t": "Nuovo San Siro, Inter e Milan svelano il Generali Stadium: ecco come sarà il nuovo impianto (FOTO)",
+    "s": "Sportitalia",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUp4X1FYZTBUTUxmZko1TzlpOHRXMHllbElIczVpQjBZd3BCODIzRGlLNlR4elB3MFdGd29sbXcyVmdKQlBXXzljYXIxdm5ycVhJa3Rzd0ZoWHVnaGRlM2R1Q05PeGJjQzhyR19hV09kOGJqNXdVS1hOdFZIMm9xZ3M2ZFlnWFJPbzhrcVpEZjR5NHQwcmg2QzhTMF95MzV5RzVuU1h5M0gtTmJ5aUs4Y29Qemt6Um5EQ2dKUWt1UVJDWmR6NGNfb3YyMnVsZw?oc=5"
    }
   ],
   "cantu": [
@@ -687,15 +908,15 @@
    "2": 44
   }
  },
- "updated": "2026-10-30T03:45:51+00:00",
+ "updated": "2026-10-30T04:28:07+00:00",
  "log": [
   "classifica milan 5 18",
   "classifica como 4 20",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 0 partite None",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
-  "notizie cantu 0",
+  "notizie cantu 3",
   "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
