@@ -83,241 +83,25 @@
   }
  },
  "cantu": {
-  "games": [
-   {
-    "date": "2026-09-26",
-    "time": "20:00",
-    "home": "Venezia",
-    "away": "Cantù",
-    "score": "85-73"
-   },
-   {
-    "date": "2026-10-05",
-    "time": "20:00",
-    "home": "Cantù",
-    "away": "Udine",
-    "score": "84-85"
-   },
-   {
-    "date": "2026-10-11",
-    "time": "17:00",
-    "home": "Cantù",
-    "away": "Napoli",
-    "score": "80-99"
-   },
-   {
-    "date": "2026-10-18",
-    "time": "18:00",
-    "home": "Trieste",
-    "away": "Cantù",
-    "score": "92-72"
-   },
-   {
-    "date": "2026-10-25",
-    "time": "18:30",
-    "home": "Reggio Emilia",
-    "away": "Cantù",
-    "score": "81-60"
-   },
-   {
-    "date": "2026-11-02",
-    "time": "20:30",
-    "home": "Cantù",
-    "away": "Olimpia Milano",
-    "score": ""
-   },
-   {
-    "date": "2026-11-08",
-    "time": "16:00",
-    "home": "Maxima Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-11-15",
-    "time": "17:30",
-    "home": "Cantù",
-    "away": "Tortona",
-    "score": ""
-   },
-   {
-    "date": "2026-11-22",
-    "time": "17:30",
-    "home": "Scafati",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-06",
-    "time": "16:00",
-    "home": "Cantù",
-    "away": "Varese",
-    "score": ""
-   },
-   {
-    "date": "2026-12-13",
-    "time": "",
-    "home": "Verona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-20",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trento",
-    "score": ""
-   },
-   {
-    "date": "2026-12-27",
-    "time": "",
-    "home": "BC Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-03",
-    "time": "",
-    "home": "Cantù",
-    "away": "Treviso",
-    "score": ""
-   },
-   {
-    "date": "2027-01-10",
-    "time": "",
-    "home": "Virtus Bologna",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-17",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trieste",
-    "score": ""
-   },
-   {
-    "date": "2027-01-24",
-    "time": "",
-    "home": "Udine",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-31",
-    "time": "",
-    "home": "Cantù",
-    "away": "Verona",
-    "score": ""
-   },
-   {
-    "date": "2027-02-07",
-    "time": "",
-    "home": "Varese",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-02-14",
-    "time": "",
-    "home": "Cantù",
-    "away": "BC Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-07",
-    "time": "",
-    "home": "Cantù",
-    "away": "Maxima Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-14",
-    "time": "",
-    "home": "Treviso",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-03-21",
-    "time": "",
-    "home": "Cantù",
-    "away": "Scafati",
-    "score": ""
-   },
-   {
-    "date": "2027-03-27",
-    "time": "",
-    "home": "Trento",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-04",
-    "time": "",
-    "home": "Cantù",
-    "away": "Reggio Emilia",
-    "score": ""
-   },
-   {
-    "date": "2027-04-11",
-    "time": "",
-    "home": "Tortona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-18",
-    "time": "",
-    "home": "Cantù",
-    "away": "Virtus Bologna",
-    "score": ""
-   },
-   {
-    "date": "2027-04-25",
-    "time": "",
-    "home": "Olimpia Milano",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-05-02",
-    "time": "",
-    "home": "Cantù",
-    "away": "Venezia",
-    "score": ""
-   },
-   {
-    "date": "2027-05-09",
-    "time": "",
-    "home": "Napoli",
-    "away": "Cantù",
-    "score": ""
-   }
-  ],
-  "standing": {
-   "pos": 16,
-   "pts": 0,
-   "g": 5,
-   "up": {
-    "n": "Tortona",
-    "pos": 15,
-    "pts": 2
-   },
-   "dn": null
-  }
+  "games": [],
+  "standing": null
  },
  "news": {
   "milan": [
    {
-    "d": "2026-10-28",
-    "t": "AC Milan-Bologna 2-4, Serie A Enilive 2026/2027: la cronaca | AC Milan",
-    "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-10-28/milan-sconfitto-dal-bologna"
+    "d": "2026-10-30",
+    "t": "Christian Pulisic prolunga il suo contratto: il comunicato ufficiale | AC Milan",
+    "u": "https://www.acmilan.com/it/news/articoli/media/2026-10-30/comunicato-ufficiale-christian-pulisic"
+   },
+   {
+    "d": "2026-10-30",
+    "t": "AC Milan-Inter, Serie A Enilive 2026/2027: la conferenza stampa della vigilia di Rúben Amorim | AC Milan",
+    "u": "https://www.acmilan.com/it/news/articoli/conferenza-stampa/2026-10-30/amorim-derby-speciale-daremo-il-massimo"
    },
    {
     "d": "2026-10-28",
-    "t": "AC Milan-Bologna, Serie A Enilive 2026/2027: statistiche, classifica, arbitro e squalificati | AC Milan",
-    "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-10-28/milan-bologna-match-preview"
+    "t": "AC Milan-Bologna 2-4, Serie A Enilive 2026/2027: la cronaca | AC Milan",
+    "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-10-28/milan-sconfitto-dal-bologna"
    }
   ],
   "cantu": [
@@ -382,34 +166,41 @@
    },
    {
     "d": "2026-10-30",
-    "h": "11:30",
-    "t": "Il nuovo stadio di Milan e Inter è il Generali Stadium, l'ex San Siro sarà di 280mila m2: costi e tempi",
-    "s": "Geopop",
-    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjhCaUNlR0tMREJlSjVSaGhMNjh0MWpxb1FtSlNpeHFKYnVmLW9FNFE3MDZMNzdSTlhfSmh3NWNfenJKek4xZUlHYWJ0cHRvdjBSZ2RmaTAwOU1lNTJERkMwbVVMWmNEVzVGUHpTZGxHb3otdzBGU3ZjR0dKVnJ0cXV2X1hORkdxZC16c0RHRDdKYlZmR2FWSkMtR3lXeWhnXzRiNkc4Rmw?oc=5"
+    "h": "12:42",
+    "t": "Serie A, referees for matchday 10: Guida for the AC Milan-Inter derby, Sozza for Juventus-Napoli",
+    "s": "Goal.com",
+    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObWlNb3BfQjVrTXFvUjN1VVhZZXQwQWw3VFdpQmh0ckFHRlY4WTdXY0s3WHBrLS10V0RQenpGLUtIbFA1d2pkX2hZaEFMeFI4UmJ0NjFCSmJNSFpTTUQ4V2tVX3hMMWktOUgxYi1XQlg5akNGOE9SSlBwTkl1Tmd0SlhodVNyM19ZRktmNXhVdkd4U0JzRkRGbnBXcVpweU5CS2xZejc0Q0d6NDBsclY1UHppREZTNGpsQ0xaZm1xVGJMOWM1QnE2dHpyTDRTV3dZZzJORS10UjN2VmRaaXZv?oc=5"
    },
    {
     "d": "2026-10-30",
-    "h": "11:06",
-    "t": "Milan-Inter: probabili formazioni, orario e dove vedere in tv e streaming la Serie A",
-    "s": "Tuttosport",
-    "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb1g0YmoxaVN0OHNjZzZTaVRKMWE4dS04eWphSXJpeFFtVmVIWkxfR2pTNUJjZlpaRENDemFvXzNOblJ4YkYzZDlYaXE1ekR5VU04eG8yNm1uQklRVm50aExVdGk1ZkVYdFF0TmhySXZITGdjVGRTN21FVXVhX0E5STFZZFNSZ3hENUVrUnhwMG1MVkFGamxCQWVXb0xFOHV3NFRnaC1jM1RwQzBON2dqUEJMdkw4SlBmSmNEd3I5ZjFmNEh5Q0U5d2RTVVdZWjYyNXFLM2p2eEF1ZVNqV1NwSmNKWVjSAecBQVVfeXFMTnUxblVJNENFWXlGUGxKbFhidkFYb0w1a2duMHhMY01yM3dYeXJlQ1hDZ2Z3Rl8xRTFZanhsQ3VCSkRUaUwzY05xTDFxYWl5QTNHNTNWcmxibmVJdXBxVFFSYTczTzUwMGltZzlvUHlJa0JPbGFXUHo5anJQdHlPZHhIbjFOZ0pMTVZfbERaQmZ0R2V4UUx0MFplT2pWVmU2eFpKTW56cF9QR282TFUzN0R0bEpoR0dtWXR4LV9zdi1mNkhQbFNFTERiRWMxaGdzeUlGQ0ZBUHZYemZUTFlZZWtyTUVRTjJJ?oc=5"
+    "h": "12:09",
+    "t": "Milan, Gerry Cardinale e Zlatan Ibrahimovic presenti all'allenamento odierno",
+    "s": "Gianluca Di Marzio",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR3VYbEZuU1lkRTZ1MENQY2pGM2Rka0tPT3pJejhCdm92OV81ZXNMeUNqWTlZYkNWT05hTkpmYVJJbC0tVnJYYXlDOTZRVTgwdnpJV2tULWlhb0RIMzlnY1gxWG02ZUduS3dESHZFQ2Jfbjg4dkl1S1R6S0tZNFNuUWNqWXd4LUV2bjBqdFlaS1ZQU0Y1aHFUX2U2TGZXd0pCWEhlVjJoaUo2NlVlcWk3QXQ4MA?oc=5"
    },
    {
     "d": "2026-10-30",
-    "h": "11:01",
-    "t": "Generali Stadium, per il nuovo stadio di Milan e Inter uno sponsor da 650 milioni",
-    "s": "Il Sole 24 ORE",
-    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcWl4aWRmWjJma2JlOEdhQmNKZTFPMzNfdlViV29pMGhWZmdYaWV2NWxaWnJNdFRTd2Z4blhUdG5ENloxejBSQ2NSQ2hTbEM5Wm96REVKakR2VnIwZTBjMnpqMG1TSkNSZThBY29qY09GT1FGM2FMOGpTWTlzQjdmcFlvV3NHOUJ2R0RpcnBZcTV6MWhOYXRhQUF1czNGUFUwSW9YNTFJaTBfMEU?oc=5"
+    "h": "12:04",
+    "t": "Serie A, le designazioni della 10ª giornata: scelti gli arbitri di Milan-Inter e Juventus-Napoli",
+    "s": "Gianluca Di Marzio",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWUya1RBT195N1hxQmxtaW1peU9kTG9aMDFqOGJiRW1oVjhlMjJGWWpUaG12VHJDd0hlTVFCWjRqbmRIN09VdnAtdkRJdmFSck9KNXkwME5qdFAxRXBnYXM5UnYwVXU2VE9vNktDVUhqT0Zac3VrSGhhV19vM3A0QVdia2xZYTB5WXFFZWxNQWYyU1JWdG5NNXdZSQ?oc=5"
    },
    {
     "d": "2026-10-30",
-    "h": "08:45",
-    "t": "Milan, Cardinale: \"Credo nello scudetto e nell'Amorim-ball: sarò aggressivo sul mercato\"",
-    "s": "Sportmediaset",
-    "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUTg4a1cxV2kyME4tZFQ0M3J1MU5aRmQ0TUNlcG15eVV6TUhURUpVbmk1dTNjb1pucnFWN0tjZGdaaHJGSDJ5N05Qb1RHLWhzR1lwYXNzRkFnMjZXWHh1dXFPODBSUmEzR1F2WEE5SWpHeVhUdjRwUzF5MzZvekpRbDZiRHpsZmEzcEozTjhrSjJYcGctUEZwUGo3dmU4S2V3T0owNFNOLWYxNDB3dmRGWGlCZld5N2pja1BQQ1c0MGl0d3JHc0tKakhPZlNlNktHX0JGWFlzcC1OOEZ2cFRCTE1sZnVWZ18yTVJvM18wQQ?oc=5"
+    "h": "11:33",
+    "t": "Milan-Inter: anteprima, probabili formazioni e consigli fantacalcio",
+    "s": "Calciodangolo",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX0djWmhYMHlVYzRVNUJ3Y3o2Sm9DN1NQc0hkaUc1TWpUNjZrYjByaGlaRDVTLWk4XzhPa1BkcjdETGZFRFlwNC1RXzhrOHdZVGhGYnp2UDRkemprVnJST09EY0VNdFlpdU1oekRCa05mZENxTXp0bS02cFJlM2tfNnktMWtfUzhQTk5yLXJoZ2NNbDFt?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-10-30",
+    "h": "15:03",
+    "t": "Basket, sesta giornata su Sky e NOW: Trento-Roma e Cantù-Milano, tutti gli orari",
+    "s": "Sportface.it",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMVh4VV9WczdfUGdiYlJwU0NLXzJnVnVPc0R2QWNPYnotOU1yaEtEOHp4NXFiWEU0Vlo5TTF1YnhYTWo2ZDZzb2c1NzhScW9waE5DUl9POVExLWVKbWc5SHhHUUpkVHdtU3NrZ3RYWjJOUWpvNGgxUXdnSFNzM1NRc040eTBIbkVvVkhmSjZUSWMybTFOQzl5UnNzYlVHMHN6X3dv?oc=5"
+   },
    {
     "d": "2026-10-30",
     "h": "14:10",
@@ -447,13 +238,6 @@
    },
    {
     "d": "2026-10-29",
-    "h": "11:09",
-    "t": "Vumbaca Reggio BiC contro Briantea Cantù. Barbibay: 'Dobbiamo imparare partita dopo partita'",
-    "s": "CityNow",
-    "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XSGhFSFlYRW8xbDRMTFJwN2M0N3lnNlJmWGphREhxSWdwdU1SaWpvRy0yWVdSRzRpQ0NjMS1oYTMtaGI1X2x6ZWlYS3l4V3FQX1l3U1hyb0xSOTlJbFE?oc=5"
-   },
-   {
-    "d": "2026-10-29",
     "h": "09:48",
     "t": "Pallacanestro Cantù, Allievi: «Non voglio sentire parlare di mercato e di giocatori in odore di taglio»",
     "s": "Pianeta Basket",
@@ -470,17 +254,17 @@
   "como": [
    {
     "d": "2026-10-30",
+    "h": "15:10",
+    "t": "Buonfiglio: “Il Como si astiene da qualsiasi interferenza con il calcio, sarebbe scorretto. Mi auguro che…”",
+    "s": "Tutto Juve",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZG5OM0VFSXU1b0xtVERNbmQ0Y3kxR2RLTnByQW55dm9STWp4a1ZmbXlYMFpfSTJrY2Nfa0hVaXh2RldqNmE4YjdPXzY0a2ZzWXRMM0x2X0dvMkFPV1dFX2YwTzVvQl9sS2JwNG9FZHBrN3dRUXo1S0I0NHhGMTlrTTB5dVhtT0EyTy1SRlJBNXJudDVEY0RiNHppTmtwVHctdzkxcW9LSWgxcHRjb1ZEeDBfSVNqWVI3djBVOHZFZlVzdw?oc=5"
+   },
+   {
+    "d": "2026-10-30",
     "h": "09:01",
     "t": "Probabile Formazione Como - Venezia - 10° Giornata",
     "s": "La Gazzetta dello Sport",
     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jQ01HajNOdVN5WExHZnV6VGFHR2toQ1BGYVlubGN0UGZCSVFqRDJlbXFHMFRyQkpveEZEUng0bGZmeEM5c1BfMGlhR3Fhcjdoa0lKbUZlSFlLRnBWZW1RMU5mMEVhaUw5eS1mOVl3?oc=5"
-   },
-   {
-    "d": "2026-10-30",
-    "h": "08:51",
-    "t": "Lecce - Como: 1-1 | Serie B - Risultati",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpNXNWX0lhQnlQU3NGRC1IWXR5ejk0VXNqXzhSNllPN1I1VXdfeldlVkVjMFNENHZ2aW1HOF9KU18wVjkxTjNiNWtqUFdNRDQ2QXJFVDNNUVdKY2VxTjQtTVlYWldPOFUwR3hQdHBOMEsxdVlhMFQ5b2ZHa1hUX3c?oc=5"
    },
    {
     "d": "2026-10-30",
@@ -903,15 +687,15 @@
    "2": 44
   }
  },
- "updated": "2026-10-30T13:45:36+00:00",
+ "updated": "2026-10-30T14:39:01+00:00",
  "log": [
   "classifica milan 5 18",
   "classifica como 4 20",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
-  "notizie milan 2",
-  "notizie cantu 3",
+  "cantu 0 partite None",
+  "notizie milan 3",
+  "notizie cantu 0",
   "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
