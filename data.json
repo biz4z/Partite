@@ -83,8 +83,229 @@
   }
  },
  "cantu": {
-  "games": [],
-  "standing": null
+  "games": [
+   {
+    "date": "2026-09-26",
+    "time": "20:00",
+    "home": "Venezia",
+    "away": "Cantù",
+    "score": "85-73"
+   },
+   {
+    "date": "2026-10-05",
+    "time": "20:00",
+    "home": "Cantù",
+    "away": "Udine",
+    "score": "84-85"
+   },
+   {
+    "date": "2026-10-11",
+    "time": "17:00",
+    "home": "Cantù",
+    "away": "Napoli",
+    "score": "80-99"
+   },
+   {
+    "date": "2026-10-18",
+    "time": "18:00",
+    "home": "Trieste",
+    "away": "Cantù",
+    "score": "92-72"
+   },
+   {
+    "date": "2026-10-25",
+    "time": "18:30",
+    "home": "Reggio Emilia",
+    "away": "Cantù",
+    "score": "81-60"
+   },
+   {
+    "date": "2026-11-02",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Olimpia Milano",
+    "score": ""
+   },
+   {
+    "date": "2026-11-08",
+    "time": "16:00",
+    "home": "Maxima Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-11-15",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Tortona",
+    "score": ""
+   },
+   {
+    "date": "2026-11-22",
+    "time": "17:30",
+    "home": "Scafati",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home": "Cantù",
+    "away": "Varese",
+    "score": ""
+   },
+   {
+    "date": "2026-12-13",
+    "time": "",
+    "home": "Verona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-20",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trento",
+    "score": ""
+   },
+   {
+    "date": "2026-12-27",
+    "time": "",
+    "home": "BC Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-03",
+    "time": "",
+    "home": "Cantù",
+    "away": "Treviso",
+    "score": ""
+   },
+   {
+    "date": "2027-01-10",
+    "time": "",
+    "home": "Virtus Bologna",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-17",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trieste",
+    "score": ""
+   },
+   {
+    "date": "2027-01-24",
+    "time": "",
+    "home": "Udine",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-31",
+    "time": "",
+    "home": "Cantù",
+    "away": "Verona",
+    "score": ""
+   },
+   {
+    "date": "2027-02-07",
+    "time": "",
+    "home": "Varese",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-02-14",
+    "time": "",
+    "home": "Cantù",
+    "away": "BC Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-07",
+    "time": "",
+    "home": "Cantù",
+    "away": "Maxima Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-14",
+    "time": "",
+    "home": "Treviso",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-03-21",
+    "time": "",
+    "home": "Cantù",
+    "away": "Scafati",
+    "score": ""
+   },
+   {
+    "date": "2027-03-27",
+    "time": "",
+    "home": "Trento",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-04",
+    "time": "",
+    "home": "Cantù",
+    "away": "Reggio Emilia",
+    "score": ""
+   },
+   {
+    "date": "2027-04-11",
+    "time": "",
+    "home": "Tortona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-18",
+    "time": "",
+    "home": "Cantù",
+    "away": "Virtus Bologna",
+    "score": ""
+   },
+   {
+    "date": "2027-04-25",
+    "time": "",
+    "home": "Olimpia Milano",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-05-02",
+    "time": "",
+    "home": "Cantù",
+    "away": "Venezia",
+    "score": ""
+   },
+   {
+    "date": "2027-05-09",
+    "time": "",
+    "home": "Napoli",
+    "away": "Cantù",
+    "score": ""
+   }
+  ],
+  "standing": {
+   "pos": 16,
+   "pts": 0,
+   "g": 5,
+   "up": {
+    "n": "Tortona",
+    "pos": 15,
+    "pts": 2
+   },
+   "dn": null
+  }
  },
  "news": {
   "milan": [
@@ -138,6 +359,27 @@
   "milan": [
    {
     "d": "2026-10-30",
+    "h": "15:44",
+    "t": "Pulisic e il Milan insieme fino al 2031",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN1lvSE81WHRRbGNhQlVPa1Q0SVJFemd5WEVQSGk2d0hIaVRsb1otNDFKR3lTaFhSbGlTb3J3a3dGWm11aDFXUC1GU3R5TXRLX2lIWF84WjBvVThRSFRlRnNUNDFSbl9IbFhkbkYxNUdpNUMwMWpHdFByc1luOHI4eXViSTdZQ0pEZkpQVUU2OUlyUlpqWjZYbnh5ZmJIcktMQUl1OERuVlNhYWNJZ3VIRVFYS2xWMTZ1UHd3WmdMdFI5Z1czQjZ2OEs4WFlBcEV4MmJDSNIB2gFBVV95cUxNMjdpMUNXNE03UVIxb0ZYTUo4UHlreDdONjFMMGsyX1k5SVRxdnhUSkJNWUQxTWtsSEZqTGtCaER5cHkxa2VaX09NOHZnODhmR0ZsZDJXQVV3Vl9Xb1prdFRPMHFaZHItcmxQX3NfOTdiUzk5VWFWeUN2VVJaWWhUNmJiYnB5b2xmQm9hZnlZQmlTTlBHXzg5QXdpVjRBWmo3RzJQdmFaUVlfWFZyQjRyUDhpYXFfTFpVVDFMc0V3SFdaaGl4ajYteGhCOHFLa3MzVFZVVlcxSkYwQQ?oc=5"
+   },
+   {
+    "d": "2026-10-30",
+    "h": "15:10",
+    "t": "Moreira: \"Morirei per il Milan, soprattutto in partite come derby\"",
+    "s": "Sportmediaset",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWdiSXJqWGx4RFNmT2NBNWRoMzdiZVBnZ1lxbUxnZk5qOTVmOWhFc2NubVcxMjRHMEkwMmdOY2VHOTJiSHhQd2NwQzEtYWFTd0FodUtRVVJLSGI0eDdLbVhGVmpYdkFBa1p6TzdUYlNQcWt0ci1peFdvSWVSQjI1a1BocDd0QjZWYloxc1NWM1FFNUFTcGlOQXJaNmJlWFJKcXI0dFo0eWZnZmVvRXF5RzBneFlRQ1N0cnV5ZjBLbngyTjVCRGUxR3haVdIBeEFVX3lxTE1HWHJtZ2pMbWIyanNJa3hlT2xFdHhDOE1KR3pUNXVWaEpvb1NYcU03d196dFhqNHN4RlJmcnVRZm1wQkpTZnJKajdJNEdmamgyTTdyN2ROWmFzcmRSUkxDeFBqeV9KXzNCU01YRUpxQUZKWFJTOFdpUg?oc=5"
+   },
+   {
+    "d": "2026-10-30",
+    "h": "14:48",
+    "t": "Serie A, Guida arbitra il derby Milan Inter",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb3VrVFk2U2dXb05VMndkclN0Tnd5Y18tbDRRaTFnRFNRVHBxcHZDRWlMQ0kzaGV5QnB0Yjkxbl9lYm9UdVlvWVZWckZWLTRrWGlvZEd3RmdwMlBwcDItNXpzOWJhbGtaRlAtLUN1aFpSWURiQTVoNVBTYTdaaEF2aHhzWDVWTm9OUGxOTFlyX3oxT0F0Q2pUbE5UOEVjRDVDRVpZS0xOWVIzeERiUWpETW4zYi1XRGwwV2xTc3hmTWFCc3V6RFZQRWU0eDdTcUlHUEVXcmNiT0rSAd4BQVVfeXFMUC1rMWFJM1ZUX0ZJWWEtRnU0OEV1OEdoYmhaUlV3MWdCTWhiOEdQOVpXNWJrR3d2UXZhWnZJbU5peXhyWnQyR2NQTHg1MDdKVlhmLUI0VmNnVHR3dlRQN3JtSkViYVpaempwU2xZdTZmTXNoWnBFcVpoX2tBUkdTTEN5UzRTeXNrQl93UXhoWm5OeTJ3ZGlHQUs2Q0VyTHd3blB0S0Y0a2g0LWh3OEJMQU1GNTAxTURQSHRnaDc2UVRzNVJLeS1tQXEyTzlHd05CSFZROGdMMFFOV0VNR3lB?oc=5"
+   },
+   {
+    "d": "2026-10-30",
     "h": "14:23",
     "t": "Calcio: Milan; Amorim, il derby è speciale e non conta se sei stanco",
     "s": "ANSA",
@@ -166,31 +408,10 @@
    },
    {
     "d": "2026-10-30",
-    "h": "12:42",
-    "t": "Serie A, referees for matchday 10: Guida for the AC Milan-Inter derby, Sozza for Juventus-Napoli",
-    "s": "Goal.com",
-    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObWlNb3BfQjVrTXFvUjN1VVhZZXQwQWw3VFdpQmh0ckFHRlY4WTdXY0s3WHBrLS10V0RQenpGLUtIbFA1d2pkX2hZaEFMeFI4UmJ0NjFCSmJNSFpTTUQ4V2tVX3hMMWktOUgxYi1XQlg5akNGOE9SSlBwTkl1Tmd0SlhodVNyM19ZRktmNXhVdkd4U0JzRkRGbnBXcVpweU5CS2xZejc0Q0d6NDBsclY1UHppREZTNGpsQ0xaZm1xVGJMOWM1QnE2dHpyTDRTV3dZZzJORS10UjN2VmRaaXZv?oc=5"
-   },
-   {
-    "d": "2026-10-30",
-    "h": "12:09",
-    "t": "Milan, Gerry Cardinale e Zlatan Ibrahimovic presenti all'allenamento odierno",
-    "s": "Gianluca Di Marzio",
-    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR3VYbEZuU1lkRTZ1MENQY2pGM2Rka0tPT3pJejhCdm92OV81ZXNMeUNqWTlZYkNWT05hTkpmYVJJbC0tVnJYYXlDOTZRVTgwdnpJV2tULWlhb0RIMzlnY1gxWG02ZUduS3dESHZFQ2Jfbjg4dkl1S1R6S0tZNFNuUWNqWXd4LUV2bjBqdFlaS1ZQU0Y1aHFUX2U2TGZXd0pCWEhlVjJoaUo2NlVlcWk3QXQ4MA?oc=5"
-   },
-   {
-    "d": "2026-10-30",
-    "h": "12:04",
-    "t": "Serie A, le designazioni della 10ª giornata: scelti gli arbitri di Milan-Inter e Juventus-Napoli",
-    "s": "Gianluca Di Marzio",
-    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWUya1RBT195N1hxQmxtaW1peU9kTG9aMDFqOGJiRW1oVjhlMjJGWWpUaG12VHJDd0hlTVFCWjRqbmRIN09VdnAtdkRJdmFSck9KNXkwME5qdFAxRXBnYXM5UnYwVXU2VE9vNktDVUhqT0Zac3VrSGhhV19vM3A0QVdia2xZYTB5WXFFZWxNQWYyU1JWdG5NNXdZSQ?oc=5"
-   },
-   {
-    "d": "2026-10-30",
-    "h": "11:33",
-    "t": "Milan-Inter: anteprima, probabili formazioni e consigli fantacalcio",
-    "s": "Calciodangolo",
-    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX0djWmhYMHlVYzRVNUJ3Y3o2Sm9DN1NQc0hkaUc1TWpUNjZrYjByaGlaRDVTLWk4XzhPa1BkcjdETGZFRFlwNC1RXzhrOHdZVGhGYnp2UDRkemprVnJST09EY0VNdFlpdU1oekRCa05mZENxTXp0bS02cFJlM2tfNnktMWtfUzhQTk5yLXJoZ2NNbDFt?oc=5"
+    "h": "12:44",
+    "t": "Serie A, gli arbitri della decima giornata: Guida per Milan-Inter, Juve-Napoli a Sozza",
+    "s": "Sportmediaset",
+    "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLUUzdWZXeFBkcjgxV3N5OUdMVVdaNElhQzhBXy1yYjJYZzFWdFNBTFFwX21WY0ZCUDhiRTdydnVlMnBtZjl2Q3N5NXM0QTdtNkFDNU9xOHlBSHZ3WGFneFFBbkxkVE1XN0ZfZGw5VW5VOTNpbHJQTUs2VmNOcHktQmhSLXFVdkExaXVTRTNCNWpyWUdzb3NiN21IV3gzR3BOby1HMm9mT09JX1pZam5yUVkyQ3hKQnZRa0NRczJqYko2d1YwdkRhWDFLaGhxQXpHWU9YejBIRE9aZ21tbmZ3QmYxX1BBQ3PSAXhBVV95cUxPRnR2RjdpTDY3Uzc3U0Nab1pmaUhqMGpGMkRaRVlwMDg0Ulc1bUlDOGJtY1h0MnhkYnh2UmZRd0FkMUFTNHprdlpzSUpweFVsWFF4Nl8xYncyYmhtSnRRb3paVmN2WW03ZUpxTUx1anRrdDZhb09aMmo?oc=5"
    }
   ],
   "cantu": [
@@ -203,13 +424,6 @@
    },
    {
     "d": "2026-10-30",
-    "h": "14:10",
-    "t": "Pallacanestro Cantù rinnova per altri 5 anni la partnership con acinque energia, che sarà gold sponsor e official energy partner",
-    "s": "Basket Magazine",
-    "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTDhWMWZkSnpnbjI5SmJLYnBLTDhxSWlGS21xR2FpQzMtcmVEZDFJaGtvUlNMQjdGWFd2a0xEazdpUFZnQnVjVWdfako1N3llQXQzV3V2Ni1YNXZKOEVaUWtYU0YwUEVzZUxiNHhrM1JYUGQzeUE4a0NDdE5mMXJoeEt4Q1NsMW5HNUhwTVRyMUZYMGo1eFBJOHVteGhiVWtiZjJKd1pkN3R3eFdldW5vNEtpbzNINjdNMmhQN2xxMTl2OXo5QWk2S3lSRE1CaTcxVEY4MXlZRnd6a1d5N3FYV3M3RGNjeThWb0lj?oc=5"
-   },
-   {
-    "d": "2026-10-30",
     "h": "13:00",
     "t": "Pallacanestro Cantù 26-27: giocatori sotto contratto, durate e mercato",
     "s": "Backdoorpodcast.com",
@@ -217,10 +431,10 @@
    },
    {
     "d": "2026-10-30",
-    "h": "12:35",
+    "h": "12:33",
     "t": "Cantù a zero, BC Roma e Tortona sotto le attese: Serie A, chi è già sotto pressione",
     "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTVJNU2M5TkdoTVNnUkZ5Mk5veWtyRmpWVS1mUUY2V1JPY1V6UUo3X19Odnp2eWZGdzlXUmdGckM2cm1CbXJuVjdBZm9hbDJXYkJQaFVIdFlrQjZsRjRDMHBkbUQzMzNHRGtmdU1WRlJGQUpLemdrRXdfQnFxM2JiQWZXRk5ubzktbnd0bFViSjYyVUI0RjQ2V2VDT25MQ0s5SFFSaGkxMG95Q1hWeUlQS0JFM3FSWFFoT2ROMnNieFFsd9IBxwFBVV95cUxOb2FyWjliQWFWNHU1bU1QYUhpWWxoWkJONUdlZVduZkx2QVZjOVhjZWVGY1Rmd3NZUHdPNGVmVFMtVWJ6SFllQzY3Sm1xV1lHUTBBbHBpLTNpSTdYY1A4WVl1T3lnRWFnSTRtTWdkYnp6V0hvQ3k0bzlNdlJ6MGVLdkx3R1RzUXFSbktyUl9RVUpzaHNaN25uNzZmY1VNV0xrX0ZPN21seGNtYVcxN3dMLURMdFhIaUkzaHNSdDRVQmNNTmdjeDdN?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb2FyWjliQWFWNHU1bU1QYUhpWWxoWkJONUdlZVduZkx2QVZjOVhjZWVGY1Rmd3NZUHdPNGVmVFMtVWJ6SFllQzY3Sm1xV1lHUTBBbHBpLTNpSTdYY1A4WVl1T3lnRWFnSTRtTWdkYnp6V0hvQ3k0bzlNdlJ6MGVLdkx3R1RzUXFSbktyUl9RVUpzaHNaN25uNzZmY1VNV0xrX0ZPN21seGNtYVcxN3dMLURMdFhIaUkzaHNSdDRVQmNNTmdjeDdN0gHHAUFVX3lxTE5vYXJaOWJBYVY0dTVtTVBhSGlZbGhaQk41R2VlV25mTHZBVmM5WGNlZUZjVGZ3c1lQd080ZWZUUy1VYnpIWWVDNjdKbXFXWUdRMEFscGktM2lJN1hjUDhZWXVPeWdFYWdJNG1NZ2RienpXSG9DeTRvOU12UnowZUt2THdHVHNRcVJuS3JSX1FVSnNoc1o3bm43NmZjVU1XTGtfRk83bWx4Y21hVzE3d0wtREx0WEhpSTNoc1J0NFVCY01OZ2N4N00?oc=5"
    },
    {
     "d": "2026-10-29",
@@ -249,6 +463,13 @@
     "t": "Acqua S.Bernardo Cantù, parla il presidente Allievi: \"Convinto che la squadra valga di più rispetto a quanto visto finora\"",
     "s": "Lega Basket",
     "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xdjFDbE1NNmZfNXVMWGhpTDJVM3FVX0w0SDE1VlVBOFNsbUlCNmVtMjlyb0lub0NNX2RQSWVqYllfMUx2bWpzRTRhemJ6M0xpYmgxOTM4Y2NXOFpxWkFiYg?oc=5"
+   },
+   {
+    "d": "2026-10-29",
+    "h": "05:08",
+    "t": "LBA 2026/2027-Acqua S.Bernardo Cantù - Armani Olimpia Milano su Sky Sport Arena",
+    "s": "Quotidiano Nazionale",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdW9STXFFd1RjSllEdmVzQlFVa2M1TEk2Q1FWc2lCclVYUzhBbnFEQVNHSmlELTZQN081TkM4Z3NlRC1kMWVoTS00Z0V4VGNrQXNmTTh1bDhZdDJsY2J4NjAzTl9MX09YOVhtUEpGMmo3OUNmWS1fRnpyS0JqWkJyX2hMeFlYeXVJdWUtR25FM29ReU9sNXRZTzg1Q1kzWjAtcHNlTWdNaVA5OThSVFpzMHI4R041RkY4QnY5Z0NHdnlyUQ?oc=5"
    }
   ],
   "como": [
@@ -687,15 +908,15 @@
    "2": 44
   }
  },
- "updated": "2026-10-30T14:39:01+00:00",
+ "updated": "2026-10-30T15:27:28+00:00",
  "log": [
   "classifica milan 5 18",
   "classifica como 4 20",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 0 partite None",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
-  "notizie cantu 0",
+  "notizie cantu 3",
   "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
