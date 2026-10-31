@@ -83,11 +83,237 @@
   }
  },
  "cantu": {
-  "games": [],
-  "standing": null
+  "games": [
+   {
+    "date": "2026-09-26",
+    "time": "20:00",
+    "home": "Venezia",
+    "away": "Cantù",
+    "score": "85-73"
+   },
+   {
+    "date": "2026-10-05",
+    "time": "20:00",
+    "home": "Cantù",
+    "away": "Udine",
+    "score": "84-85"
+   },
+   {
+    "date": "2026-10-11",
+    "time": "17:00",
+    "home": "Cantù",
+    "away": "Napoli",
+    "score": "80-99"
+   },
+   {
+    "date": "2026-10-18",
+    "time": "18:00",
+    "home": "Trieste",
+    "away": "Cantù",
+    "score": "92-72"
+   },
+   {
+    "date": "2026-10-25",
+    "time": "18:30",
+    "home": "Reggio Emilia",
+    "away": "Cantù",
+    "score": "81-60"
+   },
+   {
+    "date": "2026-11-02",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Olimpia Milano",
+    "score": ""
+   },
+   {
+    "date": "2026-11-08",
+    "time": "16:00",
+    "home": "Maxima Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-11-15",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Tortona",
+    "score": ""
+   },
+   {
+    "date": "2026-11-22",
+    "time": "17:30",
+    "home": "Scafati",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home": "Cantù",
+    "away": "Varese",
+    "score": ""
+   },
+   {
+    "date": "2026-12-13",
+    "time": "",
+    "home": "Verona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-20",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trento",
+    "score": ""
+   },
+   {
+    "date": "2026-12-27",
+    "time": "",
+    "home": "BC Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-03",
+    "time": "",
+    "home": "Cantù",
+    "away": "Treviso",
+    "score": ""
+   },
+   {
+    "date": "2027-01-10",
+    "time": "",
+    "home": "Virtus Bologna",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-17",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trieste",
+    "score": ""
+   },
+   {
+    "date": "2027-01-24",
+    "time": "",
+    "home": "Udine",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-31",
+    "time": "",
+    "home": "Cantù",
+    "away": "Verona",
+    "score": ""
+   },
+   {
+    "date": "2027-02-07",
+    "time": "",
+    "home": "Varese",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-02-14",
+    "time": "",
+    "home": "Cantù",
+    "away": "BC Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-07",
+    "time": "",
+    "home": "Cantù",
+    "away": "Maxima Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-14",
+    "time": "",
+    "home": "Treviso",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-03-21",
+    "time": "",
+    "home": "Cantù",
+    "away": "Scafati",
+    "score": ""
+   },
+   {
+    "date": "2027-03-27",
+    "time": "",
+    "home": "Trento",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-04",
+    "time": "",
+    "home": "Cantù",
+    "away": "Reggio Emilia",
+    "score": ""
+   },
+   {
+    "date": "2027-04-11",
+    "time": "",
+    "home": "Tortona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-18",
+    "time": "",
+    "home": "Cantù",
+    "away": "Virtus Bologna",
+    "score": ""
+   },
+   {
+    "date": "2027-04-25",
+    "time": "",
+    "home": "Olimpia Milano",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-05-02",
+    "time": "",
+    "home": "Cantù",
+    "away": "Venezia",
+    "score": ""
+   },
+   {
+    "date": "2027-05-09",
+    "time": "",
+    "home": "Napoli",
+    "away": "Cantù",
+    "score": ""
+   }
+  ],
+  "standing": {
+   "pos": 16,
+   "pts": 0,
+   "g": 5,
+   "up": {
+    "n": "Tortona",
+    "pos": 15,
+    "pts": 2
+   },
+   "dn": null
+  }
  },
  "news": {
   "milan": [
+   {
+    "d": "2026-10-31",
+    "t": "AC Milan-Inter, Serie A Enilive 2026/2027: statistiche, classifica, arbitro e squalificati | AC Milan",
+    "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-10-31/milan-inter-match-preview"
+   },
    {
     "d": "2026-10-30",
     "t": "Gabriele Borsa, primo contratto da professionista con l'AC Milan: il comunicato ufficiale | AC Milan",
@@ -97,11 +323,6 @@
     "d": "2026-10-30",
     "t": "Christian Pulisic prolunga il suo contratto: il comunicato ufficiale | AC Milan",
     "u": "https://www.acmilan.com/it/news/articoli/media/2026-10-30/comunicato-ufficiale-christian-pulisic"
-   },
-   {
-    "d": "2026-10-30",
-    "t": "AC Milan-Inter, Serie A Enilive 2026/2027: la conferenza stampa della vigilia di Rúben Amorim | AC Milan",
-    "u": "https://www.acmilan.com/it/news/articoli/conferenza-stampa/2026-10-30/amorim-derby-speciale-daremo-il-massimo"
    }
   ],
   "cantu": [
@@ -201,13 +422,6 @@
   "cantu": [
    {
     "d": "2026-10-31",
-    "h": "10:39",
-    "t": "Cantù-Milano, Antonello Riva: «Il derby cancella ogni divario». Ma sulla squadra di Vitucci: «È un organico che ha bisogno di cambiamenti»",
-    "s": "Pianeta Basket",
-    "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOb21fbWV4U0lob0ZBSzV2b1JHYmxmeU5zVDQ3TGs4Y1YtV21tOGhsTi0zZDhuQlh0ZXd2YnYwYzlObGhSNXo5dWZjSmNiTW5FdWJrSFpoWG9tSXExRVJ6TGptMW94Sm1aMjh4S3FCUG9nemtiMFR5WXlKeUQyd1FjZUJkX3JLaWxhaE5fOVRTSTVGdGhObERvei1CUjRWRnN0UUZFWkk0M1F1MzA4MW9FVWVlc2RkakltWVRwZHZuWlRHNm1YTUV6UmlaeUNJNzMzNHZZZ3IyTE0wUXpsZGNOelBhV1lKSE4xb1AweW1RMHg4N1BYYzZfWWxwendjT0I1MEREZnpmTDA1RWc?oc=5"
-   },
-   {
-    "d": "2026-10-31",
     "h": "09:29",
     "t": "Basket, sesta giornata su Sky e NOW: Trento-Roma e Cantù-Milano, tutti gli orari",
     "s": "Sportface.it",
@@ -250,13 +464,27 @@
    },
    {
     "d": "2026-10-30",
-    "h": "17:45",
-    "t": "LBA su Sky e NOW: Trento-Maxima Roma e Cantù-Olimpia Milano in diretta",
-    "s": "Sportando",
-    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNGVoNDJNNE5QWmZUUnB0bVZxeWp3WG9fYVB1TkRLZ2U0Qlp0Y3RiWEJBcS1xcm9RZlREcGc2WnJCandyV0tWNkI2d0k2VFNxZEtMYWQzbUd3N2lVZWlvUVdzSW9YUTlnbklwUnFtdzZCX253MDJ6c3RmTi02YTlUSjVnOEQ4eC1PX05Tek1BaHFWbTFMRGlfRDNuWEdQYXN6?oc=5"
+    "h": "17:26",
+    "t": "Cantù-Olimpia Milano, Vitucci: «Senza timori reverenziali in una delle grandi classiche della pallacanestro italiana»",
+    "s": "Pianeta Basket",
+    "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOG1ib09na3h4TUxDN1ExVkx0R2RMNUJkNGVqS0VLaW9ZMGlXbjh4aF9rOUltdFI3V2VPeEtob2xmQi1wa3I2OEZDaFZlRHMtcTRqYWx5WGg5M0tlNVFkOUJQQjZoLVFiRlV0cU5yYUpzRy1WNExneFJUU3RiUUJXOFVIOVg4SHNjSmF4eFR6SWV4eC1BUnBvV0hRVEsyYjF1bm1McUFhaUJvaVhwMnBDVFJfN0tfXzd4aW9xY2ZBczFKbDlkTE9PUThadEJGVDBtOVVlR3NtVHh0MW9NWHg1bDNPdzFtc0hwMjNoLWdKQUMwQmk4?oc=5"
+   },
+   {
+    "d": "2026-10-30",
+    "h": "17:24",
+    "t": "Cantù-Olimpia Milano, Vitucci: \"Dovremo dare il 100% per tutti i 40 minuti\"",
+    "s": "Basketinside.com",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOHRfbzFrc2I0TTZ3QUFoQ3RxdlNfQzdnYnVBTXQ4dWVEekJITE5aa1dHeFRJdmttT1hNeXBzbHFzb2FrejI0eWs2M1FTMlgxdzZjTHB5WVJKTDRfeF9LZDRqd2JZVjdWdC00V0I3MThZT0JrV3E0cHIxT2RmU3NkTkVUeUtnQWxhcUdWb3pwRXZtazhGdGtFOE1VQkxWUlc3VDhhYlVKYVpabGFoWXpGeThTYmxJbndQcVY2Y2hB?oc=5"
    }
   ],
   "como": [
+   {
+    "d": "2026-10-31",
+    "h": "11:34",
+    "t": "Como-Venezia: anteprima, probabili formazioni e consigli fantacalcio",
+    "s": "Calciodangolo",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQkp2Y3l5Nm9DczVyQWVBbklZOXdMbU5RejdqWm5rdG9HZFpxTVlDSzNqQ01KM1UzU2tGc3ZILWozYVZBZHUyMlBrS3hIQzh2WFE1YjFMc2hIOFhWUVVhVWJjVGZoSTNFYUtXSlotZlBzV0lGdUhKTEFlMmE1RzlKNlF5aXk1UUFOSlZpQ19wYnVHa2hWTkE?oc=5"
+   },
    {
     "d": "2026-10-31",
     "h": "11:00",
@@ -283,7 +511,7 @@
     "h": "19:15",
     "t": "Al Como 1907 il premio “Costruiamo Gentilezza nello Sport”",
     "s": "Corriere dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEZ2ZTdlTXBHZHZoSnZSSkRiNHN5dHdBMTJldUl1UmdheEl1dV94OVlEMldRQmhfNnA2MjVIazNNLVB0LVZ2VFNuMWdGSTNtdVdmeFd2Y1d3c201X0pieGVsdWpCOUJ2VndjVldaQkY1d1pjUFVFaGp4ZDJ6akVPXzRrQmcwbzEtdGJkRC1rUnJfVXZKNjkzemRzRncyVGphc05HLWgzblJtUXpNSUsxQjRRc28xalFPU1hmUDJoV1c3VVBrX09fMlBB0gHMAUFVX3lxTE05QjYwYTRuc28zTXN1VjJjVnl6NEpFVXIxcDl0OFhSUXdCMHRrX0lXd0c3dFRNU2xMTkFLWjA5eUhCN2lKc25ianRZTlBlbG05WXlBTHQ3dF9oS21UUVIyU2FqWEVCdmU1YU1vOUgzLVdtWFB5RF9wc2lELVRTcFJtZC1Cb2hRdXFHUFR1cWtYU0pDNUF3RFpzWlBDYjkwNDd4eE5qMTM3dEtLeHV4NWVwNnU4eXdnT3JaX2Q0dzFGWUltZTBTXzhlZVRScQ?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOUI2MGE0bnNvM01zdVYyY1Z5ejRKRVVyMXA5dDhYUlF3QjB0a19JV3dHN3RUTVNsTE5BS1owOXlIQjdpSnNuYmp0WU5QZWxtOVl5QUx0N3RfaEttVFFSMlNhalhFQnZlNWFNbzlIMy1XbVhQeURfcHNpRC1UU3BSbWQtQm9oUXVxR1BUdXFrWFNKQzVBd0Rac1pQQ2I5MDQ3eHhOajEzN3RLS3h1eDVlcDZ1OHl3Z09yWl9kNHcxRllJbWUwU184ZWVUUnHSAcwBQVVfeXFMTTlCNjBhNG5zbzNNc3VWMmNWeXo0SkVVcjFwOXQ4WFJRd0IwdGtfSVd3Rzd0VE1TbExOQUtaMDl5SEI3aUpzbmJqdFlOUGVsbTlZeUFMdDd0X2hLbVRRUjJTYWpYRUJ2ZTVhTW85SDMtV21YUHlEX3BzaUQtVFNwUm1kLUJvaFF1cUdQVHVxa1hTSkM1QXdEWnNaUENiOTA0N3h4TmoxMzd0S0t4dXg1ZXA2dTh5d2dPclpfZDR3MUZZSW1lMFNfOGVlVFJx?oc=5"
    },
    {
     "d": "2026-10-30",
@@ -294,24 +522,17 @@
    },
    {
     "d": "2026-10-30",
+    "h": "17:39",
+    "t": "Live Como - Venezia - Serie A: Punteggi & Highlights Calcio - 01/11/2026",
+    "s": "www.eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlZ3RlRUaGx1UUJMd3dGZ1llUHp6amdUVnhGV2c3azk4NkpjUW5oR0ppVkV0LUVmeFZPSU1RNTN5Z05KajhHRjh2MXMzZWlUOHFpd2tEazQtNmhXUUVpRzBVYUhIb1pzQlR1cHJmbzhYMkZIWmlLMldSX2dQQ3FING8xQkx1bzBQRUtJNDBn?oc=5"
+   },
+   {
+    "d": "2026-10-30",
     "h": "13:46",
     "t": "Como-Venezia: probabili formazioni e statistiche",
     "s": "www.eurosport.it",
     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeXR3bVBWR0tPLTQ2bEpwYmRFWkxucjN1YzFwcXlkVFhXcjF6X1Zxcnljc3laU1NBamNiN2dWX3RLS3RXVE5HQWZOTVF2VGIwRFVrMmdiWTZIb3RKRDZWQnZrRTdRYTByM1FJZGx2ZDFjQTQzanZvejJBenhLaTFaQ3RfQ3AteFdVbkFGUTZwQlE0UUw2OUVHcEU3cy1UN2NvWUZjYUlzbjdYWXRfRWhwUzNsazJ0SWFxbE8temJZakZBWGNiVWhucm9xbzdkOFBaVWNZeDl6aWQ?oc=5"
-   },
-   {
-    "d": "2026-10-30",
-    "h": "11:37",
-    "t": "Lombardia - Amatori CSI Calcio a 7 Serie C Open Como - Girone E - Giornata 5 - Luisago vs Lario",
-    "s": "Tuttocampo",
-    "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkZXA2Z2FSWXVfZkY4WmdsZUk4QlRUYU9ZTFcwZjlzRzBsdVd3QTJ2cmNXR0NkUFdsUEVpNGFEY2RHWnhldEo5bFdMRG95U2kzRkVLNXJTVmhieWdnUkE?oc=5"
-   },
-   {
-    "d": "2026-10-30",
-    "h": "09:01",
-    "t": "Probabile Formazione Como - Venezia - 10° Giornata",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jQ01HajNOdVN5WExHZnV6VGFHR2toQ1BGYVlubGN0UGZCSVFqRDJlbXFHMFRyQkpveEZEUng0bGZmeEM5c1BfMGlhR3Fhcjdoa0lKbUZlSFlLRnBWZW1RMU5mMEVhaUw5eS1mOVl3?oc=5"
    }
   ]
  },
@@ -692,16 +913,16 @@
    "2": 44
   }
  },
- "updated": "2026-10-31T10:26:57+00:00",
+ "updated": "2026-10-31T11:00:40+00:00",
  "log": [
   "non finita Milan – Inter STATUS_SCHEDULED",
   "classifica milan 5 18",
   "classifica como 4 20",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 0 partite None",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
-  "notizie cantu 0",
+  "notizie cantu 3",
   "notizie como 3",
   "stampa milan 8",
   "stampa cantu 8",
