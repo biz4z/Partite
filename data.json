@@ -7,37 +7,38 @@
   "2026-10-24|como": "2-0",
   "2026-10-25|milan": "0-2",
   "2026-10-27|como": "1-3",
-  "2026-10-28|milan": "2-4"
+  "2026-10-28|milan": "2-4",
+  "2026-10-31|milan": "3-1"
  },
  "standings": {
   "milan": {
-   "pos": 5,
-   "pts": 18,
-   "g": 9,
-   "up": {
-    "n": "Como",
-    "pos": 4,
-    "pts": 20
-   },
-   "dn": {
-    "n": "Frosinone",
-    "pos": 6,
-    "pts": 17
-   }
-  },
-  "como": {
    "pos": 4,
-   "pts": 20,
-   "g": 9,
+   "pts": 21,
+   "g": 10,
    "up": {
     "n": "Roma",
     "pos": 3,
     "pts": 24
    },
    "dn": {
-    "n": "Milan",
+    "n": "Como",
     "pos": 5,
-    "pts": 18
+    "pts": 20
+   }
+  },
+  "como": {
+   "pos": 5,
+   "pts": 20,
+   "g": 9,
+   "up": {
+    "n": "Milan",
+    "pos": 4,
+    "pts": 21
+   },
+   "dn": {
+    "n": "Frosinone",
+    "pos": 6,
+    "pts": 17
    }
   },
   "milan_eu": {
@@ -368,6 +369,13 @@
    },
    {
     "d": "2026-10-31",
+    "h": "21:06",
+    "t": "Milan, Kakà entra nella Hall of Fame e si commuove: \"Difficile da spiegare. Il coro di Sheva per Pulisic\"",
+    "s": "Sportmediaset",
+    "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPM2MyczZocTZCV1dGbjU3dGRHMzk5dmpnOEVsU1hUMEVab0VTZ3RCekVDc1NacnJfejdKQzhMdms2MlZMTGZ4blg5d0VTcEZNdVg4YUxBZmZnQ2ZHTmthd05SNDRlZXBNczNnT3lpQmJORm9LOVhwbkpWWGNSRE1LTU91dEFEX3JxWlNRajZnandJVFUzYkdndXFtQ3VNVElfYS11TjFSZXFKRXBoMC1QWDdfRXEwTDRfUmRhaENBVTlidGNjaWdZMGIxRzVpT2pxc0NQdC1rTjM3cW9iMko4eldyMkNHaFJScEF1N3pweGdmNC1vLWfSAXhBVV95cUxOQ1huOEUxSGxGU0VJVFVhblY2WlFSV0kyTHlBU09GQldPcnF5NTJZYldOdzRTSERrU2VHcUx1WVFtT1BpeEhEQTFKeXlnajBzYS1PSVhWVWZYVmd3SHNSbHI1TkgyMmd2WlhOY0RMUEc3eGFTM0FEeC0?oc=5"
+   },
+   {
+    "d": "2026-10-31",
     "h": "21:04",
     "t": "[TRASMISSIONE ONLINE] Inter - AC Milan Guarda il calcio in diretta online gratis oggi",
     "s": "Villa de la Orotava",
@@ -400,13 +408,6 @@
     "t": "=>ωEcco come Milan - Inter in Diretta Ｓｔｒｅａｍｉｎｇ (Calcio)",
     "s": "Villa de la Orotava",
     "u": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQaHBxMm4zRkxJNkpkR1ZSaThmLUdwanhqVWFveWlVSGpmQl9hcV9UZHlDWHh4ZGp2cXZNMHotSDd3YWJpdUJpNFl0cDM2dGFST2tIWmZxMjFUMGVKU18yenlKV2wxalNDVDRFYWltNmJDRUtQREFXcE9DWXA0QThqTzR1NzNRdGl6Tm1nbzh6UFBaTUlvZkxUWmVZWFAteVN4clhiRDdNalBKYVZjS1hZUGZUYWE1SVFFd3o5T3FSWkhmNmh1eTZ3WXNBVzh0d2t2OGVpRUhybE1vNE80QURVdUxTaVZYcU5qUzk4c3N2VjVhZW1tOFFpS0ZESHNENDFwSkQ0dTdpeTZRLTY5dThQTVFVdE1HeTA3UWdQVy1iU0psYXVSa3lCRnpLaDRuN213NWFQdThnN2lNdEhRV1JzcjVNRG5XT21IdVZJaWE2Zm94S3lULXh4ZjgxeEFJXzA1aWVTWTEwRUFpWERuZWxNR0cyZFBGLTRoUTZIV2pxanNKeC05SHBGOXlQOVdJbDlJWnVnRFh2Rzhvc0dhb2o1M2R0YjJpcWhNU0cyNmhpcVFPZzQ?oc=5"
-   },
-   {
-    "d": "2026-10-31",
-    "h": "20:55",
-    "t": "√#→⚡Ecco come Milan - Inter in Diretta Ｓｔｒｅａｍｉｎｇ (Calcio)",
-    "s": "Villa de la Orotava",
-    "u": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNQzhxS3BoVFdwRWxGSTJwMEUxUVJabkwxTnlZYUtLZVdtRGF6by14Ri10eEExUW9NZWxJTW1fLUVfMnVRNHIyQlpwTGpSc3pneG1ETE1JWWFXOVJRYnM2WlVJSWxROVB5YTJaYi1QVE1sM3psSkpGbUx5WGl1cG0xV21XME1OY2tsRmRNT0Q0d21qUVJYcDRaTzM1Q1pXcFh0U21ORGs4ek50OTR4M2RxOHRKbzVqOTQ1UlRoMVJ0WVJKU2tBWjZZT1FRNTVkWXFwU0Z6TmprUTVVaW1fQ2s2UmVpdkt3Vk1qVWtxNE5iWElTX3ZwTXhnek9YRVVINUg5SFpMUTlpcUpZa1Y3cXJjQ0pJRHVSSkUxMzZBREdUMldZSDhJaE5raFFucklEZjhjUmplVC1pX1p4a2tLMWk0UEZVdHBFZGFVSGhaWlE4aTBOZWxiOXBsWDFNSzNmM3ZpY1Vlb2JDM1dWVUl2MF9PSEdnd2ZIcWUzSm1qRXlVcTZJRndmNjFRaFZVSG83cW9hT1RJSlNYczg3VmxwRkNKRWZEaVBlYldoQzlN?oc=5"
    }
   ],
   "cantu": [
@@ -454,17 +455,17 @@
    },
    {
     "d": "2026-10-31",
+    "h": "10:39",
+    "t": "Cantù-Milano, Antonello Riva: «Il derby cancella ogni divario». Ma sulla squadra di Vitucci: «È un organico che ha bisogno di cambiamenti»",
+    "s": "Pianeta Basket",
+    "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOb21fbWV4U0lob0ZBSzV2b1JHYmxmeU5zVDQ3TGs4Y1YtV21tOGhsTi0zZDhuQlh0ZXd2YnYwYzlObGhSNXo5dWZjSmNiTW5FdWJrSFpoWG9tSXExRVJ6TGptMW94Sm1aMjh4S3FCUG9nemtiMFR5WXlKeUQyd1FjZUJkX3JLaWxhaE5fOVRTSTVGdGhObERvei1CUjRWRnN0UUZFWkk0M1F1MzA4MW9FVWVlc2RkakltWVRwZHZuWlRHNm1YTUV6UmlaeUNJNzMzNHZZZ3IyTE0wUXpsZGNOelBhV1lKSE4xb1AweW1RMHg4N1BYYzZfWWxwendjT0I1MEREZnpmTDA1RWc?oc=5"
+   },
+   {
+    "d": "2026-10-31",
     "h": "09:29",
     "t": "Basket, sesta giornata su Sky e NOW: Trento-Roma e Cantù-Milano, tutti gli orari",
     "s": "Sportface.it",
     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMVh4VV9WczdfUGdiYlJwU0NLXzJnVnVPc0R2QWNPYnotOU1yaEtEOHp4NXFiWEU0Vlo5TTF1YnhYTWo2ZDZzb2c1NzhScW9waE5DUl9POVExLWVKbWc5SHhHUUpkVHdtU3NrZ3RYWjJOUWpvNGgxUXdnSFNzM1NRc040eTBIbkVvVkhmSjZUSWMybTFOQzl5UnNzYlVHMHN6X3dv?oc=5"
-   },
-   {
-    "d": "2026-10-31",
-    "h": "08:04",
-    "t": "BC Roma vs Acqua S.Bernardo Cantù Girone A",
-    "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90RllTWExWLXRsd2ktMVZJSWJNek5Ibko4bHFXdGNPQUJPellRaW1WNFQ3SnVVMTlySlQ0TW0yc1lkRnZBSUtDLWxsTzcxVms3WFBHVjZ2ak5JemI3SnN0b3BUNEMwWDM0QWVacTdXcFY5bDZrN0xWd2tRZWREUQ?oc=5"
    }
   ],
   "como": [
@@ -481,6 +482,13 @@
     "t": "Probabile Formazione Como - Venezia - 10° Giornata",
     "s": "La Gazzetta dello Sport",
     "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jQ01HajNOdVN5WExHZnV6VGFHR2toQ1BGYVlubGN0UGZCSVFqRDJlbXFHMFRyQkpveEZEUng0bGZmeEM5c1BfMGlhR3Fhcjdoa0lKbUZlSFlLRnBWZW1RMU5mMEVhaUw5eS1mOVl3?oc=5"
+   },
+   {
+    "d": "2026-10-31",
+    "h": "19:21",
+    "t": "Como, i convocati di Fàbregas per il Venezia",
+    "s": "Fantacalcio",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeHd3bVoxOUJHYU9rSkllTGsta0p3WllKc05HSlA1el9jbHNYcVBTYlpUVkVCOTBJS1lRZ2NpWGJJdVJ3emduUmg3NjVGcElfWHVDbnEyVVVDdk5sUjJvX09icnpZcWx0Q2NxTll3VzRpWnQ4eW5ERXFWVmNtRDVVTzlDeE9GYUpCZ2dXMGQ2UmRETElGQW1YbDl0NnN5RjJ1T3RlRExSQmNBM3fSAbABQVVfeXFMT1NvckpFXzJXMm5xMXhpQ1FIZkdVcVpzSFJKYmlUVHNiOEN5bk1kaVFieHQtTk9oYnM0ZVhZOC1IbG5GNDctZ0RKc1A3bVhtMkdoaGlvNGVqZG9PRFByeHlFeGlTU0JPSW5NUUVxTkE5SVRHanpVTktjMEJiMWZQZjdUbGYzMUgtejJjajBKQWoxVXlzaW81R2ctZktTMHEtVUxJYUxYbjUybVVVRjRzQVk?oc=5"
    },
    {
     "d": "2026-10-31",
@@ -516,13 +524,6 @@
     "t": "Inter-Como: pochi posti a San Siro per i tifosi lariani. È protesta",
     "s": "La Provincia di Como",
     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVWduYmYtOWlrM3FHd2xKc3VxV0ZIeDVVWWs4Y09hT0M1Unc4Y3hTX01NLVoxYWhHTG1hZWFDNE5pQlc3djcwX21jX1BaMW51ZEViTWYyaUtZaDVJc04tMXQxUVZTUGd1dExJUnJEZ3lfWU9rWkR1Tm5aRXNUcWVoZzRjb0d1RVB4WG5QRmdJX0VHc2JjekZuaVF4enpJZmlLbUZIeW9aRXRsZEtiT25ZNC1oMnIySzlBengxT3JGZWVoR2hHTy16b1daUWh3MV9oV2t6S3ZNUDRnSi1Na0FJNnA5enBHRmQw?oc=5"
-   },
-   {
-    "d": "2026-10-31",
-    "h": "10:55",
-    "t": "Como 1907, pareggio con la Ternana e 2° posto provvisorio. 0-0 nel derby emiliano Sassuolo-Parma",
-    "s": "FIGC",
-    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTQwY2owTDZnZ1FGYWJVWHVKcDJSMDVCUHl6LWVCVzhUaDlScE54c1pZcy1SdG9FcUQ5QmF3dTNOTzN4aTFLbTB3UWNUZ25PUUQxN1lLblNDX3l0R2ItTUQxb3lMZERNYnE0UnlxMHZ5UHNPU1VyU1BOay0teEV1SDBlNG1tUjFQLWFQbmRPYVJ3b0VOX0NkdzZKUmVhRV9PU180bnZud3p6d2VhamNPRl9DNFl3N1EzdjNFMXY1TE9GNHdiZGJ6V2lVN1dIeUNSeTZWTUN4Q3NObHNS?oc=5"
    }
   ]
  },
@@ -887,11 +888,6 @@
    "X": 17,
    "2": 12
   },
-  "2026-10-31|Milan – Inter": {
-   "1": 26,
-   "X": 28,
-   "2": 46
-  },
   "2026-11-01|Como – Venezia": {
    "1": 72,
    "X": 16,
@@ -903,11 +899,11 @@
    "2": 44
   }
  },
- "updated": "2026-10-31T21:16:22+00:00",
+ "updated": "2026-10-31T21:49:48+00:00",
  "log": [
-  "non finita Milan – Inter STATUS_SECOND_HALF",
-  "classifica milan 5 18",
-  "classifica como 4 20",
+  "risultato Milan – Inter 3-1",
+  "classifica milan 4 21",
+  "classifica como 5 20",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
   "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
@@ -921,6 +917,6 @@
   "calendario como 29 partite future",
   "ERR logo cantu HTTP Error 403: Forbidden",
   "loghi ['cantu', 'como', 'milan']",
-  "quote 4"
+  "quote 3"
  ]
 }

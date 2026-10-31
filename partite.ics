@@ -319,15 +319,10 @@ UID:d744aea34beaa70b@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261031T204500
 DURATION:PT2H
-SUMMARY:⚽ Milan – Inter
-DESCRIPTION:Serie A calcio · 10ª giornata\nTV: DAZN · Sky / NOW\nhttps:
- //biz4z.github.io/Partite/
+SUMMARY:⚽ Milan – Inter 3-1
+DESCRIPTION:Serie A calcio · 10ª giornata\nTV: DAZN · Sky / NOW\nRisult
+ ato: 3-1\nhttps://biz4z.github.io/Partite/
 LOCATION:DAZN · Sky / NOW
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Milan – Inter tra 30 minuti · DAZN · Sky / NOW
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e3aa1eb04bb9b74a@biz4z.github.io
