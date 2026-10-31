@@ -83,229 +83,8 @@
   }
  },
  "cantu": {
-  "games": [
-   {
-    "date": "2026-09-26",
-    "time": "20:00",
-    "home": "Venezia",
-    "away": "Cantù",
-    "score": "85-73"
-   },
-   {
-    "date": "2026-10-05",
-    "time": "20:00",
-    "home": "Cantù",
-    "away": "Udine",
-    "score": "84-85"
-   },
-   {
-    "date": "2026-10-11",
-    "time": "17:00",
-    "home": "Cantù",
-    "away": "Napoli",
-    "score": "80-99"
-   },
-   {
-    "date": "2026-10-18",
-    "time": "18:00",
-    "home": "Trieste",
-    "away": "Cantù",
-    "score": "92-72"
-   },
-   {
-    "date": "2026-10-25",
-    "time": "18:30",
-    "home": "Reggio Emilia",
-    "away": "Cantù",
-    "score": "81-60"
-   },
-   {
-    "date": "2026-11-02",
-    "time": "20:30",
-    "home": "Cantù",
-    "away": "Olimpia Milano",
-    "score": ""
-   },
-   {
-    "date": "2026-11-08",
-    "time": "16:00",
-    "home": "Maxima Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-11-15",
-    "time": "17:30",
-    "home": "Cantù",
-    "away": "Tortona",
-    "score": ""
-   },
-   {
-    "date": "2026-11-22",
-    "time": "17:30",
-    "home": "Scafati",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-06",
-    "time": "16:00",
-    "home": "Cantù",
-    "away": "Varese",
-    "score": ""
-   },
-   {
-    "date": "2026-12-13",
-    "time": "",
-    "home": "Verona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-20",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trento",
-    "score": ""
-   },
-   {
-    "date": "2026-12-27",
-    "time": "",
-    "home": "BC Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-03",
-    "time": "",
-    "home": "Cantù",
-    "away": "Treviso",
-    "score": ""
-   },
-   {
-    "date": "2027-01-10",
-    "time": "",
-    "home": "Virtus Bologna",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-17",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trieste",
-    "score": ""
-   },
-   {
-    "date": "2027-01-24",
-    "time": "",
-    "home": "Udine",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-31",
-    "time": "",
-    "home": "Cantù",
-    "away": "Verona",
-    "score": ""
-   },
-   {
-    "date": "2027-02-07",
-    "time": "",
-    "home": "Varese",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-02-14",
-    "time": "",
-    "home": "Cantù",
-    "away": "BC Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-07",
-    "time": "",
-    "home": "Cantù",
-    "away": "Maxima Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-14",
-    "time": "",
-    "home": "Treviso",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-03-21",
-    "time": "",
-    "home": "Cantù",
-    "away": "Scafati",
-    "score": ""
-   },
-   {
-    "date": "2027-03-27",
-    "time": "",
-    "home": "Trento",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-04",
-    "time": "",
-    "home": "Cantù",
-    "away": "Reggio Emilia",
-    "score": ""
-   },
-   {
-    "date": "2027-04-11",
-    "time": "",
-    "home": "Tortona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-18",
-    "time": "",
-    "home": "Cantù",
-    "away": "Virtus Bologna",
-    "score": ""
-   },
-   {
-    "date": "2027-04-25",
-    "time": "",
-    "home": "Olimpia Milano",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-05-02",
-    "time": "",
-    "home": "Cantù",
-    "away": "Venezia",
-    "score": ""
-   },
-   {
-    "date": "2027-05-09",
-    "time": "",
-    "home": "Napoli",
-    "away": "Cantù",
-    "score": ""
-   }
-  ],
-  "standing": {
-   "pos": 16,
-   "pts": 0,
-   "g": 5,
-   "up": {
-    "n": "Tortona",
-    "pos": 15,
-    "pts": 2
-   },
-   "dn": null
-  }
+  "games": [],
+  "standing": null
  },
  "news": {
   "milan": [
@@ -364,6 +143,13 @@
   "milan": [
    {
     "d": "2026-10-31",
+    "h": "11:19",
+    "t": "Il calcio in TV oggi: la programmazione di sabato 31 ottobre 2026: riflettori si Milan-Inter, ma occhio alla Premier League",
+    "s": "Libero",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1ROSVBUNmlWT2hoSFFkaXdXZmhxRllsY1hkUHZLZkpKQmZWN2R0SjhaeWoyanRlcHk5ZmI0dFgtc01uOVJsSUNUa3dvMXZiM3RKZE5Ed3QyYXJVMEhneGJPejA1V3U5RkZQWm1pTjlqODgxamVOZUI2aUE0SndIUkRhaW9rRHl5dVNKandkNDBwTUZuVGZtVEVnVTVCWmdoYnhQeVAyeEU1b1BVWjJwUXhFejdNSm9IREHSAb8BQVVfeXFMTVhKeWFwVWtOUXBRby0xNnVXR01JbFBaRFdzWlg5Qm0zNXJYYTlKVFFHQXNPdnpwcloxRHhBOWQxNm5nWHpJeHRLRFEwSV9MdG83ZnU3R3ktcTJEU21HV2xtcGpHaEZidTJBNFoyV0RLdjBtbmYwcEpiRHdLNDVyZHpELUNXc3UxQnQtemNMZThjUXhObkdYckI4YWdvQnpid3BzUVBxT0JtR09TRXFnTDlhRk41QVhZNUJYWElOMjg?oc=5"
+   },
+   {
+    "d": "2026-10-31",
     "h": "10:24",
     "t": "Milan cardinale conferma la fiducia in amorim e punge allegri non penso che succedesse prima",
     "s": "NapoliCalcioNews.it",
@@ -378,14 +164,7 @@
    },
    {
     "d": "2026-10-31",
-    "h": "09:58",
-    "t": "E' il giorno del derby Milan-Inter: come vedere la partita su Sky",
-    "s": "Calcio e Finanza",
-    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUDBWWGxZNUprQkNHeV9URFNGYUhHdVIyckdmX2djOXkzSHV6OVJFS1FuRU5EOEdXZVctbUJDYlVqMnY4WElfRFhzeXZKc09CUHI1RGtTUkYtV2NVR1NWZ25wZXM3eVJLczRRclA4SFFmNFI5WnEzSVdWdXJUc1IzRUd4OTFxM0luaHc?oc=5"
-   },
-   {
-    "d": "2026-10-31",
-    "h": "09:48",
+    "h": "10:00",
     "t": "Milan, Cardinale: \"Ho guardato negli occhi i ragazzi e ho visto che vogliono vincere. Sarò distrutto se...\"",
     "s": "Sportmediaset",
     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTEZCY3lwaXo1VEVIRXJZUHBHa2p5Y2Y2eHhZcWpFTFR0bmZqY21JWDNGc3JfdDNjWlBfNC1RZ1VrTVVmbkRNYmNGMUFiNGxlWkFza1dUdmlUU0t3RjFqM0NMZGp3eVhISDdjU1ZXTXdraVc0UlpiX3JNY1ZCQV9HcGR2Z2k0bll1dy1MQ2haVEx4M2dKZTdMMXdDLVoxenAyXzM1ZXQyRmpYaWZlcnIxVXMtci1wZHFDRzU4c2JwNVVmMDdwS05sRHVOY1lGMXFQSFk3WVVTNTRwRU9iakZoSklVWHbSAXhBVV95cUxQT2xLNzJiamNQOFZtc19odkFoUl8yZnZnV1RlcU5PZTU5MmFXV3RFVFdncEtDakJrOXVmMDEtM1pVcE0tQU1CaEc4T1hwUzl2UGVJTk9lX0w0dGwzYmo1SlFraWppSkU1SDRMS0hSWXFIcHZHRGdVd1U?oc=5"
@@ -406,17 +185,17 @@
    },
    {
     "d": "2026-10-31",
-    "h": "09:27",
-    "t": "Milan-Inter: probabili formazioni, orario e dove vederla",
-    "s": "SetteCalcio",
-    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdy1Qd3VwWWxtX3k5WjhRODFBS1FkdW83aFFZbkd1bURWVFpZOTBEbERxSVptWEVtZjVkemdJUC1fc1I2MTlzNDJKa0doaXlYcjBfczdNTnFUU2VaNEtqLVo2S0dBSUc0akhYQzhMWDZRSERyVV9DOWQ2YVBibDhzWFZYekF0MExQS2hwbVhHbF9uZmVpbXYtMVZLcEJFTF90UE5oeF9xbVdXb2FXUkdsYnR6bXB5NUxXOEZVSjh3?oc=5"
-   },
-   {
-    "d": "2026-10-31",
     "h": "09:16",
     "t": "Milan-Inter LIVE: le scelte di Amorim e Chivu, tutte le ultime verso il derby",
     "s": "Sportmediaset",
     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZkhYOWR3T3RRSDR4eWJRdnltQnZGWWVjc2NVOU44ZWZvdUlwQTNUdjJHQjduMzdET1JoWkdDdVE5QTRpMkt5V0dwb1V6aHdEa1gxRDhHYlllUkREOU1zTGszWTJXbVBhNjMtOTJGOC0xUXJpX2E3aGktWUpubUZFRnFZYjlmdjg4N0c5SkxsSDNLNUUzRE5yMkxkMEJ2dnREZ0ZmMXcwb1E1dGRvaEszLUxXTkg0SEhQczNPNHVoWFVmZ0V2TGlzVGdHZw?oc=5"
+   },
+   {
+    "d": "2026-10-31",
+    "h": "08:36",
+    "t": "Live Milan - Inter - Serie A: Punteggi & Highlights Calcio - 31/10/2026",
+    "s": "Eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGo4U2FRamE2RUNRdF96X2tQQTNINjdYVGY3Z2p4RlZhcGJ6c0kzNXJQMnFEbHEwQ3JqTlg5cWx4OVVuWnFLbG96Q011dHlwTlNGOTZsS3J1cHkyT0NKSER1OVVFcTE2WC1xZnY3M01wem1xdU1ZM3JhUlM1VmVvaXV0NC1jcm9mQmtLcnJpUkJzZ1E?oc=5"
    }
   ],
   "cantu": [
@@ -449,6 +228,13 @@
     "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tN0tXYWI2a3JDV2ttMklVaEFySDU1d0o4MTFaRnJhNUZESkVOU2g2cWhZZ2xYSXY4YmdDV29FZ1lZNHpTc3M4T2hkeExLZWJjVnRGV3pSY1YycG5zT2lXX1BCc2hVSEpManZKejBiVTByWVNZ?oc=5"
    },
    {
+    "d": "2026-10-31",
+    "h": "00:34",
+    "t": "Pallacanestro Cantù 26-27: giocatori sotto contratto, durate e mercato",
+    "s": "Backdoorpodcast.com",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYjR6VFpvWWZfY2dwQVdmbFhVZU9Nc2FITzhVMjEzVVktRG5QZnlYSDdjOHVQWUZORlk3Q1FaWEZjX2syVUctd0d3RHlBUkFrV2NjU2wyV1F6c3dfYU1vbk5PeTdTcGV5cUJ5WXFhYV9Mb2RwSVhJUGdRQlRWRl85eFUtUVlRSDRFclZFSHhrSnIwRGRLSkE?oc=5"
+   },
+   {
     "d": "2026-10-30",
     "h": "20:11",
     "t": "MAXIMA ROMA, DUE SFIDE AL PALATIZIANO CON UN SOLO BIGLIETTO: ARRIVA IL DOUBLE PACK PER LONDON LIONS E CANTÙ",
@@ -468,16 +254,16 @@
     "t": "LBA su Sky e NOW: Trento-Maxima Roma e Cantù-Olimpia Milano in diretta",
     "s": "Sportando",
     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNGVoNDJNNE5QWmZUUnB0bVZxeWp3WG9fYVB1TkRLZ2U0Qlp0Y3RiWEJBcS1xcm9RZlREcGc2WnJCandyV0tWNkI2d0k2VFNxZEtMYWQzbUd3N2lVZWlvUVdzSW9YUTlnbklwUnFtdzZCX253MDJ6c3RmTi02YTlUSjVnOEQ4eC1PX05Tek1BaHFWbTFMRGlfRDNuWEdQYXN6?oc=5"
-   },
-   {
-    "d": "2026-10-30",
-    "h": "17:26",
-    "t": "Cantù-Olimpia Milano, Vitucci: «Senza timori reverenziali in una delle grandi classiche della pallacanestro italiana»",
-    "s": "Pianeta Basket",
-    "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOG1ib09na3h4TUxDN1ExVkx0R2RMNUJkNGVqS0VLaW9ZMGlXbjh4aF9rOUltdFI3V2VPeEtob2xmQi1wa3I2OEZDaFZlRHMtcTRqYWx5WGg5M0tlNVFkOUJQQjZoLVFiRlV0cU5yYUpzRy1WNExneFJUU3RiUUJXOFVIOVg4SHNjSmF4eFR6SWV4eC1BUnBvV0hRVEsyYjF1bm1McUFhaUJvaVhwMnBDVFJfN0tfXzd4aW9xY2ZBczFKbDlkTE9PUThadEJGVDBtOVVlR3NtVHh0MW9NWHg1bDNPdzFtc0hwMjNoLWdKQUMwQmk4?oc=5"
    }
   ],
   "como": [
+   {
+    "d": "2026-10-31",
+    "h": "11:00",
+    "t": "Inter-Como: pochi posti a San Siro per i tifosi lariani. È protesta",
+    "s": "La Provincia di Como",
+    "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVWduYmYtOWlrM3FHd2xKc3VxV0ZIeDVVWWs4Y09hT0M1Unc4Y3hTX01NLVoxYWhHTG1hZWFDNE5pQlc3djcwX21jX1BaMW51ZEViTWYyaUtZaDVJc04tMXQxUVZTUGd1dExJUnJEZ3lfWU9rWkR1Tm5aRXNUcWVoZzRjb0d1RVB4WG5QRmdJX0VHc2JjekZuaVF4enpJZmlLbUZIeW9aRXRsZEtiT25ZNC1oMnIySzlBengxT3JGZWVoR2hHTy16b1daUWh3MV9oV2t6S3ZNUDRnSi1Na0FJNnA5enBHRmQw?oc=5"
+   },
    {
     "d": "2026-10-31",
     "h": "06:00",
@@ -497,7 +283,7 @@
     "h": "19:15",
     "t": "Al Como 1907 il premio “Costruiamo Gentilezza nello Sport”",
     "s": "Corriere dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOUI2MGE0bnNvM01zdVYyY1Z5ejRKRVVyMXA5dDhYUlF3QjB0a19JV3dHN3RUTVNsTE5BS1owOXlIQjdpSnNuYmp0WU5QZWxtOVl5QUx0N3RfaEttVFFSMlNhalhFQnZlNWFNbzlIMy1XbVhQeURfcHNpRC1UU3BSbWQtQm9oUXVxR1BUdXFrWFNKQzVBd0Rac1pQQ2I5MDQ3eHhOajEzN3RLS3h1eDVlcDZ1OHl3Z09yWl9kNHcxRllJbWUwU184ZWVUUnHSAcwBQVVfeXFMTTlCNjBhNG5zbzNNc3VWMmNWeXo0SkVVcjFwOXQ4WFJRd0IwdGtfSVd3Rzd0VE1TbExOQUtaMDl5SEI3aUpzbmJqdFlOUGVsbTlZeUFMdDd0X2hLbVRRUjJTYWpYRUJ2ZTVhTW85SDMtV21YUHlEX3BzaUQtVFNwUm1kLUJvaFF1cUdQVHVxa1hTSkM1QXdEWnNaUENiOTA0N3h4TmoxMzd0S0t4dXg1ZXA2dTh5d2dPclpfZDR3MUZZSW1lMFNfOGVlVFJx?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEZ2ZTdlTXBHZHZoSnZSSkRiNHN5dHdBMTJldUl1UmdheEl1dV94OVlEMldRQmhfNnA2MjVIazNNLVB0LVZ2VFNuMWdGSTNtdVdmeFd2Y1d3c201X0pieGVsdWpCOUJ2VndjVldaQkY1d1pjUFVFaGp4ZDJ6akVPXzRrQmcwbzEtdGJkRC1rUnJfVXZKNjkzemRzRncyVGphc05HLWgzblJtUXpNSUsxQjRRc28xalFPU1hmUDJoV1c3VVBrX09fMlBB0gHMAUFVX3lxTE05QjYwYTRuc28zTXN1VjJjVnl6NEpFVXIxcDl0OFhSUXdCMHRrX0lXd0c3dFRNU2xMTkFLWjA5eUhCN2lKc25ianRZTlBlbG05WXlBTHQ3dF9oS21UUVIyU2FqWEVCdmU1YU1vOUgzLVdtWFB5RF9wc2lELVRTcFJtZC1Cb2hRdXFHUFR1cWtYU0pDNUF3RFpzWlBDYjkwNDd4eE5qMTM3dEtLeHV4NWVwNnU4eXdnT3JaX2Q0dzFGWUltZTBTXzhlZVRScQ?oc=5"
    },
    {
     "d": "2026-10-30",
@@ -505,13 +291,6 @@
     "t": "Como, trattamento per la tibia di Moise Kean: recupero stimato in cinque settimane",
     "s": "comocity.it",
     "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uX1B5SHZWbWRReUwxSC1HZ3JMbkV3X1RIMWw1UjhNQWFSWnRkVnJhanItRTN0MHZNb1MtSVo4M3ZHMFhHblROM2U4VDhtZmNUMm1iWGl1VU9KOGJIbUVMZ0JjdVVPUWltNmpwbXdKUzNuWnJqRzlsUlFhUQ?oc=5"
-   },
-   {
-    "d": "2026-10-30",
-    "h": "17:39",
-    "t": "Live Como - Venezia - Serie A: Punteggi & Highlights Calcio - 01/11/2026",
-    "s": "www.eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlZ3RlRUaGx1UUJMd3dGZ1llUHp6amdUVnhGV2c3azk4NkpjUW5oR0ppVkV0LUVmeFZPSU1RNTN5Z05KajhHRjh2MXMzZWlUOHFpd2tEazQtNmhXUUVpRzBVYUhIb1pzQlR1cHJmbzhYMkZIWmlLMldSX2dQQ3FING8xQkx1bzBQRUtJNDBn?oc=5"
    },
    {
     "d": "2026-10-30",
@@ -913,16 +692,16 @@
    "2": 44
   }
  },
- "updated": "2026-10-31T09:57:39+00:00",
+ "updated": "2026-10-31T10:26:57+00:00",
  "log": [
   "non finita Milan – Inter STATUS_SCHEDULED",
   "classifica milan 5 18",
   "classifica como 4 20",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
+  "cantu 0 partite None",
   "notizie milan 3",
-  "notizie cantu 3",
+  "notizie cantu 0",
   "notizie como 3",
   "stampa milan 8",
   "stampa cantu 8",
