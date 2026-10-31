@@ -83,8 +83,229 @@
   }
  },
  "cantu": {
-  "games": [],
-  "standing": null
+  "games": [
+   {
+    "date": "2026-09-26",
+    "time": "20:00",
+    "home": "Venezia",
+    "away": "Cantù",
+    "score": "85-73"
+   },
+   {
+    "date": "2026-10-05",
+    "time": "20:00",
+    "home": "Cantù",
+    "away": "Udine",
+    "score": "84-85"
+   },
+   {
+    "date": "2026-10-11",
+    "time": "17:00",
+    "home": "Cantù",
+    "away": "Napoli",
+    "score": "80-99"
+   },
+   {
+    "date": "2026-10-18",
+    "time": "18:00",
+    "home": "Trieste",
+    "away": "Cantù",
+    "score": "92-72"
+   },
+   {
+    "date": "2026-10-25",
+    "time": "18:30",
+    "home": "Reggio Emilia",
+    "away": "Cantù",
+    "score": "81-60"
+   },
+   {
+    "date": "2026-11-02",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Olimpia Milano",
+    "score": ""
+   },
+   {
+    "date": "2026-11-08",
+    "time": "16:00",
+    "home": "Maxima Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-11-15",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Tortona",
+    "score": ""
+   },
+   {
+    "date": "2026-11-22",
+    "time": "17:30",
+    "home": "Scafati",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home": "Cantù",
+    "away": "Varese",
+    "score": ""
+   },
+   {
+    "date": "2026-12-13",
+    "time": "",
+    "home": "Verona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-20",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trento",
+    "score": ""
+   },
+   {
+    "date": "2026-12-27",
+    "time": "",
+    "home": "BC Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-03",
+    "time": "",
+    "home": "Cantù",
+    "away": "Treviso",
+    "score": ""
+   },
+   {
+    "date": "2027-01-10",
+    "time": "",
+    "home": "Virtus Bologna",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-17",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trieste",
+    "score": ""
+   },
+   {
+    "date": "2027-01-24",
+    "time": "",
+    "home": "Udine",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-31",
+    "time": "",
+    "home": "Cantù",
+    "away": "Verona",
+    "score": ""
+   },
+   {
+    "date": "2027-02-07",
+    "time": "",
+    "home": "Varese",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-02-14",
+    "time": "",
+    "home": "Cantù",
+    "away": "BC Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-07",
+    "time": "",
+    "home": "Cantù",
+    "away": "Maxima Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-14",
+    "time": "",
+    "home": "Treviso",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-03-21",
+    "time": "",
+    "home": "Cantù",
+    "away": "Scafati",
+    "score": ""
+   },
+   {
+    "date": "2027-03-27",
+    "time": "",
+    "home": "Trento",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-04",
+    "time": "",
+    "home": "Cantù",
+    "away": "Reggio Emilia",
+    "score": ""
+   },
+   {
+    "date": "2027-04-11",
+    "time": "",
+    "home": "Tortona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-18",
+    "time": "",
+    "home": "Cantù",
+    "away": "Virtus Bologna",
+    "score": ""
+   },
+   {
+    "date": "2027-04-25",
+    "time": "",
+    "home": "Olimpia Milano",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-05-02",
+    "time": "",
+    "home": "Cantù",
+    "away": "Venezia",
+    "score": ""
+   },
+   {
+    "date": "2027-05-09",
+    "time": "",
+    "home": "Napoli",
+    "away": "Cantù",
+    "score": ""
+   }
+  ],
+  "standing": {
+   "pos": 16,
+   "pts": 0,
+   "g": 5,
+   "up": {
+    "n": "Tortona",
+    "pos": 15,
+    "pts": 2
+   },
+   "dn": null
+  }
  },
  "news": {
   "milan": [
@@ -137,6 +358,13 @@
  "press": {
   "milan": [
    {
+    "d": "2026-10-31",
+    "h": "00:37",
+    "t": "Milan-Inter accende la sfida tra Sky e Dazn",
+    "s": "La Stampa",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZUFMMG5FcVRMU2hZWFhSV3B2bGRQTUxBZkFVYkUxQWZmd0tuS1dBT0R1YWhJamxSeGh6VzVVaVFJUm15aHctWURHOTFRWGM0SFlObEVjMFNmel9UQjJtZGJzUVRvRmlMbVJLOTk0M0gyNWVqR2hHQWFvTHVqUVZJSE5LYUlzemVjYXhZWFJfN29ULWR5VW9PUV9nNWRGUVFL0gGmAUFVX3lxTFA0UGtYa0pJbkNHbUJTaHNXM0RHV0pra19NR1RVNFJWSW9sUVd3SG1Ya2RCQ2hKa0oyQXRxMUQzY0wwUHZTeWpHLXZLbDdYRk5WeGY5X3pnblg0MjhuN01XWUl3cHh3SldvTzJ4T196VjRlODBUTGczWkVaX09PSDYzakF1NEJvVi1NUkhmSGZkdU04U29pNVRiQWVRLW9xT1c3N0dCZUE?oc=5"
+   },
+   {
     "d": "2026-10-30",
     "h": "23:39",
     "t": "Cardinale: \"E' un Milan concentrato, faremo un gran derby\"",
@@ -146,9 +374,16 @@
    {
     "d": "2026-10-30",
     "h": "23:28",
-    "t": "Milan-Inter, le probabili formazioni del derby di Serie A",
+    "t": "Le probabili formazioni di Milan-Inter",
     "s": "Sky Sport",
     "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEEybUNRelRyejJyOGtRaGlReEF4N1BxVVBsWURtUUg3RVU5RU5CLXYwZzBMazNCc05ZWW5nZHZFbnM5dm83TlVQWHlDUzFEWEFlQnF0U0M3UnJQaTJjdHF4cjY5aEFKck5DY0ZqMEJTVzYySGZvZndENzNzM2hsc0NYTjJ4b3FwMFpSbE9ybGpvUnBVaWc?oc=5"
+   },
+   {
+    "d": "2026-10-30",
+    "h": "23:25",
+    "t": "Milan, la probabile formazione contro l'Inter: Amorim ritrova tre titolari",
+    "s": "Gianluca Di Marzio",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON0Q5eUFjb2EwQk9DVFZVcHZCT0RxRkRTYXU1d1NxclVMVXdYdVdFZmZxWUZoejlJOU8yalpMM0NITlpfZnpLN0FhZllsVWdIdjVOSm9IYXQyY1ZnTXBvS3dpNGtwY1l5dHh3Y2JsNkkxM3BqbENKdENhUWFTdWRMYzZiMmUxY0JzT2hGeFNjNG9Zc3BUTXVoVkw3cE9tNjhJbU1KOUxreHdtTmNrMUpB?oc=5"
    },
    {
     "d": "2026-10-30",
@@ -177,20 +412,6 @@
     "t": "Milan, Cardinale conferma Amorim e rilancia le ambizioni scudetto",
     "s": "Diretta",
     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTmpmUE9jc0w2NkxqSU1fSkI2aGc3alR5MjVSU002MTF3TXc2SFZnV2Y5dnMzOTdsbnJQT3BKZGF4VkdMSEpGM3FiYTJ6djdWUzVLRmF3cUVBQldKaE9kQzVmT0Zaai1CUUdjTEh3dy1jMjVlNW5TaXplT2hJdF9VVUZlQVRDVmRpZU1pQ1ZxbHlZYW93ekJQSmtwNXVjeWlLaVhQblZkdzZNcDZaamZhY2RRUV9KUVlDVlJZLVBZZUc1WHVqZlBaVXVIcUc4OFlJa1BWSmd5X1Q?oc=5"
-   },
-   {
-    "d": "2026-10-30",
-    "h": "20:40",
-    "t": "Pulisic al Milan fino al 2031, prolungato il contratto dello statunitense",
-    "s": "S&H Magazine",
-    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcjJ3TlF5LUVJajFuSW4yckR3X3hvT25kTHd1cS0waTU3LWxqTlIyMDZzMV9pOURfYmdENEtZUXd5Tl9tWk02d184Tk9UWVItRTVYaXB4RldPVG4wTzRSOXhLc05oa0JTTWpyVWhFOGJxNDF3dlB4QXJBWDhkeUxWY0pVRlhkMmliQ0ZSc005dDljbUVfNEo4OU96SHZESWd4Sm1VN3YzWDUxbVg4WE0zN3pfNEtLakRCMjF0ekNudw?oc=5"
-   },
-   {
-    "d": "2026-10-30",
-    "h": "18:28",
-    "t": "Milan-Inter a San Siro nella notte di Halloween, Chivu e Amorim si giocano il derby",
-    "s": "VAVEL Italia",
-    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fUUVNVU5xTXlxNWlDWkJwT0ZPODhxQ3Y4cTR0X29zcmxjY1BSdktQalc2NGtlckVBRmZwOHJKQU1kT25KTjFxM3ZIYXc1dmlvVUtjbzhvM3JFcTg5NThwSjZBSXdudHB2VXh2UXVtWmpRaGdvWkR4bmpINFNqMzg?oc=5"
    }
   ],
   "cantu": [
@@ -289,13 +510,6 @@
    },
    {
     "d": "2026-10-30",
-    "h": "08:51",
-    "t": "Lecce - Como: 1-1 | Serie B - Risultati",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpNXNWX0lhQnlQU3NGRC1IWXR5ejk0VXNqXzhSNllPN1I1VXdfeldlVkVjMFNENHZ2aW1HOF9KU18wVjkxTjNiNWtqUFdNRDQ2QXJFVDNNUVdKY2VxTjQtTVlYWldPOFUwR3hQdHBOMEsxdVlhMFQ5b2ZHa1hUX3c?oc=5"
-   },
-   {
-    "d": "2026-10-30",
     "h": "00:15",
     "t": "Squalificati e indisponibili Como 2026/27: infortunati Chalobah, Diao e Kean",
     "s": "DAZN",
@@ -307,6 +521,13 @@
     "t": "Scheda Lario - Terza Categoria Como - Girone A Lombardia",
     "s": "Tuttocampo",
     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3ZhejZuRkJib21UOWQ4SzBTbUk3V19IU0IydTFDY2E2VDhpODR3MmoyU0JIMG1mMFBYcjk3bjNNTHVoUGpOekVFNG4xZVdDbkxXZ01nRF9McUlMbGZuX1hxczNOVUs2N2Y1bGJ2RUQ5aGQtU0EtRTNCcDVBRU5lU3pndFdMaWJVQzdTbm9XM3VrWUlW?oc=5"
+   },
+   {
+    "d": "2026-10-29",
+    "h": "19:55",
+    "t": "Como, tegola Kean: nuovo intervento alla tibia e lungo stop",
+    "s": "Calcio News 24",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmM2YnlrT0JfT0RjRUhWTWJtRkR6eDVzeTRPRUl3amM5RjZyWk9uSEZvSGwxSlFTRW5OLTFmMVhRZWNsSkhqZTk0Q1pmaGc1eThndzhlNmlEWXNfY3cyd2t6eHBGRHZhbjFxcFdOdlBhdzFEOVJnVElSLTRyRWxTc09ILTVuQUh3Tmh0bnc3cDduQzg?oc=5"
    }
   ]
  },
@@ -687,16 +908,16 @@
    "2": 44
   }
  },
- "updated": "2026-10-31T00:20:49+00:00",
+ "updated": "2026-10-31T01:25:38+00:00",
  "log": [
   "non finita Milan – Inter STATUS_SCHEDULED",
   "classifica milan 5 18",
   "classifica como 4 20",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 0 partite None",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
-  "notizie cantu 0",
+  "notizie cantu 3",
   "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
