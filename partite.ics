@@ -177,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:170fb1dc346d43cf@biz4z.github.io
 DTSTAMP:20261016T000000Z
-DTSTART;TZID=Europe/Rome:20261011T170000
+DTSTART;TZID=Europe/Rome:20261011T173000
 DURATION:PT2H
 SUMMARY:🏀 Cantù – Napoli 80-99
 DESCRIPTION:Serie A basket (LBA) · 3ª giornata\nTV: LBA TV\nRisultato: 8
@@ -239,10 +239,15 @@ UID:3deff43a24dcc986@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261018T180000
 DURATION:PT2H
-SUMMARY:🏀 Trieste – Cantù 92-72
-DESCRIPTION:Serie A basket (LBA) · 4ª giornata\nTV: LBA TV\nRisultato: 9
- 2-72\nhttps://biz4z.github.io/Partite/
+SUMMARY:🏀 Trieste – Cantù
+DESCRIPTION:Serie A basket (LBA) · 4ª giornata\nTV: LBA TV\nhttps://biz4
+ z.github.io/Partite/
 LOCATION:LBA TV
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Trieste – Cantù tra 30 minuti · LBA TV
+TRIGGER:-PT30M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4feb35573b2e4a69@biz4z.github.io
@@ -279,10 +284,15 @@ UID:cb43b2e0c4fd7823@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261025T183000
 DURATION:PT2H
-SUMMARY:🏀 Reggio Emilia – Cantù 81-60
-DESCRIPTION:Serie A basket (LBA) · 5ª giornata\nTV: LBA TV\nRisultato: 8
- 1-60\nhttps://biz4z.github.io/Partite/
+SUMMARY:🏀 Reggio Emilia – Cantù
+DESCRIPTION:Serie A basket (LBA) · 5ª giornata\nTV: LBA TV\nhttps://biz4
+ z.github.io/Partite/
 LOCATION:LBA TV
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reggio Emilia – Cantù tra 30 minuti · LBA TV
+TRIGGER:-PT30M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:44554ea446e2af20@biz4z.github.io
@@ -645,21 +655,6 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:da0a7e9dfcf4f007@biz4z.github.io
-DTSTAMP:20261016T000000Z
-DTSTART;TZID=Europe/Rome:20261212T203000
-DURATION:PT2H
-SUMMARY:🏀 Verona – Cantù
-DESCRIPTION:Serie A basket (LBA) · 11ª giornata\nTV: LBA TV\nhttps://biz
- 4z.github.io/Partite/
-LOCATION:LBA TV
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Verona – Cantù tra 30 minuti · LBA TV
-TRIGGER:-PT30M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:56a1687444f8a286@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261212T204500
@@ -673,6 +668,16 @@ ACTION:DISPLAY
 DESCRIPTION:Como – Bologna tra 30 minuti · DAZN · Sky / NOW
 TRIGGER:-PT30M
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:94ce7beb7101e34d@biz4z.github.io
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:🏀 Verona – Cantù
+DESCRIPTION:Orario da definire\nSerie A basket (LBA) · 11ª giornata\nTV:
+  LBA TV\nhttps://biz4z.github.io/Partite/
+LOCATION:LBA TV
 END:VEVENT
 BEGIN:VEVENT
 UID:35ce8a7f201a1698@biz4z.github.io

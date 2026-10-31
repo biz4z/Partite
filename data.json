@@ -83,229 +83,8 @@
   }
  },
  "cantu": {
-  "games": [
-   {
-    "date": "2026-09-26",
-    "time": "20:00",
-    "home": "Venezia",
-    "away": "Cantù",
-    "score": "85-73"
-   },
-   {
-    "date": "2026-10-05",
-    "time": "20:00",
-    "home": "Cantù",
-    "away": "Udine",
-    "score": "84-85"
-   },
-   {
-    "date": "2026-10-11",
-    "time": "17:00",
-    "home": "Cantù",
-    "away": "Napoli",
-    "score": "80-99"
-   },
-   {
-    "date": "2026-10-18",
-    "time": "18:00",
-    "home": "Trieste",
-    "away": "Cantù",
-    "score": "92-72"
-   },
-   {
-    "date": "2026-10-25",
-    "time": "18:30",
-    "home": "Reggio Emilia",
-    "away": "Cantù",
-    "score": "81-60"
-   },
-   {
-    "date": "2026-11-02",
-    "time": "20:30",
-    "home": "Cantù",
-    "away": "Olimpia Milano",
-    "score": ""
-   },
-   {
-    "date": "2026-11-08",
-    "time": "16:00",
-    "home": "Maxima Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-11-15",
-    "time": "17:30",
-    "home": "Cantù",
-    "away": "Tortona",
-    "score": ""
-   },
-   {
-    "date": "2026-11-22",
-    "time": "17:30",
-    "home": "Scafati",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-06",
-    "time": "16:00",
-    "home": "Cantù",
-    "away": "Varese",
-    "score": ""
-   },
-   {
-    "date": "2026-12-12",
-    "time": "20:30",
-    "home": "Verona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-20",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trento",
-    "score": ""
-   },
-   {
-    "date": "2026-12-27",
-    "time": "",
-    "home": "BC Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-03",
-    "time": "",
-    "home": "Cantù",
-    "away": "Treviso",
-    "score": ""
-   },
-   {
-    "date": "2027-01-10",
-    "time": "",
-    "home": "Virtus Bologna",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-17",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trieste",
-    "score": ""
-   },
-   {
-    "date": "2027-01-24",
-    "time": "",
-    "home": "Udine",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-31",
-    "time": "",
-    "home": "Cantù",
-    "away": "Verona",
-    "score": ""
-   },
-   {
-    "date": "2027-02-07",
-    "time": "",
-    "home": "Varese",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-02-14",
-    "time": "",
-    "home": "Cantù",
-    "away": "BC Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-07",
-    "time": "",
-    "home": "Cantù",
-    "away": "Maxima Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-14",
-    "time": "",
-    "home": "Treviso",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-03-21",
-    "time": "",
-    "home": "Cantù",
-    "away": "Scafati",
-    "score": ""
-   },
-   {
-    "date": "2027-03-27",
-    "time": "",
-    "home": "Trento",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-04",
-    "time": "",
-    "home": "Cantù",
-    "away": "Reggio Emilia",
-    "score": ""
-   },
-   {
-    "date": "2027-04-11",
-    "time": "",
-    "home": "Tortona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-18",
-    "time": "",
-    "home": "Cantù",
-    "away": "Virtus Bologna",
-    "score": ""
-   },
-   {
-    "date": "2027-04-25",
-    "time": "",
-    "home": "Olimpia Milano",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-05-02",
-    "time": "",
-    "home": "Cantù",
-    "away": "Venezia",
-    "score": ""
-   },
-   {
-    "date": "2027-05-09",
-    "time": "",
-    "home": "Napoli",
-    "away": "Cantù",
-    "score": ""
-   }
-  ],
-  "standing": {
-   "pos": 16,
-   "pts": 0,
-   "g": 5,
-   "up": {
-    "n": "Tortona",
-    "pos": 15,
-    "pts": 2
-   },
-   "dn": null
-  }
+  "games": [],
+  "standing": null
  },
  "news": {
   "milan": [
@@ -359,6 +138,20 @@
   "milan": [
    {
     "d": "2026-10-31",
+    "h": "16:20",
+    "t": "Milan, Cardinale conferma la fiducia in Amorim e punge Allegri: ''Non penso che succedesse prima''",
+    "s": "Napolicalcionews.it",
+    "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONDQyR0ZTeUJnOE95LUdhcHQtRWNZNTVlZG1JLTJWcUlac3ZUXzIxTHQ2YWx0Q2owR0xaOHhXckdoSDBranAtdmpTby1pRnhVRHZ2MUtCNWFKX1VDSzBhR3NSLUhmOHJSMi1WdVpNVG0wOTlXd19zZnlwcDc1VTdTeVpleGZNTGlENlRmNExkT3BBdXFvblF0d1NhbkppUFNiNWNoN05pYkNxVl9jMUlLT2pLSm51RDJzTEh5YkJOam1wWGt1c2x1WjczbDRJdzRpcVRaTGVyaXFtWW13a0ZKdnkzRXBHS3VkZ3NhMU9xMlY?oc=5"
+   },
+   {
+    "d": "2026-10-31",
+    "h": "14:45",
+    "t": "Milan-Inter, le probabili formazioni del derby di Serie A",
+    "s": "Sky Sport",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEEybUNRelRyejJyOGtRaGlReEF4N1BxVVBsWURtUUg3RVU5RU5CLXYwZzBMazNCc05ZWW5nZHZFbnM5dm83TlVQWHlDUzFEWEFlQnF0U0M3UnJQaTJjdHF4cjY5aEFKck5DY0ZqMEJTVzYySGZvZndENzNzM2hsc0NYTjJ4b3FwMFpSbE9ybGpvUnBVaWc?oc=5"
+   },
+   {
+    "d": "2026-10-31",
     "h": "13:10",
     "t": "Marco van Basten: il Milan dei miei ricordi",
     "s": "Il Corriere Nazionale",
@@ -398,36 +191,22 @@
     "t": "Milan Inter su DAZN: dove vedere il derby in diretta TV e streaming",
     "s": "Calcio e Finanza",
     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWRYWmlrVG1mSE9EVWhOU09tME1MTTNfOFhleThnd2x4Vnk5RElJdVFHTUFzTE5KMXpaVW1XbEM4TUI2NVBWM2dGNnRpN0NIcEhET0NBYmRFTVk0ZktzRmVGZnRlSU9ibVNmVHpwT3g3dzNLcGtWcEJDOFFqZXRXZnpmS2RHRkR6aF9oWVdWX1k5UQ?oc=5"
-   },
-   {
-    "d": "2026-10-31",
-    "h": "10:24",
-    "t": "Milan cardinale conferma la fiducia in amorim e punge allegri non penso che succedesse prima",
-    "s": "NapoliCalcioNews.it",
-    "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONDQyR0ZTeUJnOE95LUdhcHQtRWNZNTVlZG1JLTJWcUlac3ZUXzIxTHQ2YWx0Q2owR0xaOHhXckdoSDBranAtdmpTby1pRnhVRHZ2MUtCNWFKX1VDSzBhR3NSLUhmOHJSMi1WdVpNVG0wOTlXd19zZnlwcDc1VTdTeVpleGZNTGlENlRmNExkT3BBdXFvblF0d1NhbkppUFNiNWNoN05pYkNxVl9jMUlLT2pLSm51RDJzTEh5YkJOam1wWGt1c2x1WjczbDRJdzRpcVRaTGVyaXFtWW13a0ZKdnkzRXBHS3VkZ3NhMU9xMlY?oc=5"
-   },
-   {
-    "d": "2026-10-31",
-    "h": "10:00",
-    "t": "Milan-Inter, eroi per una notte: i 7 protagonisti inattesi nella storia del derby",
-    "s": "DAZN",
-    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeFN1MzhnZnVQLURyd2pPY1JmNnVBVUlTQ3pqeTJnZHNOUlFtNkRmN2NNTmFzaHRBUE90cUdrQXJpMXRIQzdyaEZRTXlDTHJNWVBwT0tOSE5pV3pOMnFQeHdqSjdYZ2N6bUNZZXpyUWtyNkVLVnBSaWVsWUpNU3ZfbWVna3BHeVhZSlhzY2k2cmtMZHdXb0NXWFRoRzJ4T19Qc2NGNlJ1eGI2SThKbXhrRks2T21OY3FrOGFRaGljQktGTXBNOTk2SUJOU08?oc=5"
    }
   ],
   "cantu": [
-   {
-    "d": "2026-10-31",
-    "h": "16:00",
-    "t": "Pallacanestro Cantù, Vitucci: \"Contro Milano sfida speciale da affrontare senza timori reverenziali\"",
-    "s": "Sportando",
-    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeVE0dGdmYTVFX3dBUjd1azNOQVptZk1FbmlneW9UdHFWc0ZXaWtVV0FIOTFqa0RCOEFqSi1HTmQxT2Npa1dhclBtbGlPSXZDcDEtcjVGOG5HZ29GMjhUTkdYVTk2Zk5FTUR3bktLQV9PSlRIVlk2ZFI5LXNNZnVFRm5QRzY2cmVNT0tabHpJWUpwMVNNSldrR2RXczA4bUgzR3BEc2FxeEV3ZDN6VlhLdjFYWDZqUzVBbzBQRDltODdGU1Jy?oc=5"
-   },
    {
     "d": "2026-10-31",
     "h": "12:27",
     "t": "Basket Serie B , la Robur Saronno si rinforza: arriva Caglio, ex Cantù e Monferrato",
     "s": "Il Saronno",
     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWNDeWNWdTFZWXBFdi1oa2NmMjNXX3ZxMU9VTUNlalpzZEZRcUMtNEZiRXVTT0pBXzNNNHAzel9mdXRmNURsOGMzWmRSQXN3eDd5RnBoT3B3c0RERDI2OFAzMHZfRFh1aHdFSnZuNUZULWE5WWxPSlFvQ3BSNzdGekFNeVZnUlFpSGdSdkgzdE1zaTlrcjhzQnNrQl9pczdLanZMYlNxQmVKckhJbXd2UVZB0gG6AUFVX3lxTE1wWVkxRHVpMFQtVF93M1ZxbzhGRXpxckUzeUlJcGlmNEk3T3lPeERQMzk3MS1zTzYzRXdhaUpYZlFHWjhZQXpQQjNSMDNZVWNSanhyaS0xU0lDcEFEWUFDdFNzV0s5V1B6Uk8tbVAzZFZ2dDlZMkZKX2dLZ21tTXNvTl9EQU5VN282WEZNcUthSDVsckxmVHhsaGdveTF6UmU2ZnF4Ni1XSlFJMGhBM2hGbkExZzdQeHVaUQ?oc=5"
+   },
+   {
+    "d": "2026-10-31",
+    "h": "10:39",
+    "t": "Cantù-Milano, Antonello Riva: «Il derby cancella ogni divario». Ma sulla squadra di Vitucci: «È un organico che ha bisogno di cambiamenti»",
+    "s": "Pianeta Basket",
+    "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOb21fbWV4U0lob0ZBSzV2b1JHYmxmeU5zVDQ3TGs4Y1YtV21tOGhsTi0zZDhuQlh0ZXd2YnYwYzlObGhSNXo5dWZjSmNiTW5FdWJrSFpoWG9tSXExRVJ6TGptMW94Sm1aMjh4S3FCUG9nemtiMFR5WXlKeUQyd1FjZUJkX3JLaWxhaE5fOVRTSTVGdGhObERvei1CUjRWRnN0UUZFWkk0M1F1MzA4MW9FVWVlc2RkakltWVRwZHZuWlRHNm1YTUV6UmlaeUNJNzMzNHZZZ3IyTE0wUXpsZGNOelBhV1lKSE4xb1AweW1RMHg4N1BYYzZfWWxwendjT0I1MEREZnpmTDA1RWc?oc=5"
    },
    {
     "d": "2026-10-31",
@@ -438,17 +217,10 @@
    },
    {
     "d": "2026-10-31",
-    "h": "08:04",
+    "h": "04:22",
     "t": "BC Roma vs Acqua S.Bernardo Cantù Girone A",
     "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90RllTWExWLXRsd2ktMVZJSWJNek5Ibko4bHFXdGNPQUJPellRaW1WNFQ3SnVVMTlySlQ0TW0yc1lkRnZBSUtDLWxsTzcxVms3WFBHVjZ2ak5JemI3SnN0b3BUNEMwWDM0QWVacTdXcFY5bDZrN0xWd2tRZWREUQ?oc=5"
-   },
-   {
-    "d": "2026-10-31",
-    "h": "00:34",
-    "t": "Pallacanestro Cantù 26-27: giocatori sotto contratto, durate e mercato",
-    "s": "Backdoorpodcast.com",
-    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYjR6VFpvWWZfY2dwQVdmbFhVZU9Nc2FITzhVMjEzVVktRG5QZnlYSDdjOHVQWUZORlk3Q1FaWEZjX2syVUctd0d3RHlBUkFrV2NjU2wyV1F6c3dfYU1vbk5PeTdTcGV5cUJ5WXFhYV9Mb2RwSVhJUGdRQlRWRl85eFUtUVlRSDRFclZFSHhrSnIwRGRLSkE?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tN0tXYWI2a3JDV2ttMklVaEFySDU1d0o4MTFaRnJhNUZESkVOU2g2cWhZZ2xYSXY4YmdDV29FZ1lZNHpTc3M4T2hkeExLZWJjVnRGV3pSY1YycG5zT2lXX1BCc2hVSEpManZKejBiVTByWVNZ?oc=5"
    },
    {
     "d": "2026-10-30",
@@ -463,6 +235,13 @@
     "t": "Serie A Basket 2026-2027: Programma e orari della sesta giornata, Virtus in vetta, derby Cantù-Milano",
     "s": "sport2u.tv",
     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHZ3TU8zcktORDgtZTlocHB5VUpSeVZqTkstWE8wbkZ1R2thZ1dFTVpkOGl6VjM2QUF3SWdhWms2SUVYOW52NGpCOElVbktuUWEzc1JHMEJZcmc4c0FNdllYZXZIbzMzelNic0Q4ZXZXelp0dWxhY0lvYlZabm9OWGdQOTZIcGpzQ3ROcUdXR0VNNkhDVjdZbXFrNmVhV2NNUjFlNUNRLTRPNjBEMlFuSWtqUkV6XzN3SGc?oc=5"
+   },
+   {
+    "d": "2026-10-30",
+    "h": "17:45",
+    "t": "LBA su Sky e NOW: Trento-Maxima Roma e Cantù-Olimpia Milano in diretta",
+    "s": "Sportando",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNGVoNDJNNE5QWmZUUnB0bVZxeWp3WG9fYVB1TkRLZ2U0Qlp0Y3RiWEJBcS1xcm9RZlREcGc2WnJCandyV0tWNkI2d0k2VFNxZEtMYWQzbUd3N2lVZWlvUVdzSW9YUTlnbklwUnFtdzZCX253MDJ6c3RmTi02YTlUSjVnOEQ4eC1PX05Tek1BaHFWbTFMRGlfRDNuWEdQYXN6?oc=5"
    },
    {
     "d": "2026-10-30",
@@ -908,16 +687,16 @@
    "2": 44
   }
  },
- "updated": "2026-10-31T15:15:43+00:00",
+ "updated": "2026-10-31T15:49:50+00:00",
  "log": [
   "non finita Milan – Inter STATUS_SCHEDULED",
   "classifica milan 5 18",
   "classifica como 4 20",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Tortona', 'pos': 15, 'pts': 2}, 'dn': None}",
+  "cantu 0 partite None",
   "notizie milan 3",
-  "notizie cantu 3",
+  "notizie cantu 0",
   "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
