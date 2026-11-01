@@ -329,15 +329,10 @@ UID:e3aa1eb04bb9b74a@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261101T123000
 DURATION:PT2H
-SUMMARY:⚽ Como – Venezia
-DESCRIPTION:Serie A calcio · 10ª giornata\nTV: DAZN\nhttps://biz4z.githu
- b.io/Partite/
+SUMMARY:⚽ Como – Venezia 1-0
+DESCRIPTION:Serie A calcio · 10ª giornata\nTV: DAZN\nRisultato: 1-0\nhtt
+ ps://biz4z.github.io/Partite/
 LOCATION:DAZN
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Como – Venezia tra 30 minuti · DAZN
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:36983e7a92f501fe@biz4z.github.io

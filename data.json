@@ -8,12 +8,28 @@
   "2026-10-25|milan": "0-2",
   "2026-10-27|como": "1-3",
   "2026-10-28|milan": "2-4",
-  "2026-10-31|milan": "3-1"
+  "2026-10-31|milan": "3-1",
+  "2026-11-01|como": "1-0"
  },
  "standings": {
   "milan": {
-   "pos": 4,
+   "pos": 5,
    "pts": 21,
+   "g": 10,
+   "up": {
+    "n": "Como",
+    "pos": 4,
+    "pts": 23
+   },
+   "dn": {
+    "n": "Frosinone",
+    "pos": 6,
+    "pts": 17
+   }
+  },
+  "como": {
+   "pos": 4,
+   "pts": 23,
    "g": 10,
    "up": {
     "n": "Roma",
@@ -21,24 +37,9 @@
     "pts": 24
    },
    "dn": {
-    "n": "Como",
-    "pos": 5,
-    "pts": 20
-   }
-  },
-  "como": {
-   "pos": 5,
-   "pts": 20,
-   "g": 9,
-   "up": {
     "n": "Milan",
-    "pos": 4,
+    "pos": 5,
     "pts": 21
-   },
-   "dn": {
-    "n": "Frosinone",
-    "pos": 6,
-    "pts": 17
    }
   },
   "milan_eu": {
@@ -420,24 +421,10 @@
    },
    {
     "d": "2026-11-01",
-    "h": "10:30",
-    "t": "Cantù, Moraschini: «Non è giusto essere catastrofici a novembre». E sul derby con Milano: «Non faremo sconti»",
-    "s": "Pianeta Basket",
-    "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZWZWOUNiMm1idk1Nek1wb0NoOWhLeXVBRXdxcTdiTGNUUnIxUjdlcEw0YkhQZUtuemQ4ZWZIaVpzbDBMZjhPc3NOZXZrdlBxbXhNdXBCRzRObC1pSlQ0dXJKcGpUTWUtakNFaEpmM3VCWi16UkdIME05anU4aW1TMHdyLUFFakxDeURYa1NBT0VjRC1ZYk5UbnoxVVFSZGtTbzRFZDlGeWlYR2ctZTlNTjhoNmsybUl3MEhRdkZQc2poQ180b1c4ZjJKWHRZTVk5SmpiMmR6VWZJOFpRbFhMYWxCSjQ?oc=5"
-   },
-   {
-    "d": "2026-11-01",
     "h": "02:53",
     "t": "LBA 2026/2027-Acqua S.Bernardo Cantù - Armani Olimpia Milano su Sky Sport Arena",
     "s": "Quotidiano Nazionale",
     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdW9STXFFd1RjSllEdmVzQlFVa2M1TEk2Q1FWc2lCclVYUzhBbnFEQVNHSmlELTZQN081TkM4Z3NlRC1kMWVoTS00Z0V4VGNrQXNmTTh1bDhZdDJsY2J4NjAzTl9MX09YOVhtUEpGMmo3OUNmWS1fRnpyS0JqWkJyX2hMeFlYeXVJdWUtR25FM29ReU9sNXRZTzg1Q1kzWjAtcHNlTWdNaVA5OThSVFpzMHI4R041RkY4QnY5Z0NHdnlyUQ?oc=5"
-   },
-   {
-    "d": "2026-10-31",
-    "h": "23:13",
-    "t": "Basket in Carrozzina: due su due Dinamo Lab, Porto Torres ko a Cantù",
-    "s": "Centotrentuno",
-    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNjNhcjQ4Wm84NmVRMHppaVZEZzQzb291NWZaQTFSTEg0eU5Cb2dLV0UxVjM1RkgycVlja1ExdldBSDNVMnBvbVRkOTNzVEtMUW9XckZUUjFzRWZzQUpuOEZmeEJxUVdwcTNaM1VzbFdIRGtHaTFMcVcycTh6RUxGazIzampiMTdWVWVIMHB3cW9JaG4yN3FOWFk5aFNkRUk?oc=5"
    },
    {
     "d": "2026-10-31",
@@ -466,9 +453,30 @@
     "t": "Acqua S.Bernardo Cantù vs Armani Olimpia Milano 6° Giornata",
     "s": "Lega Basket",
     "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR05rVW1ObmdpQl94Nk5XbzhsaktWNW9ubnZhYkpNWlFFMEVCOGtWdHdkdEt2ZDI3MU9tNHhPSnEwTXcteGR4aTBQMkhaUE1CbHFISl9DT2w4X0xhdlFIYUREYmYwSWNaWWdQRUE3MFg4MGJnbDBSVjdlRjlaZFIxZTRSSVB6a0U?oc=5"
+   },
+   {
+    "d": "2026-10-31",
+    "h": "12:27",
+    "t": "Basket Serie B , la Robur Saronno si rinforza: arriva Caglio, ex Cantù e Monferrato",
+    "s": "Il Saronno",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWNDeWNWdTFZWXBFdi1oa2NmMjNXX3ZxMU9VTUNlalpzZEZRcUMtNEZiRXVTT0pBXzNNNHAzel9mdXRmNURsOGMzWmRSQXN3eDd5RnBoT3B3c0RERDI2OFAzMHZfRFh1aHdFSnZuNUZULWE5WWxPSlFvQ3BSNzdGekFNeVZnUlFpSGdSdkgzdE1zaTlrcjhzQnNrQl9pczdLanZMYlNxQmVKckhJbXd2UVZB0gG6AUFVX3lxTE1wWVkxRHVpMFQtVF93M1ZxbzhGRXpxckUzeUlJcGlmNEk3T3lPeERQMzk3MS1zTzYzRXdhaUpYZlFHWjhZQXpQQjNSMDNZVWNSanhyaS0xU0lDcEFEWUFDdFNzV0s5V1B6Uk8tbVAzZFZ2dDlZMkZKX2dLZ21tTXNvTl9EQU5VN282WEZNcUthSDVsckxmVHhsaGdveTF6UmU2ZnF4Ni1XSlFJMGhBM2hGbkExZzdQeHVaUQ?oc=5"
+   },
+   {
+    "d": "2026-10-31",
+    "h": "11:36",
+    "t": "Basket, lunedì sera il derby Cantù-Milano: Vitucci: \"Dobbiamo dare il massimo per i nostri tifosi\"",
+    "s": "Espansione TV",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOamhlS1FNbFZaZWdYbGZCMEtNcWlzMGNkQ1hLX2lOSTYwNnVvWHNhNTR6Z2tZYkowRUZVeEU3VE5YdEdFMEFSRnVTMVVKNUVWLUpHbUxwUFZiQWFtaFdlNjIwcDVtV0lOVlUtQ3FxdUU5cVpOQnJDc2ZGMUhHNjRDbWl2ZUtVMGV6VmItalBzdXprcnB0QVppeWNUc3ZpUFNPUE1EWmRuZWhmNF85d1FIeEdnVjNiX0lNenp1X0VYSzM2RlRFdnlfTUhfX24yQQ?oc=5"
    }
   ],
   "como": [
+   {
+    "d": "2026-11-01",
+    "h": "14:30",
+    "t": "Como-Venezia 1-0: decide un rigore di Da Cunha",
+    "s": "CalcioNapoli24",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWXlLSlF2cjRJZXZmcWotMV9JNkYwejNIaUFYUjhVa2hpaVplMHZUd3RXOHBIblhValF3VDVienI4TDdnQVZURjFVSTM3ZVVGWFBxME03Vzh0ei0tNU9falFTZjZ6QWsyeDZGRnZiSVVlUDBObHRvTktmT0dqdV9pUVJ4Y3JST3BmQzZuNkhCM1BWTktVTHd3NU5CUmw?oc=5"
+   },
    {
     "d": "2026-11-01",
     "h": "13:40",
@@ -517,13 +525,6 @@
     "t": "!$+[DIRETTA] Venezia - Como Calcio in diretta streaming dove vederla la partita in 01 novembre 2026",
     "s": "Pierce Manufacturing",
     "u": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNMVFXYTktb3ZZQ0ZIc3BnV1dVLVpHMVZuek85aG9FbTEtWEVmMEZUQmg2MVVDMTVJeUY5TnN2QWRzRnkwTjlOU2RYZmRBaTRvVllXLTdhaWdUd0ZpSFNJREhzNkpiLXVYQWxDaG5KbU1JdWoyMXB3RjZiZTNNb3N0TWhVd2NzQlBVV05GdEpRR2U3akgtNXVDbWxVeEtUM0wzdnNZUnYwVksxdXc2RVJmSzRlQnpRWThIYzcyNUJndzZFNzMxenRfN0Q1UFdPVHd5YWdEVUpUMkVxU3V6M21ESkh4UjNjODYtVGVGb19PakJTZURQUk1lbmtYZ1B2NGZSTWd4djNsYThQRDlyODJGMk9GNVVhV3BGTjVVTUNoTHNFUnJnWXpTbFp6OXdoSE11QkFRUFVranZvVHJXQlVtbGRKbVVxSHI0dzh3WDNTdWRvQTNoaVlNYS1QRElYWEZYbm9WMUc4bmxtZEFPenEyeGxuZFFWZ0taN1ZreTJVdUlBQQ?oc=5"
-   },
-   {
-    "d": "2026-11-01",
-    "h": "12:29",
-    "t": "[CALCIO-LIVE] Como - Venezia oggi in tv 01 novembre 2026",
-    "s": "Villa de la Orotava",
-    "u": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQRU9MaFZEU0c4VFB4dDAwUTVxNVNzNmNWdlVsSTR3bS1valQ0bGlCS1UycWI2MWxTWEEzeTVBWDRoZEppZGxFQ2NaS1lIVUtPLS1DdElEZDZpa1JGWm9xYlhiMXdtdUZwdmVOTmhSZjV3YmtxQmlwS2J6dzNEb1NJNkhfUEhxaTVjN0dRSFBCS1VsQ2t5R2dQejVPUGV5aWo1eFJDMzVVbDd5R1dqbFFUYlJTLW9tZ3lSMGhjcEZUNE4yUllCSWNkR0JVZ1dyYjJDa09zQXRLSmY3cW5LQlltSko2M1hvUGkwdkRSOU5mTUVMa09CYzlzSUVIM2lWR0FJVjZ3cGg4YTJ0LUNwRWM1ZXlNMnlFU2xseXAtYkNMaUMzb1RhbUNnUnRvVF8zaHRHaTh3RDlUQQ?oc=5"
    }
   ]
  },
@@ -882,22 +883,17 @@
    "X": 17,
    "2": 12
   },
-  "2026-11-01|Como – Venezia": {
-   "1": 73,
-   "X": 17,
-   "2": 10
-  },
   "2026-11-04|Lens – Como": {
    "1": 32,
    "X": 24,
    "2": 44
   }
  },
- "updated": "2026-11-01T13:00:14+00:00",
+ "updated": "2026-11-01T13:43:48+00:00",
  "log": [
-  "non finita Como – Venezia STATUS_SECOND_HALF",
-  "classifica milan 4 21",
-  "classifica como 5 20",
+  "risultato Como – Venezia 1-0",
+  "classifica milan 5 21",
+  "classifica como 4 23",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
   "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
@@ -911,6 +907,6 @@
   "calendario como 29 partite future",
   "ERR logo cantu HTTP Error 403: Forbidden",
   "loghi ['cantu', 'como', 'milan']",
-  "quote 3"
+  "quote 2"
  ]
 }
