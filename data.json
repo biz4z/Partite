@@ -74,8 +74,8 @@
   },
   "cantu": {
    "pos": 16,
-   "pts": 0,
-   "g": 5,
+   "pts": 2,
+   "g": 6,
    "up": {
     "n": "Scafati",
     "pos": 15,
@@ -126,7 +126,7 @@
     "time": "20:30",
     "home": "Cantù",
     "away": "Olimpia Milano",
-    "score": ""
+    "score": "25-23"
    },
    {
     "date": "2026-11-08",
@@ -299,8 +299,8 @@
   ],
   "standing": {
    "pos": 16,
-   "pts": 0,
-   "g": 5,
+   "pts": 2,
+   "g": 6,
    "up": {
     "n": "Scafati",
     "pos": 15,
@@ -375,13 +375,6 @@
    },
    {
     "d": "2026-11-02",
-    "h": "14:32",
-    "t": "Milan, Krösche guida la svolta: nel mirino Tresoldi e Inácio",
-    "s": "Europa Calcio",
-    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORjJNM0JxVGZSNGtRRmxPREg5ODg1cU1OOWFic3I2S1lqOXJZS2NvUnAtbmc5VUF0a3ZKaGdDV0hSNWExeEY0Nk1EbzVWc3VBaXI3eG5Gel91Y3cxeFo1VUZaajlPSXM4UW9paURyOHZNVF8zNHJ2MkoxaDZGYjQ5TA?oc=5"
-   },
-   {
-    "d": "2026-11-02",
     "h": "14:02",
     "t": "Amorim, questo è Milan: ora serve la costanza",
     "s": "Sportmediaset",
@@ -414,6 +407,13 @@
     "t": "Nuovo San Siro, quanto costano a Inter e Milan gli architetti Foster e Manica",
     "s": "Calcio e Finanza",
     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVWpGTkxvM1ZiNEk1WU5lVUhrM1c1cl9wVm4yckxEYjBwczhiZ0ZKc3VCRFRVdG1VTnJBRjhLWUVqLTBnLUVrdEV6WEVrZHB2TWZjVnMxVEdBTGp4bjRxUkxDeS1vNmZiaWEzdnVGODlyWWdZdlVMSFFoNEtRdURzU3psOFlyd2pZQ0hoa1ZiWWM?oc=5"
+   },
+   {
+    "d": "2026-11-02",
+    "h": "00:42",
+    "t": "Milan-Ferencvaros: probabili formazioni, quando e dove vederla",
+    "s": "www.eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNZVZCcFF3LXRCa2Zud2lTZmU3VkpHNmhuRTItdHFyVWNxdjdPY3ZEQkVkNVpjX1ZDMzcwRTllcmlRdzNXLUFKcE1KSW5NZ2RRNVNOeGxqbm9YalRULVZmX1lrcWNWTWg0NDhfajJqQ0VkSkdGUkM4cUtVOTZsSzhYVmpXTGIwTTFQdUdjSG1ucDV1OVZlcWdnTGRLSFRmQXFkS2dkRVpvUVBiZTN3ODU1UXBUb3FoVWdVREIzTjdBQndUeWNzSWJqbE83WW9xWDZkQl9jcjgzcjRXOVUxaXluRkVacFdCbS1wS3h5YVc0Z0tLbHM0a2I1NmFTb3YyWHpremdUaXlRdXZSQzJzUUZHeHRmMEprVV8xOFFJWHM4ZjdoUEdmbnFmMnFiWU1RVlZ5bDlGVS01S21wUEtkYXRWelNTaw?oc=5"
    }
   ],
   "cantu": [
@@ -434,9 +434,16 @@
    {
     "d": "2026-11-02",
     "h": "19:29",
-    "t": "Cantù-Milano alle 20.30 su Sky: risultato LIVE",
+    "t": "Cantù Olimpia Milano, il risultato in diretta della partita di Serie A di basket",
     "s": "Sky Sport",
     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUGNNVkJIdnNjLUhuYVpJeGFxU3JlUWhRR1lTWTU1UXlhNGJCTEJGYXBYMjBaa1FSUUlvTjJzMnd6Vld2dFM1bFYyT0ItRFF5bTJ4UnhnYXJCc202U1phTzVQdEJ1X3BYRUpaSVBqYVU4MWJZVDllQTQ5dDZFczRHTmd6UVRpOFhlajY2UjVfT013dw?oc=5"
+   },
+   {
+    "d": "2026-11-02",
+    "h": "19:15",
+    "t": "Pallacanestro Cantù-Olimpia Milano | La diretta testuale",
+    "s": "Sportando",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdHdBYXJCUEFZVU5wOGRaYktNbHlxQmswOWItVlZzMWdGMUhmR2RYLWxMS0M5TmJWbWw1cV9hbHdVZTRTRlBLblpXQUx0ZF9OR0JrWkxMbGpXVUVDSDU3Mm5lSUNCb3YwbjZUWVJxbXFkZWJUTzVkbWVIekJTaXdwZ3RFUmpxczZ2MWl5YURCWGlxNFRhNm5j?oc=5"
    },
    {
     "d": "2026-11-02",
@@ -465,13 +472,6 @@
     "t": "Pallacanestro Cantù-Olimpia Milano: dove vedere la partita in tv e streaming | LBA Serie A 2026/27",
     "s": "Vu Nere Bologna",
     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV094ZzdXSEo1T3NFb0N4d0ZtWXQ0OGZJMUFTUDJSOVpLbFIxa1UtajBXZWdveGZiRUlJb0xsRkFhN09xX0taR1VTZTI1X0RVbGUxTFNBOVBLaU1rQzdsVUdJM2NuRW4yb0p5ajBCS1g0cE5hUi12VUg0bGlfYzlQZ2ltdkdxeTFmS2EwV2NUT1FNRWdqRklScmNyaGRabVpma2tNdGxmdVJmWnF6MFBNY1l2OU8wYzRxcldzMEE5dGVKVllva3ppa05wVVVFVGpQMWFPNzA5Tk9WN1BGUng4NFdn?oc=5"
-   },
-   {
-    "d": "2026-11-02",
-    "h": "17:27",
-    "t": "Pallacanestro Cantù 26-27: giocatori sotto contratto, durate e mercato",
-    "s": "Backdoorpodcast.com",
-    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYjR6VFpvWWZfY2dwQVdmbFhVZU9Nc2FITzhVMjEzVVktRG5QZnlYSDdjOHVQWUZORlk3Q1FaWEZjX2syVUctd0d3RHlBUkFrV2NjU2wyV1F6c3dfYU1vbk5PeTdTcGV5cUJ5WXFhYV9Mb2RwSVhJUGdRQlRWRl85eFUtUVlRSDRFclZFSHhrSnIwRGRLSkE?oc=5"
    }
   ],
   "como": [
@@ -898,13 +898,13 @@
    "2": 52
   }
  },
- "updated": "2026-11-02T19:21:03+00:00",
+ "updated": "2026-11-02T20:07:23+00:00",
  "log": [
   "classifica milan 5 21",
   "classifica como 4 23",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
+  "cantu 30 partite {'pos': 16, 'pts': 2, 'g': 6, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
   "notizie cantu 3",
   "notizie como 2",
