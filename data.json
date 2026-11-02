@@ -347,6 +347,11 @@
   "como": [
    {
     "d": "2026-11-01",
+    "t": "Como 1907-Venezia 1-0: la cronaca della partita",
+    "u": "https://comofootball.com/como-1907-venezia-1-0-match-report/"
+   },
+   {
+    "d": "2026-11-01",
     "t": "La presentazione | Como 1907-Venezia",
     "u": "https://comofootball.com/match-preview-como-1907-venezia/"
    }
@@ -367,6 +372,13 @@
     "t": "Pioli: “Ieri ero a San Siro per il derby: c'è un giocatore del Milan che mi ha impressionato dal vivo\"",
     "s": "SOS Fanta",
     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbVBKM0lqRXpkcTB1YnhlWWZwaEk3c1ZhLXNDalAtMWh6UER1c1VlM2ZuZnJPYzAxNUFRdXBoYS00VVhEV2V3OTZzSTBnZjczRzM1UWY3aDhyZ3JJSkxTYzVCMUpmMGNBLVo3c3htcE84Q0JHdGx5TDNpeVRZVTZxZG5aakFRaGtBcXBLQ1dNWU9rSlF30gGaAUFVX3lxTE5nMzlHNXBaU1ZvcnNzZERkXzRSUUdfNjZWam9xQ3RMR1RHOHVLUF92NEg3UnpPaUJPSUZXQnJmRi1WdTJWU1lpNVBrVF92bEJ6NUNRUk5kMUVBVEJsYlJHUG82c1BnckEwWWcyRlNpRGJ3ZFpYT003SjVxcU90Snp2aVNNSlFjaWJRYnQ0Vzdud0Ntc1pUT1pYM3c?oc=5"
+   },
+   {
+    "d": "2026-11-01",
+    "h": "17:31",
+    "t": "Statistiche Atalanta - Milan: Risultati Calcio",
+    "s": "www.eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNU5BT1JZdzd6bk5uQ05MOTdHLWdOZjR3OHpmYS1xbVF3SUdtcTJBSXNnVTgxNy1IQjZxdVhSemRtSVkxdC1ZeG9scm5vckpyRWVIRjQ0RWtiaXRIbjFrd0FtMWZBX1RxRW9JTmw2UGNuSjE1c2RVUnlvbnVfc01IemIweU50NmIyU293TGFfTW1STk5uZHhLZQ?oc=5"
    },
    {
     "d": "2026-11-01",
@@ -402,13 +414,6 @@
     "t": "VIDEO. Milan, Condò commenta la vittoria nel derby: 'Scherzetto o cosa seria?'",
     "s": "Sky Sport",
     "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzQwdTBYRkhCYWJmaFdnS2dDOHcxdHZDbzdtaXBVdVVEalNYQ1NYRlNjOXZrYzVBRDRZT25uVTBybUZQUVYydlZYdlRQQl9DLUg5WGFUbDFLOWMzSHFrelEwa1BncTJoNG9XNGdoOXlmbkZ4ckdyUjJ0UDlLZlhCVjFMLW1mWGxVYWNsRUJ3?oc=5"
-   },
-   {
-    "d": "2026-11-01",
-    "h": "10:12",
-    "t": "Kakà in lacrime a San Siro: l'omaggio dei tifosi del Milan prima del derby VIDEO",
-    "s": "DAZN",
-    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdk5vZS04VlJNN1V2VjRnNlBQb1kzTktvQkV0ckhHdnZsZ19md3RnOS10U2VNaVhVSG4yXzlfVXllbHFrMW04UzNMS0JsTGszMllrbDV1blQ5OGFBMVlUakktZnNmYVVMUW9XeDBKdU1VLU1pRnJySVd0M2tMblFuMHpaQll3UGFBMEhwMGNGUXdEaURNR3VYRnprY0p6WGxLMGJsQmkxUjlEbnBDd0xXZkIwMjkyektBQzZKelAzQWsxNGNob2JUZjZhX3NtUjFXRURleHZBV3JtSEE?oc=5"
    }
   ],
   "cantu": [
@@ -893,7 +898,7 @@
    "2": 52
   }
  },
- "updated": "2026-11-02T13:50:40+00:00",
+ "updated": "2026-11-02T14:44:21+00:00",
  "log": [
   "classifica milan 5 21",
   "classifica como 4 23",
@@ -902,7 +907,7 @@
   "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 5, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
   "notizie cantu 3",
-  "notizie como 1",
+  "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
   "stampa como 8",
