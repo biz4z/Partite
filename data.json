@@ -74,7 +74,7 @@
   },
   "cantu": {
    "pos": 16,
-   "pts": 2,
+   "pts": 0,
    "g": 6,
    "up": {
     "n": "Scafati",
@@ -85,8 +85,229 @@
   }
  },
  "cantu": {
-  "games": [],
-  "standing": null
+  "games": [
+   {
+    "date": "2026-09-26",
+    "time": "20:00",
+    "home": "Venezia",
+    "away": "Cantù",
+    "score": "85-73"
+   },
+   {
+    "date": "2026-10-05",
+    "time": "20:00",
+    "home": "Cantù",
+    "away": "Udine",
+    "score": "84-85"
+   },
+   {
+    "date": "2026-10-11",
+    "time": "17:00",
+    "home": "Cantù",
+    "away": "Napoli",
+    "score": "80-99"
+   },
+   {
+    "date": "2026-10-18",
+    "time": "18:00",
+    "home": "Trieste",
+    "away": "Cantù",
+    "score": "92-72"
+   },
+   {
+    "date": "2026-10-25",
+    "time": "18:30",
+    "home": "Reggio Emilia",
+    "away": "Cantù",
+    "score": "81-60"
+   },
+   {
+    "date": "2026-11-02",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Olimpia Milano",
+    "score": "76-86"
+   },
+   {
+    "date": "2026-11-08",
+    "time": "16:00",
+    "home": "Maxima Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-11-15",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Tortona",
+    "score": ""
+   },
+   {
+    "date": "2026-11-22",
+    "time": "17:30",
+    "home": "Scafati",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home": "Cantù",
+    "away": "Varese",
+    "score": ""
+   },
+   {
+    "date": "2026-12-12",
+    "time": "20:30",
+    "home": "Verona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-19",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Trento",
+    "score": ""
+   },
+   {
+    "date": "2026-12-27",
+    "time": "12:00",
+    "home": "BC Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-03",
+    "time": "",
+    "home": "Cantù",
+    "away": "Treviso",
+    "score": ""
+   },
+   {
+    "date": "2027-01-10",
+    "time": "",
+    "home": "Virtus Bologna",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-17",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trieste",
+    "score": ""
+   },
+   {
+    "date": "2027-01-24",
+    "time": "",
+    "home": "Udine",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-31",
+    "time": "",
+    "home": "Cantù",
+    "away": "Verona",
+    "score": ""
+   },
+   {
+    "date": "2027-02-07",
+    "time": "",
+    "home": "Varese",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-02-14",
+    "time": "",
+    "home": "Cantù",
+    "away": "BC Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-07",
+    "time": "",
+    "home": "Cantù",
+    "away": "Maxima Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-14",
+    "time": "",
+    "home": "Treviso",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-03-21",
+    "time": "",
+    "home": "Cantù",
+    "away": "Scafati",
+    "score": ""
+   },
+   {
+    "date": "2027-03-27",
+    "time": "",
+    "home": "Trento",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-04",
+    "time": "",
+    "home": "Cantù",
+    "away": "Reggio Emilia",
+    "score": ""
+   },
+   {
+    "date": "2027-04-11",
+    "time": "",
+    "home": "Tortona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-18",
+    "time": "",
+    "home": "Cantù",
+    "away": "Virtus Bologna",
+    "score": ""
+   },
+   {
+    "date": "2027-04-25",
+    "time": "",
+    "home": "Olimpia Milano",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-05-02",
+    "time": "",
+    "home": "Cantù",
+    "away": "Venezia",
+    "score": ""
+   },
+   {
+    "date": "2027-05-09",
+    "time": "",
+    "home": "Napoli",
+    "away": "Cantù",
+    "score": ""
+   }
+  ],
+  "standing": {
+   "pos": 16,
+   "pts": 0,
+   "g": 6,
+   "up": {
+    "n": "Scafati",
+    "pos": 15,
+    "pts": 2
+   },
+   "dn": null
+  }
  },
  "news": {
   "milan": [
@@ -154,6 +375,13 @@
    },
    {
     "d": "2026-11-02",
+    "h": "14:32",
+    "t": "Milan, Krösche guida la svolta: nel mirino Tresoldi e Inácio",
+    "s": "Europa Calcio",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORjJNM0JxVGZSNGtRRmxPREg5ODg1cU1OOWFic3I2S1lqOXJZS2NvUnAtbmc5VUF0a3ZKaGdDV0hSNWExeEY0Nk1EbzVWc3VBaXI3eG5Gel91Y3cxeFo1VUZaajlPSXM4UW9paURyOHZNVF8zNHJ2MkoxaDZGYjQ5TA?oc=5"
+   },
+   {
+    "d": "2026-11-02",
     "h": "14:02",
     "t": "Amorim, questo è Milan: ora serve la costanza",
     "s": "Sportmediaset",
@@ -186,22 +414,22 @@
     "t": "Nuovo San Siro, quanto costano a Inter e Milan gli architetti Foster e Manica",
     "s": "Calcio e Finanza",
     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVWpGTkxvM1ZiNEk1WU5lVUhrM1c1cl9wVm4yckxEYjBwczhiZ0ZKc3VCRFRVdG1VTnJBRjhLWUVqLTBnLUVrdEV6WEVrZHB2TWZjVnMxVEdBTGp4bjRxUkxDeS1vNmZiaWEzdnVGODlyWWdZdlVMSFFoNEtRdURzU3psOFlyd2pZQ0hoa1ZiWWM?oc=5"
-   },
-   {
-    "d": "2026-11-02",
-    "h": "00:42",
-    "t": "Milan-Ferencvaros: probabili formazioni, quando e dove vederla",
-    "s": "www.eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNZVZCcFF3LXRCa2Zud2lTZmU3VkpHNmhuRTItdHFyVWNxdjdPY3ZEQkVkNVpjX1ZDMzcwRTllcmlRdzNXLUFKcE1KSW5NZ2RRNVNOeGxqbm9YalRULVZmX1lrcWNWTWg0NDhfajJqQ0VkSkdGUkM4cUtVOTZsSzhYVmpXTGIwTTFQdUdjSG1ucDV1OVZlcWdnTGRLSFRmQXFkS2dkRVpvUVBiZTN3ODU1UXBUb3FoVWdVREIzTjdBQndUeWNzSWJqbE83WW9xWDZkQl9jcjgzcjRXOVUxaXluRkVacFdCbS1wS3h5YVc0Z0tLbHM0a2I1NmFTb3YyWHpremdUaXlRdXZSQzJzUUZHeHRmMEprVV8xOFFJWHM4ZjdoUEdmbnFmMnFiWU1RVlZ5bDlGVS01S21wUEtkYXRWelNTaw?oc=5"
    }
   ],
   "cantu": [
    {
     "d": "2026-11-02",
     "h": "21:25",
-    "t": "DIRETTA CANTÙ MILANO | Risultato 44-49 video streaming tv: 13 di Moretti! (oggi 2 novembre 2026)",
+    "t": "Diretta Cantù Milano | Risultato 64-72 video streaming tv: Flagg si esalta! (oggi 2 novembre 2026)",
     "s": "IlSussidiario.net",
     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjN2TEFsS0ROeXNCeHl3d1I0UkFlSUFtNTl0Y05QR3c2RHc4SE10blF2YTZHN1RONVNpODlySW4xTDAzRENoSTFVUWtISXpjY1NEX2J0dTV4RXV1NlZqZWZVZ2x1M1V6X0hHRlQtVktmOVlxVUw0ZV83WS1Nb3dxLUNnWjBZOGdYZFY3MFF4SWI3elNHMkpoa09UVUx3emE2d1RKbFZDU0NveGd1WmZ2amVyMjJhTkRYRXh0UXRSM1pCdzRJOHNWVkFRYXZYajVBVmfSAdcBQVVfeXFMUC1ma2VxQl9aNnF0UTMxZHlTbzhwaHh1eXVZQTdjVHJuRkc2MWNBMTEtSl8tellRSGhGTDZQam9qZEVyS2hsdFg0Z1VpUDBxbmg2OTRrNFZrcFB3Yk54S05lMk9HN3Z2MUozR3lqMGlzSXlwTDYyeHFRN1RMNFpxN3JGMzI5bHZCNEtpOGJfNnFHd0VkMjdSUEF4bjdiTjBzZW5HWllfcWFENmxOM2RxMmNLX0FzR2lNd0tNRGhQWVlvWG1NeHh0MzZacUZfdldGQzFjS1NYdkU?oc=5"
+   },
+   {
+    "d": "2026-11-02",
+    "h": "20:43",
+    "t": "Cantù-Olimpia Milano | Le ufficiali: ecco i 12 di Poeta per il derby",
+    "s": "RealOlimpiaMilano",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUtzTWgxa1hfM2VGajhiWTdzRVFUc1pLR3d3V1RvaVdMcGlERkZxSVVneG84ZEUtOFlOWi1zcER6Vi16d0hYYnEyUmE3d3g1Z2pheUd3V1BneEFXSGFYSW5Dc3FHX0FSRElCcF9nM3RzOWtmUG1ubXc0OVNWV1R2QzNGRTdmNFNkUFJQQzB3Q3hmQQ?oc=5"
    },
    {
     "d": "2026-11-02",
@@ -244,13 +472,6 @@
     "t": "Caso Semaj Christon, il comunicato stampa di Cantù: positività controllo antidoping dopo la gara dell’11 ottobre",
     "s": "Pianeta Basket",
     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcnJ6dFdBdEwxa2NCckZCYUl3YkNnY295bjRSZ3U0LXhyMi1uTVlFWHNqVWdtX2dXeEpkNEo4b05ZZHlSRVRiZUdXT1VFQ21iQUdtd1UtQWVWcFVUU1FTcVZwWGtGN2RuU0VkTVV0V2lPNWhBa1ZOYk0zSjUxSk5fSDdQcDhRcHRkaC1US3phZDMyZnNQSFBIQjJDbjl5NURpaDBZYTE1OVBhTUV0VVZCQmN2Q2dRSGNaaHY2NlVUSG90N3hjMFQxYzBRRTE1RFJ5MHlTVnpVX3AtTHVYMjFoMThUQllDOUVVRmM1NEd1cw?oc=5"
-   },
-   {
-    "d": "2026-11-02",
-    "h": "17:30",
-    "t": "Pallacanestro Cantù-Olimpia Milano: dove vedere la partita in tv e streaming | LBA Serie A 2026/27",
-    "s": "Vu Nere Bologna",
-    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV094ZzdXSEo1T3NFb0N4d0ZtWXQ0OGZJMUFTUDJSOVpLbFIxa1UtajBXZWdveGZiRUlJb0xsRkFhN09xX0taR1VTZTI1X0RVbGUxTFNBOVBLaU1rQzdsVUdJM2NuRW4yb0p5ajBCS1g0cE5hUi12VUg0bGlfYzlQZ2ltdkdxeTFmS2EwV2NUT1FNRWdqRklScmNyaGRabVpma2tNdGxmdVJmWnF6MFBNY1l2OU8wYzRxcldzMEE5dGVKVllva3ppa05wVVVFVGpQMWFPNzA5Tk9WN1BGUng4NFdn?oc=5"
    }
   ],
   "como": [
@@ -677,15 +898,15 @@
    "2": 52
   }
  },
- "updated": "2026-11-02T20:47:41+00:00",
+ "updated": "2026-11-02T21:27:13+00:00",
  "log": [
   "classifica milan 5 21",
   "classifica como 4 23",
   "classifica milan_eu 24 3",
   "classifica como_eu 9 6",
-  "cantu 0 partite None",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 6, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
-  "notizie cantu 0",
+  "notizie cantu 3",
   "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
