@@ -126,7 +126,7 @@
     "time": "20:30",
     "home": "Cantù",
     "away": "Olimpia Milano",
-    "score": "76-86"
+    "score": "82-95"
    },
    {
     "date": "2026-11-08",
@@ -330,6 +330,11 @@
   "cantu": [
    {
     "d": "2026-11-02",
+    "t": "Cantù-Milano finisce 82-95",
+    "u": "https://pallacanestrocantu.com/cantu-milano-finisce-82-95/"
+   },
+   {
+    "d": "2026-11-02",
     "t": "Sospensione cautelare per Semaj Christon",
     "u": "https://pallacanestrocantu.com/sospensione-cautelare-per-semaj-christon/"
    },
@@ -337,11 +342,6 @@
     "d": "2026-10-30",
     "t": "Coach Vitucci presenta Cantù-Milano: “Servirà il cento per cento per quaranta minuti”",
     "u": "https://pallacanestrocantu.com/coach-vitucci-presenta-cantu-milano-servira-il-cento-per-cento-per-quaranta-minuti/"
-   },
-   {
-    "d": "2026-10-30",
-    "t": "GLI ex di Cantù-Milano",
-    "u": "https://pallacanestrocantu.com/gli-ex-di-cantu-milano/"
    }
   ],
   "como": [
@@ -361,13 +361,6 @@
   "milan": [
    {
     "d": "2026-11-02",
-    "h": "20:13",
-    "t": "Cardinale: \"Il Milan a gennaio comprerà ancora\"",
-    "s": "TaorminaNews24",
-    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iYml3bTRfUHJRNWgyMGRSVkp1UU1NVW95XzI2VG91c3FIQldrT2E0UzJUdnljNnNQUmlaX3hTUTZ0T2JZSWlUT2pZSEloMmhXQ3N6ZWlja0NWVGFoUjNrQWlPSmY0VHZYZ2s2RnlJRXQ3RVRxdVFN?oc=5"
-   },
-   {
-    "d": "2026-11-02",
     "h": "16:29",
     "t": "Milan, incredibile Fullkrug: adesso sogna di tornare in nazionale, Klopp avvisato",
     "s": "Sportmediaset",
@@ -375,24 +368,10 @@
    },
    {
     "d": "2026-11-02",
-    "h": "14:32",
-    "t": "Milan, Krösche guida la svolta: nel mirino Tresoldi e Inácio",
-    "s": "Europa Calcio",
-    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORjJNM0JxVGZSNGtRRmxPREg5ODg1cU1OOWFic3I2S1lqOXJZS2NvUnAtbmc5VUF0a3ZKaGdDV0hSNWExeEY0Nk1EbzVWc3VBaXI3eG5Gel91Y3cxeFo1VUZaajlPSXM4UW9paURyOHZNVF8zNHJ2MkoxaDZGYjQ5TA?oc=5"
-   },
-   {
-    "d": "2026-11-02",
     "h": "14:02",
     "t": "Amorim, questo è Milan: ora serve la costanza",
     "s": "Sportmediaset",
     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcDBaUzVVX3lUNXpPcUhtOGRIRm13SkYxVDVIbWFLbUIteUVHbUFpaXcxNExobi1HX2ctcEN5THpmTUtCTFhibGllZ19nVl9TWDFnaHhlVnhCZnFFZGhlamQ3TXlUVTNRUzVQa19fdEhOT2dwOUVuSlRyaVA5WEhjQ1V0c3RMd0hDMEp4eEp4OE5qd2ZkSXQzczl6c3NmN3N1ZUtwN2ZiYWp3MGx1UkM0VGpGcy1Zd1VvMVE?oc=5"
-   },
-   {
-    "d": "2026-11-02",
-    "h": "11:35",
-    "t": "Inter e Milan si tutelano con la UEFA sul nuovo San Siro: le condizioni per EURO 2032",
-    "s": "Calcio e Finanza",
-    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONVdReFZjakRmc09xNWxmcVJ1RUpQMVByUjd3SXZTcVFJT0V6WWlVV1djd2l5UVczVVRjSnNZeFBua2U1Z2oyOU5PM0NrU1FvTFlVZ3dCMUlBRl8tejNfSTFDSGZxR3dDMlA5MEtJV3duMjJKNjNLVVV2eFVMaVpsTWxB?oc=5"
    },
    {
     "d": "2026-11-02",
@@ -410,13 +389,55 @@
    },
    {
     "d": "2026-11-02",
-    "h": "10:45",
-    "t": "Nuovo San Siro, quanto costano a Inter e Milan gli architetti Foster e Manica",
-    "s": "Calcio e Finanza",
-    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVWpGTkxvM1ZiNEk1WU5lVUhrM1c1cl9wVm4yckxEYjBwczhiZ0ZKc3VCRFRVdG1VTnJBRjhLWUVqLTBnLUVrdEV6WEVrZHB2TWZjVnMxVEdBTGp4bjRxUkxDeS1vNmZiaWEzdnVGODlyWWdZdlVMSFFoNEtRdURzU3psOFlyd2pZQ0hoa1ZiWWM?oc=5"
+    "h": "00:42",
+    "t": "Milan-Ferencvaros: probabili formazioni, quando e dove vederla",
+    "s": "www.eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNZVZCcFF3LXRCa2Zud2lTZmU3VkpHNmhuRTItdHFyVWNxdjdPY3ZEQkVkNVpjX1ZDMzcwRTllcmlRdzNXLUFKcE1KSW5NZ2RRNVNOeGxqbm9YalRULVZmX1lrcWNWTWg0NDhfajJqQ0VkSkdGUkM4cUtVOTZsSzhYVmpXTGIwTTFQdUdjSG1ucDV1OVZlcWdnTGRLSFRmQXFkS2dkRVpvUVBiZTN3ODU1UXBUb3FoVWdVREIzTjdBQndUeWNzSWJqbE83WW9xWDZkQl9jcjgzcjRXOVUxaXluRkVacFdCbS1wS3h5YVc0Z0tLbHM0a2I1NmFTb3YyWHpremdUaXlRdXZSQzJzUUZHeHRmMEprVV8xOFFJWHM4ZjdoUEdmbnFmMnFiWU1RVlZ5bDlGVS01S21wUEtkYXRWelNTaw?oc=5"
+   },
+   {
+    "d": "2026-11-01",
+    "h": "17:31",
+    "t": "Statistiche Atalanta - Milan: Risultati Calcio",
+    "s": "www.eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNU5BT1JZdzd6bk5uQ05MOTdHLWdOZjR3OHpmYS1xbVF3SUdtcTJBSXNnVTgxNy1IQjZxdVhSemRtSVkxdC1ZeG9scm5vckpyRWVIRjQ0RWtiaXRIbjFrd0FtMWZBX1RxRW9JTmw2UGNuSjE1c2RVUnlvbnVfc01IemIweU50NmIyU293TGFfTW1STk5uZHhLZQ?oc=5"
+   },
+   {
+    "d": "2026-11-01",
+    "h": "14:32",
+    "t": "Davvero il Milan può puntare allo scudetto? I motivi per crederci e quelli per cui stare coi piedi per terra",
+    "s": "La Gazzetta dello Sport",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSnp6NkF3cEVFTzBtWHNTQ3RYNnhWUThpTlM3Z3BmUTIxOVJ2UXJ2Q2VHLV9CZ1J6ZjdmY0dDQk1FNjFsV1gzdVQ1TW1vRFNLMjZ4MGk2OHJIdzZ3UGxkU2NzaHNjUnN4TVFsTEZQNEJKbUtqVE55RWE3THdkZDEtTTJnbHFlRjlscjVHTmlZS1FhZGQ0akRwMFJzZHhkSlnSAZ8BQVVfeXFMTUp6ejZBd3BFRU8wbVhzU0N0WDZ4VlE4aU5TN2dwZlEyMTlSdlFydkNlRy1fQmdSemY3ZmNHQ0JNRTYxbFdYM3VUNU1tb0RTSzI2eDBpNjhySHc2d1BsZFNjc2hzY1JzeE1RbExGUDRCSm1LalROeUVhN0x3ZGQxLU0yZ2xxZUY5bHI1R05pWUtRYWRkNGpEcDBSc2R4ZEpZ?oc=5"
+   },
+   {
+    "d": "2026-11-01",
+    "h": "12:32",
+    "t": "Derby: crollo Inter, il Milan domina e vince 3-1 VIDEO",
+    "s": "Il Gazzettino",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVFhVaDlNaWZsNklVLXZRQ0V3WHp6ZHBlTmxoaURVOG9sN2ZMYmU0M1BmcGFPRzJyTWNGcVZzc0hmRi14ZVpZSWRzeTFDRGRXR21BT2NfVEJOc0FSX25JdUl0eldTWWxFLXhvc1poSmxtay1BaUtpc3dNQTJGTk1jUFAtLUpsVm9aSUHSAYcBQVVfeXFMUHVyVWtzX0M4NWljem8zU1g0VTg3Rzk2cTBKdVduWnlGZVZiZnpxaENtWGtEV0FhM2xuNEIwOENhUVN4QnFTMFNldENEVnROSlM1TEsybFg3NXRLYURseDlBZkhyX2loMk4yV0RsZFp4dDFsTjhGem1NSjRmQTdXQUwwODZnLWln?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-11-02",
+    "h": "22:40",
+    "t": "Olimpia Milano, il derby è biancorosso: l’Armani piega Cantù per 82-95",
+    "s": "Quotidiano Sportivo",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOREFwZ1lYVnRrU2VKM2VUMXlSVEFLSVU2azRjNUZmdXNWX2l2WWVkaTNlRVd3bnJKam9uUUVQTVA2V0hIQmdTdDdyYjZFRWQ1aEp1YVYxN25PSjJlOW5mUUR4Rk9wVkVWLVhBaHZNUTNrbHJhVVJPQkoyVGIwdTZwYWxuSmJpVzZmcWlPdk5iak1LSDVFU1BzRDdNaG5yaTM5STV3ajVzbTRjdGUzLVN5b2JXWDhRMmROc2dIUQ?oc=5"
+   },
+   {
+    "d": "2026-11-02",
+    "h": "22:30",
+    "t": "Basket, Serie A: prima sconfitta per Bologna, Milano ok a Cantù",
+    "s": "Sportmediaset",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLWFyU0s1d3Z6ek5rOTJ3ZER3X05kNTNJLTNQTlNILWE0Qi14ckx5SktwVDJrQ0QyamdkWHRDY1hXRkVOWE5CbGlfaGFueEJ3WmltSm9iOFFLaEF0OEEwdXl3eG1RZmFmRXZYaE44Wl9mU3Y1aUxUX3g5UGcwdHJuZDBzWXhPNnZTVWJOY0pLSUFKU3dMSW9rdThVdmpYZmFuXzN5bThMU1ljZlFPNTJoc2U0OG9hQVBhYk9iMlZnMGxrdkZxdWppRQ?oc=5"
+   },
+   {
+    "d": "2026-11-02",
+    "h": "22:30",
+    "t": "L'Olimpia Milano vince il derby sul campo della Pallacanestro Cantù",
+    "s": "basketmarche.it",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWlXcVQ2Nk1OVmtDM0FJenduVVZEaF8wYmk3YzRNejlHcVZKNzJuTTlmZUQ2bHMzdEJrT0FkaWd2QXV2dG9paWFKQ2E2dDA1YXpmZk10TkZGYTlWcDNOeFlZQS1zVmxiRHF5QUdqbkxtYVZxZ1J2V0c3azBMRDZwc0c4UTVkQ2FXUVJjY1BKOWw4Q2hncEtDR2tlSlAzZ0pxVjE3N05NaTJwTVJoQkJRNE1GelQ0RlE?oc=5"
+   },
    {
     "d": "2026-11-02",
     "h": "21:25",
@@ -451,27 +472,6 @@
     "t": "Pallacanestro Cantù-Olimpia Milano | La diretta testuale",
     "s": "Sportando",
     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdHdBYXJCUEFZVU5wOGRaYktNbHlxQmswOWItVlZzMWdGMUhmR2RYLWxMS0M5TmJWbWw1cV9hbHdVZTRTRlBLblpXQUx0ZF9OR0JrWkxMbGpXVUVDSDU3Mm5lSUNCb3YwbjZUWVJxbXFkZWJUTzVkbWVIekJTaXdwZ3RFUmpxczZ2MWl5YURCWGlxNFRhNm5j?oc=5"
-   },
-   {
-    "d": "2026-11-02",
-    "h": "19:14",
-    "t": "Pallacanestro Cantù, sospensione cautelare a sorpresa per Christon: \"Esito avverso al controllo antidoping\"",
-    "s": "Basket Magazine",
-    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ2thT1JpamQxWVJVQkYtVzhNempyTHJ3Q0x1QkZNcFpCT2w5RGdtMWF5b0J0OW5OQWVORHNHZlNRejQ1RTd5VDFNQko4TkxHRWNlM1NrR21mdGJPaE83aUtmaHNTU2xVRFpGT2FBWVVsWk1SLVBaWVNScXZZZnJvSDZBbEVCZXlsQldYdmdoR25wekw0ckt1dVR1MzhUamlqYS1VODJkc01EVjNuWml5SmdTSXVKQU5vRnBRX2NjTU1IYlN3cTVFMjRqYw?oc=5"
-   },
-   {
-    "d": "2026-11-02",
-    "h": "17:42",
-    "t": "Pallacanestro Cantù, Christon positivo all’anti doping: sospeso dalla partita di oggi",
-    "s": "La Provincia di Como",
-    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTHZRTTVhN2taUFRVTHQzZnJscmFOLWhEd2gxM1E5ODk0ZzhRN1NKeDB6cjVXTnBnbnlhVlFMa2lGeTdFdjRxdWdmVV9MdE5fUFM2RVlGSWtNVThVYXRxS3VtWWVzT2ZFSzlhRTNzYmFWRExCZ05xZDBiRkg2TGYyQldvS25zLWlsY1R2VEVSZ2dKNDRObmQ4Mkduekd2eVVYZEdz?oc=5"
-   },
-   {
-    "d": "2026-11-02",
-    "h": "17:30",
-    "t": "Caso Semaj Christon, il comunicato stampa di Cantù: positività controllo antidoping dopo la gara dell’11 ottobre",
-    "s": "Pianeta Basket",
-    "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcnJ6dFdBdEwxa2NCckZCYUl3YkNnY295bjRSZ3U0LXhyMi1uTVlFWHNqVWdtX2dXeEpkNEo4b05ZZHlSRVRiZUdXT1VFQ21iQUdtd1UtQWVWcFVUU1FTcVZwWGtGN2RuU0VkTVV0V2lPNWhBa1ZOYk0zSjUxSk5fSDdQcDhRcHRkaC1US3phZDMyZnNQSFBIQjJDbjl5NURpaDBZYTE1OVBhTUV0VVZCQmN2Q2dRSGNaaHY2NlVUSG90N3hjMFQxYzBRRTE1RFJ5MHlTVnpVX3AtTHVYMjFoMThUQllDOUVVRmM1NEd1cw?oc=5"
    }
   ],
   "como": [
@@ -898,7 +898,7 @@
    "2": 52
   }
  },
- "updated": "2026-11-02T21:27:13+00:00",
+ "updated": "2026-11-02T22:08:26+00:00",
  "log": [
   "classifica milan 5 21",
   "classifica como 4 23",
