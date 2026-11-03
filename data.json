@@ -58,17 +58,17 @@
    }
   },
   "como_eu": {
-   "pos": 10,
+   "pos": 11,
    "pts": 6,
    "g": 3,
    "up": {
-    "n": "Barcelona",
-    "pos": 9,
-    "pts": 6
+    "n": "VfB Stuttgart",
+    "pos": 10,
+    "pts": 7
    },
    "dn": {
     "n": "Manchester City",
-    "pos": 11,
+    "pos": 12,
     "pts": 6
    }
   },
@@ -361,6 +361,20 @@
   "milan": [
    {
     "d": "2026-11-03",
+    "h": "22:40",
+    "t": "Brekalo esalta Modri? fuoriclasse del Milan | È tutto per il calcio croato L' orgoglio di un Paese",
+    "s": "Zazoom Social News",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa0ZFNXhTTHhTdXV4LVdfbmRpWk43QmcwZmR4dWgyVDV6bjVlT1ZpZmFnV2ZRNnM5LUJzR1RZZ1pPaklZbF9rLTVWOG9kUjlXcG9iaW95M3NVc21palJ1TU41WHYzcVk1d0RUZHFkNEt3eEpMU3E1dHdxeXZ1MmRrRERsTnRHUC05QkN6azBMb0tqaUZXYkozdHZSOC00a3VxTFVZZzJXZHllVjh4Rks2TGJKZlZ3bDlTRU1GQTIxM3FlTVBqalY1WEV0QkYxTXM5MlBn?oc=5"
+   },
+   {
+    "d": "2026-11-03",
+    "h": "21:31",
+    "t": "Milan, Filippo Galli e la cena con Cardinale: \"Visione berlusconiana. Ma la strada è lunga\"",
+    "s": "La Gazzetta dello Sport",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZnFKTkNqYWZGM1AwVi1nYTV1RzM1cDBGSHRCZFlxejR4bjRWaVhWTjJXcnB5ZWxJTlFKbDAzRkwtODd2dVFiRjhSdlU3elVaVmtJcVlpcnR0N2FTRzA0UjEtQUdWVmFtTlJTSW83RXJ5akwtclA3TEFOZ25sZml4YkJ1SjExY2xZc2N0dkJjRHZ1ckpBVXZ4eWFwNVBjd1VwcGRhYTNTRkx0eE10b29QZ2drQzUxYVA0ZTFqetIBvAFBVV95cUxOZnFKTkNqYWZGM1AwVi1nYTV1RzM1cDBGSHRCZFlxejR4bjRWaVhWTjJXcnB5ZWxJTlFKbDAzRkwtODd2dVFiRjhSdlU3elVaVmtJcVlpcnR0N2FTRzA0UjEtQUdWVmFtTlJTSW83RXJ5akwtclA3TEFOZ25sZml4YkJ1SjExY2xZc2N0dkJjRHZ1ckpBVXZ4eWFwNVBjd1VwcGRhYTNTRkx0eE10b29QZ2drQzUxYVA0ZTFqeg?oc=5"
+   },
+   {
+    "d": "2026-11-03",
     "h": "20:52",
     "t": "‍&&!!(((CALCIO))) Inter Milan Feyenoord Ｉｎ Ｄｉｒｅｔｔａ Ｓｔｒｅａｍｉｎｇ 02 novembre 2026",
     "s": "Anayasa.gov.tr",
@@ -382,13 +396,6 @@
    },
    {
     "d": "2026-11-03",
-    "h": "15:25",
-    "t": "Moreira fa la storia nel derby: raggiunti due mostri sacri del Milan",
-    "s": "Tribuna.com",
-    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV25tMlBROEd3R0RMQlkzQ3o0aUM0YVVpbDBxWG1ob05FU01qWjdvckEzRFVIM3REVURyQWRiZFNFX0NNTTltdURndkdfWk9Nd0Z1NlEtQzBvX1VFaUdwYmROeXVKOURLQXlXRklGYkZkancwbzVuem5XZU5iWXQ0dEdKdDgxeFJFWWE0ZnhmeFJVNTZMWGZCRERYVWFrdC1Lbkp6OUVxdmNyVUpKeExqc9IBsAFBVV95cUxOV25tMlBROEd3R0RMQlkzQ3o0aUM0YVVpbDBxWG1ob05FU01qWjdvckEzRFVIM3REVURyQWRiZFNFX0NNTTltdURndkdfWk9Nd0Z1NlEtQzBvX1VFaUdwYmROeXVKOURLQXlXRklGYkZkancwbzVuem5XZU5iWXQ0dEdKdDgxeFJFWWE0ZnhmeFJVNTZMWGZCRERYVWFrdC1Lbkp6OUVxdmNyVUpKeExqcw?oc=5"
-   },
-   {
-    "d": "2026-11-03",
     "h": "14:18",
     "t": "Milan, Amorim si gode un super Rabiot",
     "s": "Sportmediaset",
@@ -407,13 +414,6 @@
     "t": "Europa League, gli arbitri di Milan e Juventus",
     "s": "Sportmediaset",
     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMzRlcVhKSE9HaWk1ZzFObHhXdHVGVTVvcWZ4NTBGVG1wYXlEYTFfNWF1NUVQRU5QS2xINjhGQnZ1Tm11UmZ5Mk1ZWnY5V2p1VEZiclZ5dkEzd1Bmb3VyWjdTVUcwRTFGdFk2dDZvS09oZDNzVDEwSWY0RVVnNTl6djM1dzlEUjdTUGlSQkhkTS1mSkpCOURsVVZ6SVpxMmhlMFpvRFJ5STJsMUFWaE1JaXhHU3DSAXhBVV95cUxQZk8yME5UMGZTZFdUQlZTanRaMnlSR0ZMV3BTaGNwT21uOU94T1ZWakM5NncxX3FHTHR5ejZacjlOclBSdUpXVnVaNG5fbld2SnE3WEtJb21XT2NDMEEwX0dRZHJTMlFfRmNVQkNKSFZPUllEQ0V5dzc?oc=5"
-   },
-   {
-    "d": "2026-11-03",
-    "h": "10:44",
-    "t": "Europa League: lo svizzero Schnyder arbitra Milan-Ferencvaros",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcWdsSkRJOWY0TmpHX19yd1NwOEp1cjEwMUpDakloQVpwOWotdkdTREdaVDhpYy1aRmdGX2QxYWFESjQ3eGdodF9DLUlGRnRBYlpWS1pPRkY1dndGbk9Tbk9hUkJfRnRYYzVSV2FmWWpabS1HemhJdGV6NTV4RkpPZ0JoRFp0eTR4djhxQjFhd29mbHdOWmMtVDRsUnNUcU5lWEV4Q2hmWTVnLXBhdG1CMExieVNqSU1JZlBTeTh6TUx5eEhuZVZndkRlVGY3dlRWOWpFTGdvYmJkdFFvaVBseGhjMFhldzhqTkplRWF1Wm_SAfYBQVVfeXFMUFdxamR2OGliY2t3c24wc3UyR0ZGa0lCbXR4NVVRTlNXQjB4aVBsZ2M3bGdINVZsNU9Sd2l4WUpZdmZkV05oZjViMnA1b0l3RG9aaEZjR3NSTkoya3dGSXZTVHN4S3dOcHREeFdxdFRXd2ZUSmJBaUJyN2Z1cHlaeHBCQ2l4cE9NWFp2OHJIMUUzakdLd2NmOU5FYkhNdl8tVzRuYklHUjY2dGhGenFqRVBfMGU4cjVQeFNMbGNRYkRJSHJYZENGTHJIVndDbkxwcHVEeU5adnM3akhabDFIZElGMWhLbGFsSEZpQktpUzRVLWhpNmVR?oc=5"
    }
   ],
   "cantu": [
@@ -440,6 +440,20 @@
    },
    {
     "d": "2026-11-03",
+    "h": "08:59",
+    "t": "Acqua S.Bernardo Cantù vs Armani Olimpia Milano 6° Giornata",
+    "s": "Lega Basket",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR05rVW1ObmdpQl94Nk5XbzhsaktWNW9ubnZhYkpNWlFFMEVCOGtWdHdkdEt2ZDI3MU9tNHhPSnEwTXcteGR4aTBQMkhaUE1CbHFISl9DT2w4X0xhdlFIYUREYmYwSWNaWWdQRUE3MFg4MGJnbDBSVjdlRjlaZFIxZTRSSVB6a0U?oc=5"
+   },
+   {
+    "d": "2026-11-03",
+    "h": "08:24",
+    "t": "Acqua S.Bernardo Cantù vs APU PrimaCassa FVG Udine Girone A",
+    "s": "Lega Basket",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb0s0eF9kZ1pOdW5vcFVwZUg2WDB6elRMbVdJM2Z4M0phWkhWRGNvd1BXRERuMkZOWmdELW5QbF93SFNoNTdDd0dtN0RmWm9ITGU0WTR2N3RoVk5zSVVaZGExdHFXTDZuTHBWaGZ2RkNDR3FJMXNpVnp0dVJEaXdBNHBRM0xtckRrazJaRVdfNnZLNThfclowTEt5Yw?oc=5"
+   },
+   {
+    "d": "2026-11-03",
     "h": "07:58",
     "t": "Cantù lotta nel derby. Ma resta ultima a zero",
     "s": "La Provincia di Como",
@@ -458,29 +472,22 @@
     "t": "Milano torna al sorriso dopo 4 sconfitte: vinto il derby con Cantù 95-82",
     "s": "Eurosport.it",
     "u": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOHpyc25tbjREMzBTWFJyOWxtakhZWFRaV3lMWGI0VVR6aWpoX1NMMHRnSzQtRGpfNmhBeVI4YTF6NkwzTmlpZDNGM0l5NE1vSG5zU0VWRmk1NnpzcVBfR0pONFpiVVlqOUc2U3ItajhBUjB0b3RSZGJtWnlOaFMyajJ3MDltelByelpKWnJOdXNaQmJZSVFjOVhHa0ptN05WQU1vRkhhTkF2MXJYSkJ5aVFFVncxcDBxYUV5ZTR4MzlBWlFuYUV4U2tuaFZqTlY1ZnNkLTExR3J3NFdsNmZlUUVpNmx3Z0laUWNtLWQwLVJoWFgyV3ZHVnpTSUJSLXNCMFhJekpoWWlrUXpnM2ZQeF9EVUI0OWpkTFBBM2RMSEVPeDNvWDZVZGxxRDU?oc=5"
-   },
-   {
-    "d": "2026-11-03",
-    "h": "00:54",
-    "t": "Cantù-Olimpia Milano, il tabellino di un solido successo nel derby",
-    "s": "RealOlimpiaMilano",
-    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT1RwWjdEeVpCU2NrdmZ5OHpPVWNpdGFUZjIwUEM1c3JhZFE1V3RiU0JkcW5zTF9na0ZwZ3RrM0hfREVvWlctcFNmOU9KTndJbWppY1puVTdhNEtpaWZrcWNrWjFqV1VmcExMbnVRUE5IX29SVHdkaUxubDFLcmN6OVlmTDFha0lwblE?oc=5"
-   },
-   {
-    "d": "2026-11-03",
-    "h": "00:52",
-    "t": "LBA 2026/2027-Acqua S.Bernardo Cantù - Armani Olimpia Milano su Sky Sport Arena",
-    "s": "Quotidiano Nazionale",
-    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUElzVGNrTUc5a0J6YUd4NVQ4TzN4T2FmblR2YnhrNjBBN0V5UHNIdWJ0SVdBemcwSWZEMkduaGdfeXp1SUgyUExKNGV4c0F0U3FtTjhjU0VtMXRXbzVCYnZwVmY4V1JMdnBHS1ZUdHpXSkxkSlBxYjlMWFdCWG5LOWI2U3MtbjVqX3VHMWZqN0NPNjZuWF9LYzF0ZndEMkczb3BpZ3hIMC1heHlYQXphc0JTNk5qUi1DeHBjQ0ZEbkExUQ?oc=5"
    }
   ],
   "como": [
    {
     "d": "2026-11-03",
-    "h": "17:15",
-    "t": "Squalificati e indisponibili Como 2026/27: infortunati Chalobah, Diao e Kean",
-    "s": "DAZN",
-    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdEpvMkxRWVRhYW9iTzJNUk9LUkNJelZGazF0UlFubE1sbmpNeXZuVThaMDlMU2xKN08yVVd6dVpoTXJGZE9BWk9mbFFwb3htZDVobTkzd214c2pCUFJiczFNTmIycDMyMzJvR09pUkdxNlFGYlBzYTVFZmVrLUdFaVgzc1R3VU9UTGs0cGRuUGlQZTczb3R0X3JRVU9sRWZCcjFDWkdackl3RUt3Z3VfY1VPRWlLUGNvTHEtMk5WbkZqSC00?oc=5"
+    "h": "21:18",
+    "t": "Lens-Como oggi in diretta: chi trasmette la partita in TV e in streaming?",
+    "s": "Goal.com",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVGhKOTFtaUZyZGpKci1BVXRkTllSZW0ta3pZUkdWb21ZaEItU2VsTWZQNjJzZXZtR0ZwVkhRN25mUDRUSnVDTE0yVUR2QXktN3BSNFB0ODZEaEM1REs5XzY4LWZlMUVnWHRmS1Rmd3BobVBEYW9VVUlYamk5SC16QkRaMzF6djRBNTBEQmU0d3o3bDlLNXR5anlkQU5PNUVtRXJWWDFiZE5rTzBHLUdramlIQzFWQWtxb0FWTDlGc3U?oc=5"
+   },
+   {
+    "d": "2026-11-03",
+    "h": "20:02",
+    "t": "Lens v Como LIVE 04/11/2026 | Calcio",
+    "s": "Diretta",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY0YyVkNLOEladk51WVIzNENDTEhWcExVZzJWa0xtOHpaa1FBc3o5QnJ4QXpOWWlPR3k3ZDc5UVQwVFF5ZE9kNUVXSWpza3JfUV90Wl9HS2FOUGMzWnEyTEFWb3J1MFZJM1R3NHpWcFY3eHplYVBfTTRuUmVVeEdKM041MVBncV8tWVJJQUdFbUlfWm9QYzJONERGeF9WemZXLXc?oc=5"
    },
    {
     "d": "2026-11-03",
@@ -502,13 +509,6 @@
     "t": "Como: Goldaniga preso a 'ceffoni', Nico Paz subisce un tunnel: domani il Lens",
     "s": "Corriere dello Sport",
     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWkI4N1NSVXRVZk4xMVJycklrSVZveWg1VEg0ZjBhbGN6YnJxaVpFcEstcnZRQ1g5WG1DYnZva1lJbUtwUXc3T1YtNmRwT3Y5dUNjZHVDWE1BWUJFUlI1S0x1QUJRdmVQOVF3d0gzNzRDUjdNZExBNHFQdGc4VVhqZzVnUkRnZW4td2w0R05aVzd4OFRWT252ellHYUZaYXNnT3FrRmRTWHJuMmtoS0dZcGFWcG1UQTB0R0FwMzdHOHA1ZlBpNzRJYWZoalJpQTJoa3lURjRhb2pxY21QaFpZakcwamFhQVRNTnpDTTl3?oc=5"
-   },
-   {
-    "d": "2026-11-03",
-    "h": "09:42",
-    "t": "Scheda squadra San Giuseppe Como",
-    "s": "Tuttocampo",
-    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTkYyNDRjVVhHMmhHVWd6azlFc0EyUy1vWU1WbE93Tnk4b0hoMm9PdHNlc1FWRXRYUW9yeWJJOEFFOGJ3cU1BSE9tNEt5M2ZxUUFhU1ZyNWN0MTZXc3BGN1dzcmFJMmw5VjFOX2hubWNZakRrX2NINEZHM1g4cFBpY3BkNzJBbTBOY3o4UHBOY2NzNVJmNUZiZWdDUkRCS1pubVkyUmdSMDhmWVZRQzZiWGY1NldVSHU5MUQyYg?oc=5"
    },
    {
     "d": "2026-11-03",
@@ -878,14 +878,14 @@
  },
  "odds": {
   "2026-11-05|Milan – Ferencváros": {
-   "1": 73,
+   "1": 72,
    "X": 17,
    "2": 11
   },
   "2026-11-04|Lens – Como": {
-   "1": 32,
+   "1": 31,
    "X": 24,
-   "2": 44
+   "2": 45
   },
   "2026-11-08|Inter – Como": {
    "1": 52,
@@ -898,12 +898,12 @@
    "2": 52
   }
  },
- "updated": "2026-11-03T21:26:44+00:00",
+ "updated": "2026-11-03T22:13:25+00:00",
  "log": [
   "classifica milan 5 21",
   "classifica como 4 23",
   "classifica milan_eu 24 3",
-  "classifica como_eu 10 6",
+  "classifica como_eu 11 6",
   "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 6, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
   "notizie cantu 3",
