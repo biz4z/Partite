@@ -1,0 +1,349 @@
+{
+ "events": [
+  [
+   "2026-09-14T16:30Z",
+   "401874933",
+   "Parma at Como",
+   "post",
+   "ita.1"
+  ],
+  [
+   "2026-09-04T18:45Z",
+   "401874744",
+   "Como at Genoa",
+   "post",
+   "ita.1"
+  ],
+  [
+   "2026-08-30T16:30Z",
+   "401874755",
+   "Como at Napoli",
+   "post",
+   "ita.1"
+  ],
+  [
+   "2026-08-22T16:30Z",
+   "401874745",
+   "Como at Udinese",
+   "post",
+   "ita.1"
+  ]
+ ],
+ "keys": [
+  "boxscore",
+  "format",
+  "gameInfo",
+  "lastFiveGames",
+  "leaders",
+  "broadcasts",
+  "pickcenter",
+  "odds",
+  "hasOdds",
+  "rosters",
+  "news",
+  "videos",
+  "header",
+  "seasonseries",
+  "keyEvents",
+  "commentary",
+  "wallclockAvailable",
+  "meta",
+  "standings"
+ ],
+ "rosters": [
+  {
+   "team": "Udinese",
+   "formation": "3-4-2-1",
+   "homeAway": "home",
+   "players": [
+    {
+     "starter": true,
+     "jersey": "40",
+     "formationPlace": "1",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Maduka Okoye",
+     "short": "M. Okoye",
+     "pos": "G"
+    },
+    {
+     "starter": true,
+     "jersey": "16",
+     "formationPlace": "5",
+     "subbedIn": false,
+     "subbedOut": true,
+     "name": "Matteo Palma",
+     "short": "M. Palma",
+     "pos": "CD"
+    },
+    {
+     "starter": true,
+     "jersey": "28",
+     "formationPlace": "4",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Oumar Solet",
+     "short": "O. Solet",
+     "pos": "CD-L"
+    },
+    {
+     "starter": true,
+     "jersey": "14",
+     "formationPlace": "6",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "James Abankwah",
+     "short": "J. Abankwah",
+     "pos": "CD-R"
+    },
+    {
+     "starter": true,
+     "jersey": "24",
+     "formationPlace": "8",
+     "subbedIn": false,
+     "subbedOut": true,
+     "name": "Jakub Piotrowski",
+     "short": "J. Piotrowski",
+     "pos": "CM-L"
+    },
+    {
+     "starter": true,
+     "jersey": "8",
+     "formationPlace": "7",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Jesper Karlström",
+     "short": "J. Karlström",
+     "pos": "CM-R"
+    },
+    {
+     "starter": true,
+     "jersey": "11",
+     "formationPlace": "3",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Hassane Kamara",
+     "short": "H. Kamara",
+     "pos": "LM"
+    },
+    {
+     "starter": true,
+     "jersey": "23",
+     "formationPlace": "2",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Mërgim Vojvoda",
+     "short": "M. Vojvoda",
+     "pos": "RM"
+    },
+    {
+     "starter": true,
+     "jersey": "7",
+     "formationPlace": "9",
+     "subbedIn": false,
+     "subbedOut": true,
+     "name": "Idrissa Gueye",
+     "short": "I. Gueye",
+     "pos": "F"
+    },
+    {
+     "starter": true,
+     "jersey": "32",
+     "formationPlace": "11",
+     "subbedIn": false,
+     "subbedOut": true,
+     "name": "Jurgen Ekkelenkamp",
+     "short": "J. Ekkelenkamp",
+     "pos": "CF-L"
+    },
+    {
+     "starter": true,
+     "jersey": "10",
+     "formationPlace": "10",
+     "subbedIn": false,
+     "subbedOut": true,
+     "name": "Nicolò Zaniolo",
+     "short": "N. Zaniolo",
+     "pos": "CF-R"
+    },
+    {
+     "starter": false,
+     "jersey": "4",
+     "formationPlace": "0",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Sandi Lovric",
+     "short": "S. Lovric",
+     "pos": "SUB"
+    },
+    {
+     "starter": false,
+     "jersey": "22",
+     "formationPlace": "0",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Branimir Mlacic",
+     "short": "B. Mlacic",
+     "pos": "SUB"
+    },
+    {
+     "starter": false,
+     "jersey": "2",
+     "formationPlace": "0",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Saba Goglichidze",
+     "short": "S. Goglichidze",
+     "pos": "SUB"
+    }
+   ]
+  },
+  {
+   "team": "Como",
+   "formation": "4-2-3-1",
+   "homeAway": "away",
+   "players": [
+    {
+     "starter": true,
+     "jersey": "1",
+     "formationPlace": "1",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Jean Butez",
+     "short": "J. Butez",
+     "pos": "G"
+    },
+    {
+     "starter": true,
+     "jersey": "99",
+     "formationPlace": "6",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Trevoh Chalobah",
+     "short": "T. Chalobah",
+     "pos": "CD-L"
+    },
+    {
+     "starter": true,
+     "jersey": "4",
+     "formationPlace": "5",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Jacobo Ramón",
+     "short": "J. Ramón",
+     "pos": "CD-R"
+    },
+    {
+     "starter": true,
+     "jersey": "3",
+     "formationPlace": "3",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Álex Valle",
+     "short": "Á. Valle",
+     "pos": "LB"
+    },
+    {
+     "starter": true,
+     "jersey": "27",
+     "formationPlace": "2",
+     "subbedIn": false,
+     "subbedOut": true,
+     "name": "Yan Couto",
+     "short": "Y. Couto",
+     "pos": "RB"
+    },
+    {
+     "starter": true,
+     "jersey": "20",
+     "formationPlace": "10",
+     "subbedIn": false,
+     "subbedOut": true,
+     "name": "Martin Baturina",
+     "short": "M. Baturina",
+     "pos": "AM"
+    },
+    {
+     "starter": true,
+     "jersey": "6",
+     "formationPlace": "4",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Luis Milla",
+     "short": "L. Milla",
+     "pos": "LM"
+    },
+    {
+     "starter": true,
+     "jersey": "5",
+     "formationPlace": "8",
+     "subbedIn": false,
+     "subbedOut": true,
+     "name": "Máximo Perrone",
+     "short": "M. Perrone",
+     "pos": "RM"
+    },
+    {
+     "starter": true,
+     "jersey": "9",
+     "formationPlace": "9",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Anastasios Douvikas",
+     "short": "A. Douvikas",
+     "pos": "F"
+    },
+    {
+     "starter": true,
+     "jersey": "17",
+     "formationPlace": "11",
+     "subbedIn": false,
+     "subbedOut": true,
+     "name": "Jesús Rodriguez",
+     "short": "J. Rodriguez",
+     "pos": "AM-L"
+    },
+    {
+     "starter": true,
+     "jersey": "10",
+     "formationPlace": "7",
+     "subbedIn": false,
+     "subbedOut": true,
+     "name": "Nico Paz",
+     "short": "N. Paz",
+     "pos": "AM-R"
+    },
+    {
+     "starter": false,
+     "jersey": "2",
+     "formationPlace": "0",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Marc-Oliver Kempf",
+     "short": "M. Kempf",
+     "pos": "SUB"
+    },
+    {
+     "starter": false,
+     "jersey": "13",
+     "formationPlace": "0",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Alberto Dossena",
+     "short": "A. Dossena",
+     "pos": "SUB"
+    },
+    {
+     "starter": false,
+     "jersey": "12",
+     "formationPlace": "0",
+     "subbedIn": false,
+     "subbedOut": false,
+     "name": "Emil Audero",
+     "short": "E. Audero",
+     "pos": "SUB"
+    }
+   ]
+  }
+ ]
+}
