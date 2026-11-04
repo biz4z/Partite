@@ -101,7 +101,8 @@
   /* ---------- punteggio live ---------- */
   const ymd = () => todayRome().replace(/-/g, "");
   function pollLive() {
-    const live = liveNow().filter(x => x.teams.some(t => NAME[t]) && LG(x.m[3]));
+    const soon = upcoming().filter(x => x.m[4] && x.ts - Date.now() < 90 * 60000);
+    const live = [...liveNow(), ...soon].filter(x => x.teams.some(t => NAME[t]) && LG(x.m[3]));
     if (!live.length) return;
     const lgs = [...new Set(live.map(x => LG(x.m[3])))];
     Promise.all(lgs.map(lg => fetch(`https://site.api.espn.com/apis/site/v2/sports/soccer/${lg}/scoreboard?dates=${ymd()}`)
@@ -112,6 +113,7 @@
         const t = x.teams.find(k => NAME[k]);
         const ev = evs.find(e => e.competitions[0].competitors.some(c => isTeam(c.team, t)));
         if (!ev) return;
+        liveLineup(x, ev, LG(x.m[3]));
         const c = ev.competitions[0], cs = c.competitors;
         const h = cs.find(z => z.homeAway === "home"), a = cs.find(z => z.homeAway === "away");
         const mine = cs.find(z => isTeam(z.team, t));
@@ -131,6 +133,7 @@
     });
   }
   function decorate() {
+    if (window.__mccTick) window.__mccTick();
     const rows = document.querySelectorAll("#next .nx.live");
     liveNow().forEach((x, i) => {
       const L = LIVE[x.m[0] + "|" + x.m[2]], el = rows[i];
@@ -320,6 +323,18 @@ nav.teams .dot{width:8px;height:8px}
 .hstripe{position:absolute;left:0;right:0;bottom:0;height:5px;background:linear-gradient(90deg,#c4161c 0 33.3%,#e08a1e 0 66.6%,#1f6fb8 0)}
 .board:empty{display:none}
 .lu{display:flex;flex-direction:column;align-items:center}
+.hero .lu{position:relative;z-index:1;background:#050c1c;border:2px solid #e9b949;border-top:0;border-radius:0 0 12px 12px;margin-top:-16px;padding:8px 10px 10px}
+.hero .board{position:relative;z-index:2}
+.hero .board:has(+ .lu){border-radius:12px 12px 0 0;border-bottom:1px dashed rgba(233,185,73,.4)}
+.hero .lu h2{color:rgba(255,255,255,.7);border-bottom-color:rgba(255,255,255,.15)}
+.hero .lu .lm{color:#fff}
+.hero .lu .lsub{color:rgba(255,255,255,.7)}
+.hero .ltabs button{background:transparent;color:#fff;border-color:rgba(255,255,255,.3)}
+.hero .ltabs button[aria-pressed="true"]{background:#e9b949;color:#0b1a3a;border-color:#e9b949}
+.lu .lvt{display:inline-flex;align-items:center;gap:6px;color:#2fbf71}
+.lu .lvt i{width:8px;height:8px;border-radius:50%;background:#2fbf71;animation:blink 1.2s ease-in-out infinite}
+.lu .lsc{font-family:var(--display);font-size:1.05rem}
+.lu .lck{color:#2fbf71;font-weight:700}
 .lu h2{align-self:stretch;display:flex;justify-content:space-between;font-family:var(--display);font-weight:600;font-size:.85rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 2px;padding-bottom:6px;border-bottom:1px solid var(--line)}
 .lu .lf{color:var(--c,#1f6fb8);color:#e9b949;font-weight:700}
 .lu .lm{align-self:stretch;margin:6px 0 8px;font-size:.85rem;color:var(--fg);font-weight:600}
@@ -480,22 +495,75 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
       board.innerHTML = `<div><div class="bk">${lv ? "In corso" : "Prossima"} · ${esc(N[t])}</div><div class="bm">${esc(x.m[2])}</div><div class="bt">${esc(tvFor(x.m))}</div></div><div class="bc${lv ? " live" : ""}">${esc(String(cd))}<small>${esc(sub)}</small></div>`;
     }
     apply();
+    window.__mccTick = tick;
     setInterval(tick, 30000);
     const _rn2 = renderNext; renderNext = function () { _rn2(); tick(); };
   })();
 
+  /* Formazione in campo durante la partita (dati ESPN letti dal telefono) */
+  const LIVE_LU = {};
+  const depth = p => { p = (p || "").toUpperCase(); if (p === "G" || p === "GK") return 0; if (p.startsWith("CD") || ["LB", "RB", "D", "SW"].includes(p) || p.includes("WB")) return 1; if (p.startsWith("DM")) return 2; if (p.startsWith("CM") || ["LM", "RM", "M"].includes(p)) return 3; if (p.startsWith("AM") || ["LW", "RW"].includes(p)) return 4; return 5; };
+  const side = p => { p = (p || "").toUpperCase(); return p.endsWith("-L") ? -1 : p.endsWith("-R") ? 1 : p[0] === "L" ? -2 : p[0] === "R" ? 2 : 0; };
+  const sname = a => a.shortName || a.displayName || "";
+  function liveLineup(x, ev, lg) {
+    const t = x.teams.find(k => NAME[k]);
+    return fetch(`https://site.api.espn.com/apis/site/v2/sports/soccer/${lg}/summary?event=${ev.id}`).then(r => r.json()).then(sm => {
+      const ro = (sm.rosters || []).find(r => isTeam(r.team, t));
+      if (!ro) return;
+      const st = (ro.roster || []).filter(p => p.starter);
+      if (st.length < 11) return;
+      const pos = p => (p.position || {}).abbreviation;
+      const sizes = ((ro.formation || "").match(/\d/g) || ["4", "4", "2"]).map(Number);
+      const gk = st.filter(p => depth(pos(p)) === 0).slice(0, 1);
+      const out = st.filter(p => !gk.includes(p)).sort((a, b) => depth(pos(a)) - depth(pos(b)) || (+a.formationPlace || 0) - (+b.formationPlace || 0));
+      const lines = [gk]; let i = 0;
+      sizes.forEach(n => { const ln = out.slice(i, i + n); i += n; ln.sort((a, b) => side(pos(a)) - side(pos(b)) || (+a.formationPlace || 0) - (+b.formationPlace || 0)); lines.push(ln); });
+      if (i < out.length) lines[lines.length - 1].push(...out.slice(i));
+      /* cambi: "X replaces Y" nei fatti salienti */
+      const changes = [];
+      (sm.keyEvents || []).forEach(k => {
+        const tx = k.text || "";
+        const m = tx.match(/Substitution,\s*([^.]+)\.\s*(.+?)\s+replaces\s+(.+?)(?:\s+because|\.|$)/i);
+        if (!m || !isTeam({ displayName: m[1], location: m[1], name: m[1] }, t)) return;
+        changes.push({ in: m[2].trim(), out: m[3].trim(), min: (k.clock || {}).displayValue || "" });
+      });
+      const sur = n => String(n || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().split(" ").slice(-1)[0];
+      const byName = n => (ro.roster || []).find(p => [p.athlete.displayName, p.athlete.shortName].includes(n)) ||
+        (ro.roster || []).find(p => sur(p.athlete.displayName) === sur(n));
+      const cell = p => ({ n: sname(p.athlete), j: p.jersey || "" });
+      const L = lines.map(ln => ln.map(cell));
+      changes.forEach(c => {
+        const o = byName(c.out), n = byName(c.in);
+        L.forEach(ln => ln.forEach((q, k) => { if (o && q.n === sname(o.athlete)) ln[k] = n ? { ...cell(n), in: true } : { n: c.in, j: "", in: true }; }));
+        c.in = n ? sname(n.athlete) : c.in; c.out = o ? sname(o.athlete) : c.out;
+      });
+      const comp = ev.competitions[0], cs = comp.competitors;
+      const h = cs.find(z => z.homeAway === "home"), a = cs.find(z => z.homeAway === "away");
+      const homeInM = x.m[2].split(" – ")[0].includes(NAME[t]);
+      const sameSide = homeInM === (cs.find(z => isTeam(z.team, t)).homeAway === "home");
+      const ty = (comp.status && comp.status.type) || {};
+      LIVE_LU[t] = { match: x.m[2], date: x.m[0], formation: ro.formation || "", lines: L, changes,
+        live: ty.state === "in", today: true,
+        score: ty.state === "pre" ? "" : (sameSide ? `${h.score}-${a.score}` : `${a.score}-${h.score}`),
+        clock: ty.state === "in" ? (ty.shortDetail || "") : ty.state === "post" ? "Finale" : (x.m[4] ? "inizio " + x.m[4] : "") };
+      LU_TEAM = LU_TEAM && LIVE_LU[LU_TEAM] ? LU_TEAM : t;
+      drawLineup();
+    }).catch(() => {});
+  }
+
   /* Ultima formazione ufficiale con il campo disegnato (versione squadra singola) */
   function drawLineup() {
-    const avail = TEAMS.filter(t => LINEUPS[t]);
+    const avail = TEAMS.filter(t => LINEUPS[t] || LIVE_LU[t]);
     if (!avail.length) return;
     if (!LU_TEAM || !avail.includes(LU_TEAM)) LU_TEAM = avail[0];
-    const L = LINEUPS[LU_TEAM];
+    const L = LIVE_LU[LU_TEAM] || LINEUPS[LU_TEAM];
     let sec = document.getElementById("lineup");
     if (!sec) {
       sec = document.createElement("section");
       sec.id = "lineup"; sec.className = "lu";
-      const st = document.getElementById("stand");
-      st.parentNode.insertBefore(sec, st.nextSibling);
+      const board = document.querySelector(".hero .board");
+      if (board) board.parentNode.insertBefore(sec, board.nextSibling);
+      else { const nx = document.getElementById("next"); nx.parentNode.insertBefore(sec, nx); }
     }
     const W = 340, H = 460, lines = L.lines || [];
     const n = lines.length;
@@ -506,14 +574,17 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
         const x = W * (k + 1) / (ln.length + 1);
         const nm = String(p.n).split(" ").slice(-1)[0];
         dots += `<g transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><circle r="15" class="lp${i === 0 ? " gk" : ""}"/><text class="lj" dy="5">${esc(String(p.j))}</text>` +
-          `<text class="ln" dy="30">${esc(nm)}${p.out ? " ↓" : ""}</text></g>`;
+          `<text class="ln" dy="30">${p.in ? "↑ " : ""}${esc(nm)}${p.out ? " ↓" : ""}</text></g>`;
       });
     });
     const [y, m, d] = L.date.split("-");
     sec.style.setProperty("--tc", T[LU_TEAM]);
     const tabs = avail.length > 1 ? `<div class="ltabs">${avail.map(t => `<button type="button" data-t="${t}" aria-pressed="${t === LU_TEAM}">${esc(N[t])}</button>`).join("")}</div>` : "";
-    sec.innerHTML = `<h2><span>Ultima formazione ufficiale</span><span class="lf">${esc(L.formation || "")}</span></h2>${tabs}
-      <p class="lm">${esc(L.match)}${L.score ? " · " + esc(L.score) : ""} · ${+d}/${+m}</p>
+    const title = L.live ? `<span class="lvt"><i></i>In campo ora</span>` : (L.today ? "Formazione ufficiale" : "Ultima formazione ufficiale");
+    sec.classList.toggle("islive", !!L.live);
+    const same = !!(L.live || L.today);
+    sec.innerHTML = `<h2><span>${same ? (L.live ? "In campo ora" : "Formazione ufficiale") : title}</span><span class="lf">${esc(L.formation || "")}</span></h2>${tabs}
+      <p class="lm"${same ? " hidden" : ""}>${esc(L.match)}${L.score ? ` · <b class="lsc">${esc(L.score)}</b>` : ""}${L.clock ? ` · <span class="lck">${esc(L.clock)}</span>` : ` · ${+d}/${+m}`}</p>
       <svg viewBox="0 0 ${W} ${H}" class="pitch" role="img" aria-label="Formazione ${esc(L.formation || "")}">
         <rect x="1" y="1" width="${W - 2}" height="${H - 2}" rx="10" class="pf"/>
         ${[0,1,2,3,4,5,6,7].map(k => `<rect x="1" y="${1 + k * (H - 2) / 8}" width="${W - 2}" height="${(H - 2) / 16}" class="ps"/>`).join("")}
@@ -522,7 +593,8 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
         <rect x="${W / 2 - 80}" y="1" width="160" height="65"/><rect x="${W / 2 - 36}" y="1" width="72" height="23"/></g>
         ${dots}
       </svg>
-      ${L.subs && L.subs.length ? `<p class="lsub"><b>Entrati:</b> ${L.subs.map(p => esc(String(p.n))).join(", ")}</p>` : ""}`;
+      ${L.changes && L.changes.length ? `<p class="lsub"><b>Cambi:</b> ${L.changes.map(c => `↑ ${esc(c.in)} ↓ ${esc(c.out)}${c.min ? " (" + esc(c.min) + ")" : ""}`).join(" · ")}</p>`
+        : L.subs && L.subs.length ? `<p class="lsub"><b>Entrati:</b> ${L.subs.map(p => esc(String(p.n))).join(", ")}</p>` : ""}`;
     sec.querySelectorAll(".ltabs button").forEach(b => b.addEventListener("click", () => { LU_TEAM = b.dataset.t; drawLineup(); }));
   }
 

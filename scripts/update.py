@@ -313,8 +313,10 @@ def _depth(pos):
 
 def _side(pos):
     p = (pos or "").upper()
-    if p.endswith("-L") or p[:1] == "L": return -1
-    if p.endswith("-R") or p[:1] == "R": return 1
+    if p.endswith("-L"): return -1
+    if p.endswith("-R"): return 1
+    if p[:1] == "L": return -2
+    if p[:1] == "R": return 2
     return 0
 
 
