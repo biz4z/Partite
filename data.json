@@ -904,7 +904,7 @@
    "date": "2026-11-01",
    "comp": "Serie A calcio · 10ª giornata",
    "formation": "4-2-3-1",
-   "score": "",
+   "score": "1-0",
    "lines": [
     [
      {
@@ -1005,7 +1005,7 @@
    "date": "2026-10-31",
    "comp": "Serie A calcio · 10ª giornata",
    "formation": "3-4-2-1",
-   "score": "",
+   "score": "3-1",
    "lines": [
     [
      {
@@ -1102,7 +1102,7 @@
    ]
   }
  },
- "updated": "2026-11-04T17:28:20+00:00",
+ "updated": "2026-11-04T17:30:16+00:00",
  "log": [
   "non finita Lens – Como STATUS_SCHEDULED",
   "classifica milan 5 21",
