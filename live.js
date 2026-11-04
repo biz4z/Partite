@@ -4,6 +4,17 @@
    - iscrizione al calendario dell'iPhone (partite.ics) */
 (function () {
   "use strict";
+  /* Versione per una sola squadra (es. /como/): window.MCC_ONLY = "como", window.MCC_BASE = "../" */
+  const ONLY = window.MCC_ONLY || null, BASE = window.MCC_BASE || "";
+  const TEAMS = ONLY ? [ONLY] : ["milan", "cantu", "como"];
+  if (ONLY) {
+    for (let i = M.length - 1; i >= 0; i--) if (M[i][1] !== ONLY) M.splice(i, 1);
+    Object.keys(S).forEach(k => { if (k !== ONLY) delete S[k]; });
+    Object.keys(NEWS).forEach(k => { if (k !== ONLY) NEWS[k] = []; });
+    const tn = document.querySelector("nav.teams"); if (tn) tn.style.display = "none";
+    document.documentElement.classList.add("only-" + ONLY);
+    try { refresh(); } catch (e) {}
+  }
   const LG = c => /serie a calcio/i.test(c) ? "ita.1" : /champions/i.test(c) ? "uefa.champions" :
     /europa league/i.test(c) ? "uefa.europa" : (/coppa italia/i.test(c) && !/basket/i.test(c)) ? "ita.coppa_italia" : null;
   const isTeam = (t, k) => {
@@ -48,7 +59,7 @@
       if (AB[k] !== img) { AB[k] = img; ch = true; }
     });
     /* partite di Serie A non ancora presenti nella pagina */
-    (d.fixtures || []).forEach(f => {
+    (d.fixtures || []).filter(f => !ONLY || f.team === ONLY).forEach(f => {
       const t = Date.parse(f.date);
       if (M.some(r => r[1] === f.team && Math.abs(Date.parse(r[0]) - t) <= 2 * 864e5)) return;
       const n = M.filter(r => r[1] === f.team && /Serie A calcio/.test(r[3]) && r[0] < f.date).length + 1;
@@ -58,7 +69,7 @@
     if (d.odds && JSON.stringify(d.odds) !== JSON.stringify(ODDS)) { ODDS = d.odds; ch = true; }
     if (d.press && JSON.stringify(d.press) !== JSON.stringify(PRESS)) { PRESS = d.press; ch = true; }
     const NW = d.news || {};
-    ["milan", "cantu", "como"].forEach(k => {
+    TEAMS.forEach(k => {
       if (NW[k] && NW[k].length && JSON.stringify(NW[k]) !== JSON.stringify(NEWS[k])) { NEWS[k] = NW[k]; ch = true; }
     });
     if (S.milan) put(S.milan.eu, st.milan_eu);
@@ -66,7 +77,7 @@
     return ch;
   }
   function loadData() {
-    return fetch("data.json?t=" + Date.now(), { cache: "no-store" }).then(r => r.ok ? r.json() : null)
+    return fetch(BASE + "data.json?t=" + Date.now(), { cache: "no-store" }).then(r => r.ok ? r.json() : null)
       .then(d => { if (!d) return; try { if (applyData(d)) { renderHl(); refresh(); } showUpd(d.updated); } catch (e) { console.error("data.json", e); } }).catch(() => {});
   }
 
@@ -193,7 +204,7 @@
       nav.parentNode.insertBefore(sec, nav);
     }
     const all = [];
-    ["milan", "cantu", "como"].forEach(t => {
+    TEAMS.forEach(t => {
       (NEWS[t] || []).forEach(n => all.push({ ...n, t0: t, s: "Sito ufficiale " + N[t], off: 1, k: (n.d || "0000") + " 12:00" }));
       (PRESS[t] || []).forEach(n => all.push({ ...n, t0: t, k: n.d + " " + (n.h || "00:00") }));
     });
@@ -306,6 +317,8 @@ nav.teams .dot{width:8px;height:8px}
 .hero .callbl{color:rgba(255,255,255,.65)}
 .hstripe{position:absolute;left:0;right:0;bottom:0;height:5px;background:linear-gradient(90deg,#c4161c 0 33.3%,#e08a1e 0 66.6%,#1f6fb8 0)}
 .board:empty{display:none}
+.only-como .hstripe{background:linear-gradient(90deg,#123c7a,#1f6fb8 50%,#5aa4e8)}
+.only-como .brand h1{font-size:2.1rem}
 .notesbox .notes{margin-top:8px}
 .month.wk h2{color:var(--fg)}
 .coffee{display:flex;flex-direction:column;align-items:center;gap:8px;padding:20px 0 6px;text-align:center}
@@ -486,7 +499,7 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
     const me = [...document.scripts].find(x => /live\.js\?v=/.test(x.src));
     const cur = me ? (me.src.match(/v=(\d+)/) || [])[1] : null;
     if (!cur) return;
-    const check = () => fetch("version.json?t=" + Date.now(), { cache: "no-store" }).then(r => r.ok ? r.json() : null).then(v => {
+    const check = () => fetch(BASE + "version.json?t=" + Date.now(), { cache: "no-store" }).then(r => r.ok ? r.json() : null).then(v => {
       if (!v || !v.v || String(v.v) === cur) return;
       let n = 0; try { n = +sessionStorage.getItem("mcc-upd-" + v.v) || 0; sessionStorage.setItem("mcc-upd-" + v.v, n + 1); } catch (e) {}
       if (n < 2) location.replace(location.pathname + "?v=" + v.v + location.hash);

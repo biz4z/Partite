@@ -353,6 +353,30 @@ def apply_cantu(M, cantu):
             r[6] = g["score"]
 
 
+def build_team_copy(html, M, res, team, folder, title, tag):
+    """Copia della pagina per una sola squadra (stessi dati, filtrati da live.js)."""
+    import os
+    os.makedirs(folder, exist_ok=True)
+    h = html
+    h = re.sub(r"<title>.*?</title>", f"<title>{title}</title>", h, count=1)
+    h = h.replace('content="MCC Fans"', f'content="{title}"')
+    h = re.sub(r'<h1>[^<]*</h1>', f"<h1>{title}</h1>", h, count=1)
+    h = re.sub(r'<p class="tag">[^<]*</p>', f'<p class="tag">{tag}</p>', h, count=1)
+    h = re.sub(r'alt="MCC Fans"', f'alt="{title}"', h)
+    h = re.sub(r'src="live\.js\?v=(\d+)"', r'src="../live.js?v=\1"', h)
+    h = h.replace('<script src="../live.js', f'<script>window.MCC_ONLY="{team}";window.MCC_BASE="../";</script>\n<script src="../live.js', 1)
+    open(os.path.join(folder, "index.html"), "w", encoding="utf-8").write(h)
+    sub = [r for r in M if r[1] == team]
+    open(os.path.join(folder, "partite.ics"), "w", encoding="utf-8", newline="").write(
+        ics(sub, res).replace("X-WR-CALNAME:Partite Milan · Cantù · Como", f"X-WR-CALNAME:Partite {tag}"))
+    import json as _j
+    _j.dump({"name": title, "short_name": title, "start_url": "./", "display": "standalone",
+             "background_color": "#0b1a3a", "theme_color": "#0b1a3a",
+             "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+                       {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}]},
+            open(os.path.join(folder, "manifest.json"), "w"), ensure_ascii=False)
+
+
 def main():
     html = open("index.html", encoding="utf-8").read()
     M = load_M(html)
@@ -418,6 +442,7 @@ def main():
     apply_cantu(M, cantu)
     merge_fixtures(M, fx)
     open("partite.ics", "w", encoding="utf-8", newline="").write(ics(M, res))
+    build_team_copy(html, M, res, "como", "como", "Como Fans", "Como 1907")
 
 
 if __name__ == "__main__":
