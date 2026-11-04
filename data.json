@@ -86,8 +86,229 @@
   }
  },
  "cantu": {
-  "games": [],
-  "standing": null
+  "games": [
+   {
+    "date": "2026-09-26",
+    "time": "20:00",
+    "home": "Venezia",
+    "away": "Cantù",
+    "score": "85-73"
+   },
+   {
+    "date": "2026-10-05",
+    "time": "20:00",
+    "home": "Cantù",
+    "away": "Udine",
+    "score": "84-85"
+   },
+   {
+    "date": "2026-10-11",
+    "time": "17:00",
+    "home": "Cantù",
+    "away": "Napoli",
+    "score": "80-99"
+   },
+   {
+    "date": "2026-10-18",
+    "time": "18:00",
+    "home": "Trieste",
+    "away": "Cantù",
+    "score": "92-72"
+   },
+   {
+    "date": "2026-10-25",
+    "time": "18:30",
+    "home": "Reggio Emilia",
+    "away": "Cantù",
+    "score": "81-60"
+   },
+   {
+    "date": "2026-11-02",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Olimpia Milano",
+    "score": "82-95"
+   },
+   {
+    "date": "2026-11-08",
+    "time": "16:00",
+    "home": "Maxima Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-11-15",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Tortona",
+    "score": ""
+   },
+   {
+    "date": "2026-11-22",
+    "time": "17:30",
+    "home": "Scafati",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home": "Cantù",
+    "away": "Varese",
+    "score": ""
+   },
+   {
+    "date": "2026-12-12",
+    "time": "20:30",
+    "home": "Verona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-19",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Trento",
+    "score": ""
+   },
+   {
+    "date": "2026-12-27",
+    "time": "12:00",
+    "home": "BC Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-03",
+    "time": "",
+    "home": "Cantù",
+    "away": "Treviso",
+    "score": ""
+   },
+   {
+    "date": "2027-01-10",
+    "time": "",
+    "home": "Virtus Bologna",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-17",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trieste",
+    "score": ""
+   },
+   {
+    "date": "2027-01-24",
+    "time": "",
+    "home": "Udine",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-31",
+    "time": "",
+    "home": "Cantù",
+    "away": "Verona",
+    "score": ""
+   },
+   {
+    "date": "2027-02-07",
+    "time": "",
+    "home": "Varese",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-02-14",
+    "time": "",
+    "home": "Cantù",
+    "away": "BC Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-07",
+    "time": "",
+    "home": "Cantù",
+    "away": "Maxima Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-14",
+    "time": "",
+    "home": "Treviso",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-03-21",
+    "time": "",
+    "home": "Cantù",
+    "away": "Scafati",
+    "score": ""
+   },
+   {
+    "date": "2027-03-27",
+    "time": "",
+    "home": "Trento",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-04",
+    "time": "",
+    "home": "Cantù",
+    "away": "Reggio Emilia",
+    "score": ""
+   },
+   {
+    "date": "2027-04-11",
+    "time": "",
+    "home": "Tortona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-18",
+    "time": "",
+    "home": "Cantù",
+    "away": "Virtus Bologna",
+    "score": ""
+   },
+   {
+    "date": "2027-04-25",
+    "time": "",
+    "home": "Olimpia Milano",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-05-02",
+    "time": "",
+    "home": "Cantù",
+    "away": "Venezia",
+    "score": ""
+   },
+   {
+    "date": "2027-05-09",
+    "time": "",
+    "home": "Napoli",
+    "away": "Cantù",
+    "score": ""
+   }
+  ],
+  "standing": {
+   "pos": 16,
+   "pts": 0,
+   "g": 6,
+   "up": {
+    "n": "Scafati",
+    "pos": 15,
+    "pts": 2
+   },
+   "dn": null
+  }
  },
  "news": {
   "milan": [
@@ -140,6 +361,13 @@
  "press": {
   "milan": [
    {
+    "d": "2026-11-05",
+    "h": "00:06",
+    "t": "Milan - Ferencvaros - Europa League 2026 - 2027 › Girone Unico - Live Diretta Tabellino Streaming 05/11/2026",
+    "s": "I AM CALCIO VCO",
+    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVk1MSmlzVmxKWmdOR1JmeVJmYlVlWnpqSnRhVk1jZFBaSFJYcTBweENCWmxvQkhXREc3LXdsRjZ0QS1OYlh5QXNpck5wS3FwVDFGMDBQTlM2cVAyYXpvWktUdThGcTN1Z1dnZXVIVW1wYTlQZjkwTllGM0NmOGo1Vjk3VQ?oc=5"
+   },
+   {
     "d": "2026-11-04",
     "h": "21:48",
     "t": "⚽🔴 LIVE Milan-Ferencváros, Europa League 2026: diretta TV streaming di calcio 🛑 Notizie dell'ultim'ora 📆",
@@ -159,13 +387,6 @@
     "t": "Milan-Ferencváros e Atalanta-Kairat Almaty in campo giovedì alle 18.45 DIRETTA",
     "s": "ANSA",
     "u": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPN0RHYk5fTEE3QlZJSjdrU1hmeHVXY3owNjNjVWx6aWRSckktVEhrc0taTDBDbXh1LUpSbHU3QURma3dVMEhyaXVHQWxpbnZHYWVJdWRkMnBrS3dsajdyTjljdDl3Ym9oaVd6WGVhSzZDTG43bmdKLVFsRFJGRmxSeEIzQkJGNVlsV2R6RTJvTWxUSmRjc0ZURGNHN2ZJbHYwWHE1aEpzXzA2Y3lRdkJDbGFwSHl0R3lVSm5tVS1QcHcwVXVHLUpud2tOVWZvVWUwN3FFeFhndjVpWC13ODV1dE0tTk9TUUJUVDhWNkhtbVhQdkM2RmVSckJaWnNTb3ZTQWFvZ19vaW3SAY4CQVVfeXFMUDA5OFc1QTRIaTZmLUtYaHdPNUdfc0I4TWZwSUlsY3BqcllOZllFSm1zR2F2UTVNQXVtSlkzcEFsSW1Wa1c4bnhWTDdzalRCZnZqeWZqeGJaWmpleTRhTDdjWS1hQWE1TmFsWUV5Z2psYy1DMzdqajk0b2YyQ3oxZUREQnQtNzdLajlzSk5LOWFETWpOVEFpdVJHM1NqbzBJV1ZTVXZrUUVrVERJUzUzUVZqV2gteUZyVXl3elBNNG1Sa1dwMFMyTGFMWDlCSFp6SHh3SXVyUTMzVDJJNjRxcDdpdDJYYU45Y0NQQUdIMFlIejdtM3htV1U3bkJ0dHIxRU1uN2Q0WnhfTGFYNDVB?oc=5"
-   },
-   {
-    "d": "2026-11-04",
-    "h": "20:14",
-    "t": "Milan - Ferencvaros",
-    "s": "Diretta",
-    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3EtYXJ3ZGpzY2JBc3JSUUh5R2lLYW5zZWVaV2VYNnFnOVdEdEpDYzhlTnd6dUJ2UXV4OG1LTnU4WUhIVWR1UGU1NVpBUnpXdm5QM0hCYk0wYlBPWDFOSG9lUDM0REgyaTlqUHVNWjM3d2FhTmY2SGwzUEVnZTdlV3ZLUQ?oc=5"
    },
    {
     "d": "2026-11-04",
@@ -199,10 +420,10 @@
   "cantu": [
    {
     "d": "2026-11-04",
-    "h": "18:49",
-    "t": "Statistiche Acqua S.Bernardo Cantù vs Napoli Basketball 3° Giornata",
+    "h": "20:11",
+    "t": "Acqua S.Bernardo Cantù vs Openjobmetis Varese 10° Giornata",
     "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUHN3NHY1c0FkQ2NTTVoyeDNSR25TMzhUc2pJXzExUlRZcGhibndFdDNzYVhGQ0U4NGJabGJWTjRpRHE2WmxKRFN5aDZLNS04Tmxma2NSUTJMY3NLMUcweC1rTExobXVXU0ptazhyWHdIZElhUVVDWVZwWlZZaHBSZEJheFd3X2RySTRKcjJBc0U?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDZuZXEzdV9HOTRYNUZSTElldXNPQTcxc0g1R21xYWhEbFJ2Sy1SYWtBS1R6TWpFdjRNc2Utc2l6d1p3a2JBN0lzTkxVcUxnOTU3blQ5eVEzYnZ0SzhER0ctbUdaYllhSFlSNHV2WGxxcEt4TXJUZmRrS3Nsc0ROQ1BKNC1UbWpjTkFIU1NHVFBCNlZr?oc=5"
    },
    {
     "d": "2026-11-04",
@@ -271,6 +492,27 @@
    },
    {
     "d": "2026-11-04",
+    "h": "23:27",
+    "t": "Un Como da record ne mette nove",
+    "s": "blue News",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTTZ0cjBWVmhuc3dSb0Z2Mlh3ZldmRWFiRTljWlItVHd1NmlVTnBmb0FtOWRZaWRtbFZPX3NXNE1zWEwxNjUwNkZHZTUxdnBjUEtZaURDNUdOcFNzcHlmLVZIeE5SM3hHbnBXTTgzUThpUl82V09aR3NCLXBCQTJIckhYUzV1NWxP?oc=5"
+   },
+   {
+    "d": "2026-11-04",
+    "h": "23:15",
+    "t": "Como, Fabregas: \"Una serata felice. Ma teniamo i piedi per terra\"",
+    "s": "Gianluca Di Marzio",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXVmSUw1SHByTHFoQ0gyNEZwU3EwNHRQLVJ3WkhSRkJ4cHMzTFRLR1Fub3FwZW5UbWZQYkZQYlNrSENWSXpWNXk2YzVCc3dzY1lOVzdydFlRRkNMWTZReXluRmFISlBPZWZrTmk3STFHTkMxU3d2ZkdGOG1pNWN2NUFfTnJqaDVtRjZobmFJWFlWUVFiVUJqc0NXQlBndzdtMl9FU0tlTQ?oc=5"
+   },
+   {
+    "d": "2026-11-04",
+    "h": "23:11",
+    "t": "Como da sogno! Douvikas è il capocannoniere della Champions: \"Abbiamo tanta fame\"",
+    "s": "Sportmediaset",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzJlcnk3WlRTS1E3MHVUU2RPMl8wWk95dzdIY21wUS13Uk9WY0V5NWY1OGxmV1JqdDc0MlVzQUFYdGpkT3BnQkZPcEdfWWVkRTV1V2xNUEE4Qi1BUlhUSHVQYWNRbnZxVGhRQ2gxWG50dXp6M0xwS0h4OF9fRDVBMUF5dU1ncXZySzN6TW0zOVZRc1FnN3U4bFFkdE5XUV9MT3lyTHFZU3VRNkplbHkyM3YwUTJ4b3NUemlwRFV0d0VKVHdDVExGcmo5OVptbzTSAXhBVV95cUxPbWlkZ09oYktIalRjdFFEZTQ0SVBlS3gwSlJ1WVh6NFZITHUzc0I2SGpRajBnNjdOejJXVjdJel9jQVl3UHpmbzY5N3BJdUwyS0ZxcUVnTVpQQ0dOcEg5QldCdDJidG5nWnBGS2VpaVNPR2VaRDl4V0Q?oc=5"
+   },
+   {
+    "d": "2026-11-04",
     "h": "23:06",
     "t": "Per il Como vittoria esterna con scarto più ampio della storia della Champions",
     "s": "ANSA",
@@ -289,27 +531,6 @@
     "t": "Lens-Como 1-9, pagelle: brilla Nico Paz, Douvikas implacabile",
     "s": "Eurosport.it",
     "u": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQUW0zemoxbXZSaGhfa0VmcmFPUFJZYUw3V2Iyb1RtNnZrSkJHWG9UdUluMjI4UTNBZy1wRlFMVnlFVVBERDF0bzc1NTNfY041eVhOUExvRDNXeEpHeTI5a2hQR2Q0S3QwOC1SLUVqMDZHb2F4NjVhLWJBZlYtSWxPRC1xS0dFMlB2Q1E4R2pVX3FiX1g1UlR3X3NfYVNGMGJiOXUxTkdOa2hWYjJLMHlST09WMm9aazFocmhtdi1JbmIzRlZEVVdWWXpyaEEyU0d1d1ZaRVVJMGVMVms0dzFWTWkyNG91XzNGaVhocXFnaE5qMWU2YkY2TkFQc3ZsS3dDQ0txUkp5MXdmcVNrRHlpYmJWVHZIM1p3SnRJQ3V1Q2E3M3hTU0lHU1JIWWM1MmkxWlQ2aUZUWXR4WENxcDFObWp1SjdoWF9qakE1bg?oc=5"
-   },
-   {
-    "d": "2026-11-04",
-    "h": "23:02",
-    "t": "Il Como ha battuto 9-1 il Lens in Champions League",
-    "s": "Il Post",
-    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE82UXlvR3hyTHY3MGlGNGVfazJSZG1WcEItcTlwZGpHVC1wclZHdWpzYl9FV0h6NE5MbjNMZE9SU3ZFY2laYVU4alFZSC1xMU9iUUN4MFhIdWFwaUcxSXdzcmZoMllhSXZibzhEVlBnMFQwUQ?oc=5"
-   },
-   {
-    "d": "2026-11-04",
-    "h": "22:59",
-    "t": "Lens-Como 1-9 in Champions League: gli uomini di Fabregas sono esagerati, notte storica per una squadra italiana",
-    "s": "Corriere della Sera",
-    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbnhhX2s0cHJ6M3RjNzhXekpmVzdJQjZTU3R1dVFLUHVvRlVkNjB3STNDVmVIWEwtWTdPVUtkV0RhTkJjWllQYlFZWUFBSGplZzdTc3RSWTV5N2tETEVXU21WNHVBdzk3MjF4SEFUWW1kcHByVkw5UVQtZjdfSnRKb05pRVlXNVFKUWlrNUlfUHFRMzRUc194SHM4SjZsU2w1U25rYUc0aEVSaXl5elluOXMyUnF1Z2Noc0l1V1QyUWVYd0NydkN3OUpJc9IB0AFBVV95cUxPWXYzVzMzOV9wVmFudTdhbm96SUFKRVVVZlRzQkpiNmJDMVJJVkRUU1pEWi1DQVFtOVcwd2IteTd3bDllMzNXRlY3MGVLNlREUm1qcnpHTU4wT0lQQ250aks0aXJNU2hIeGJDOWFSVVQ4aFNKd3haUlVqNUlwb0hFQzBnUmdGZFN3NDctLXlmTi1id1JBVy0yZWJHS3FlaFFUdENNZUpQLUFwd1h1aVp5WXA0VWdtNGxSNG9XcnVBRHVIX21tbmpDUVYyY3J4d0E5?oc=5"
-   },
-   {
-    "d": "2026-11-04",
-    "h": "22:58",
-    "t": "Como da record in Champions: clamoroso 9-2 a Lens!",
-    "s": "Radio Sportiva",
-    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUTBUNDZBeEtIQTRMNmlONnVsUWtmZzh3aE40bV9rdXpUSkRiVkVBSzExMktnMDRueUhoZWdGS000LUZ6enZJWXozSGNEanB2cTlrcUkxRkduN0U5WEJNY0k2Q3dxaFU1ZHJqU2EwOExVcnZGYTZYYjBzNFQ1WkY4M01lcExPbHVlRDdZcE1rZw?oc=5"
    }
   ]
  },
@@ -741,7 +962,7 @@
     ],
     [
      {
-      "n": "A. Douvikas",
+      "n": "T. Douvikas",
       "j": "9",
       "out": true
      }
@@ -776,14 +997,14 @@
    ],
    "goals": [
     {
-     "n": "Anastasios Douvikas",
+     "n": "Tasos Douvikas",
      "min": "7'",
      "mine": true,
      "og": false,
      "pen": false
     },
     {
-     "n": "Anastasios Douvikas",
+     "n": "Tasos Douvikas",
      "min": "32'",
      "mine": true,
      "og": false,
@@ -811,7 +1032,7 @@
      "pen": false
     },
     {
-     "n": "Anastasios Douvikas",
+     "n": "Tasos Douvikas",
      "min": "57'",
      "mine": true,
      "og": false,
@@ -979,15 +1200,16 @@
    ]
   }
  },
- "updated": "2026-11-04T22:56:40+00:00",
+ "updated": "2026-11-04T23:35:17+00:00",
  "log": [
+  "non finita Milan – Ferencváros STATUS_SCHEDULED",
   "classifica milan 5 21",
   "classifica como 4 23",
   "classifica milan_eu 24 3",
   "classifica como_eu 4 9",
-  "cantu 0 partite None",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 6, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
-  "notizie cantu 0",
+  "notizie cantu 3",
   "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
