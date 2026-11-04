@@ -333,6 +333,10 @@ nav.teams .dot{width:8px;height:8px}
 .hero .ltabs button[aria-pressed="true"]{background:#e9b949;color:#0b1a3a;border-color:#e9b949}
 .lu .lvt{display:inline-flex;align-items:center;gap:6px;color:#2fbf71}
 .lu .lvt i{width:8px;height:8px;border-radius:50%;background:#2fbf71;animation:blink 1.2s ease-in-out infinite}
+.pitch .lg{font-size:12px}
+.lu .lgoals{align-self:stretch;margin-top:6px;font-size:.8rem}
+.lu .lgoals p{margin:2px 0}
+.hero .lu .lgoals{color:#fff}.hero .lu .lgoals b{color:#e9b949}
 .lu .lsc{font-family:var(--display);font-size:1.05rem}
 .lu .lck{color:#2fbf71;font-weight:700}
 .lu h2{align-self:stretch;display:flex;justify-content:space-between;font-family:var(--display);font-weight:600;font-size:.85rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 2px;padding-bottom:6px;border-bottom:1px solid var(--line)}
@@ -528,6 +532,12 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
         changes.push({ in: m[2].trim(), out: m[3].trim(), min: (k.clock || {}).displayValue || "" });
       });
       const sur = n => String(n || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().split(" ").slice(-1)[0];
+      const goals = (sm.keyEvents || []).filter(k => k.scoringPlay || /goal|penalty - scored/i.test(((k.type || {}).text || "") + " " + ((k.type || {}).type || ""))).map(k => {
+        const tt = ((k.type || {}).text || "");
+        const who = ((k.participants || [])[0] || {}).athlete || {};
+        return { n: who.shortName || who.displayName || "", full: who.displayName || "", min: (k.clock || {}).displayValue || "",
+          mine: isTeam(k.team || {}, t), og: /own/i.test(tt), pen: /penal/i.test(tt) };
+      }).filter(g => g.n);
       const byName = n => (ro.roster || []).find(p => [p.athlete.displayName, p.athlete.shortName].includes(n)) ||
         (ro.roster || []).find(p => sur(p.athlete.displayName) === sur(n));
       const cell = p => ({ n: sname(p.athlete), j: p.jersey || "" });
@@ -542,7 +552,7 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
       const homeInM = x.m[2].split(" – ")[0].includes(NAME[t]);
       const sameSide = homeInM === (cs.find(z => isTeam(z.team, t)).homeAway === "home");
       const ty = (comp.status && comp.status.type) || {};
-      LIVE_LU[t] = { match: x.m[2], date: x.m[0], formation: ro.formation || "", lines: L, changes,
+      LIVE_LU[t] = { match: x.m[2], date: x.m[0], formation: ro.formation || "", lines: L, changes, goals,
         live: ty.state === "in", today: true,
         score: ty.state === "pre" ? "" : (sameSide ? `${h.score}-${a.score}` : `${a.score}-${h.score}`),
         clock: ty.state === "in" ? (ty.shortDetail || "") : ty.state === "post" ? "Finale" : (x.m[4] ? "inizio " + x.m[4] : "") };
@@ -566,6 +576,9 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
       else { const nx = document.getElementById("next"); nx.parentNode.insertBefore(sec, nx); }
     }
     const W = 340, H = 460, lines = L.lines || [];
+    const sur = n => String(n || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().split(" ").slice(-1)[0];
+    const G = L.goals || [];
+    const scored = n => G.filter(g => g.mine && !g.og && sur(g.n) === sur(n)).length;
     const n = lines.length;
     let dots = "";
     lines.forEach((ln, i) => {
@@ -574,7 +587,8 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
         const x = W * (k + 1) / (ln.length + 1);
         const nm = String(p.n).split(" ").slice(-1)[0];
         dots += `<g transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><circle r="15" class="lp${i === 0 ? " gk" : ""}"/><text class="lj" dy="5">${esc(String(p.j))}</text>` +
-          `<text class="ln" dy="30">${p.in ? "↑ " : ""}${esc(nm)}${p.out ? " ↓" : ""}</text></g>`;
+          `<text class="ln" dy="30">${p.in ? "↑ " : ""}${esc(nm)}${p.out ? " ↓" : ""}</text>` +
+          (scored(p.n) ? `<text class="lg" x="12" y="-10">${"⚽".repeat(Math.min(3, scored(p.n)))}</text>` : "") + `</g>`;
       });
     });
     const [y, m, d] = L.date.split("-");
@@ -593,6 +607,12 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
         <rect x="${W / 2 - 80}" y="1" width="160" height="65"/><rect x="${W / 2 - 36}" y="1" width="72" height="23"/></g>
         ${dots}
       </svg>
+      ${G.length ? `<div class="lgoals">${[true, false].map(mine => {
+          const gs = G.filter(g => g.mine === mine);
+          if (!gs.length) return "";
+          const lab = mine ? N[LU_TEAM] : (L.match.split(" – ").find(x => !x.includes(N[LU_TEAM])) || "Avversari");
+          return `<p><b>⚽ ${esc(lab)}:</b> ${gs.map(g => `${esc(sur(g.n) ? g.n.split(" ").slice(-1)[0] : g.n)} ${esc(g.min)}${g.pen ? " (rig.)" : ""}${g.og ? " (aut.)" : ""}`).join(", ")}</p>`;
+        }).join("")}</div>` : ""}
       ${L.changes && L.changes.length ? `<p class="lsub"><b>Cambi:</b> ${L.changes.map(c => `↑ ${esc(c.in)} ↓ ${esc(c.out)}${c.min ? " (" + esc(c.min) + ")" : ""}`).join(" · ")}</p>`
         : L.subs && L.subs.length ? `<p class="lsub"><b>Entrati:</b> ${L.subs.map(p => esc(String(p.n))).join(", ")}</p>` : ""}`;
     sec.querySelectorAll(".ltabs button").forEach(b => b.addEventListener("click", () => { LU_TEAM = b.dataset.t; drawLineup(); }));

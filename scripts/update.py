@@ -360,10 +360,21 @@ def lineup(M, team, res=None):
         pl = lambda p: {"n": p["athlete"].get("shortName") or p["athlete"].get("displayName"), "j": p.get("jersey", ""),
                         "out": bool(p.get("subbedOut"))}
         subs = [pl(p) for p in ro.get("roster", []) if not p.get("starter") and p.get("subbedIn")]
+        goals = []
+        for k in sm.get("keyEvents") or []:
+            ty = (k.get("type") or {})
+            if not (k.get("scoringPlay") or re.search(r"goal|penalty - scored", (ty.get("text") or "") + " " + (ty.get("type") or ""), re.I)):
+                continue
+            a = ((k.get("participants") or [{}])[0].get("athlete") or {})
+            if not a:
+                continue
+            goals.append({"n": a.get("shortName") or a.get("displayName"), "min": (k.get("clock") or {}).get("displayValue", ""),
+                          "mine": is_team(k.get("team") or {}, team), "og": bool(re.search("own", ty.get("text") or "", re.I)),
+                          "pen": bool(re.search("penal", ty.get("text") or "", re.I))})
         res_ = (r[6] if len(r) > 6 else "") or (res or {}).get(f"{r[0]}|{team}", "")
         log("formazione", team, r[2], form)
         return {"match": r[2], "date": r[0], "comp": r[3], "formation": form, "score": res_,
-                "lines": [[pl(p) for p in gk]] + [[pl(p) for p in ln] for ln in lines], "subs": subs}
+                "lines": [[pl(p) for p in gk]] + [[pl(p) for p in ln] for ln in lines], "subs": subs, "goals": goals}
     return None
 
 
