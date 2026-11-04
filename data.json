@@ -312,19 +312,19 @@
  "news": {
   "milan": [
    {
+    "d": "2026-11-04",
+    "t": "Emirates MVP di ottobre 2026: Diego Moreira | AC Milan",
+    "u": "https://www.acmilan.com/it/news/articoli/awards/2026-11-04/emirates-mvp-di-ottobre-diego-moreira"
+   },
+   {
+    "d": "2026-11-04",
+    "t": "Operazione Samuel Chukwueze: il comunicato ufficiale | AC Milan",
+    "u": "https://www.acmilan.com/it/news/articoli/media/2026-11-04/comunicato-ufficiale-samuel-chukwueze"
+   },
+   {
     "d": "2026-11-02",
     "t": "Vota il tuo MVP di ottobre 2026 | AC Milan",
     "u": "https://www.acmilan.com/it/news/articoli/awards/2026-11-02/vota-il-tuo-emirates-mvp-di-ottobre-2026"
-   },
-   {
-    "d": "2026-11-01",
-    "t": "AC Milan 3-1 Inter, Serie A Enilive 2026/2027: Diego Moreira MVP | AC Milan",
-    "u": "https://www.acmilan.com/it/news/articoli/awards/2026-11-01/moreira-mvp-di-milan-inter"
-   },
-   {
-    "d": "2026-10-31",
-    "t": "AC Milan-Inter 3-1, Serie A Enilive 2026/2027: la cronaca | AC Milan",
-    "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-10-31/di-testa-di-cuore-un-derby-da-paura"
    }
   ],
   "cantu": [
@@ -359,6 +359,13 @@
  },
  "press": {
   "milan": [
+   {
+    "d": "2026-11-04",
+    "h": "12:05",
+    "t": "Milan: Pavlovic assente alla rifinitura",
+    "s": "Sportmediaset",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1VXakMycG51YWc2dENTQXhwSk1GbGR3UGJHWEVFa3NnVHNaRk9rTHhEUzdnam9oU1NrTXVSSWZCTXNSOE0tTG55VzlraG5oM1lsak4tYU56NElqR1ZzaDcwdV85a2p1bzJHODZaVGJMWFRUZEUwcW5lRy00alY1MU5QM1JfNldiVUN6ZkRoTUFZRURWZkFJZkRJQnpLM0paVV9tSTY1UzRBYjDSAXhBVV95cUxPbDRYejBESjBiMkgzcUxFd3BxN2pySU5VTVNpckJHSlc2T3poYW5ackpJOGtvU3RVTEg4ejJ0WTVWcXZKcUtBSUxfeGNmc3hTYmpIeVVEV1ltVE43TkMwLUZPOXdhMmxkdGpkamtsWGY1anMxaE14TGU?oc=5"
+   },
    {
     "d": "2026-11-04",
     "h": "10:04",
@@ -396,27 +403,27 @@
    },
    {
     "d": "2026-11-04",
-    "h": "08:07",
-    "t": "Marotta: \"Dimarco? Esercitata clausola di comune accordo\". Il Milan vuole Tresoldi",
-    "s": "Eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQzU5UXh6RTJ6RzNlUTZiLWxWbVVHQ09OSmdjTmRSakdkM1RlM0ZtaTlWVmk3QTFrTXJONWI5Si0zZlZNZUh3UllORHd0WWw3ZVR6TXQtZmpBQTZkQWJrb0RoWHM1azR6OE11QkNiS3pkbmJHWTBrYW5vaUNpYVJoUXlCSkxtZWlZQkVzLTg5M2UzTjdrMUI1el9XeGpDY1FjTktmbFFHek9EcGxrOG5EaDhlN0pRRFRwNmwwZG1ERnI0NVBkS201WXgwa1QyY05wN0xXeldRcHlsZEp1QjhjZUpsdDVzVVh3dDlkSXZXNkpUekRvWUVBMFhPa1NrZw?oc=5"
+    "h": "09:07",
+    "t": "Milan, fatta per il ritorno che fa sognare i tifosi. Accordo da 50 mln a stagione",
+    "s": "Chiamarsi Bomber",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObkp6REFvZXFQSVRVanpxeG1ucUg3OE84M1RtelVvbkgxT3FGR1VLeW0xdG9idGZLVldyVDZ2RV9yYUw5MXNLT040S0ZLNGhBRUJaZ1FXZm5EcmlEQ2xnLUhpUjhNdThsaUlaVTBFU0JsSDduQ3FrcE5vT1JXcGRhZlptMjhmVUtYY1RaZ1FJLXRwNHM3X2tld0JfSGFUS1hRay0wTmp0MEdiR1AyQmx1R2ZURF91ZDVEZE0xMWd1MC1rUQ?oc=5"
    },
    {
     "d": "2026-11-04",
-    "h": "00:05",
-    "t": "Il Milan tornerà a vestire Adidas dal 2028: accordo clamoroso da 500 milioni in 10 anni",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTzZtUmc2VFBXRTBDVUpyeGRJRkhWVmU2aVMxWU1nRUdMelRxLVNMU1R6Q2hlWVNPVmN3b0NsRFlTR1labjRnRjg4a0xsdjB6X0N4SDFqdXNDTnlyZkEtemUwN2g2akczQjIwR2Z0aWx2MzNiX0Z3dFNjQ25kQW4tSklSbWF4bEl3YVFJVGg0NnRPdU9QNnF5YW5xNFV4eEZtdFdHQ0VtYVM2UUhpeEc2c3FnUHNrMlpYckc2cHc4WGF3a3d60gHEAUFVX3lxTE1PNm1SZzZUUFdFMENVSnJ4ZElGSFZWZTZpUzFZTWdFR0x6VHEtU0xTVHpDaGVZU09WY3dvQ2xEWVNHWVpuNGdGODhrTGx2MHpfQ3hIMWp1c0NOeXJmQS16ZTA3aDZqRzNCMjBHZnRpbHYzM2JfRnd0U2NDbmRBbi1KSVJtYXhsSXdhUUlUaDQ2dE91T1A2cXlhbnE0VXh4Rm10V0dDRW1hUzZRSGl4RzZzcWdQc2syWlhyRzZwdzhYYXdrd3o?oc=5"
-   },
-   {
-    "d": "2026-11-04",
-    "h": "00:05",
-    "t": "FLASH| Milan-Adidas, accordo definito: cifre da capogiro",
+    "h": "08:51",
+    "t": "Milan, vietato fallire a San Siro: c'è un dato sul Ferencvaros che mette in guardia Amorim",
     "s": "Tribuna.com",
-    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXg4Rk1ueXViMFlhdWh5dE5weHh5QTNBb0N5MFY2aDFEcUtiVXNSOXlWeGx0WnpQanRYTzg5VFZlb0JpT3hqbHFJZjJ6RWs3U2M0ZFk3X2tnaFdON0tmbFZFbTExUlAwUm1pSnlpNWZZVmFGemNqd21EWFdWelBiQVExVTJ4WW9UV2hmSVFnUUpPc3hXR2pn0gGcAUFVX3lxTFBtWFBORlZRWG1JQTZiNkNiTzFiS1p4X1BsbDVHSVM3Y1kzaVRvRW1pMnFsVlpzcXUtdi1BOWhIaGhqTm02MVRzY0hKWUtNWktNR2NiOUV6WWdCVzUxMkxZdmZzZ05HRVp2cDJRLVQ5d1liazdhYW9FU1Fzc0JPaTF0RUdBaWd4YlNHdWdKbmhxa0QyRi1YV0JScUlCdA?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMHFFcTlqeUhyd3B5T0ItUEl4YXBEaVFCb3RDZmFQbUd3eE9lOTNmQUNid3RaTnJJaWNZSDdVNzFsSXgwYktqb05nT1pXdEpJTld2VjdHUXRNMGJYNlV5VVRUZXNTWEZ6Y1dmU0NQWk1MbFhUQVBoSHlxYm0xbUlXNVQ5QUhmZlRZQVk1T3ltNXpPN2fSAZgBQVVfeXFMTUhIUFlIZm1ZQzhkQjJONEZtY0JvNzFXQm9uZEhHejRNZTNlSnF5NW8tOHJkQ0MzdGlOZ2tnUENmWjdJX3AxMzlYYmR1RzE4aVc1QUNnWFRic3RYVXJHQXdCeXF0Q0JodWdPLWxtN180U2FQVnk5R2ZURGdPLVM0enNYekJLUUdpVThTWmt0M1M2bndsaFRIaDk?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-11-04",
+    "h": "11:33",
+    "t": "Caso Christon a Cantù: attesa per le controanalisi",
+    "s": "Backdoorpodcast.com",
+    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BTERvc1hPMzgtTVhKVkNhanBjcEJYQm8wVndnRlFMYVp0U0gtcFU2OEFmVHFJdGpzV0NLUmtaUTk5ZHI4b3hFZi1RdFBCQkVWQ2F2Y092b0ZaWkRFanBLaHlmeTlBRFNGaU1qUA?oc=5"
+   },
    {
     "d": "2026-11-04",
     "h": "09:39",
@@ -430,6 +437,13 @@
     "t": "Rumors, la Pallacanestro Cantù pensa ad un ritorno di Erick Green?",
     "s": "basketmarche.it",
     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1dobktIdU5FZ1NmLURzODFKbnFubHQ5SzBBQ1ZOR01FdFdqSUtiOWRDZFJWaU9WVzZ0cE5EV2NLQ3BlbGVEbWE2RlEydzN6cl9mM1NLZHlGRTdRNjFKSy1GRWhjQ3B6N0psQmJKeUJPdlM0R1JEV1IyQjB5M3FTdlMwNmJSYVM2QlpXTURIYXZtdXZWRUxiZ2tCYW9YZm1mODJuckNTVFdsb3F5YkZIOFRnVDkyTXc?oc=5"
+   },
+   {
+    "d": "2026-11-04",
+    "h": "03:18",
+    "t": "Team Lead Pallacanestro Trieste vs Acqua S.Bernardo Cantù 4° Giornata",
+    "s": "Lega Basket",
+    "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zZXQ0YThZdklETFUyam1FRzRLa29Mc0ROLTlFTUJZSG5RZ3RWSTFydHk5N2hid2RIZ2pzTjMzZ2llZk9xbzdpSGRiWEFRdWdrZVZyNl9nUVEzc2o2S0F3MTVR?oc=5"
    },
    {
     "d": "2026-11-03",
@@ -458,20 +472,6 @@
     "t": "Acqua S.Bernardo Cantù vs APU PrimaCassa FVG Udine Girone A",
     "s": "Lega Basket",
     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb0s0eF9kZ1pOdW5vcFVwZUg2WDB6elRMbVdJM2Z4M0phWkhWRGNvd1BXRERuMkZOWmdELW5QbF93SFNoNTdDd0dtN0RmWm9ITGU0WTR2N3RoVk5zSVVaZGExdHFXTDZuTHBWaGZ2RkNDR3FJMXNpVnp0dVJEaXdBNHBRM0xtckRrazJaRVdfNnZLNThfclowTEt5Yw?oc=5"
-   },
-   {
-    "d": "2026-11-03",
-    "h": "07:58",
-    "t": "Cantù lotta nel derby. Ma resta ultima a zero",
-    "s": "La Provincia di Como",
-    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYk9OYmZxT0k1OVQzODJKUzVUd3habURjTl9EQTBMTDhSZzJzbDdLaFBLYlZLYU1GNmFVenpubVRGRHR5TngxQXNXelBLX1FSS2ZPR0o4cDlSSG5jZWcxMUpNZTJ4VGlEbUxyZm1vTEhfNW9rajdxSUwtQWtCYkV3OTBVX0tDMmhfV3BsaVJjOUVhRThuTHN4cUp5cHFoa1dLYkNpOWdfOFdCWkw3bURrZXVUbXM4Nk84Sk1WNElxTVlQVzhfM29jVnd6ZF9pblZhMWoyRXh2RQ?oc=5"
-   },
-   {
-    "d": "2026-11-03",
-    "h": "04:08",
-    "t": "Derby basket: Cantù cede 82-95 all’Olimpia Milano, Vitucci vuole perfezione",
-    "s": "Sport Magazine",
-    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDAxZVpoRW9HOWttbFMxVnkxYlVPTG5qQ0lKRTY1bVpYa0p6QlRidEVETi1wckJuUlFSOV9ucGdvc1A4MUF5V3VFRldXZnppS3pNYzkxalFtUjFwcnh4MEgybzdiSjhGeGhzX1MtQTB4bzViTEhYM19xcVRRMFI2b3lEYmZDVnRQWjFBMzVXUkhNc1lWWmI1dEZscXlraEowZHB4ZFpmY2pZMnE3bzNHT3FXQ2RyVHd6SGVvSQ?oc=5"
    }
   ],
   "como": [
@@ -481,13 +481,6 @@
     "t": "Dove vedere Porto-Napoli e Lens-Como, lo sport in tv del 4 novembre",
     "s": "La Gazzetta dello Sport",
     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZFRraXBQWElQQnVRY0tSbjFwSmpEOVZ4RVR4RWs2bzBDTkR2V09ZdVZuUm8yZ1hvRkhaUDY2RGxwRWJoWXNjaGRBMXRIdVQwbkwxZ2RlWWRLeHB3MWhLN1JaMTRickhpa2lUNFgtemRaVzNoN1RQMVY3Q2dUM0JKRndrQzZ4d3AyR21fLTFNSkU5UFRpVTJXTDRDb3RBZUs1MzZHeF9aMUEzeHlmV0loLWZ6NEdSRUVkcHphZXZaVFpvZVNNbDJXUGtxX2hfZGN50gHMAUFVX3lxTE42U1JGdEpMbUE3cGVWVjJGdHdaTFdQcW1oUERVSFhoTEQxUjN6b3pRM2xnWklOcm9DNzdOY1hka1RlNUNRb29zWkJ1RnE4R0dYWVl0eGZhRjZJNkFVcFRSX2tQLThLX3lQR3FjR0J4RlRPX3ZtQUV0c1NZLWNHQ0FNR0FPTEMyNDc5SGV5S2wydzFqbjY2TkZMNElIUmpOYVBMWTZRbWg0SFNJc1E5X0EtcnRCdHNBZEZyUGdtTjVEUkpyWkhNbWFFZjN2aQ?oc=5"
-   },
-   {
-    "d": "2026-11-04",
-    "h": "07:40",
-    "t": "La sveglia di Garlando, la lezione antisessista del Como, a difesa di Ferrieri Caputi",
-    "s": "calciowebpuglia",
-    "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mSWNZbG5FMW5qaTBsbVZGTlpiRlpoN2t5YmZDRTVGby1WTFc3bFQxSUxBbXZzd0tUYVQ4S3pNTVpadFlOZGRTSEtwVDZYc2F1dmpuSVhKdWo?oc=5"
    },
    {
     "d": "2026-11-04",
@@ -519,17 +512,24 @@
    },
    {
     "d": "2026-11-03",
-    "h": "22:34",
-    "t": "Il Como sfida il Lens, Fabregas a caccia della terza vittoria in Champions",
-    "s": "TaorminaNews24",
-    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY0JzbXp1Q1RCc05aMDc5UHZpYjBJSU9KallPZm1HdEw0Z3VyckxJMGhyZnQtUzZWQ3BUSVU0c1JvT1FMTkV6T2dDYnJXeWVPVEJwRHhCNk1FcU14a1F6Zk9lbU1hRzRfVE9nUllramU3b3l3OTF1RzczWlB3dzlEbzVVN2NCeTJsOEFkVmctUjlJWHh2NjNTRE9LQ1BSTDNnaTlr?oc=5"
+    "h": "19:50",
+    "t": "Champions League: Lens-Como in campo mercoledì alle 21 DIRETTA",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaDBhV1N4bm5paWVvLU1sRXB3dE9GVTNMaEFxY0Z3UlJJSDQ0cmswTFlNMVNhMTlDZ0cwV3NLWXJxZ0M3ZU1HaHdpV1V3MVZEdG9YSkZoS3VoSmlBVkFaTmxHdER5SjFqTHVfcHI4QVB6OVBmUGFQWTFubmIxaktRQlgzdlNlZFRNUmZJM2U3U2toekoyaThuR1lETGZDYlFSakthLXVMMlRVcG0xYURGTU9RYUN1T2dBTVlCc2ROcEMxdDV4T25IbDN1NWszc09iaGFWYmdkRTZQYmdXbGEyNzRYSWlHbVNTUXdhVEVTN3dwT0VKSnNhWtIB_gFBVV95cUxOVWYzbzJ3czhZbTNpSVhEUlY0N3JtS0ZDWXVlaG0yUFUtazQ0VzRfdll5TjNFZlBnbDA0UGJxYXlKTUN2NTZZbFRGSk1OZTdBVWc1ZUJ1VDduYjNKLTFFYnRBSGtVQUY4UG94NWFta3g2YXN1ek9XSEdfWTgtWDZWOUpFbFNyQUhLU2NsNkdUbHNzTTRhd3IxcXNWVzEtODBmQl9TZDNsMy1IYk10V0FhTlVubHlVV0VSQVRqZEtRVFZlbnpVdVVqcVZ3X09IUHNMbHRISXNSdmtaN2R2LVRrbHBMb2dPNWI0aFlCeHIzRXFYMU9SbktNdEtUMFNGZw?oc=5"
    },
    {
     "d": "2026-11-03",
-    "h": "21:18",
-    "t": "Lens-Como oggi in diretta: chi trasmette la partita in TV e in streaming?",
-    "s": "Goal.com",
-    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVGhKOTFtaUZyZGpKci1BVXRkTllSZW0ta3pZUkdWb21ZaEItU2VsTWZQNjJzZXZtR0ZwVkhRN25mUDRUSnVDTE0yVUR2QXktN3BSNFB0ODZEaEM1REs5XzY4LWZlMUVnWHRmS1Rmd3BobVBEYW9VVUlYamk5SC16QkRaMzF6djRBNTBEQmU0d3o3bDlLNXR5anlkQU5PNUVtRXJWWDFiZE5rTzBHLUdramlIQzFWQWtxb0FWTDlGc3U?oc=5"
+    "h": "17:15",
+    "t": "Squalificati e indisponibili Como 2026/27: infortunati Chalobah, Diao e Kean",
+    "s": "DAZN",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdEpvMkxRWVRhYW9iTzJNUk9LUkNJelZGazF0UlFubE1sbmpNeXZuVThaMDlMU2xKN08yVVd6dVpoTXJGZE9BWk9mbFFwb3htZDVobTkzd214c2pCUFJiczFNTmIycDMyMzJvR09pUkdxNlFGYlBzYTVFZmVrLUdFaVgzc1R3VU9UTGs0cGRuUGlQZTczb3R0X3JRVU9sRWZCcjFDWkdackl3RUt3Z3VfY1VPRWlLUGNvTHEtMk5WbkZqSC00?oc=5"
+   },
+   {
+    "d": "2026-11-03",
+    "h": "16:58",
+    "t": "Como a Lens con trecento tifosi al seguito: Fàbregas pensa al turnover in vista dell’Inter",
+    "s": "www.calciocomo.it",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbHVRd1pnUjcxUXljOHp6eGk5eXc2Tk9uVDNudkdRYnByVno5RmNyT2ZpdnVUby1XOVRXQXVKd1lsaXFrcjh3elozSW94N0RuaXdDSDE1R1ZmS0ZEWVNNR1VLdndrdlNpREpncEpQc3EyUWdGcTZIM3dBTTNqNi1sWjhpN0pSSlJ4el91RlhWaWFaMjctZG44ejY1a1lRY0s0dk16QXVsamx0ZkRNZFI4VlRaRF80dw?oc=5"
    }
   ]
  },
@@ -883,7 +883,7 @@
    "2": 11
   },
   "2026-11-04|Lens – Como": {
-   "1": 27,
+   "1": 26,
    "X": 25,
    "2": 49
   },
@@ -898,7 +898,7 @@
    "2": 52
   }
  },
- "updated": "2026-11-04T10:40:11+00:00",
+ "updated": "2026-11-04T11:35:51+00:00",
  "log": [
   "non finita Lens – Como STATUS_SCHEDULED",
   "classifica milan 5 21",
