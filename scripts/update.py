@@ -318,7 +318,7 @@ def _side(pos):
     return 0
 
 
-def lineup(M, team):
+def lineup(M, team, res=None):
     """Ultima formazione ufficiale (ESPN): la partita più recente con titolari pubblicati."""
     now = dt.datetime.now(ROME)
     rows = [r for r in M if r[1] == team and league(r[3]) and r[4]]
@@ -358,9 +358,9 @@ def lineup(M, team):
         pl = lambda p: {"n": p["athlete"].get("shortName") or p["athlete"].get("displayName"), "j": p.get("jersey", ""),
                         "out": bool(p.get("subbedOut"))}
         subs = [pl(p) for p in ro.get("roster", []) if not p.get("starter") and p.get("subbedIn")]
-        res = (r[6] if len(r) > 6 else "")
+        res_ = (r[6] if len(r) > 6 else "") or (res or {}).get(f"{r[0]}|{team}", "")
         log("formazione", team, r[2], form)
-        return {"match": r[2], "date": r[0], "comp": r[3], "formation": form, "score": res,
+        return {"match": r[2], "date": r[0], "comp": r[3], "formation": form, "score": res_,
                 "lines": [[pl(p) for p in gk]] + [[pl(p) for p in ln] for ln in lines], "subs": subs}
     return None
 
@@ -492,7 +492,7 @@ def main():
     if not offline:
         for t in ("como", "milan"):
             try:
-                x = lineup(M, t)
+                x = lineup(M, t, res)
                 if x:
                     lu[t] = x
             except Exception as e:
