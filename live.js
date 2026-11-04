@@ -66,7 +66,7 @@
       M.push([f.date, f.team, f.match, `Serie A calcio · ${n}ª giornata`, f.time, "DAZN"]);
       ch = true;
     });
-    if (ONLY && d.lineups && d.lineups[ONLY]) drawLineup(d.lineups[ONLY]);
+    if (d.lineups) { LINEUPS = d.lineups; drawLineup(); }
     if (d.odds && JSON.stringify(d.odds) !== JSON.stringify(ODDS)) { ODDS = d.odds; ch = true; }
     if (d.press && JSON.stringify(d.press) !== JSON.stringify(PRESS)) { PRESS = d.press; ch = true; }
     const NW = d.news || {};
@@ -143,6 +143,7 @@
   const OPEN = new Set();
   let PRESS = {};
   let ODDS = {};
+  let LINEUPS = {}, LU_TEAM = null;
   const _render = render;
   render = function (f) {
     _render(f);
@@ -325,12 +326,15 @@ nav.teams .dot{width:8px;height:8px}
 .pitch{width:100%;max-width:380px;height:auto}
 .pitch .pf{fill:#1f7a3f}.pitch .ps{fill:#228544}
 .pitch .pl rect,.pitch .pl circle,.pitch .pl line{fill:none;stroke:rgba(255,255,255,.75);stroke-width:2}
-.pitch .lp{fill:#1f6fb8;stroke:#fff;stroke-width:2}.pitch .lp.gk{fill:#e9b949}
+.pitch .lp{fill:var(--tc,#1f6fb8);stroke:#fff;stroke-width:2}
+.ltabs{display:flex;gap:6px;align-self:stretch;margin-top:8px}
+.ltabs button{flex:1;font:700 .85rem var(--display);letter-spacing:.06em;text-transform:uppercase;border:1.5px solid var(--line);background:var(--surface);color:var(--fg);border-radius:999px;padding:6px 10px;cursor:pointer}
+.ltabs button[aria-pressed="true"]{background:#0b1a3a;color:#fff;border-color:#0b1a3a}.pitch .lp.gk{fill:#e9b949}
 .pitch .lj{fill:#fff;font:700 13px var(--display);text-anchor:middle}
 .pitch .lp.gk + .lj{fill:#0b1a3a}
 .pitch .ln{fill:#fff;font:600 11px var(--body);text-anchor:middle;paint-order:stroke;stroke:rgba(0,0,0,.45);stroke-width:3px}
 .lu .lsub{align-self:stretch;margin:6px 0 0;font-size:.78rem;color:var(--muted)}
-.only-milan .pitch .lp{fill:#c4161c}
+
 .only-como .hstripe{background:linear-gradient(90deg,#123c7a,#1f6fb8 50%,#5aa4e8)}
 .only-como .brand h1{font-size:2.1rem}
 .notesbox .notes{margin-top:8px}
@@ -481,7 +485,11 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
   })();
 
   /* Ultima formazione ufficiale con il campo disegnato (versione squadra singola) */
-  function drawLineup(L) {
+  function drawLineup() {
+    const avail = TEAMS.filter(t => LINEUPS[t]);
+    if (!avail.length) return;
+    if (!LU_TEAM || !avail.includes(LU_TEAM)) LU_TEAM = avail[0];
+    const L = LINEUPS[LU_TEAM];
     let sec = document.getElementById("lineup");
     if (!sec) {
       sec = document.createElement("section");
@@ -502,7 +510,9 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
       });
     });
     const [y, m, d] = L.date.split("-");
-    sec.innerHTML = `<h2><span>Ultima formazione ufficiale</span><span class="lf">${esc(L.formation || "")}</span></h2>
+    sec.style.setProperty("--tc", T[LU_TEAM]);
+    const tabs = avail.length > 1 ? `<div class="ltabs">${avail.map(t => `<button type="button" data-t="${t}" aria-pressed="${t === LU_TEAM}">${esc(N[t])}</button>`).join("")}</div>` : "";
+    sec.innerHTML = `<h2><span>Ultima formazione ufficiale</span><span class="lf">${esc(L.formation || "")}</span></h2>${tabs}
       <p class="lm">${esc(L.match)}${L.score ? " · " + esc(L.score) : ""} · ${+d}/${+m}</p>
       <svg viewBox="0 0 ${W} ${H}" class="pitch" role="img" aria-label="Formazione ${esc(L.formation || "")}">
         <rect x="1" y="1" width="${W - 2}" height="${H - 2}" rx="10" class="pf"/>
@@ -513,6 +523,7 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
         ${dots}
       </svg>
       ${L.subs && L.subs.length ? `<p class="lsub"><b>Entrati:</b> ${L.subs.map(p => esc(String(p.n))).join(", ")}</p>` : ""}`;
+    sec.querySelectorAll(".ltabs button").forEach(b => b.addEventListener("click", () => { LU_TEAM = b.dataset.t; drawLineup(); }));
   }
 
   /* Note sulle emittenti: testo espandibile */
