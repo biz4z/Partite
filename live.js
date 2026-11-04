@@ -66,6 +66,7 @@
       M.push([f.date, f.team, f.match, `Serie A calcio · ${n}ª giornata`, f.time, "DAZN"]);
       ch = true;
     });
+    if (ONLY && d.lineups && d.lineups[ONLY]) drawLineup(d.lineups[ONLY]);
     if (d.odds && JSON.stringify(d.odds) !== JSON.stringify(ODDS)) { ODDS = d.odds; ch = true; }
     if (d.press && JSON.stringify(d.press) !== JSON.stringify(PRESS)) { PRESS = d.press; ch = true; }
     const NW = d.news || {};
@@ -317,6 +318,19 @@ nav.teams .dot{width:8px;height:8px}
 .hero .callbl{color:rgba(255,255,255,.65)}
 .hstripe{position:absolute;left:0;right:0;bottom:0;height:5px;background:linear-gradient(90deg,#c4161c 0 33.3%,#e08a1e 0 66.6%,#1f6fb8 0)}
 .board:empty{display:none}
+.lu{display:flex;flex-direction:column;align-items:center}
+.lu h2{align-self:stretch;display:flex;justify-content:space-between;font-family:var(--display);font-weight:600;font-size:.85rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 2px;padding-bottom:6px;border-bottom:1px solid var(--line)}
+.lu .lf{color:var(--c,#1f6fb8);color:#e9b949;font-weight:700}
+.lu .lm{align-self:stretch;margin:6px 0 8px;font-size:.85rem;color:var(--fg);font-weight:600}
+.pitch{width:100%;max-width:380px;height:auto}
+.pitch .pf{fill:#1f7a3f}.pitch .ps{fill:#228544}
+.pitch .pl rect,.pitch .pl circle,.pitch .pl line{fill:none;stroke:rgba(255,255,255,.75);stroke-width:2}
+.pitch .lp{fill:#1f6fb8;stroke:#fff;stroke-width:2}.pitch .lp.gk{fill:#e9b949}
+.pitch .lj{fill:#fff;font:700 13px var(--display);text-anchor:middle}
+.pitch .lp.gk + .lj{fill:#0b1a3a}
+.pitch .ln{fill:#fff;font:600 11px var(--body);text-anchor:middle;paint-order:stroke;stroke:rgba(0,0,0,.45);stroke-width:3px}
+.lu .lsub{align-self:stretch;margin:6px 0 0;font-size:.78rem;color:var(--muted)}
+.only-milan .pitch .lp{fill:#c4161c}
 .only-como .hstripe{background:linear-gradient(90deg,#123c7a,#1f6fb8 50%,#5aa4e8)}
 .only-como .brand h1{font-size:2.1rem}
 .notesbox .notes{margin-top:8px}
@@ -465,6 +479,41 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
     setInterval(tick, 30000);
     const _rn2 = renderNext; renderNext = function () { _rn2(); tick(); };
   })();
+
+  /* Ultima formazione ufficiale con il campo disegnato (versione squadra singola) */
+  function drawLineup(L) {
+    let sec = document.getElementById("lineup");
+    if (!sec) {
+      sec = document.createElement("section");
+      sec.id = "lineup"; sec.className = "lu";
+      const st = document.getElementById("stand");
+      st.parentNode.insertBefore(sec, st.nextSibling);
+    }
+    const W = 340, H = 460, lines = L.lines || [];
+    const n = lines.length;
+    let dots = "";
+    lines.forEach((ln, i) => {
+      const y = H - 38 - i * ((H - 90) / Math.max(1, n - 1));
+      ln.forEach((p, k) => {
+        const x = W * (k + 1) / (ln.length + 1);
+        const nm = String(p.n).split(" ").slice(-1)[0];
+        dots += `<g transform="translate(${x.toFixed(1)} ${y.toFixed(1)})"><circle r="15" class="lp${i === 0 ? " gk" : ""}"/><text class="lj" dy="5">${esc(String(p.j))}</text>` +
+          `<text class="ln" dy="30">${esc(nm)}${p.out ? " ↓" : ""}</text></g>`;
+      });
+    });
+    const [y, m, d] = L.date.split("-");
+    sec.innerHTML = `<h2><span>Ultima formazione ufficiale</span><span class="lf">${esc(L.formation || "")}</span></h2>
+      <p class="lm">${esc(L.match)}${L.score ? " · " + esc(L.score) : ""} · ${+d}/${+m}</p>
+      <svg viewBox="0 0 ${W} ${H}" class="pitch" role="img" aria-label="Formazione ${esc(L.formation || "")}">
+        <rect x="1" y="1" width="${W - 2}" height="${H - 2}" rx="10" class="pf"/>
+        ${[0,1,2,3,4,5,6,7].map(k => `<rect x="1" y="${1 + k * (H - 2) / 8}" width="${W - 2}" height="${(H - 2) / 16}" class="ps"/>`).join("")}
+        <g class="pl"><rect x="1" y="1" width="${W - 2}" height="${H - 2}" rx="10"/><line x1="1" y1="${H / 2}" x2="${W - 1}" y2="${H / 2}"/><circle cx="${W / 2}" cy="${H / 2}" r="42"/>
+        <rect x="${W / 2 - 80}" y="${H - 66}" width="160" height="65"/><rect x="${W / 2 - 36}" y="${H - 24}" width="72" height="23"/>
+        <rect x="${W / 2 - 80}" y="1" width="160" height="65"/><rect x="${W / 2 - 36}" y="1" width="72" height="23"/></g>
+        ${dots}
+      </svg>
+      ${L.subs && L.subs.length ? `<p class="lsub"><b>Entrati:</b> ${L.subs.map(p => esc(String(p.n))).join(", ")}</p>` : ""}`;
+  }
 
   /* Note sulle emittenti: testo espandibile */
   (function notesBox() {

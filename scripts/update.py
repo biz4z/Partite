@@ -301,6 +301,70 @@ def odds_all(M):
     return out
 
 
+def _depth(pos):
+    p = (pos or "").upper()
+    if p in ("G", "GK"): return 0
+    if p.startswith("CD") or p in ("LB", "RB", "D", "SW") or p.endswith("B") or "WB" in p: return 1
+    if p.startswith("DM"): return 2
+    if p.startswith("CM") or p in ("LM", "RM", "M"): return 3
+    if p.startswith("AM") or p in ("LW", "RW"): return 4
+    return 5
+
+
+def _side(pos):
+    p = (pos or "").upper()
+    if p.endswith("-L") or p[:1] == "L": return -1
+    if p.endswith("-R") or p[:1] == "R": return 1
+    return 0
+
+
+def lineup(M, team):
+    """Ultima formazione ufficiale (ESPN): la partita più recente con titolari pubblicati."""
+    now = dt.datetime.now(ROME)
+    rows = [r for r in M if r[1] == team and league(r[3]) and r[4]]
+    rows = [r for r in rows if dt.datetime.fromisoformat(f"{r[0]}T{r[4]}").replace(tzinfo=ROME) <= now + dt.timedelta(hours=2)]
+    rows.sort(key=lambda r: (r[0], r[4]), reverse=True)
+    for r in rows[:4]:
+        lg = league(r[3])
+        try:
+            evs = get(f"{BASE}/site/v2/sports/soccer/{lg}/scoreboard?dates={r[0].replace('-', '')}").get("events", [])
+        except Exception:
+            continue
+        ev = next((e for e in evs if any(is_team(c["team"], team) for c in e["competitions"][0]["competitors"])), None)
+        if not ev:
+            continue
+        try:
+            sm = get(f"{BASE}/site/v2/sports/soccer/{lg}/summary?event={ev['id']}")
+        except Exception:
+            continue
+        ro = next((x for x in sm.get("rosters") or [] if is_team(x["team"], team)), None)
+        if not ro:
+            continue
+        st = [p for p in ro.get("roster", []) if p.get("starter")]
+        if len(st) < 11:
+            continue
+        form = ro.get("formation") or ""
+        sizes = [int(x) for x in re.findall(r"\d", form)] or [4, 4, 2]
+        gk = [p for p in st if _depth((p.get("position") or {}).get("abbreviation")) == 0][:1] or st[:1]
+        out = [p for p in st if p not in gk]
+        out.sort(key=lambda p: (_depth((p.get("position") or {}).get("abbreviation")), int(p.get("formationPlace") or 0)))
+        lines, i = [], 0
+        for n in sizes:
+            ln = out[i:i + n]; i += n
+            ln.sort(key=lambda p: (_side((p.get("position") or {}).get("abbreviation")), int(p.get("formationPlace") or 0)))
+            lines.append(ln)
+        if i < len(out):
+            lines[-1] += out[i:]
+        pl = lambda p: {"n": p["athlete"].get("shortName") or p["athlete"].get("displayName"), "j": p.get("jersey", ""),
+                        "out": bool(p.get("subbedOut"))}
+        subs = [pl(p) for p in ro.get("roster", []) if not p.get("starter") and p.get("subbedIn")]
+        res = (r[6] if len(r) > 6 else "")
+        log("formazione", team, r[2], form)
+        return {"match": r[2], "date": r[0], "comp": r[3], "formation": form, "score": res,
+                "lines": [[pl(p) for p in gk]] + [[pl(p) for p in ln] for ln in lines], "subs": subs}
+    return None
+
+
 def logos(old):
     out = dict(old)
     try:
@@ -424,14 +488,23 @@ def main():
         except Exception as e:
             log("ERR calendario", e)
     lg = old.get("logos", {}) if offline else logos(old.get("logos", {}))
+    lu = dict(old.get("lineups", {}))
+    if not offline:
+        for t in ("como", "milan"):
+            try:
+                x = lineup(M, t)
+                if x:
+                    lu[t] = x
+            except Exception as e:
+                log("ERR formazione", t, e)
     od = old.get("odds", {})
     if not offline:
         try:
             od = odds_all(M)
         except Exception as e:
             log("ERR quote", e)
-    data = {"results": res, "standings": sta, "cantu": cantu, "news": news, "press": pr, "fixtures": fx, "logos": lg, "odds": od}
-    keys = ("results", "standings", "cantu", "news", "press", "fixtures", "logos", "odds")
+    data = {"results": res, "standings": sta, "cantu": cantu, "news": news, "press": pr, "fixtures": fx, "logos": lg, "odds": od, "lineups": lu}
+    keys = ("results", "standings", "cantu", "news", "press", "fixtures", "logos", "odds", "lineups")
     if data != {k: old.get(k) for k in keys}:
         data["updated"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
         data["log"] = LOG[-40:]
