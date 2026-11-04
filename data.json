@@ -9,7 +9,8 @@
   "2026-10-27|como": "1-3",
   "2026-10-28|milan": "2-4",
   "2026-10-31|milan": "3-1",
-  "2026-11-01|como": "1-0"
+  "2026-11-01|como": "1-0",
+  "2026-11-04|como": "1-9"
  },
  "standings": {
   "milan": {
@@ -58,18 +59,18 @@
    }
   },
   "como_eu": {
-   "pos": 11,
-   "pts": 6,
-   "g": 3,
+   "pos": 4,
+   "pts": 9,
+   "g": 4,
    "up": {
-    "n": "VfB Stuttgart",
-    "pos": 10,
-    "pts": 7
+    "n": "Arsenal",
+    "pos": 3,
+    "pts": 10
    },
    "dn": {
-    "n": "Manchester City",
-    "pos": 12,
-    "pts": 6
+    "n": "Barcelona",
+    "pos": 5,
+    "pts": 9
    }
   },
   "cantu": {
@@ -375,6 +376,13 @@
    },
    {
     "d": "2026-11-04",
+    "h": "20:18",
+    "t": "Milan-Ferencváros e Atalanta-Kairat Almaty in campo giovedì alle 18.45 DIRETTA",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPN0RHYk5fTEE3QlZJSjdrU1hmeHVXY3owNjNjVWx6aWRSckktVEhrc0taTDBDbXh1LUpSbHU3QURma3dVMEhyaXVHQWxpbnZHYWVJdWRkMnBrS3dsajdyTjljdDl3Ym9oaVd6WGVhSzZDTG43bmdKLVFsRFJGRmxSeEIzQkJGNVlsV2R6RTJvTWxUSmRjc0ZURGNHN2ZJbHYwWHE1aEpzXzA2Y3lRdkJDbGFwSHl0R3lVSm5tVS1QcHcwVXVHLUpud2tOVWZvVWUwN3FFeFhndjVpWC13ODV1dE0tTk9TUUJUVDhWNkhtbVhQdkM2RmVSckJaWnNTb3ZTQWFvZ19vaW3SAY4CQVVfeXFMUDA5OFc1QTRIaTZmLUtYaHdPNUdfc0I4TWZwSUlsY3BqcllOZllFSm1zR2F2UTVNQXVtSlkzcEFsSW1Wa1c4bnhWTDdzalRCZnZqeWZqeGJaWmpleTRhTDdjWS1hQWE1TmFsWUV5Z2psYy1DMzdqajk0b2YyQ3oxZUREQnQtNzdLajlzSk5LOWFETWpOVEFpdVJHM1NqbzBJV1ZTVXZrUUVrVERJUzUzUVZqV2gteUZyVXl3elBNNG1Sa1dwMFMyTGFMWDlCSFp6SHh3SXVyUTMzVDJJNjRxcDdpdDJYYU45Y0NQQUdIMFlIejdtM3htV1U3bkJ0dHIxRU1uN2Q0WnhfTGFYNDVB?oc=5"
+   },
+   {
+    "d": "2026-11-04",
     "h": "20:14",
     "t": "Milan - Ferencvaros",
     "s": "Diretta",
@@ -407,29 +415,22 @@
     "t": "Primi investimenti per il Generali Stadium: ecco quanto hanno speso fin qui Inter e Milan",
     "s": "Calcio e Finanza",
     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNamZXYTlTMW5UUFJJSDViUHNJSHo3MW1tR2VUSHZJaDFEdWFReHBscm81cUdlOVVLREJsNTlIVi16QW5pS2lVR3NGSmNCVHhZcFlONWZQbmlTSFhEblpnU25qYzB3RmZ0RllSdEFaVm1GclAxSGhNRUh0czJVS1FwU0EtV0Y0NU9Wckg1Ng?oc=5"
-   },
-   {
-    "d": "2026-11-04",
-    "h": "18:34",
-    "t": "Milan, Amorim sfida l’euforia del derby: pensare solo all’Inter è da piccola squadra",
-    "s": "QS Quotidiano Sportivo",
-    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmRoMUw0YVRLU3BUMEh0dGxGN25uWUVOZWxmSzRFSWREQS02bEpoUjlZTjI4bTNHNFowa0dnUzVLYzl2OG5UQTJSdDhCN0k0dW1DN1Z4dW9KY3JqSDdaSmt5aWgzQzhWVVVYRmN3cDJTamxjQUhvb2hoaS1Mc2FfOE5sOGU4UEY5Q3ZZZkRNSmY?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-11-04",
+    "h": "15:05",
+    "t": "Migliori Maxima Roma vs Acqua S.Bernardo Cantù 7° Giornata",
+    "s": "Lega Basket",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObUNxSVFaZGczZS05R2prM1Ywd1JHbThQZXFXbjMxSGpvdVhwNzV4QkFhT2xCM1lZcW1Md3JENDNxWGJvVVZ4YkZMSWtXeDIyZG05MWgxTDRYdzB4bUNNd3k1am10Y2xMTXJuVTdjcnJqODRDa2pYM3A5VXN2VDdQTUdn?oc=5"
+   },
    {
     "d": "2026-11-04",
     "h": "11:33",
     "t": "Caso Christon a Cantù: attesa per le controanalisi",
     "s": "Backdoorpodcast.com",
     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BTERvc1hPMzgtTVhKVkNhanBjcEJYQm8wVndnRlFMYVp0U0gtcFU2OEFmVHFJdGpzV0NLUmtaUTk5ZHI4b3hFZi1RdFBCQkVWQ2F2Y092b0ZaWkRFanBLaHlmeTlBRFNGaU1qUA?oc=5"
-   },
-   {
-    "d": "2026-11-04",
-    "h": "11:17",
-    "t": "Highlights Acqua S.Bernardo Cantù vs APU Old Wild West Udine 2° Giornata",
-    "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTWdTV1R3VXBtREZoWERtZWNkNXM0VmY3QWxDWFlRZVo5UnNuRUdqc3VRbU96Yl9ySWIwVmxlZjVRdE9KcHEzMFVPWExMVmVnOGtaUUNaOVJNQ01CVy1IVXFZZmhRcllJdVFKQkE1a0xfb2o4X2dXRXRrMHYxWEZrUWVXeXhxTmh4c0oxbkIzdUU2Tnc?oc=5"
    },
    {
     "d": "2026-11-04",
@@ -447,10 +448,10 @@
    },
    {
     "d": "2026-11-04",
-    "h": "03:18",
-    "t": "Team Lead Pallacanestro Trieste vs Acqua S.Bernardo Cantù 4° Giornata",
+    "h": "01:50",
+    "t": "Team Lead Acqua S.Bernardo Cantù vs Napoli Basketball 3° Giornata",
     "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zZXQ0YThZdklETFUyam1FRzRLa29Mc0ROLTlFTUJZSG5RZ3RWSTFydHk5N2hid2RIZ2pzTjMzZ2llZk9xbzdpSGRiWEFRdWdrZVZyNl9nUVEzc2o2S0F3MTVR?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS3N1Wkh3QmgxbnRxMWszXzVqcjU1MVNGbC1PeFNYYmVJU1R3Zk9oa0s1MTk3YTFFMmFFZGFOY1kwb01peEg4UnN3TjZyM1hrMlNyaTJWZE1NRS1XR2wyRGRmS3Bmd2ZJN0lxaGNjVHZkYWluTTN3WXFpWE5RNXhkWGZUSW5oN056WHhGTFR4VQ?oc=5"
    },
    {
     "d": "2026-11-03",
@@ -477,6 +478,41 @@
   "como": [
    {
     "d": "2026-11-04",
+    "h": "23:05",
+    "t": "Champions, il Como insegna calcio: finisce 1-9 a Lens. Porto-Napoli 4-1, Allegri perde ancora",
+    "s": "Forzaroma.info",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQndwVklHQjdTdHNieVpPbE9LRjBiV01EWDNVaTh4RnZLUXV0dzczLXZnZ1dmWGtqV2lVaFlUVXNPUExURnJxcG1XekFVRjJHeDBWY3BTU2ZTcVJhTU5oUm5uMzZIWC1IRzV3M01CMUV1cFdpNEtjbjR6b2pwQlZpal9NTTRIckpuRDZGRFNCbVhIX2V5ZGw3Sl9RQVZCMTZjT2lTbzlhckMybU1tLXVDRHpJeDNlZ2ItRXhPbmxGT1FxNUcyNUJzZNIBzgFBVV95cUxNRldTOG92aTAxazFKQml5T09Ubll2V2ptZGpQUEJzd2lqblJYNmdXTkdJdWU5b21JbnFtV0N2Y0V1aG5ZWGczNmotWDhRY1Q4TWIxbElQcmtFNlhrWEY3ZjduaHhZNFM5QkNNcFdhbFlnTHhLbkdySGVyaXR6M1dUVXRTMnRSdnhVc1lreFRiYjh5VndzNDIzSEdCMU9nSHd1MFJwSnAwek80WkNCc1pSNVNiTlJ4Z1VRaXNvQUhWLTR5ZFZRbHZYVU5OemdDUQ?oc=5"
+   },
+   {
+    "d": "2026-11-04",
+    "h": "22:56",
+    "t": "Como strepitoso in Champions League: segna 9 gol e cala il tris! Il Napoli crolla in Portogallo",
+    "s": "OA Sport",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS3p5SExDeEVINGJyXzF0YmkyTU01M0dYcHp2T1ctQjJleDdXb2dTQVJyWkFtaHZ2WlRnWDd3NmFiRkhtalhLaTBEWml2ZGpCbkUxelBRenVwakFTX0ZWLUlMcGNpUUt6VUhwMm5TVmszRmMzODRVQ2xsV1BGbGFSaXBfcUVSRFZ2LVhacEJiQmRGYVdmd0J6UE5IYnZlSEY5eVNCQUsyaFg4cWg3anVaQzhvWjNkaDVmZ3p6SnRVeW9UYkk?oc=5"
+   },
+   {
+    "d": "2026-11-04",
+    "h": "22:40",
+    "t": "Como da record: è la prima volta in assoluto per un'italiana in Champions",
+    "s": "DAZN",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON2pBV2xnOURBbDM1MzA2YjBFYzF5V0hHRzRoSTNNTGl5Z2hsSUc3dkVBVkpBSUJ3XzVteVRPWTdVNEUzeWxONE5hd1pHQ19Xd2dWY2pzMldkMWZ2R0dzc0xwLWxFR3FIS3ViNE1rRGhPSkF5WmQzNm54TmpqMVBIV0hYaGxrNDZTa2tFSFoxTlR1czhBeVVFbGNmZkEzbFZvaDhFOHJ3QnVNNmItRVBBSVZwdUVFaDEtRmFRSENqSHF4dThKY3oxM3hyRjJpRzZiM3dn?oc=5"
+   },
+   {
+    "d": "2026-11-04",
+    "h": "22:25",
+    "t": "Como da sogno! Douvikas è il capocannoniere della Champions League",
+    "s": "Sportmediaset",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzJlcnk3WlRTS1E3MHVUU2RPMl8wWk95dzdIY21wUS13Uk9WY0V5NWY1OGxmV1JqdDc0MlVzQUFYdGpkT3BnQkZPcEdfWWVkRTV1V2xNUEE4Qi1BUlhUSHVQYWNRbnZxVGhRQ2gxWG50dXp6M0xwS0h4OF9fRDVBMUF5dU1ncXZySzN6TW0zOVZRc1FnN3U4bFFkdE5XUV9MT3lyTHFZU3VRNkplbHkyM3YwUTJ4b3NUemlwRFV0d0VKVHdDVExGcmo5OVptbzTSAXhBVV95cUxPbWlkZ09oYktIalRjdFFEZTQ0SVBlS3gwSlJ1WVh6NFZITHUzc0I2SGpRajBnNjdOejJXVjdJel9jQVl3UHpmbzY5N3BJdUwyS0ZxcUVnTVpQQ0dOcEg5QldCdDJidG5nWnBGS2VpaVNPR2VaRDl4V0Q?oc=5"
+   },
+   {
+    "d": "2026-11-04",
+    "h": "22:04",
+    "t": "Fermate il Como, in Francia sono 9! Tripletta Douvikas, Nico Paz, Da Cuhna, Kempf, Liberali, Baturina e Papaccioli",
+    "s": "QuiComo",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN1duTjl6ZmtVVFdsRTN1T2xmMmpqRkRwdjVDLTRZNHVqOEtHSzZaWWlXeFlFTG5ab29NMEUtUmI5VzBPcUdPS1U5Q19rVDMwSVItZXV5WnZ6eUtDVW5HTmo4b0V3QnlLUGlzbktzWTdYWHp6YTIwLW53VG5qN3EtWTZhTVpnVEN0LTVZ?oc=5"
+   },
+   {
+    "d": "2026-11-04",
     "h": "21:48",
     "t": "⚽🔴 LIVE Lens-Como, Champions League 2026: diretta TV streaming di calcio 🛑 Notizie dell'ultim'ora 📆",
     "s": "musicletter",
@@ -484,52 +520,17 @@
    },
    {
     "d": "2026-11-04",
+    "h": "21:45",
+    "t": "Porto-Napoli 1-1 e Lens-Como 0-3 DIRETTA e FOTO",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaW82RXJQT0NDbEZ5aE9MaC0xdmY4Q3huc2FLNHM1aWlnVGFDd0NlVzd0WDMzdnZIZ01uUmtCb2oxbWZRdXhOZGZqbTVLa1puT0dYUUt4TWhXcHhFZEF5TmtFc0VGaHc5QXpfeml5Rkwzd2Y4bWktajFsNnNGeGRGdFNMbWo2ajFvcmRVNmdBelBMMHhPVzdHTXFqWmplZE5jN1hTUWd0eVFXRG1abVJyT09wLVVjSFhwZ2gtb3BQVzBNQWNlSE1iWkp2NHl4MC1lZ1RkZzBoQTRFR2xxOV9n0gHkAUFVX3lxTFBYYkF1dXpvSkxaOHpTUjlSTGd3V3RTWVlQMHJlc0V1Zm9qZHp5Q2diWi1oZThjbkU4MkEtR3dodHM3WGZQakpLUHFrSFE5YWdlbkJPaGJiclRUZnB4ZHRvRjlSMEhEMVd5bjVCZEl1dWVXeGpERGJXbW1oSlZqY1FnTV8tdFVpdUJUY3o2MlB4a3hfZjA4YXpEc1RiTnNHazB2aVlzaEJVNHRtZ3dNQTRlMUNYZFZFRDFraWZyeGphYngtbnc5RGtfY2tlN3BsVC1yOGQ0LTdJUXdDTGRBU3p2WjdtXw?oc=5"
+   },
+   {
+    "d": "2026-11-04",
     "h": "20:54",
     "t": "Porto-Napoli 1-0 e Lens-Como 0-1 DIRETTA e FOTO",
     "s": "ANSA",
     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRHVrUndaMThCdWFJSFR2N29saEVyTGtCdmFNdW9CSDVIb1dSVFdYd05WSkpIZjhTTER5Rm9PcHhhdVVNSUpxc2dYNzl1RmZ2STF4SXgxZG9pYnZITnZ4aEFfVXU2Vk1ySFR1MGV3bFN5SVhyRHU1TlFuY0tYVEt3c0hQS2hUbDN5VU9nSE9TbGpuUHpjQktHbkFRd1V6ZmlpSzRHbktuaXBRVEkyWWwzVlB1X3lGNVR4bVc0QW82MHFHTWl5LTB1VUFwQXphUEV6VkVYVHBTVXdNbkhXZVN30gHkAUFVX3lxTFBYSEpzYjZKQTROUTNpWURvdmRIYzNBSXlraTlXcnlLT0NjWDNXakFIZVF4VUxleGVrUVpDSkYzZktsVGxILTFkdDFyalJSeXluX3RidzBWMU16M1kzS1owUnFKc3hJTjNIWkt3QnhweU9tSWNubXFoM3l2bkpwTWRBMk5EMEJpQ0Z2aWVURlU4ajFaOE01VzZnX0xLaFREaUk4b1U0ZkoxdklkM21yQ0x5NjBteWMtMF9lM2pweHctQkFVdkxaYjgyZGc0enB2REVCejhwM0U2WEJ0OW5jQi1VUENPQg?oc=5"
-   },
-   {
-    "d": "2026-11-04",
-    "h": "20:41",
-    "t": "『DIRETTA STREAMING』 Lens - Como Calcio Partita in diretta",
-    "s": "tagesanzeiger.ch",
-    "u": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNa3hNaDAwTGNhcmt0V0pTckh6SldJelduMDM0RlhlS21JQUZGVktieW4xSWItNFMzQ1QyTnQzbWQ1VVFIempFX1JBclJ5cWdISW83cHdPMHBiaEhyWndvbTFITGRobkFOTE4yYUhzWldYeE9Vb2ZIT3VoZXVXY2FRQ1JTd2YwZlBTWFAxRVMzOWRCV1FfdElrNkZPTmtrWTlWWkVfQmExSlFYX3g2cTBmZGV5QjF2S1FPcEZmMDFzYXpnRUU5d3JhalJEQ2tnb2NJM21XN3BDNlZuenRqek0zd2JqTl9hUmNpOGp0Vm1wT3poLWpSaVBob0M4ZlVJbU16SExSMXlaTU5jX0lKQ2Qxa08wdG5ZUWFlMm96QVpObzc5cU8xSC10MV9TZnZwUVF3SDMzWmRCOFV2bzhGbG5CX2lhTlRrR015ZzVCMnlobnA0WVJtMHV3cUJMdFh0cmFfMWtqVUdMUm9XZlAzOWZNV3VWcE43Zw?oc=5"
-   },
-   {
-    "d": "2026-11-04",
-    "h": "20:35",
-    "t": "[IN DIRETTA ORA] Lens-Como – Streaming live di calcio in TV, 4 novembre 2026",
-    "s": "tagesanzeiger.ch",
-    "u": "https://news.google.com/rss/articles/CBMimANBVV95cUxOM1RCV09sRXN2V0RXb2xQQ3JvcTNUNmdETXR0dnY4UlF6VWFlZjJSOTJSZ3FPVU9OZWhfRlV6a1pFb0xrYTc2NkdUVkU2d1VLdVlnb1dMeHNMSDJLcWdIY0VrOExpSFRmVzdxQlh6YlpwSDZ0UmRmSmxPZDRDTUJyU1U2RWx6SHNSUGM1VURtSXh0WGxDdUdmQThxajhJT1BPU05CRmoyam9kRmM2VVU3RzBicEY3YkttbmdCcl9jNHc2V2xIWVcxMzBNU0pVcnZJWVZ3SzNEelJSajJWUW1pWFJ1bkFoOGZMNmhlektKbjh3dmViNy1VQWtyWXVRaUF6NjlpWmgwNTBTVWtJbXZabURDX3VvOFVfTjhYY2k3SnhlM0UxZlNST1BCR3NVWnRVSkxtVWt1WDVHYmNnMW96WGNWN2NlWjJCbjlHVUJ6VE9BTl84RXhpSEw1OUkzTTdGSEhXMldBWkVUbS04bHIyMS1PeVE5ZVgwNnVhX0drSlp2dWxNQ2VqOGt3b3phN2preVcyN2VNdnk?oc=5"
-   },
-   {
-    "d": "2026-11-04",
-    "h": "19:56",
-    "t": "Lens-Como, le ufficiali: Caqueret preferito a Baturina, c'è Butez in porta",
-    "s": "Eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPUWlEVHVVRVpnLUFsMnJsdGRLb1FGUDhZMlR6VkVXZUNjS3prVDNBVVV0ZFpwekQ3NXZXZUFaTEY1bEwyQjFIUU0yZHMzUFlMZGlEbUwybFlSaHJaV0d2OUhUUFRyNmI1LW9raUEzVkxWN093VEwzR1ZNOGNRbHN2T2dCYWUwcmdLMl8xbUZVZHlNb1AxRy1xTjYxRzhKdW9oV2hxd3Rqb3RGVUpYbW1adHk3NWtzVEZCSzZKU2E3NmhvdmdWcUhsd2YwaWxwdkFpUTk5TjlqSkxSb0N2ZnpuNDliOHl5S2EzY1AteDU4cjNXbFFXX29sNWlvUTM1TUMxblJpM0hWVzBuQWs3YnA0OHRUUzFPbHhTQVc5RHhwRFkyZGRqeUt4VFhsbS1GTlZOUFd0NFVpblo5NTBnMm5TN2huVzVkOVE?oc=5"
-   },
-   {
-    "d": "2026-11-04",
-    "h": "19:55",
-    "t": "Lens-Como, dove vederla oggi in diretta tv e streaming: chi trasmette la partita?",
-    "s": "Goal.com",
-    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMTE4dHlCTWdETmZoYnM3TGlNbzAycDg3Q0xyMURJX2pzT18wT1VmTFJRYWNTNGxPdG56aHY0SDV1Vk9iTjhUSEtweFVlN2xKdl9XelBuak1zTi1lSEtJR3BKXzREdlh3b2Fackt6NjM5U0hjbDhQckRZNWp4NkRZWkxvZkhZbTE5T2ZaVHJ0bTFLUU5CVjBxTTREMWItbk9SOHh4OWhINk13VTRiYUZkaGpyN0xpZWlRZkN3Zm5oWjd1bjNWX2JORXJB?oc=5"
-   },
-   {
-    "d": "2026-11-04",
-    "h": "19:02",
-    "t": "Serie A: Pairetto per Napoli-Lazio e Chiffi per Inter-Como. A Di Bello Roma-Sassuolo",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNWdWbENaRGp3c3dFLTItdWp1RzVGT3ZoRm04WnZrTTFuc1FiVUxHVGdQbC1XNzgwOHhJTnoxTlhjcGJvN1pORVRaX1Biek9oX21MaDAzSVU2c21HUEdrdjdCdHYycmt5SUY1N2ZDS0hQSUQ3WEF5RHBQbnh1NFFlU0JfSlF6NVZlSW1FeDJpcVB5a2Y2d09xd3NnMFNQSzNlUmliNFBFdU9uRTAxVFVZd1VlR0xLbmpNOUxzNlRiM01MaXRNV3BlOVZRcGRzM09wR2xUU0xvV1UtZHFmUzJTZnFZMWhDNXAwS1FhN05RaWhHVUxRTXpMRGZab1nSAYICQVVfeXFMT2JYd0JjVW0xek1CM0VrSkotV3dmYm1TOTVoa2pWN1M0ZzF0NzFRMTJtbS0xUDRaX3o0dTZhVjlFeW9JUWNaT3hlWkFtMFJlc3o1N200bzMwel9LWDVCRl9ldlZzU0xLWXFfOHBsblljQzNHZW5ULUEwRjU3TzNNN1BHZzloQ1REQjJCclJMQlVmRHNXRGdremU0MnN6ekQ3M1V6MWFILU9Wc3E5YV9Qd2RJWmVTb29idWt4S2NiVEtMb3NELXZYVWJ2TVo4TmRDS2lGc05fRTJkUTRoUGd2SGRLV2lsbXhlX3Fia3hLc2hoaU9jNzFxTF9CdjlqOGFYWUhn?oc=5"
-   },
-   {
-    "d": "2026-11-04",
-    "h": "18:37",
-    "t": "Calcio: Pairetto arbitra Napoli-Lazio, Chiffi per Inter-Como",
-    "s": "Il Mattino di Padova",
-    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUDdfY29FQUQ5VTJMTlRwZEFFN1R5a3VEczYzNkpHSVgycTZRUkswUjNZWjUyUHFyWWN2UjROb0Y1Q2d0N29EaDUxb0MtQXJ3UVpNTWpKTmQ5bGV0YVo2RmpyTVJKZW5HRUY1SkVQSXBEczh2czNmUzVFU0d1a2RGTmFUVlY4NVVwUFRLVVZyTnZMVENKbzBFSDQ3ckZrWExOaXl3YzhB?oc=5"
    }
   ]
  },
@@ -882,11 +883,6 @@
    "X": 17,
    "2": 12
   },
-  "2026-11-04|Lens – Como": {
-   "1": 24,
-   "X": 24,
-   "2": 52
-  },
   "2026-11-08|Inter – Como": {
    "1": 52,
    "X": 23,
@@ -904,7 +900,7 @@
    "date": "2026-11-04",
    "comp": "UEFA Champions League · fase campionato 4ª giornata",
    "formation": "4-2-3-1",
-   "score": "",
+   "score": "1-9",
    "lines": [
     [
      {
@@ -922,7 +918,7 @@
      {
       "n": "M. Kempf",
       "j": "2",
-      "out": false
+      "out": true
      },
      {
       "n": "J. Ramón",
@@ -984,6 +980,11 @@
      "out": false
     },
     {
+     "n": "I. Smolcic",
+     "j": "28",
+     "out": false
+    },
+    {
      "n": "M. Liberali",
      "j": "30",
      "out": false
@@ -1040,6 +1041,27 @@
     {
      "n": "Mattia Liberali",
      "min": "62'",
+     "mine": true,
+     "og": false,
+     "pen": false
+    },
+    {
+     "n": "Ruben Aguilar",
+     "min": "65'",
+     "mine": false,
+     "og": false,
+     "pen": false
+    },
+    {
+     "n": "Martin Baturina",
+     "min": "69'",
+     "mine": true,
+     "og": false,
+     "pen": false
+    },
+    {
+     "n": "Matteo Papaccioli",
+     "min": "90'+1'",
      "mine": true,
      "og": false,
      "pen": false
@@ -1178,13 +1200,13 @@
    ]
   }
  },
- "updated": "2026-11-04T21:25:44+00:00",
+ "updated": "2026-11-04T22:13:30+00:00",
  "log": [
-  "non finita Lens – Como STATUS_SECOND_HALF",
+  "risultato Lens – Como 1-9",
   "classifica milan 5 21",
   "classifica como 4 23",
   "classifica milan_eu 24 3",
-  "classifica como_eu 11 6",
+  "classifica como_eu 4 9",
   "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 6, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
   "notizie cantu 3",
@@ -1198,6 +1220,6 @@
   "loghi ['cantu', 'como', 'milan']",
   "formazione como Lens – Como 4-2-3-1",
   "formazione milan Milan – Inter 3-4-2-1",
-  "quote 4"
+  "quote 3"
  ]
 }
