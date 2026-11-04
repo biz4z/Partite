@@ -437,6 +437,8 @@ def build_team_copy(html, M, res, team, folder, title, tag):
     h = html
     h = re.sub(r"<title>.*?</title>", f"<title>{title}</title>", h, count=1)
     h = h.replace('content="MCC Fans"', f'content="{title}"')
+    h = h.replace('<meta name="theme-color" content="#0b1a3a">', '<meta name="theme-color" content="#050b1f">', 1)
+    h = h.replace("</head>", '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Montserrat:wght@700;800&display=swap">\n</head>', 1)
     h = re.sub(r'<h1>[^<]*</h1>', f"<h1>{title}</h1>", h, count=1)
     h = re.sub(r'<p class="tag">[^<]*</p>', f'<p class="tag">{tag}</p>', h, count=1)
     h = re.sub(r'alt="MCC Fans"', f'alt="{title}"', h)

@@ -322,6 +322,65 @@ nav.teams .dot{width:8px;height:8px}
 .hero .callbl{color:rgba(255,255,255,.65)}
 .hstripe{position:absolute;left:0;right:0;bottom:0;height:5px;background:linear-gradient(90deg,#c4161c 0 33.3%,#e08a1e 0 66.6%,#1f6fb8 0)}
 .board:empty{display:none}
+/* ===== Tema "Stadium Glass" (solo pagina Como) ===== */
+html.only-como{--bg:#050b1f;--surface:rgba(255,255,255,.07);--fg:#eef6ff;--muted:#a3b6d2;--line:rgba(255,255,255,.14);--chip:rgba(255,255,255,.10);
+  --como:#4cc2ff;--glass-b:rgba(255,255,255,.16);--cyan:#7cf5ff;--ok:#3ee089;--display:"Montserrat","Barlow Condensed",system-ui,sans-serif;--body:"Inter","IBM Plex Sans",system-ui,sans-serif;color-scheme:dark;
+  background:#050b1f}
+html.only-como body{background:radial-gradient(120% 50% at 85% 0%,#1e5bd8 0%,transparent 60%),radial-gradient(90% 40% at 0% 30%,#0e7fb8 0%,transparent 60%),#050b1f;background-attachment:fixed;color:var(--fg)}
+html.only-como .hero{background:transparent!important;border-radius:0}
+html.only-como .hstripe{display:none}
+html.only-como .brand .lg{border-radius:14px;box-shadow:0 6px 18px rgba(0,0,0,.45)}
+html.only-como .brand h1{font:800 1.9rem/1 var(--display);letter-spacing:-.01em;text-transform:none}
+html.only-como .brand .tag{color:var(--cyan);font:600 .72rem var(--body);letter-spacing:.2em}
+html.only-como .hero .sub{color:var(--muted)}
+html.only-como .rf{background:rgba(255,255,255,.08);border-color:var(--glass-b)}
+/* superfici in vetro */
+html.only-como .board,html.only-como .st,html.only-como .next,html.only-como .an .ai,html.only-como .month .row,html.only-como .odds,
+html.only-como .notesbox,html.only-como .cmenu,html.only-como .hero .lu,html.only-como .calpill,html.only-como nav.filters button{
+  background:var(--surface)!important;border:1px solid var(--glass-b)!important;-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px)}
+html.only-como .board{border-radius:22px!important;padding:16px!important;display:block!important}
+html.only-como .board:has(+ .lu){border-radius:22px 22px 0 0!important;border-bottom:1px dashed var(--glass-b)!important}
+html.only-como .hero .lu{border-radius:0 0 22px 22px;border-top:0!important;margin-top:-14px}
+html.only-como .board .bk{color:var(--cyan);font:600 .7rem var(--body);letter-spacing:.2em;text-transform:uppercase}
+html.only-como .board .bm{font:800 1.45rem/1.15 var(--display);text-transform:none;margin:4px 0 12px}
+html.only-como .board .bt{color:var(--muted);font-size:.78rem;margin-top:10px}
+html.only-como .bcd{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+html.only-como .bcd div{text-align:center;padding:10px 0;border-radius:14px;background:rgba(0,0,0,.28)}
+html.only-como .bcd b{display:block;font:800 1.6rem/1 var(--display);font-variant-numeric:tabular-nums}
+html.only-como .bcd small{display:block;font:600 .66rem var(--body);color:var(--muted);margin-top:4px}
+html.only-como .board .bc{color:var(--ok);font-family:var(--display);font-weight:800}
+html.only-como .calpill{border-radius:14px!important;color:var(--fg)!important;min-height:44px;font:600 .85rem var(--body);letter-spacing:.02em;text-transform:none}
+html.only-como .callbl{color:var(--muted)}
+html.only-como .andbox{background:rgba(255,255,255,.06);border-color:var(--glass-b)}
+html.only-como .odds{border-radius:16px}
+html.only-como .odds .ol{background:var(--como);color:#04122e}
+html.only-como .next{border-radius:18px}
+html.only-como .nx{border-color:var(--line)}
+html.only-como .st{border-radius:22px!important;border-top:1px solid var(--glass-b)!important}
+html.only-como .st .p{font:800 2.4rem/0.9 var(--display);background:linear-gradient(180deg,#fff,var(--como));-webkit-background-clip:text;background-clip:text;color:transparent}
+html.only-como .st .t,html.only-como .st .l,html.only-como .eu .eh{color:var(--cyan)}
+html.only-como .fq{width:24px;height:16px;border-radius:999px;font-size:.62rem}
+html.only-como .fq.V{background:var(--ok);color:#03210f}
+html.only-como .month h2,html.only-como .an h2,html.only-como .lu h2{color:var(--muted)!important;border-bottom:0!important;font:600 .72rem var(--body)!important;letter-spacing:.2em!important}
+html.only-como .month .row{border-radius:18px;margin-bottom:8px;padding:12px;grid-template-columns:56px 1fr}
+html.only-como .info{border-left:0;padding-left:0}
+html.only-como .date .d{font:800 1.5rem/1 var(--display)}
+html.only-como .comp{color:var(--cyan)}
+html.only-como .tv{background:var(--como);color:#04122e;border-radius:999px;font-weight:600;padding:2px 9px}
+html.only-como .an .ai{border-radius:16px;margin-bottom:6px;border-left:1px solid var(--glass-b)!important;padding:10px 12px}
+html.only-como .anb,html.only-como .anx{border-color:var(--glass-b);color:var(--fg);background:rgba(255,255,255,.06)}
+html.only-como .anx{background:var(--como);color:#04122e}
+html.only-como nav.filters button{border-radius:999px;color:var(--fg)}
+html.only-como nav.filters button[aria-pressed="true"]{background:var(--como)!important;color:#04122e!important;border-color:var(--como)!important}
+html.only-como .cmenu{border-radius:22px}
+html.only-como .coffee h2,html.only-como .coffee p{color:var(--fg)}
+html.only-como .notesbox{border-radius:18px;padding:0 14px}
+html.only-como .notes{background:transparent;border:0;color:var(--muted)}
+html.only-como .pitch .pf{fill:#0f5a3a}html.only-como .pitch .ps{fill:#116641}
+html.only-como .pitch .lp{fill:var(--como)}
+html.only-como .ltabs button[aria-pressed="true"]{background:var(--como);color:#04122e}
+@media (prefers-reduced-motion:reduce){html.only-como body{background-attachment:scroll}}
+
 .lu{display:flex;flex-direction:column;align-items:center}
 .hero .lu{position:relative;z-index:1;background:#050c1c;border:2px solid #e9b949;border-top:0;border-radius:0 0 12px 12px;margin-top:-16px;padding:8px 10px 10px}
 .hero .board{position:relative;z-index:2}
@@ -374,12 +433,12 @@ nav.teams .dot{width:8px;height:8px}
 .coffee small{font-size:.72rem;color:var(--muted)}
 /* tema giorno "Ghiaccio" (di sera resta il tema scuro) */
 @media (prefers-color-scheme: light){
-html:root{--bg:#e9eef6;--surface:#ffffff;--fg:#0b1a3a;--muted:#56657e;--line:#d5deeb;--chip:#eef2f8}
-html .st,html .next,html .month .row{box-shadow:0 1px 0 rgba(11,26,58,.04)}
-html .st{border-top:4px solid var(--c)}
-html .month h2,html .an h2{color:#0b1a3a;border-bottom:2px solid #e9b949}
-html nav.filters button[aria-pressed="true"]{background:#0b1a3a;color:#fff;border-color:#0b1a3a}
-html .hero{border-radius:0 0 26px 26px}}
+html:not(.only-como):root{--bg:#e9eef6;--surface:#ffffff;--fg:#0b1a3a;--muted:#56657e;--line:#d5deeb;--chip:#eef2f8}
+html:not(.only-como) .st,html:not(.only-como) .next,html:not(.only-como) .month .row{box-shadow:0 1px 0 rgba(11,26,58,.04)}
+html:not(.only-como) .st{border-top:4px solid var(--c)}
+html:not(.only-como) .month h2,html:not(.only-como) .an h2{color:#0b1a3a;border-bottom:2px solid #e9b949}
+html:not(.only-como) nav.filters button[aria-pressed="true"]{background:#0b1a3a;color:#fff;border-color:#0b1a3a}
+html:not(.only-como) .hero{border-radius:0 0 26px 26px}}
 .odds{display:flex;align-items:center;background:#0b1a3a;color:#fff;border-radius:10px;overflow:hidden;font-size:.82rem}
 .odds .ol{flex:none;align-self:stretch;display:flex;align-items:center;padding:0 10px;background:#e9b949;color:#0b1a3a;font:700 .72rem var(--display);letter-spacing:.1em;text-transform:uppercase}
 .odds .ov{overflow:hidden;flex:1;mask-image:linear-gradient(90deg,transparent,#000 12px,#000 calc(100% - 12px),transparent)}
@@ -496,6 +555,14 @@ html{background:linear-gradient(#0b1a3a 0 50%,var(--bg) 50%)}
         sub = x.m[4] ? "al calcio d'inizio" : "orario da definire";
       }
       const t = x.teams[0];
+      if (ONLY && !lv) {
+        const ms = Math.max(0, x.ts - Date.now()), mi = Math.floor(ms / 60000);
+        const parts = [[Math.floor(mi / 1440), "giorni"], [Math.floor(mi % 1440 / 60), "ore"], [mi % 60, "min"]];
+        board.innerHTML = `<div class="bk">Prossima · ${esc(x.m[3].split(" · ")[0])}</div><div class="bm">${esc(x.m[2])}</div>` +
+          `<div class="bcd" role="timer" aria-label="Mancano ${parts.map(p => p[0] + " " + p[1]).join(", ")}">${parts.map(([v, l]) => `<div><b>${v}</b><small>${l}</small></div>`).join("")}</div>` +
+          `<div class="bt">${esc(tvFor(x.m))}${x.m[4] ? " · " + esc(x.m[4]) : ""}</div>`;
+        return;
+      }
       board.innerHTML = `<div><div class="bk">${lv ? "In corso" : "Prossima"} · ${esc(N[t])}</div><div class="bm">${esc(x.m[2])}</div><div class="bt">${esc(tvFor(x.m))}</div></div><div class="bc${lv ? " live" : ""}">${esc(String(cd))}<small>${esc(sub)}</small></div>`;
     }
     apply();
