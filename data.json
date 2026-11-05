@@ -180,7 +180,7 @@
    },
    {
     "date": "2027-01-03",
-    "time": "",
+    "time": "17:30",
     "home": "Cantù",
     "away": "Treviso",
     "score": ""
@@ -406,15 +406,15 @@
     "d": "2026-11-05",
     "h": "10:51",
     "t": "Il Milan vuole questo attaccante: svolta incredibile",
-    "s": "newsmondo.it",
+    "s": "News Mondo",
     "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDFtOGNzcXhGZTZfQ1RETjRNMjhySjVrU0ZmS05Oc3RVQjJoNUlnVUhnazFQck9fRGFuUlp1Q3M0WmxnTkt6SU5RTDVwNVE4SGtvYlgxY29ZZHJpNGtsVGgwOThHNTlldFFBUEJKQTNZSDVzMXpsOFhTbnYyNDdHSGI2XzRpYTQ?oc=5"
    },
    {
     "d": "2026-11-05",
-    "h": "10:38",
-    "t": "Milan, doppio addio a gennaio: il club ha deciso",
-    "s": "newsmondo.it",
-    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81UkpLSlZEZ3lIX2pFcWx2aFJyUFRpV0tEYm00cDlSUWpWUE9lQWM5QjcxXy05S28zX25HNEQxSDdwZEVNTl9oLWM3TXN4V0dONGxkbmZDbDlZY0MzNXJfbVVZTXZTQ0h0cEpfQUF0b25OMXZYNWZwSHFNSjZEYk0?oc=5"
+    "h": "10:07",
+    "t": "Milan-Ferencvaros: Amorim dà spazio a Torriani Diawara e Bartesaghi",
+    "s": "QS Quotidiano Sportivo",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNalRJNUlzQkVFQnpFRHowYjZPV1luRzhyZF9CVThnaDJuR1JoVmd5Z1NjLTM4RlZ5TWtqWmRsR25ucTExYTdRN0tqQTU5TG1hUko3cmJJS21HRVB0NFhfbFZnODZETXR5M0haRnEtclFoaVdES3ZzbVRCOGpkWS1tUlg1WG1wOHZMcXY0eHdqS2puVi1xdG9QYlRxQ2xxeG1UdUc4MlZQNE9BRWxZQUhRWndVTHVEUmh6UG1sV0kzUXFSaFk?oc=5"
    }
   ],
   "cantu": [
@@ -478,6 +478,20 @@
   "como": [
    {
     "d": "2026-11-05",
+    "h": "16:10",
+    "t": "Un Como senza limiti gioca meglio in Chamnpions",
+    "s": "QS Quotidiano Sportivo",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb1h2M0gyeEdxZ2NVU3E5SVEyNWNhRlNuaTN3bWpieS1fbkJqSTB4dEJpUDVhYW1ZQWdSUzlJWVMxMGJaR0xpMTBWekFic3VwQjJrVFBsRkNyWGROaDJwRGpEejk5QWVHeUNMVnl4Wnl1VG1oS1diWWgyOTlSdU91TGl3SWtKaUdHVm81aFFVRktSNU9jWTcyQm1IQTNXQVRBN1h5aQ?oc=5"
+   },
+   {
+    "d": "2026-11-05",
+    "h": "15:03",
+    "t": "Un Como spettacolare segna nove reti al Lens",
+    "s": "Il Giorno",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGM2X1BTOWw4QVB3bFVMdUhLcnY1LTVVXy1HSEZXeW4xSzhPdEZxTlVSQ0pidkMyU1Q0LVRSTjR5b2xvVkJCMzh2Q1NoczB4X0xMakRnMzlNbVIyTmpNRDFkNDZab3N4S3Z3UnFnQkp5Ul9iVUh3OFZieUNiNjhDX3IyZjg0c0dTWU1XSmppakp4SmZB?oc=5"
+   },
+   {
+    "d": "2026-11-05",
     "h": "13:22",
     "t": "Como, chi è Matteo Papaccioli: il gol all'esordio e le origini italobrasiliane",
     "s": "Sportmediaset",
@@ -513,24 +527,10 @@
    },
    {
     "d": "2026-11-05",
-    "h": "10:10",
-    "t": "Lens-Como 1-9 in Champions League: gli uomini di Fabregas sono esagerati, notte storica per una squadra italiana",
-    "s": "Corriere della Sera",
-    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbnhhX2s0cHJ6M3RjNzhXekpmVzdJQjZTU3R1dVFLUHVvRlVkNjB3STNDVmVIWEwtWTdPVUtkV0RhTkJjWllQYlFZWUFBSGplZzdTc3RSWTV5N2tETEVXU21WNHVBdzk3MjF4SEFUWW1kcHByVkw5UVQtZjdfSnRKb05pRVlXNVFKUWlrNUlfUHFRMzRUc194SHM4SjZsU2w1U25rYUc0aEVSaXl5elluOXMyUnF1Z2Noc0l1V1QyUWVYd0NydkN3OUpJc9IB0AFBVV95cUxPWXYzVzMzOV9wVmFudTdhbm96SUFKRVVVZlRzQkpiNmJDMVJJVkRUU1pEWi1DQVFtOVcwd2IteTd3bDllMzNXRlY3MGVLNlREUm1qcnpHTU4wT0lQQ250aks0aXJNU2hIeGJDOWFSVVQ4aFNKd3haUlVqNUlwb0hFQzBnUmdGZFN3NDctLXlmTi1id1JBVy0yZWJHS3FlaFFUdENNZUpQLUFwd1h1aVp5WXA0VWdtNGxSNG9XcnVBRHVIX21tbmpDUVYyY3J4d0E5?oc=5"
-   },
-   {
-    "d": "2026-11-05",
-    "h": "10:04",
-    "t": "Chi è Matteo Papaccioli? Il talento del Como in rete all’esordio in UEFA Champions League",
-    "s": "bet365 - Scommesse sportive online",
-    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ1pkOHVZUFRUaVR6ck5HSXRTWk9Va2pnQ1I0dGVDR2pyT2hfTG1ieFFqN0k2bVZHNm1CcV9PWWtXX1lENVp5N1pub0hlNFVBUUtJTEZIRUFUdTZuS2syYThwZFZwN05NOXkwRE84LS1lSTZ3NFhhUm5iWDRtRWZDSnJVbTFrNFFIa1phZkNFZmNwRjV3TUJrSTd0WW8zaTNVc3FoeEp5aWNYQlFxX1FFR1kxTHZsWnZFVHdRcFJnak1HUjJhemtOSkhhUjFrbHNIeEVObFdPeDMyLTg?oc=5"
-   },
-   {
-    "d": "2026-11-05",
-    "h": "10:00",
-    "t": "Il Como di Fabregas è l'orgoglio del calcio italiano: vittoria da record e numeri impressionanti al debutto assoluto in Champions League",
-    "s": "Goal.com",
-    "u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNa1JXR0NyQThsMG9TVVlSNUxiNVFXczZFclpudjF3WE1xMFdPNFB1LU9yZFo4Ym5qcFRtMnpRM1FLWkF0dkZWU0dWWF96TjRvdVNVZkN1aVpCbFNqUVZVdEN4cFd5dDl0VkhJbmVjc0pCWW5YalJOU0N6WUtjcUNMOGEwNC1yZ0ZzOXNRVzd4dXRvYl81TmppTll4RDBkdi03VVRBMkQweHRuRmFqLUd3alE2OG9vN3BHdy1kb3QzYXJpbmlYWGRyR1ZVdV9FRmhxb0JoZ0dYeWF1NnZxT2Q2YzhxOUdBM1lvY0tBYXg4Y2FUMEJNRkozT3JILXE2N01qWDN6N1RlQ2lqOGJPeWQ0ZzVSUQ?oc=5"
+    "h": "10:30",
+    "t": "Il Como segna 9 gol contro il Lens e la stampa impazzisce",
+    "s": "Corriere del Ticino",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXhRekRFTVZmSGhDVTUxQ24zVHBxSmhTeUY1T3AyQUdRVkNObzhYeUtqRm9PYlZBREVJdy1mY0EweWZfdnE0eDUzaUUzTW9KWlg3MENBbThTc3d1bEtNb1ZtOXQ2U3BHSEtBRU9fUnRWQ2VOU2dUYjZFaklSVk83bVBOOGl2Zl9nSW9zZHVNY2M5M01mZmM5MEtvOW8?oc=5"
    }
   ]
  },
@@ -879,9 +879,9 @@
  },
  "odds": {
   "2026-11-05|Milan – Ferencváros": {
-   "1": 73,
+   "1": 70,
    "X": 17,
-   "2": 10
+   "2": 13
   },
   "2026-11-08|Inter – Como": {
    "1": 51,
@@ -1200,7 +1200,7 @@
    ]
   }
  },
- "updated": "2026-11-05T14:36:10+00:00",
+ "updated": "2026-11-05T15:30:23+00:00",
  "log": [
   "non finita Milan – Ferencváros STATUS_SCHEDULED",
   "classifica milan 5 21",
