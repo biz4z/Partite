@@ -362,6 +362,13 @@
   "milan": [
    {
     "d": "2026-11-05",
+    "h": "18:38",
+    "t": "⚽🔴 LIVE Milan-Ferencváros, Europa League 2026: diretta TV streaming di calcio 🛑 Notizie dell'ultim'ora 📆",
+    "s": "musicletter",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPejktZV9sTGQ5bU1MYkF0SGU4aEYzQXRoWlBZbU85c185eVVKdnluVmFVU3djemR0aUNnM2NRYkhXa1VxdFVTaEpIOWFVOVVtYUNobmJSNUdoaVFsX0xaTU9jMy1vVmR6blVybDQ3T1Y1OG9GZkxyWndVcHRrakVBcVVwM2U4OWNyQTl5RXYtZUhWVDlDdXhPc29kQmFQNk9qbzJQd0RiLUxwbk92TDhfNWx4N0lLNWZvX2FWZ2RDQnZFakZMWlFjaUxCMDB6aTdrTGxr?oc=5"
+   },
+   {
+    "d": "2026-11-05",
     "h": "18:20",
     "t": "Milan-Ferencvaros LIVE, Amorim vuole ripartire",
     "s": "Sky Sport",
@@ -408,13 +415,6 @@
     "t": "Milan-Ferencvaros, diretta testuale: dove vedere la partita, orario, formazioni e live Europa League",
     "s": "DAZN",
     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa2hTUmZiTWxTUWNaR2hBeDVVb19lRm14SXJQcmJheXhYbXh5WEQ1bjlwbzhLYUtYYzdhLWVxX1NMb0V5TVJDY25DR014SklLdHI3MFpRSEthYlk4dFR4Vmptd0FvSC14ZUN0aHZFOHZyNTBYXzBTS2p4N3BITXMxMWVfOFBVUEhvUUUydzhTYll6TjZHaUFOTzZhNVhubnQxOEZ1ZFJZVkQzOGRyOUFZdGRJY3RTWXBlUUpXRnZFVzZ0dzlaYlhLWDRTaTRUSDVDdXZjYQ?oc=5"
-   },
-   {
-    "d": "2026-11-05",
-    "h": "14:26",
-    "t": "Milan, le ultime verso il Ferencvaros",
-    "s": "Sportmediaset",
-    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1FRUjlrMUp3b2lUaUtmNkNxVFpHMGxSYjU2aXY3QUJYanNKeUlSS184MTdaQjA1NF9nZG01cXd6OU5WVW5CeDlpVDFqQUFUeE43WkJxcmJOMDVjMk1ZZ0dVeERyYnRXSlZXdmJVUTkzZldNN0VaX2RDOFcyMDdKRnJQdmc4eHZ4UlFONTdBV2ZWWXEzTi1yb0I2UDBWUlVveFY2NDdWXzVUUEd3QTUzcDdDc05qWGJQ?oc=5"
    }
   ],
   "cantu": [
@@ -879,9 +879,9 @@
  },
  "odds": {
   "2026-11-05|Milan – Ferencváros": {
-   "1": 67,
-   "X": 19,
-   "2": 15
+   "1": 68,
+   "X": 18,
+   "2": 14
   },
   "2026-11-08|Inter – Como": {
    "1": 51,
@@ -1079,126 +1079,75 @@
      {
       "n": "L. Torriani",
       "j": "96",
-      "out": true
+      "out": false
      }
     ],
     [
      {
-      "n": "F. Terracciano",
-      "j": "42",
-      "out": true
-     },
-     {
       "n": "D. Bartesaghi",
       "j": "33",
-      "out": true
-     },
-     {
-      "n": "K. De Winter",
-      "j": "5",
-      "out": true
+      "out": false
      },
      {
       "n": "S. Diawara",
       "j": "13",
-      "out": true
-     }
-    ],
-    [
-     {
-      "n": "A. Jashari",
-      "j": "30",
-      "out": true
+      "out": false
      },
      {
-      "n": "O. Hutchinson",
-      "j": "20",
-      "out": true
+      "n": "K. De Winter",
+      "j": "5",
+      "out": false
      },
      {
-      "n": "Y. Musah",
-      "j": "80",
-      "out": true
-     },
-     {
-      "n": "A. Rabiot",
-      "j": "12",
-      "out": true
+      "n": "F. Terracciano",
+      "j": "42",
+      "out": false
      }
     ],
     [
      {
       "n": "A. Cissè",
       "j": "70",
-      "out": true
+      "out": false
+     },
+     {
+      "n": "Y. Musah",
+      "j": "80",
+      "out": false
+     },
+     {
+      "n": "A. Jashari",
+      "j": "30",
+      "out": false
+     },
+     {
+      "n": "O. Hutchinson",
+      "j": "20",
+      "out": false
      }
     ],
     [
      {
       "n": "G. Ramos",
       "j": "9",
-      "out": true
+      "out": false
+     }
+    ],
+    [
+     {
+      "n": "A. Rabiot",
+      "j": "12",
+      "out": false
      }
     ]
    ],
-   "subs": [
-    {
-     "n": "C. Pulisic",
-     "j": "11",
-     "out": true
-    },
-    {
-     "n": "D. Moreira",
-     "j": "22",
-     "out": true
-    },
-    {
-     "n": "C. Comotto",
-     "j": "28",
-     "out": true
-    },
-    {
-     "n": "M. Gila",
-     "j": "34",
-     "out": true
-    },
-    {
-     "n": "M. Pittarella",
-     "j": "37",
-     "out": true
-    },
-    {
-     "n": "L. Bouyer",
-     "j": "41",
-     "out": true
-    },
-    {
-     "n": "L. Modric",
-     "j": "14",
-     "out": true
-    },
-    {
-     "n": "V. Vladimirov",
-     "j": "35",
-     "out": true
-    },
-    {
-     "n": "P. Estupiñán",
-     "j": "2",
-     "out": true
-    },
-    {
-     "n": "F. Camarda",
-     "j": "73",
-     "out": true
-    }
-   ],
+   "subs": [],
    "goals": []
   }
  },
- "updated": "2026-11-05T17:35:15+00:00",
+ "updated": "2026-11-05T18:15:51+00:00",
  "log": [
-  "non finita Milan – Ferencváros STATUS_SCHEDULED",
+  "non finita Milan – Ferencváros STATUS_FIRST_HALF",
   "classifica milan 5 21",
   "classifica como 4 23",
   "classifica milan_eu 24 3",
