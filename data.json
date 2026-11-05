@@ -10,7 +10,8 @@
   "2026-10-28|milan": "2-4",
   "2026-10-31|milan": "3-1",
   "2026-11-01|como": "1-0",
-  "2026-11-04|como": "1-9"
+  "2026-11-04|como": "1-9",
+  "2026-11-05|milan": "0-2"
  },
  "standings": {
   "milan": {
@@ -44,17 +45,17 @@
    }
   },
   "milan_eu": {
-   "pos": 24,
+   "pos": 26,
    "pts": 3,
-   "g": 3,
+   "g": 4,
    "up": {
-    "n": "TSG Hoffenheim",
-    "pos": 23,
+    "n": "OFI Crete",
+    "pos": 25,
     "pts": 3
    },
    "dn": {
-    "n": "Celta Vigo",
-    "pos": 25,
+    "n": "Torreense",
+    "pos": 27,
     "pts": 3
    }
   },
@@ -314,6 +315,11 @@
   "milan": [
    {
     "d": "2026-11-05",
+    "t": "AC Milan-Ferencváros 0-2, UEFA Europa League 2026/2027: la cronaca | AC Milan",
+    "u": "https://www.acmilan.com/it/news/articoli/europa-league/2026-11-05/stop-casalingo-in-europa-league"
+   },
+   {
+    "d": "2026-11-05",
     "t": "AC Milan-Ferencváros, UEFA Europa League 2026/2027: statistiche, classifica, arbitro e squalificati | AC Milan",
     "u": "https://www.acmilan.com/it/news/articoli/europa-league/2026-11-05/milan-ferencvaros-match-preview"
    },
@@ -321,11 +327,6 @@
     "d": "2026-11-04",
     "t": "AC Milan-Ferencváros, UEFA Europa League 2026/2027: la conferenza stampa della vigilia di Rúben Amorim e Koni De Winter | AC Milan",
     "u": "https://www.acmilan.com/it/news/articoli/conferenza-stampa/2026-11-04/amorim-partita-da-vincere-con-il-giusto-approccio"
-   },
-   {
-    "d": "2026-11-04",
-    "t": "Emirates MVP di ottobre 2026: Diego Moreira | AC Milan",
-    "u": "https://www.acmilan.com/it/news/articoli/awards/2026-11-04/emirates-mvp-di-ottobre-diego-moreira"
    }
   ],
   "cantu": [
@@ -362,6 +363,27 @@
   "milan": [
    {
     "d": "2026-11-05",
+    "h": "20:50",
+    "t": "Europa League: Milan-Ferencvaros 0-2",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMUluN0FRLVpLTDExaWNpYzUxQm5DRTJaY1ZQNjl2b002eUlyUEZpaHdpN3dYYm9NU19xSTlpbHR5MUcxZ2hTUU5RQXBVWFdkdV8ydFdEUVBSajVTd2FQQXllRmRvT3ExQlU1QnNfdE16SURZRkJaUGp5MUx6QS1ZYjFoNWNjVkt6Y2lnNGRNeGpNNkNJeFkzY2xiR0EycUlYLV90ZGpSLS1qOTFOTVVudVNpMDdBVkZDY1ZIck1PUHdMSmN2bjdadC0zc0wzN0Rj0gHWAUFVX3lxTE9MTHJtWkFlTjJjYTZBQm9TeUZMaGZsVno4RWppNTF3RnZhX0dvWmhJMVEtN3JJWDljdFdjUVRpTC1EQ2hia3l3RjhESHdfbDktLVpPbkNvNFZkSzIzS1MtSHNUVVJTQkFhWUFFSFBHeml3d3hKS3RpMDhJaTJuVVJwSTEtQ1ROOGNaVnlNV2xxQmdWME0yeHl3X1dnZ0l0VGZ4cUIxaE9PNnJTV0M0X2JvWmtyTmtTaWZQdmRTQlNGdE1xVTVPb1RiY19zS2xuTU1nbVg0bVE?oc=5"
+   },
+   {
+    "d": "2026-11-05",
+    "h": "20:44",
+    "t": "Milan-Ferencvaros 0-2, Joseph infligge un altro ko in Europa al Diavolo",
+    "s": "QS Quotidiano Sportivo",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPejZxQlNVMW9tQUpYOWRZSWJWWmJTdWhfandlMWlfUTJZOEpJSEZpRDNMUk5DSUhBZnQ1RXFEM1VlRmZqdE54Y0VqdjIyOEk2NjhIQjI3Mmdybm5GYV94Q0RmbVdpUmNpZVU0NEpfb2VnY3RpelI1TDBBelNieDYxMGpObm82eVpuMU00S21hTVotdGxRWG45dVo0YmhDSFJJQl9qd2xRZ2lMVUFoQU8zRkhCejhXSkxTbnQtUkNvNE5wXzF5dWU1Zw?oc=5"
+   },
+   {
+    "d": "2026-11-05",
+    "h": "20:13",
+    "t": "In campo Milan-Ferencváros 0-2 e Atalanta-Kairat 0-1 DIRETTA",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPN0RHYk5fTEE3QlZJSjdrU1hmeHVXY3owNjNjVWx6aWRSckktVEhrc0taTDBDbXh1LUpSbHU3QURma3dVMEhyaXVHQWxpbnZHYWVJdWRkMnBrS3dsajdyTjljdDl3Ym9oaVd6WGVhSzZDTG43bmdKLVFsRFJGRmxSeEIzQkJGNVlsV2R6RTJvTWxUSmRjc0ZURGNHN2ZJbHYwWHE1aEpzXzA2Y3lRdkJDbGFwSHl0R3lVSm5tVS1QcHcwVXVHLUpud2tOVWZvVWUwN3FFeFhndjVpWC13ODV1dE0tTk9TUUJUVDhWNkhtbVhQdkM2RmVSckJaWnNTb3ZTQWFvZ19vaW3SAY4CQVVfeXFMUDA5OFc1QTRIaTZmLUtYaHdPNUdfc0I4TWZwSUlsY3BqcllOZllFSm1zR2F2UTVNQXVtSlkzcEFsSW1Wa1c4bnhWTDdzalRCZnZqeWZqeGJaWmpleTRhTDdjWS1hQWE1TmFsWUV5Z2psYy1DMzdqajk0b2YyQ3oxZUREQnQtNzdLajlzSk5LOWFETWpOVEFpdVJHM1NqbzBJV1ZTVXZrUUVrVERJUzUzUVZqV2gteUZyVXl3elBNNG1Sa1dwMFMyTGFMWDlCSFp6SHh3SXVyUTMzVDJJNjRxcDdpdDJYYU45Y0NQQUdIMFlIejdtM3htV1U3bkJ0dHIxRU1uN2Q0WnhfTGFYNDVB?oc=5"
+   },
+   {
+    "d": "2026-11-05",
     "h": "19:44",
     "t": "Dove vedere Juventus, Milan e la quarta giornata di Europa League in tv e streaming: partite su Sky, TV8 in chiaro e NOW",
     "s": "Goal.com",
@@ -394,27 +416,6 @@
     "t": "Milan - Ferencvaros",
     "s": "Diretta",
     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3EtYXJ3ZGpzY2JBc3JSUUh5R2lLYW5zZWVaV2VYNnFnOVdEdEpDYzhlTnd6dUJ2UXV4OG1LTnU4WUhIVWR1UGU1NVpBUnpXdm5QM0hCYk0wYlBPWDFOSG9lUDM0REgyaTlqUHVNWjM3d2FhTmY2SGwzUEVnZTdlV3ZLUQ?oc=5"
-   },
-   {
-    "d": "2026-11-05",
-    "h": "17:15",
-    "t": "Live Milan - Ferencváros - Europa League: Punteggi & Highlights Calcio - 05/11/2026",
-    "s": "Eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEJpdlItalRYX09WTngzQVd4eE94Q3owam1IcGdsNUhETk9kbVI4RVltUC1ZWVVCRnFzOFBJWGpfVkNvb0tvWGtwQWRNMGZDaFM3TF9CNWRsbVMzbHYyLWZHdU91dkJCWUktYzRPNTZXeFFTS0Z3TVY2WXp0Q0xRLXIxbFZpemwybDZ4UlJhZllLdTc2TmxUVFBXelNJWG1Fekxz?oc=5"
-   },
-   {
-    "d": "2026-11-05",
-    "h": "17:15",
-    "t": "Milan-Ferencvaros, probabili: Amorim sceglie la linea verde e rilancia Cisse",
-    "s": "Eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPSzgzWHhnUnNoQkZNS2hoaUx3LU01ZWNYWVJVSmpwR2RuU0s0TkFBakpMTExoaEkzVkN5VDNCY0ZEeEFSSjJRdVdOZWNXTlpSOWVHb3VNUlZaQ1FsMDA3RU1hRS1zc1FWbFJ1emZxOHFjT3U4MWtxdEQxdmdHdDRCYmVwQnAydzVqc29abEl5cWx6MEpOT1ZQSXpvcWlFME5lZGZneDB5aHpLX0VpRXFuY2hXV25nS0NTR3NhamZaeEhiOWlscFAtQ3RrVW9WNWVRUHl4Y0lrNHRRVTNuR1JHS2FiRmxiMnpkVEE4SUpFWGtIWENwVWhOZjdEQ2dRaTRVZ25YUFBOZGlkWFotNWdFRVl5Y3BnQUxKdkJ5OTlnYng4R08tRk42X1FtdFVkZTFuRmZYZzRzbkVwdk8wX0xEZ3FOdw?oc=5"
-   },
-   {
-    "d": "2026-11-05",
-    "h": "17:15",
-    "t": "Milan-Ferencváros LIVE diretta testuale: risultato, formazioni, gol e cronaca dell'Europa League",
-    "s": "DAZN",
-    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjgteWUyaUNfbzhpamNSM0NmNk80Vnphclp4dlFCZVVXdlAydVpfOTI1c0YwcUI4ck02ZjFzNjNfNF9sS2NaM3N5SEk4c2FBa0pIbWtZUkVlbmZzVEJaYm5rQ2FabjhkNDVlaW5sY0JneWY1YkYtRmlMUVoxa25NcEFEc3hyczcxY1BCR2Zfc3d1bFRxS0hkQV9qMGVJTUY0ai1SaFhGRW5fVmNZRDl0d2lLNTVSZw?oc=5"
    }
   ],
   "cantu": [
@@ -478,6 +479,13 @@
   "como": [
    {
     "d": "2026-11-05",
+    "h": "19:16",
+    "t": "Un altro Cassano in azzurro: il play del Como convocato da Mancini che non ha ancora esordito in Serie A",
+    "s": "La Gazzetta dello Sport",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWW1yeGRTQUI3WGh0aDFpdHU5MzNNN0xENUg3ZFQ3SDUtbFdKQ0hkMWJtbFlVX3E1OFZxX0pFbUFadmxGV3RoN0gtMW9KeGxJSFFvMU9fZjdvQi0tRDJHR2s2VkdfVF9TVlhDZGo3U2M4QzhPZC05OWRjMjR0el9iVWZqLVdhUnktN3hqT2pIRi1SZlRpdkVqVG5QLTlPNjTSAaQBQVVfeXFMTS14VUFyZHZuUmlLeDE2cERFdk5jdU10bm0tNTc1YlEwazBvNTRTVHU0SnVBLVlCNGN2QlVUbHdDSzlfN3J0c29saE1rdHd2UzNScEQ4NlJseUZ3aENWbmdDeHhpMHZULS1jWXRlaE56NV9SZHljWnZlQkJMQzhpekp0eEZmNTZuMUExaGNrRFJEVDlTa3RERnJaVUZCWGZHRTRoNnI?oc=5"
+   },
+   {
+    "d": "2026-11-05",
     "h": "16:10",
     "t": "Un Como senza limiti gioca meglio in Champions",
     "s": "QS Quotidiano Sportivo",
@@ -524,13 +532,6 @@
     "t": "I segreti del Como iperbolico di Fabregas, profeta del calcio verticale, in Champions. Il declino inarrestabile dell'allegrismo",
     "s": "Virgilio",
     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3B4cm9aeGo2OVZtb0tsdGlDdnpQY1JZYk9lZmNwOG5uQzRqR3lOUEdKbTU5OWtqaDhNb04xcUlMZjF0RE1rTzBTbkVsaVZrZ2RaSGJaMXJsNlo3NDk2UzhreEtKZ0pfYnVGcU1DY3BlWFJHNFFtakdmRWlrYjAxSHJYcXdhdEtjSUxFT0dEWHFGN00zRlBr0gGeAUFVX3lxTE5hNmduUEJ5bEZkWGRTR2JLLUVqZF9va25CaVpfZXV2SWRZa0F3OU1IOGNyZElkcjNua2lnTVNabmJtMFU5V2FJZFZqNnRNeWFTOEl2QWF1YjFWampqNDBTaENXUXYyd2h2UnM5RTVhaVZKLWNMajdMX0dfaFBEMzJqaW9tVlRldDdyQng0VmRzWlFxUUk4MTQ4RzhsODFB?oc=5"
-   },
-   {
-    "d": "2026-11-05",
-    "h": "10:55",
-    "t": "Como, notte magica in Champions per due giovani italiani: podio in una speciale classifica",
-    "s": "Calcio Napoli 1926",
-    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU0V0TjczN0tUcWdVSW1wd3R6eEhYUy1oLVdBbFR0UWM1Q3BNOXoyZWU1SUx4bGxIVnpzM19NUGRtMjVaNno0SENwaGJadm92Umk3WWt5bEZHekhTQ2FxQlFxMS1feTZjY3NmVEJEVS05alFIeGdjb2FmR3U1a2t1UDdSYjZjX0ZpU05sTEZqLXVKMS1XTTNEVWdVcVZkcmsxeW9TT2cyUjBLekdPQ09VN1RXZUJMUzM4bGh5MEo3eUlxMmPSAcgBQVVfeXFMTnVyanNnWFRoNWNQdExFTXREOWUzUGRZVVFYTG82X3l3S2Z5dTFEVWN4T2E2VmtRaE52ZnUydlpjN3dKZWFfVkhrcGJqMi1ZcjIwSTZhWW1QUWVnOHRTRDlHeUx1dDdtUzQwQWFNM1dkR0dOaERTMHZ0SjFZWUlfOFFlVG5QSXg1R21fbUtrc0Y0SUpDVnVJRlZ2NVg0SDBLTW82eHlxNklFcTJUS0xSczBZSHVUTUhtdGVUbWlYVkptZ21hdnVhSmo?oc=5"
    }
   ]
  },
@@ -878,11 +879,6 @@
   "cantu": "https://r2.thesportsdb.com/images/media/team/badge/vy599w1784567424.png/small"
  },
  "odds": {
-  "2026-11-05|Milan – Ferencváros": {
-   "1": 68,
-   "X": 18,
-   "2": 14
-  },
   "2026-11-08|Inter – Como": {
    "1": 51,
    "X": 23,
@@ -1073,7 +1069,7 @@
    "date": "2026-11-05",
    "comp": "UEFA Europa League · fase campionato 4ª giornata",
    "formation": "4-4-1-1",
-   "score": "",
+   "score": "0-2",
    "lines": [
     [
      {
@@ -1186,12 +1182,12 @@
    ]
   }
  },
- "updated": "2026-11-05T19:13:40+00:00",
+ "updated": "2026-11-05T20:02:25+00:00",
  "log": [
-  "non finita Milan – Ferencváros STATUS_SECOND_HALF",
+  "risultato Milan – Ferencváros 0-2",
   "classifica milan 5 21",
   "classifica como 4 23",
-  "classifica milan_eu 24 3",
+  "classifica milan_eu 26 3",
   "classifica como_eu 4 9",
   "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 6, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
@@ -1206,6 +1202,6 @@
   "loghi ['cantu', 'como', 'milan']",
   "formazione como Lens – Como 4-2-3-1",
   "formazione milan Milan – Ferencváros 4-4-1-1",
-  "quote 3"
+  "quote 2"
  ]
 }
