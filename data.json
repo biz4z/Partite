@@ -356,11 +356,6 @@
     "d": "2026-11-04",
     "t": "UYL | RC Lens-Como 1907 2-1: la cronaca della partita",
     "u": "https://comofootball.com/uyl-rc-lens-como-1907-2-1-match-report/"
-   },
-   {
-    "d": "2026-11-04",
-    "t": "La presentazione | RC Lens-Como 1907",
-    "u": "https://comofootball.com/match-preview-rc-lens-como-1907/"
    }
   ]
  },
@@ -418,7 +413,7 @@
    {
     "d": "2026-11-06",
     "h": "10:38",
-    "t": "Milan, cosa serve per la qualificazione al prossimo turno di Europa League? Ecco la situazione",
+    "t": "Milan, cosa serve per la qualificazione al prossimo turno di Europa League? Ecco la proiezione",
     "s": "Gianluca Di Marzio",
     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM2xaTDRBOFAwdDdZclBQTnViWmZ0VFhHWnNWV0lUbHIyUk9wd3hZZHJGUjIyR2t1TGxsSXREekNEamtTUkF4Mi1fRXYxaG9EdlN5LXI3ZndfOTV0SElEcEVfTVdaUFVYWk9ELWFmQWJYVzFNYUdDSWUySWxGRkZ3LWFQUkZDOVJzSWMwZ2t6X05QOGs?oc=5"
    }
@@ -505,13 +500,6 @@
    },
    {
     "d": "2026-11-06",
-    "h": "12:30",
-    "t": "Un altro Cassano in azzurro: il play del Como convocato da Mancini che non ha ancora esordito in Serie A",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWW1yeGRTQUI3WGh0aDFpdHU5MzNNN0xENUg3ZFQ3SDUtbFdKQ0hkMWJtbFlVX3E1OFZxX0pFbUFadmxGV3RoN0gtMW9KeGxJSFFvMU9fZjdvQi0tRDJHR2s2VkdfVF9TVlhDZGo3U2M4QzhPZC05OWRjMjR0el9iVWZqLVdhUnktN3hqT2pIRi1SZlRpdkVqVG5QLTlPNjTSAaQBQVVfeXFMTS14VUFyZHZuUmlLeDE2cERFdk5jdU10bm0tNTc1YlEwazBvNTRTVHU0SnVBLVlCNGN2QlVUbHdDSzlfN3J0c29saE1rdHd2UzNScEQ4NlJseUZ3aENWbmdDeHhpMHZULS1jWXRlaE56NV9SZHljWnZlQkJMQzhpekp0eEZmNTZuMUExaGNrRFJEVDlTa3RERnJaVUZCWGZHRTRoNnI?oc=5"
-   },
-   {
-    "d": "2026-11-06",
     "h": "12:22",
     "t": "Calcio su Sky e NOW, il weekend di Inter-Como: Premier League, Bundesliga e tutta la Serie C",
     "s": "Sportface.it",
@@ -537,6 +525,13 @@
     "t": "Questo Como è da studiare",
     "s": "La Provincia di Como",
     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTnltSmVXTGlRLWdGTnhsMGdSUU12S1Y3WXYyMTRMSVBFald4MXRRQmpQbnVhcmxlaWNJR19RU2dpUXB4ZlJmTlhpX3dqVkhRcTFOSmRZdWU1dnktRkMteUdkc0Y3YWRfcWxTSUJpV2dpc0w1RXZQZ0YtZE5zY0tIRUpURzV6aVcwVlpsMlo2aTJOMFJHUVhkOWFodXQwdDJv?oc=5"
+   },
+   {
+    "d": "2026-11-06",
+    "h": "09:00",
+    "t": "Che soddisfazione. Como, la giostra del gol in Europa. Anche i difensori fanno i bomber",
+    "s": "QS Quotidiano Sportivo",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV040eVdBZEhFUmVBT1Z0RzBmZDVRc2lkdklFT1VOaW9xekszVnY0YjgyT1lFVjNoQXJvdmZlWEd2RXFmdHE2T3RnVEgwMkxaUlNHbnRxcFpXSWdjOGRzU1RaNF9ORWFRbUJuWENuekdta3B1MFBUXzNfYUEyTjN2X1NRUE5NeTdRVUhr?oc=5"
    }
   ]
  },
@@ -1187,7 +1182,7 @@
    ]
   }
  },
- "updated": "2026-11-06T15:56:48+00:00",
+ "updated": "2026-11-06T16:41:27+00:00",
  "log": [
   "classifica milan 5 21",
   "classifica como 4 23",
@@ -1196,7 +1191,7 @@
   "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 6, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
   "notizie cantu 3",
-  "notizie como 3",
+  "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
   "stampa como 8",
