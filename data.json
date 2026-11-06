@@ -87,8 +87,229 @@
   }
  },
  "cantu": {
-  "games": [],
-  "standing": null
+  "games": [
+   {
+    "date": "2026-09-26",
+    "time": "20:00",
+    "home": "Venezia",
+    "away": "Cantù",
+    "score": "85-73"
+   },
+   {
+    "date": "2026-10-05",
+    "time": "20:00",
+    "home": "Cantù",
+    "away": "Udine",
+    "score": "84-85"
+   },
+   {
+    "date": "2026-10-11",
+    "time": "17:00",
+    "home": "Cantù",
+    "away": "Napoli",
+    "score": "80-99"
+   },
+   {
+    "date": "2026-10-18",
+    "time": "18:00",
+    "home": "Trieste",
+    "away": "Cantù",
+    "score": "92-72"
+   },
+   {
+    "date": "2026-10-25",
+    "time": "18:30",
+    "home": "Reggio Emilia",
+    "away": "Cantù",
+    "score": "81-60"
+   },
+   {
+    "date": "2026-11-02",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Olimpia Milano",
+    "score": "82-95"
+   },
+   {
+    "date": "2026-11-08",
+    "time": "16:00",
+    "home": "Maxima Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-11-15",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Tortona",
+    "score": ""
+   },
+   {
+    "date": "2026-11-22",
+    "time": "17:30",
+    "home": "Scafati",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home": "Cantù",
+    "away": "Varese",
+    "score": ""
+   },
+   {
+    "date": "2026-12-12",
+    "time": "20:30",
+    "home": "Verona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-19",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Trento",
+    "score": ""
+   },
+   {
+    "date": "2026-12-27",
+    "time": "12:00",
+    "home": "BC Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-03",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Treviso",
+    "score": ""
+   },
+   {
+    "date": "2027-01-10",
+    "time": "",
+    "home": "Virtus Bologna",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-17",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trieste",
+    "score": ""
+   },
+   {
+    "date": "2027-01-24",
+    "time": "",
+    "home": "Udine",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-31",
+    "time": "",
+    "home": "Cantù",
+    "away": "Verona",
+    "score": ""
+   },
+   {
+    "date": "2027-02-07",
+    "time": "",
+    "home": "Varese",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-02-14",
+    "time": "",
+    "home": "Cantù",
+    "away": "BC Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-07",
+    "time": "",
+    "home": "Cantù",
+    "away": "Maxima Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-14",
+    "time": "",
+    "home": "Treviso",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-03-21",
+    "time": "",
+    "home": "Cantù",
+    "away": "Scafati",
+    "score": ""
+   },
+   {
+    "date": "2027-03-27",
+    "time": "",
+    "home": "Trento",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-04",
+    "time": "",
+    "home": "Cantù",
+    "away": "Reggio Emilia",
+    "score": ""
+   },
+   {
+    "date": "2027-04-11",
+    "time": "",
+    "home": "Tortona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-18",
+    "time": "",
+    "home": "Cantù",
+    "away": "Virtus Bologna",
+    "score": ""
+   },
+   {
+    "date": "2027-04-25",
+    "time": "",
+    "home": "Olimpia Milano",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-05-02",
+    "time": "",
+    "home": "Cantù",
+    "away": "Venezia",
+    "score": ""
+   },
+   {
+    "date": "2027-05-09",
+    "time": "",
+    "home": "Napoli",
+    "away": "Cantù",
+    "score": ""
+   }
+  ],
+  "standing": {
+   "pos": 16,
+   "pts": 0,
+   "g": 6,
+   "up": {
+    "n": "Scafati",
+    "pos": 15,
+    "pts": 2
+   },
+   "dn": null
+  }
  },
  "news": {
   "milan": [
@@ -149,6 +370,13 @@
    },
    {
     "d": "2026-11-06",
+    "h": "19:46",
+    "t": "Studente ad Harvard dopo il ritiro: riconoscete l'ex Liverpool e Milan?",
+    "s": "Corriere dello Sport",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZlRrWWhqN01yUXJPczhDWXBaVVEwb2FGUVhKemJwd1JydEV5UXBNcHdfYXJUdW5zcHl4ekhXaTgtRVFOSXNLTUFfUnZ5UWl1OHI5QUhCY2lXa3dGUDYtN181dEdDaHREMTBGNkZxVmhxV180QlIwaGhzTHgxNWVfMzh5XzhuUXlBNVc2UlZWRkZaTTRBcS1ZdmJlcEV2R1VKRHNEeHJjM3IyT3B3Wm5jQlRQT01ibVlCeXFhc1N6R1MtcG95YUQ3REVUUXFGNG5IcnZV0gHWAUFVX3lxTE1YS2M1NjNMaUdiTEFDLWotZ2xibjNCTlgwdHpUNUhUdjlBeF9jdmhlWExXV0lVdGJ5NkwySF90YTNuMnQ4dGFVTDE4U28xYmwxWFFOWk50RGVOU1NOMngxeUZsZ0FSSmgxX3VNcHB0MnRjMUx4ZkxFS3l0WjAzNVF1ajg5UEZzNV8yLWg1UjZQTEtBWFdfOWxQeFVJYW1HQWxVYXpDU29WRGs1YUx4dFdSMUVFUm5DbDVSRDlkZ3l1NEVYMktYNXFyX1VCZmpHc1pTVV9GU1E?oc=5"
+   },
+   {
+    "d": "2026-11-06",
     "h": "18:48",
     "t": "Parola alla difesa: Filippo Galli sul momento del Milan di Amorim",
     "s": "Sportmediaset",
@@ -188,13 +416,6 @@
     "t": "Calcio: Genoa; De Rossi, 'non montiamoci la testa, questo Milan è da prime tre'",
     "s": "ANSA",
     "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQ0RvRUdnRmdCTFRCcGwzUGhQRWF0R0ZBMEQtYTZKVXpmcTN4bEdpdTVCMmlXNENtMEo1OHBfYUZUVXNXanJXTlFjRmZDMmVLQm9NbklpWEhiM1JVXzRzUlE1YVNiWTVxNWJkV21PT3ZHQWVtbXp0eUJxT2ZxejZxdkVUdnlfNE40UWZCSl9DbzNxcjJLSHM1LUxQLUVrMTY3T3JWVEJOTjVqb2ZfVzVJcldvYzZVd0oyOVZRbi1nMko5QUZrNFl0NUVFNWpLT1RIUVpfOFFCVklpV2RncGlQQ21jYm1QSU1VT2laUzhseFQ0bXZtZEw4R0dTbUtlTTlkeWfSAYcCQVVfeXFMTTNHSmpVcmZtY2VPUERGQVpSU3gyR0RhUWJ1WU9SS05OYXlMSGtFM1dUWlg5aVpaSlp3MUI2SVJSY3FrZ1VrMmFodnplME1uR1BvTy1qZVVVcUM1OW94b1B0Z3NnTjM0S080TWxuXzctcDZzQmVScGphVExSUHNpR1BoY0RnYTRNdmdFY3dDRnk4RWl0SHdKQzB5T1JHMThsWTd6Y25LQTNOeHNFZ3cxUEdHODdDVzhqS0lfSzEyd1c5VWMzQk5yUGNEdDByc2Jxbi1hQmRDLTl5QjVBMFJYWS1yd3RlbHlaYzViWk5sRG5vX0pWRXBxNUhnNjluYlE0OVhNai1PU28?oc=5"
-   },
-   {
-    "d": "2026-11-06",
-    "h": "12:57",
-    "t": "Costacurta: \"Milan, sembravi alla Scala. Non del calcio...\"",
-    "s": "Sky Sport",
-    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcHFhcHhQbzFTd0Vod0ptT29pb3d6bEFRblJWY080bjlZT3RsdUFUVXBhZ3ZRc1BrdGd1OXFiaGdMeXRVdDUyVXNwYWN3Vlo4czFJUm9fVDNhSERaY3k0RjBQYWZlTHVLaEVfOG1hbDV1T3hYREplSWxwTmNEYlNHSnRIRmRMUi1MRmhUQVBXVkFJMFdhQmlOTTFaOGZOb3hBQUwwenNLYjQ0N2pjR1Uw?oc=5"
    }
   ],
   "cantu": [
@@ -258,6 +479,20 @@
   "como": [
    {
     "d": "2026-11-06",
+    "h": "21:24",
+    "t": "Como 1907, Mazzantini: \"La Roma sta dimostrando il proprio valore in campionato\"",
+    "s": "Voce Giallorossa",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRXpRam9Ba3NBYTY0Vk92aE5wbjJnajlTbTFhZXZ1T0FuSnJ3X3B2Nzl0N0tJc2RWcHR5R0RqdTlHSEJtaHVHRDNUSXpGVDZRRVJUOWJwRWNIUVdERUZKRUpUQUFYVE1tUmY0NnhGSlR0ZUI0NlBCZkJJWmJoVzc4OVd5WFh2am1tZG9uREs0S2NaZGZlSXFkaGNBUWVaMlZNNlhNVU9wLWVFUQ?oc=5"
+   },
+   {
+    "d": "2026-11-06",
+    "h": "19:42",
+    "t": "Como 1907 - Roma in Diretta Streaming | DAZN IT",
+    "s": "DAZN",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNUxXeWhmd3NoczRjT2FLS01xbl84VHFOaTh3ZnBQc0dqSHczazhOV3pVRmVmcFBUWlRrY3c5U2ltOE9HMlJwNElrNnJBVWc1UXZaeXQzTkp1aWtRdVo3ZmlfN2ZhMmt4SDE2MEQ1SHNMT05QSlVCcUxsRGRsbFduaVhtc05rUFExc2VGSA?oc=5"
+   },
+   {
+    "d": "2026-11-06",
     "h": "19:03",
     "t": "Inter-Como: anteprima, probabili formazioni e consigli fantacalcio",
     "s": "Calciodangolo",
@@ -286,31 +521,17 @@
    },
    {
     "d": "2026-11-06",
+    "h": "13:45",
+    "t": "Paganini duro contro il Como: \"Leggo di 'serata di gloria', ma l'avversaria non va ridicolizzato\"",
+    "s": "www.calciocomo.it",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGRUZGkzZ19iOER5dmpSRHVuaUJtdFIxTWQ3SGVDN0k3cXdnaVBwVURpY1lvOWItREM3Z1BVN0h6WWVTZV9zTFpySVBFekdTeWNiZG8zZ002SGp4ajJqbVJOdWtZSEUtX3lxTXNqRzdxQjBuOFR1OWVTQmZiNHRySDIzUFJrTGlZTzdabTd3SmlvdzRiQmdQRUtxUGRBLXFMOGcyNUJIRkFxT21sZUJlNDZWUjZ0cllz?oc=5"
+   },
+   {
+    "d": "2026-11-06",
     "h": "13:37",
     "t": "Como 1907-Roma: le parole di Piovani e le convocate giallorosse",
     "s": "AS Roma",
     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRDR4SVVEN3BEaHRQSUIzOWRKczhVZDBuYzdtSW5EajlNWV9mRXpkaW1sZ3B5VnVVeVBYMGdkeWVqT19qX2p5UGVTYzNjNmxHSFp3LXItSTQyb2lTTk9tQlJxTUdYLXdtWVdMVkVYV2lVVjJkQnRkbU1KSE55ZmEtVTdWVkwxWk9LM0NKR2lYc1pxcDhCbFQ4MXYzdmFNY0NDRVVweQ?oc=5"
-   },
-   {
-    "d": "2026-11-06",
-    "h": "13:10",
-    "t": "Juventus | Info e | Como 1907 Sito Ufficiale",
-    "s": "Como 1907",
-    "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IZ0plUXRINGcwcjFSRnVvRWtmVHg3LVVRRmpBN29JeGtMNUl3cHIxV2o0RGdGcE1ESFZLMXZJRzhVbWs1cHZ6b3FhaXEyNVZ4M0N6blJkZU45ZmZweWpmMFkyTUdTWGZEd3hCWmpDRTE3NWpENnVFMGY1dw?oc=5"
-   },
-   {
-    "d": "2026-11-06",
-    "h": "13:01",
-    "t": "Fabregas: \"Della partita col Lens guardo a quei 5' superficiali, non al 9-1. Il vero Como lo voglio con l'Inter\"",
-    "s": "Eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ1lfQkdYZTZNY2lQU1RtRXI3M09WLTNaLW9CT2tnSm1tQzFVb3hlVThDOENieVFoVS01cURLaURManl2MUhJT1F4N0Via2MwNk83N01IbWkyd3h2bXA5MmN0RjBPbGFtcnk5X0ZucWI2YUVNbGoxTlo0RlR0dEF5VndFUkY1aExoTEswMGM1TXdKNVZsdmx2RnJnQ3VpSVZoZjR0bHdBZWtQZ1BqaEd4RWZKdXlWVVhFeGRRVGVkMnk5OGF5TzUwOWI1cjFLRW0zcmVTVzUtVUFQTk9wM1VpSmZ6ZGtienlHRnBtQk43OFBWNjFa?oc=5"
-   },
-   {
-    "d": "2026-11-06",
-    "h": "12:45",
-    "t": "Guarda Calcio Como 1907 contro Roma in diretta oggi: chi trasmette la partita in TV e in live streaming?",
-    "s": "Goal.com",
-    "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ3hMWGJwSjBGcnRPRW5hb0JubEotN01iMEZzbWdDRWplWml1blRjV01GcGZiQWhOai1wQnR4SFJPUW45RVQyREJzQzI4TUtvbnBwbVJzWjVWXzZUWUpfSFVzNEt3a3VVZVFob3JITEtvN1Y1YlpjX0tFbzRSYUQwZ2xtdm12S3haZUhwb182dTVoZHRiMGxNTlhMVVVrWjVWeDRjaWFtX2NTTHlvOXpVVEthUTh4aUtyc1hLRGRHU0stVFlZOVhMa3hJM3VjWlJrVHZReWh3OW1LSDhJZF9LaW82cUVsRHZ6WkE?oc=5"
    }
   ]
  },
@@ -961,15 +1182,15 @@
    ]
   }
  },
- "updated": "2026-11-06T19:58:56+00:00",
+ "updated": "2026-11-06T20:41:33+00:00",
  "log": [
   "classifica milan 5 21",
   "classifica como 4 23",
   "classifica milan_eu 28 3",
   "classifica como_eu 4 9",
-  "cantu 0 partite None",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 6, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
-  "notizie cantu 0",
+  "notizie cantu 3",
   "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
