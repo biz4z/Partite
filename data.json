@@ -362,6 +362,13 @@
  "press": {
   "milan": [
    {
+    "d": "2026-11-07",
+    "h": "01:00",
+    "t": "Paolo Di Canio: “Milan e Juve non sono più quelle di 15 anni fa. Lazio poetica e carnale”",
+    "s": "la Repubblica",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbkNRcldJdURsZUp1VHF0OVJnNlBUVFhkeUpaVXlMMkVRTzNJNjQxZlN6d0dCejFBVVAyejhDbU9pRncwZ3l0MWJDTXFSYWdKRjVqNElKNGNwcXZDUHBBeHNTOXhxQVM4dlpiU241UzZoNTQzbnNoQnpVTU9aV2N1Q2FYc25kZVAzOF9KUENGd0hWamxFSzNnb3B0d01yVHFWVl9PeFNnbk1DejBibG1mckpkb9IBuAFBVV95cUxPdkdETWJGTjNKdldzeGlobTdJWlY0aU9icGFsTWFQRGEtdk00NTEwdS14MFFnWjhfbmkwekgyRWlzZ3VKNnBKU3hOTUZGaXh4SmlBZnFkNEx1V1RDNWY3ZnRyYVFRMXo2OWRORS0xcnBleTdjRlJhTzlWSWFxRUdRT3RaeS1oR2JhdEcwNHQyeDA2d1RmZ3NzZHFJckJCTjRNZ2p4b2JNSUIxOWFTVHgzTF9aOG9QTHJR?oc=5"
+   },
+   {
     "d": "2026-11-06",
     "h": "19:51",
     "t": "Milan-Ferencvaros 0-2, highlights e goal",
@@ -409,13 +416,6 @@
     "t": "FLASH| Genoa-Milan, Pavlovic ancora a parte: convocazione in dubbio",
     "s": "Tribuna.com",
     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOXzM0WXRVYlBtaUJVOGdYTjl5UERMc2x1cWRCSU12R0tJRVA5aXRBZ3FRemdKZUdXX2h1SkV0UjB0bUgxS1VpZURaRkFYUWVLelB5dFhJT2ZrX2xkdHdKSXh0eHFuazZnU05YTDRncWJkdWRnaC1hQWZjenpRYk5mVkFMTFZDbWh4eGt3RDBZMnBlZU1fbzdwSHpaZldLSUdhbnYwWEJR0gGrAUFVX3lxTE52UkFRVEFwMDNGQzRONkt2eEJmdE8yMjlFT0tWdWx6UUpPNjliWkgxNzZLb2paN2dZRkt1TVFHQk1fUmdlcktnLU85LXpUaU8yc2M4SE0ycElrR3F2WEtlY1JVWjlUS2djeE0wU1Q3Vk9SOThjTUlQSnpDdkdvUENSYWtNNGpWUDFKWVVUb3E3ZDZaTTlNNVhPcjV1RkZSS2JLZ2UwSXJtc2ZaOA?oc=5"
-   },
-   {
-    "d": "2026-11-06",
-    "h": "14:11",
-    "t": "Milan, Pavlovic ancora a parte: resta in dubbio per il Genoa",
-    "s": "Gianluca Di Marzio",
-    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYXVFNWc0bjNqeE9Qc0J0Y3liaTM2bFVBNXc4c2xxZ2xNRkU2Q3czbzVQZHFaZkc2QVl6ZEVZZjJFcWZySHZoYmRkenkzMlNhMTFLUEF6LXRZeXJnQTR2RkVXaVV5ajhUZi1tcEhKRlJtSEhveEhGTDgzZHdGUVU2MVRWRmdNY3pWUkE5OQ?oc=5"
    }
   ],
   "cantu": [
@@ -878,7 +878,18 @@
   "como": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
   "cantu": "https://r2.thesportsdb.com/images/media/team/badge/vy599w1784567424.png/small"
  },
- "odds": {},
+ "odds": {
+  "2026-11-08|Inter – Como": {
+   "1": 49,
+   "X": 24,
+   "2": 27
+  },
+  "2026-11-08|Genoa – Milan": {
+   "1": 21,
+   "X": 27,
+   "2": 52
+  }
+ },
  "lineups": {
   "como": {
    "match": "Lens – Como",
@@ -1171,7 +1182,7 @@
    ]
   }
  },
- "updated": "2026-11-07T05:25:15+00:00",
+ "updated": "2026-11-07T06:10:32+00:00",
  "log": [
   "classifica milan 5 21",
   "classifica como 4 23",
@@ -1190,7 +1201,6 @@
   "loghi ['cantu', 'como', 'milan']",
   "formazione como Lens – Como 4-2-3-1",
   "formazione milan Milan – Ferencváros 4-4-1-1",
-  "ERR quote https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261108 Expecting value: line 1 column 1 (char 0)",
-  "quote 0"
+  "quote 2"
  ]
 }
