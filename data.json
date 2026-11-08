@@ -360,17 +360,17 @@
   "milan": [
    {
     "d": "2026-11-08",
+    "h": "22:16",
+    "t": "Genoa-Milan 1-2, highlights e goal",
+    "s": "TaorminaNews24",
+    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pVk1HWnRUMDg4aWFJcDNTSkxCREFYbjRETDNvRXJZM2V6bmRjSUxhQnJRUkR6SHNCVU4zNzA5bmhVblJWM0NURHJRYmN6QVNQZW1mc1RVNnBRSzRTdm5tUC02QmZkNHR5UnByUnRMc2E?oc=5"
+   },
+   {
+    "d": "2026-11-08",
     "h": "18:58",
     "t": "Riscatto Milan, Amorim è raggiante: \"Orgoglioso di questi ragazzi\"",
     "s": "Tribuna.com",
     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnE5TDByZ3ZjOTB0U2J5bXI4MzduSkpqbzZWMlRldzdsU1VoVi13WThPRGJGVG44NTduTW9aajZ4ZGRvLXV5N2hoRy1LUjJVVEVtcmVuWXk2MXhrb0p3V0FlUm8yRXRwM0tMQ2hHRURrSnNMR1pfM2l4akV4Sk94X3BCaHB3NHdUazVmMjJqTlRGckZ1YjMyaDdXdTFsdmFrd0xOX9IBqgFBVV95cUxNamI5WUNua0RFaTlWYW10bzNRN0hTV2llMXlFVUhDX2lLSFFhbjFYVVo5REllQVNzLURTV09qTURvYk53LUJuTHUwNVhmdDZDSjQ0WWM1RmZ0Z0szM3hxWTQwNzJlMm5RREhvcWItT08zM1FpRl9QOU1jWFA4NndFY18yRGlrVUtKYjczWHJFTG82emdTcUtWQkZuMXZ0Rms1b2FYcnZxcmxldw?oc=5"
-   },
-   {
-    "d": "2026-11-08",
-    "h": "18:49",
-    "t": "Serie A, Napoli-Lazio finisce 1-1. Vincono Milan e Atalanta, adesso Inter-Como. VIDEO",
-    "s": "Sky TG24",
-    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaGdBNlJwc0xvSjJBSm9ZbkJaZjVoWC1sU3JMNjBfMTFQbTlnMDZyZkwxU2FOZW5JemswMVYybjVtRkREUVA4R29xazIyNWxlVlVMZDgtNjhrVW94VDBocnJqSUR3Mm1MMXpERDdaUmNtSkpTbE9PeWlQbnBLNklxNjY4T25QaTU1emZtcWZuUHNjZw?oc=5"
    },
    {
     "d": "2026-11-08",
@@ -416,6 +416,13 @@
    }
   ],
   "cantu": [
+   {
+    "d": "2026-11-08",
+    "h": "22:10",
+    "t": "Bilan comanda, Moon detta il ritmo e la Maxima Roma fa cinque di fila battendo Cantù, le pagelle",
+    "s": "Backdoorpodcast.com",
+    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LZ0NqZ2ZWQ2puMF9UclB1RkVFd0RBOXp0cnFqOFZTYXVjWUdxRVY4c3NibDh6LTd1c0FPSU45NElQcjBkekdQeWNyb0xCczBiSlBRWVZnUkdveGNYOW9MVkJrWlh0TFdkUHBWR3FGaWJTbzB1YmZSc2p3?oc=5"
+   },
    {
     "d": "2026-11-08",
     "h": "21:34",
@@ -464,13 +471,6 @@
     "t": "Cantù non si schioda da quota 0",
     "s": "Prima Como",
     "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmdnNoQmZFb0FWcW1XdWNhTTYwSV9QOFQwTnNneWtoNWFWdHJxWmZaRkRwRnFtUXFQZjlIVDk1SFBtSjdITW80WWhDNmQ1YUd2VWVjMWVZR0E4YTNoZ2FjYUdfUFRGaFpYQUtZ?oc=5"
-   },
-   {
-    "d": "2026-11-08",
-    "h": "18:55",
-    "t": "Basket, ancora senza vittorie la Pallacanestro Cantù. A Roma finisce 99 a 87",
-    "s": "Espansione TV",
-    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGl2Q2tJam1jMk0xMVNxY19iMGxTeF9DVFNCR1o3TzFLaEZjX2RYZkVJVDhBQjZQR2JDS0NBUXpBVXplSUdLdUsxZ1ROX3g2VXUwdEQ5aUFLeXhmUmxzSUVCd1FOZ1N6cm1OUDVTazBIRk00WVE3MFFKa0RzMk5XYU5mUnNPQTBoRUQtT0pEZDRDQ1pyN1JWWVhVdllhR1ZJSUlaaTgxVl9wT1l2ZkVjWUNNdFk?oc=5"
    }
   ],
   "como": [
@@ -1102,7 +1102,7 @@
    ]
   }
  },
- "updated": "2026-11-08T21:14:13+00:00",
+ "updated": "2026-11-08T21:48:34+00:00",
  "log": [
   "classifica milan 4 24",
   "classifica como 5 23",
