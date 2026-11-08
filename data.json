@@ -428,6 +428,13 @@
    },
    {
     "d": "2026-11-07",
+    "h": "11:39",
+    "t": "Miglior giocatore Acqua S.Bernardo Cantù vs Armani Olimpia Milano 6° Giornata",
+    "s": "Lega Basket",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZWhkLUVEUjVzOUwxYV9BMmg0QllHS1NvYmlCMjI5SHpxTVprZ1ZaQ1gtUm9ycXd1b3dxelcwMVVLOEJuQ3E3bXhleVZfNWZlWTlHdVN3ZmgwZ0JTd1hjWHUtTTZGdWIwZUVqRUYxMDEyTzZoaTVZMnBFV05pRWNOQW54M0ZSaVFaYVMtRm93?oc=5"
+   },
+   {
+    "d": "2026-11-07",
     "h": "11:15",
     "t": "Erick Green torna a Cantù: ha già detto sì, è solo questione di tempo",
     "s": "Backdoorpodcast.com",
@@ -467,13 +474,6 @@
     "t": "Pallacanestro Cantù, ufficiale la rescissione consensuale con Semaj Christon",
     "s": "Sportando",
     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPck1RUVZkaWxGbzAtS0Q2S2I5czI1RDY3SnZsVTNIWnpIbUtTUXE5R1RwM2dCV1hSVEVLbHRwVE9nUHE5TXM3NExMWGVmNTdrRDhVVmdzbjctd1hDY3E4TXQyNnBPNy1hWElKdHczUkNiS3Y0Zi1uVUEzN0JDMnBkNjhNbTRnN1NpcWJqMDI2RTJKc0FfRldNNWpDdHlQMG5BVVBERFZVdVY?oc=5"
-   },
-   {
-    "d": "2026-11-06",
-    "h": "13:23",
-    "t": "Tra Cantù e Semaj Christon è finita, ora il mercato",
-    "s": "Sportal.it",
-    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSEFFaldFeFRfaS1XeHU0QmJoUmlIR2ttZUhxUzJ6QlhlQjZIQmdDZTZjZ3RYVWNwUUxQbklGV2NZcnV6NEF5QklxSXgyQkxMc2RINW5VRnFzMVFpanZxa0FIUzJNX3hKRE9aYnpzLXJGUU9KWXYtcjRTRUhOMk1rTkJnT3ZPUERhTG1KcU1id25kdDhxRG9LdUV5emFtVkRkelE?oc=5"
    }
   ],
   "como": [
@@ -880,9 +880,9 @@
  },
  "odds": {
   "2026-11-08|Inter – Como": {
-   "1": 48,
-   "X": 24,
-   "2": 28
+   "1": 46,
+   "X": 25,
+   "2": 29
   },
   "2026-11-08|Genoa – Milan": {
    "1": 23,
@@ -1182,7 +1182,7 @@
    ]
   }
  },
- "updated": "2026-11-08T05:32:09+00:00",
+ "updated": "2026-11-08T06:22:01+00:00",
  "log": [
   "non finita Inter – Como STATUS_SCHEDULED",
   "non finita Genoa – Milan STATUS_SCHEDULED",
