@@ -77,7 +77,7 @@
   "cantu": {
    "pos": 16,
    "pts": 0,
-   "g": 6,
+   "g": 7,
    "up": {
     "n": "Scafati",
     "pos": 15,
@@ -135,7 +135,7 @@
     "time": "16:00",
     "home": "Maxima Roma",
     "away": "Cantù",
-    "score": ""
+    "score": "3-3"
    },
    {
     "date": "2026-11-15",
@@ -302,7 +302,7 @@
   "standing": {
    "pos": 16,
    "pts": 0,
-   "g": 6,
+   "g": 7,
    "up": {
     "n": "Scafati",
     "pos": 15,
@@ -358,6 +358,13 @@
   "milan": [
    {
     "d": "2026-11-08",
+    "h": "15:10",
+    "t": "Genoa-Milan moviola: ammonito Musah, nessuna irregolarità sui gol",
+    "s": "Il Messaggero",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2tNc01mRGRGU3JPcmZldlB3NzgwdDZzbENvMktMR0dKWkMxd2lPZURyZHdoMWxkd1luWmQxUmFJUUlIUjVfdDhFTDNob0k5ZWo3bWxpd3pvbDhuTWhvSkt5Zk5lQXFFUUVkN2FnRGtZdFp0c05XR09lSjJKYU5SV3RwRUJWOW5BZDdJZTZR0gGKAUFVX3lxTFBYQXBXcXdtendEV0E1QXAyaFp0LWpZMExBWjFvcVB5QW5hUnM3WFd0eDFxd3J5Q2FYalQyR1lwRkhtaDBKUDhNNFdjQUlRcDlETFU0MDFrZFlwaXNKYUk1ZkZZNVdrb0kzczFKT3YyNzM2eTRjQTdnYS1rQ1dRNjgyMHZpZXR0YTltUQ?oc=5"
+   },
+   {
+    "d": "2026-11-08",
     "h": "15:01",
     "t": "Genoa-Milan, segui la diretta",
     "s": "RaiNews",
@@ -365,7 +372,7 @@
    },
    {
     "d": "2026-11-08",
-    "h": "14:55",
+    "h": "15:00",
     "t": "Guarda Genoa contro Milan in diretta oggi: chi trasmette la partita in TV e in live streaming?",
     "s": "Goal.com",
     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTnR5MW03UENiRnhCcFRUSklxMXlsLXJfZ1MxUkJvcUtPVEpYQ2Rfd21ueVlIOWlhb0stWWRoUWtoUHZQbDRPbU5NMUN1Q29ra3RPYU5ncW9NeUtxZHU2Ujc1UDZpUTFCRFRhVXdvclNxYnBnelVQaFkxLTdpOVB4dklkMEY4ZGhiVnd5cXdBZFllWTBFVHdtLXh6ZGhlNjM1ek9NVDY5YjdvNElzS2tOOXpVdzVIX0w2OHVsLXhacDRVbFRWN0dFb2NSU2VTTmRsLTVfTS1paWNPZUty?oc=5"
@@ -393,27 +400,27 @@
    },
    {
     "d": "2026-11-08",
-    "h": "12:13",
+    "h": "14:22",
     "t": "⚽🔴 LIVE Genoa-Milan: diretta TV streaming calcio serie A 🛑 Notizie dell’ultim’ora 📆 domenica 8 novembre 2026",
     "s": "musicletter",
     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPam9KQVJoZHlxdFJ4N2MyQ1JZSjNmMVplSFlBT2tXdlBvVTJxeWd3eVdFcWVEOUs4cUp1amFvRUFaWTNQU1JNSU5zd1VLZ2RwOWV0SElvcVp3aGk2RllHWHIxMmpVd0I0VEVraHUyTDFVVjBaZm9hSjlBNFhERFlkbVZhamRTYllxenBobjBDaVV5dDZWQXFWSzF5ZVdrMDlZSDdNTXlqNElHd084SG54MkFZV0ZkRmZF?oc=5"
    },
    {
     "d": "2026-11-08",
-    "h": "11:30",
-    "t": "Genoa-Milan, Amorim riaffida la squadra a Gila, Modric e Pulisic",
-    "s": "Il Messaggero",
-    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3diUlNUdUtLcEg0ZndhZDZkUjdJYUZCV3VkS1pDOWJNZ3FSYVd4dVFMazQwcUY1V1Y1V3N4MWE0bnpXNFlRQjhCUVNzNWZGQmdTeDkzZDJrZ2hkTTZDSDgyWkZmWktKaVp5WEUtMWYyOE5wVWdUVWhvV0pjcmFSRjUxT1FGalRLd2VwOXZSdEE4TzlMNE91a0Q4Z1FWQWxEY19vOVpQVWpsSnZqRjU2VlVn0gGuAUFVX3lxTE5Gci1mbDlTUWliRDBYdE5KX0VVV3RnbWhYRU1tT0RvVW55OVJrMzI3SGU5Z0tCdzY5M0pBTlFKR0NpYnhyMnBVdHVDS2RqeURlZ3BMc0xrbmRHcDJleThGYVlxM1dPVi1BdVVFVlV0d01wQU50REVPVWZwNlVTaDVFc21vOF95SlZLQ3ZuUXNCQUV6SFJOSEo5WUV5N0E3TFR4NTZBbmZWeEpEQ0dVZw?oc=5"
-   },
-   {
-    "d": "2026-11-08",
-    "h": "11:00",
-    "t": "Genoa Milan in tv e streaming: dove vedere la partita",
-    "s": "Sky Sport",
-    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPazc0ZHYxaEotWjFQMDd3a2FPamN3XzdNbGlZWGxlWmZGQVlhLXhjR1VGaU9iTXdwb19oeHpfMUVZQ2Q1d245Q2tQTXZJb0NrMWhrX1VrUG9xTzI3YXBaNi1HVkFYNndaV3d6Z1l3bVRFa3NldGc1WVRPaFhzVDlHdURQRnlDZ3NDVFZJ?oc=5"
+    "h": "13:38",
+    "t": "Genoa-Milan, le formazioni ufficiali: Amorim sorprende in difesa",
+    "s": "Gianluca Di Marzio",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTJmdjc0c00tTzJ1eEhHajVINFZTTEdxNi1jS1Z6cUpzcnJmakdxdVpiSjAtM1V5Tnh5UnZqbjIzR3ZhcUxhdXNrZ1o3Yi1TZkk2RFN0Y25Demxqcmh2NmloQkdrOWdPTmZxTmIzekJHTlRpbC10WFJMZzFobWJuS3JPWUpHYVhob1N4ag?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-11-08",
+    "h": "15:50",
+    "t": "Basket Serie A, la Maxima Roma ospita Cantù: obiettivo tre punti (ore 16)",
+    "s": "RomaLife24",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdmFtX2xMaG5qdUNjNXNGbGlmRGJ1S1FPczJtTXJtY2MtZW9HalVRekRyeTRpZ3YzSHM2VkxSX2owTkRMSmUya0FCV3kweG9uUlBVcl9nZC1kMnV5Nm5mLUVEOURXelM5b2d4aVRfLU1fXzNORWFfbE5CMGpxdnBPeXF5bzFjdldTcks0NkJ1UkZjcnZ3c29MR05YeVB0TUZmSy1UaQ?oc=5"
+   },
    {
     "d": "2026-11-08",
     "h": "15:00",
@@ -451,10 +458,10 @@
    },
    {
     "d": "2026-11-08",
-    "h": "02:50",
-    "t": "Migliori UNA Hotels Reggio Emilia vs Acqua S.Bernardo Cantù 5° Giornata",
+    "h": "02:55",
+    "t": "Migliori Acqua S.Bernardo Cantù vs Tezenis Verona 18° Giornata",
     "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVm1NRG11akd6ajladmx5cU1UYWUwa0RjeXhJWGNWTUZEeW5rSW9KMERka0JBUjVkYnBsaWJ6UEFqRzY1UjlHQXpOTkxJMzBPRmRRWUVQNWpZUUtuR1BVa3ZKVVNicXZkUi16WkNicFNtc0dhTHdPei05bDBGd2MzTVRnalVtZC1XRDZBaUYyQWh2ZnM?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaGRZU2lZU2dWa0pITkZxX1dCOERZTnpmdU42ZzdUUlZCRjZhaWxPLXY3NmNLMHo5RWlvSGMySGJ3TlBERVJXamNmMmloa0pYR0tSczdETURRUjVCeDY3YV8wNWxOaEpBdlIzdHR3UkVxNGd6SnBxYk5tLXprbjY3MVZmV00?oc=5"
    },
    {
     "d": "2026-11-07",
@@ -462,22 +469,29 @@
     "t": "LBA Round 7: Maxima Roma – Acqua S.Bernardo Cantù",
     "s": "Sportando",
     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWnhkelNsejBKMVVVQWV3OWV4NlByYU90TE5ZVWFoZWVGWU9mY1BHdnFVcmZCXzNhUGtOZkZPQ3pBWmZpblVQZm5QSnRwVVhzaVhScXBQM0pYaWZMSzRDQ1hXVFVjdjJ5OEpTamNaZDJCRjVZdnc3RWhEOXNVZlNtblRudlJ0X2lfdmR6dDV2SVZlVU1VUFAwWG9GSWdBTFB4?oc=5"
-   },
-   {
-    "d": "2026-11-07",
-    "h": "14:15",
-    "t": "Erick Green, Cantù attende un segnale dalla Reyer Venezia: il pericolo turco pare scampato",
-    "s": "Sportal.it",
-    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHhzS2Zmek1NMGJ5RDgzQVI4MDZJVElxS3pRMnlmNVBidXhyT1VHWVQ3U1B6bWNKY0M3NWlFZ1lYWHIycUZHT0VzMmt2dkZCQXZtWTJ3WHlHU1Q5UnEtM0d4YTVkTzFqZEdnTkZwWHpZWlBycUZFWnh0VXhDdUFYZjRGSTllYkdRem9SUl9sQzByRkpJVE03QmJMZkFoZUZaQ0diUjB2Rm5ERHptRElNRnNicmxseVoyWF9paHU4c0ZQODZybkdPZDJzYnlmUXhXcEt1bw?oc=5"
    }
   ],
   "como": [
    {
     "d": "2026-11-08",
+    "h": "15:50",
+    "t": "Tornano i terzini brasiliani: le scelte di formazione dei lettori di Calcio Como per San Siro",
+    "s": "www.calciocomo.it",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzR4UEktbnc2ZXEwWWczU2ppMHR3RUctTWJpZVV5eC0tRmJWVmZrVm5OMEVzV2Jrc2gzYU16TG5PNi0wZFFJMXVuUXdqZzZPMUpXYUx1bFJmNUpYdHlCNG44X0hscTMwVmVPUEZqd25VWTd3QlVwOW5rSHljZ3YxZXVPRXlrWm1aQ0pCb2E5N1M2V0lsUVluV005T3pxaXJ4TzVOZU9yUDVSaEZGUGxhNXpZNzFTM05qOHRR?oc=5"
+   },
+   {
+    "d": "2026-11-08",
     "h": "14:00",
-    "t": "Inter Como in tv e streaming: dove vedere la partita",
+    "t": "Inter-Como, dove vedere la partita in tv: gli orari",
     "s": "Sky Sport",
     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdkpIYmJXNkMzTUx6WmthcjU4VmhkMkVqZ3lQMjUtb2hoNnZqTjIyMjFCSjYxaUxVbURtMUEyQXhyQ05LVnZDc3ZNTVRkOGV0ODVId2ViSEQ1c1NHY21NWFhKUGRVSzdRTnZMSW81S2RUYU5PTDVUZmZTQXM2QmRRTkpLVVE0S3VweGc?oc=5"
+   },
+   {
+    "d": "2026-11-08",
+    "h": "13:42",
+    "t": "Inter-Como, il big-match di serie A oggi in TV: canale, orario, dove vederla in streaming",
+    "s": "Libero",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbjdfTWFOM2tSUEtPYjhReXRTTWY1LVZKSmJKbHNJMDVEbzFnQ1JLTWg3dk9DOVowamN5UFo3aDM0S2pqN0dCd081REN1bnF1c2xucjR3bGN5QnVJWWZyZUlhZjNWZXV5S182ekVrY0l4UWJDQ3BPaGlBa0xtRURHdHFrVU5Mck1pSURMd3JlSDNSa3hrNU9FWWJuMXc3MWhYT0F1dlNsb3UzZFU2NGp3d0pEMUxRQUEyNmlsc9IBwgFBVV95cUxQRERuOWh1bnk1QmJRVGJodkVnaWF6UHAtS3NQR3ptN2lIeHpLX21rMXBuTXN6ZVhPaXFYZzRGUWNmVmtvaXBRdHc3T1Vnc1NGeHd5ZnNidGdaYWtKZ1c4LWNkMWRZdVFNVjlkbVpUX1loTHVObTZKbFdDakExU3hMRElwTUc3dVR6NENjLWVSdm1DUjhUVHBFMHFHeHlfRnF3bXJDUE01S1JTZHdJS2c4TDJULXJkUTlrcmR1QUZNZldPQQ?oc=5"
    },
    {
     "d": "2026-11-08",
@@ -513,20 +527,6 @@
     "t": "Lombardia - Allievi Provinciali U16 Como A G8 - Uggiatese Calcio vs Faloppiese Olgiate Ronago",
     "s": "Tuttocampo",
     "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ibk9sRVl4ZnZ3TWtXeDU5ZHBUZUpBTjdqcTdLTzZVS0NNQ2ZnVjZVRmd0bWMyYUNrVnRuYjJ3Slk1Mjk5Q2FEOUtMMUZKcXpfNGhueExKUzBlaEtrUW9mQUxR?oc=5"
-   },
-   {
-    "d": "2026-11-07",
-    "h": "18:11",
-    "t": "Live Inter - Como - Serie A: Punteggi & Highlights Calcio - 08/11/2026",
-    "s": "Eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1dCUWZRSzQxU1VlcUlKb0VhTzhSOG8zcjhyckpnWUFhcUhKajlvZURhU3RQM0RLbWhIeWVHRXVRdHdhbW1QRmVONzZ5Z3d2ZnRYQzlTdmVGYjZEMFhXNEo2bVVLSTNOTlN5SWhiWGZhQ0ktOW1iV1lKNWlVLTBuaEtYVjZlRDhaNUdybTlNdThZdw?oc=5"
-   },
-   {
-    "d": "2026-11-07",
-    "h": "15:39",
-    "t": "Como 1907-Roma: le interviste a Piovani e Thogersen",
-    "s": "AS Roma",
-    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWm0tbVVqY2dfaTVVcm1pLU85OGRqTHZrZjlZajZKLXcwWTNBMG9fM18wVmNYZXgtcjFNalREbUtnZnVpUHVkcE5aZVZYeXMyVjVURGVmeXh2dFI0eF9veXBTU1ZUY3hWWTc5SUxxbmxzMG44MF9iRGx1bWVDRG5yR0ZIQjMzM284Z1pyZGRhdEM5WEJm?oc=5"
    }
   ]
  },
@@ -1151,15 +1151,15 @@
    ]
   }
  },
- "updated": "2026-11-08T14:38:52+00:00",
+ "updated": "2026-11-08T15:15:13+00:00",
  "log": [
   "non finita Inter – Como STATUS_SCHEDULED",
-  "non finita Genoa – Milan STATUS_FIRST_HALF",
+  "non finita Genoa – Milan STATUS_SECOND_HALF",
   "classifica milan 5 21",
   "classifica como 4 23",
   "classifica milan_eu 28 3",
   "classifica como_eu 4 9",
-  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 6, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 7, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
   "notizie cantu 3",
   "notizie como 1",
