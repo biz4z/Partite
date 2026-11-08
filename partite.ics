@@ -384,9 +384,9 @@ UID:64d61f91c8e6c8bd@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261108T160000
 DURATION:PT2H
-SUMMARY:🏀 Maxima Roma – Cantù 3-3
-DESCRIPTION:Serie A basket (LBA) · 7ª giornata\nTV: LBA TV\nRisultato: 3
- -3\nhttps://biz4z.github.io/Partite/
+SUMMARY:🏀 Maxima Roma – Cantù 48-42
+DESCRIPTION:Serie A basket (LBA) · 7ª giornata\nTV: LBA TV\nRisultato: 4
+ 8-42\nhttps://biz4z.github.io/Partite/
 LOCATION:LBA TV
 END:VEVENT
 BEGIN:VEVENT

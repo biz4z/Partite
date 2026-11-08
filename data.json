@@ -135,7 +135,7 @@
     "time": "16:00",
     "home": "Maxima Roma",
     "away": "Cantù",
-    "score": "3-3"
+    "score": "48-42"
    },
    {
     "date": "2026-11-15",
@@ -394,7 +394,7 @@
    {
     "d": "2026-11-08",
     "h": "14:37",
-    "t": "Serie A: in campo alle 15 Genoa-Milan DIRETTA",
+    "t": "Serie A: in campo Genoa-Milan 0-2 DIRETTA",
     "s": "ANSA",
     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQXNDcU1oOVQxaExqajhCNklISHRkbWR0QlNvTzRJVGZENmVZOG9jMGloUGF0cG9SZDg4WTlrSzRwWHVDaGZ1ejB6WXNOSHNBMEJpUmNYRGpJU25LMjN6TjVvMW5XaUJXN1VSWlZHZFNSTFAybnRWai1EalRZUHJuN3d0aXhhTFg0di1zemtMNExlTXByRVhDOUQtVTJjWVVNTzlUMTdnXzdJeThPTy1JMEdEU1RPZUdTblhKd2dXYUY3WlUwNXdpVjd1WTU5UDN4Z3BWRmFtYzZ3Yklr?oc=5"
    },
@@ -1077,7 +1077,7 @@
      {
       "n": "S. Diawara",
       "j": "13",
-      "out": false
+      "out": true
      },
      {
       "n": "K. De Winter",
@@ -1094,7 +1094,7 @@
      {
       "n": "Y. Musah",
       "j": "80",
-      "out": false
+      "out": true
      },
      {
       "n": "A. Rabiot",
@@ -1121,18 +1121,39 @@
      {
       "n": "C. Pulisic",
       "j": "11",
-      "out": false
+      "out": true
      }
     ],
     [
      {
       "n": "A. Cissè",
       "j": "70",
-      "out": false
+      "out": true
      }
     ]
    ],
-   "subs": [],
+   "subs": [
+    {
+     "n": "O. Hutchinson",
+     "j": "20",
+     "out": false
+    },
+    {
+     "n": "P. Estupiñán",
+     "j": "2",
+     "out": false
+    },
+    {
+     "n": "A. Jashari",
+     "j": "30",
+     "out": false
+    },
+    {
+     "n": "F. Terracciano",
+     "j": "42",
+     "out": false
+    }
+   ],
    "goals": [
     {
      "n": "Alphadjo Cissè",
@@ -1147,14 +1168,21 @@
      "mine": true,
      "og": false,
      "pen": false
+    },
+    {
+     "n": "Mikael Ellertsson",
+     "min": "88'",
+     "mine": false,
+     "og": false,
+     "pen": false
     }
    ]
   }
  },
- "updated": "2026-11-08T15:15:13+00:00",
+ "updated": "2026-11-08T15:51:27+00:00",
  "log": [
   "non finita Inter – Como STATUS_SCHEDULED",
-  "non finita Genoa – Milan STATUS_SECOND_HALF",
+  "non finita Genoa – Milan STATUS_IN_PROGRESS",
   "classifica milan 5 21",
   "classifica como 4 23",
   "classifica milan_eu 28 3",
