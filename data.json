@@ -880,14 +880,14 @@
  },
  "odds": {
   "2026-11-08|Inter – Como": {
-   "1": 49,
+   "1": 48,
    "X": 24,
-   "2": 27
+   "2": 28
   },
   "2026-11-08|Genoa – Milan": {
-   "1": 21,
-   "X": 27,
-   "2": 52
+   "1": 23,
+   "X": 28,
+   "2": 48
   }
  },
  "lineups": {
@@ -1182,7 +1182,7 @@
    ]
   }
  },
- "updated": "2026-11-08T04:45:20+00:00",
+ "updated": "2026-11-08T05:32:09+00:00",
  "log": [
   "non finita Inter – Como STATUS_SCHEDULED",
   "non finita Genoa – Milan STATUS_SCHEDULED",
