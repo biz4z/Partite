@@ -399,8 +399,8 @@
     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSWlCU1JlV3lNTUM1WnIybzVzM0Y5Q094VnMyRDc3a2JUcXVlM0ZNYmkzVUR4VUVSU0tFOFk1UUkwVDkxbUFSUTlGckpaVHV4ck1jV1l1c3FFV24wOW1yVWVKLXF2a1RnS0p1MlJiakFrcThsdWdLbXEzU2xNTE5TNFFPdDI4b2R6ZC05eTBYYmFWQWh3ZUROcUI4UUs2MHZpR1ZEWUsxeW9PRzk3MjNCcWVJM0hsZGtwTEF0anYxdndnRGhlX3VTcXR0c1l1cFVBMkQtdlBxYmMzcXZneHVTTS1RTnhSUkViU2ktaGlB?oc=5"
    },
    {
-    "d": "2026-11-07",
-    "h": "22:54",
+    "d": "2026-11-08",
+    "h": "08:27",
     "t": "Serie A LIVE, Genoa-Milan: De Rossi riceve la visita di Amorim a Marassi",
     "s": "Diretta",
     "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3JPWVFwNVhxZk9NcjhCM1RGWWoxVnFfSnpfdGJVTHpkRnRzbE03N3pFMzR2aGtVeW1QZTdqcGx6Zi1WU3huWG9pdTQwYXdkN1ZHLVFOcmRGMlI0Q3JwU0t6Z19EbjZxZEx5X0VCVW9xYUVQNlhGSWVSMGM4cnd2Q1lwN2NKUQ?oc=5"
@@ -414,6 +414,13 @@
    }
   ],
   "cantu": [
+   {
+    "d": "2026-11-08",
+    "h": "12:59",
+    "t": "Maxima Roma-Pallacanestro Cantù: dove vedere la partita in tv e streaming | LBA Serie A 2026/27",
+    "s": "Vu Nere Bologna",
+    "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORDZja1U0VE1BX0QzckJhbzJjT3phb2RKdjBNaWxldVRvMXVrcmdpdW50NWo3bTN4dllvS1hVd2pUMUthcnZoTmtxMlY5aGwxZ2wyY3R0bEtjdHY4SVdPVWJwV25JZDhHSFZWTjBFQWg5M1VpS0hsaWxTaG5jVE1pTmV1VmZBQTNrX1ZjQ2hXVV9HMUR0a2RmNGtNTUhsRGZhbjdXN01RZ3A5R25kX2x6Q1drZ2lMbUljalROaFoxTTVCa0ZtREh2aUktVUNQcElYNFoxT2hZTnNTRGllaWc?oc=5"
+   },
    {
     "d": "2026-11-08",
     "h": "10:51",
@@ -434,13 +441,6 @@
     "t": "LIVE Maxima Roma vs Pallacanestro Cantù: preview, dove in TV, diretta",
     "s": "Pianeta Basket",
     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ1hlSjJRZzlOREx2OHJRbEJ5MGRpWTVhRnR0MTFjSEtfWFhaNUJQY21QSmIwRGhrMmhfbTNlVnpzd0JQTGRYR3ltbmhwcUtHNnNYLWU5aUZPa25DY3JubThqMk1mLTRvb1FLVDZfbUNkaXc2Z2tNV1hvdTZBS244cHQwX2hfbGhZZy1yUHR4amdIVTYxYmh6ci00U3UzMnp1YS1TX1NmdzdWZ2lQX0ZYWEIzcFgtQQ?oc=5"
-   },
-   {
-    "d": "2026-11-08",
-    "h": "02:55",
-    "t": "Migliori Acqua S.Bernardo Cantù vs Tezenis Verona 18° Giornata",
-    "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaGRZU2lZU2dWa0pITkZxX1dCOERZTnpmdU42ZzdUUlZCRjZhaWxPLXY3NmNLMHo5RWlvSGMySGJ3TlBERVJXamNmMmloa0pYR0tSczdETURRUjVCeDY3YV8wNWxOaEpBdlIzdHR3UkVxNGd6SnBxYk5tLXprbjY3MVZmV00?oc=5"
    },
    {
     "d": "2026-11-07",
@@ -880,9 +880,9 @@
    "2": 29
   },
   "2026-11-08|Genoa – Milan": {
-   "1": 23,
-   "X": 28,
-   "2": 48
+   "1": 24,
+   "X": 29,
+   "2": 47
   }
  },
  "lineups": {
@@ -1177,7 +1177,7 @@
    ]
   }
  },
- "updated": "2026-11-08T11:45:58+00:00",
+ "updated": "2026-11-08T12:22:20+00:00",
  "log": [
   "non finita Inter – Como STATUS_SCHEDULED",
   "non finita Genoa – Milan STATUS_SCHEDULED",
