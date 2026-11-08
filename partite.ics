@@ -369,24 +369,19 @@ UID:da5ac07423aa3898@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261108T150000
 DURATION:PT2H
-SUMMARY:⚽ Genoa – Milan
-DESCRIPTION:Serie A calcio · 11ª giornata\nTV: DAZN\nhttps://biz4z.githu
- b.io/Partite/
+SUMMARY:⚽ Genoa – Milan 1-2
+DESCRIPTION:Serie A calcio · 11ª giornata\nTV: DAZN\nRisultato: 1-2\nhtt
+ ps://biz4z.github.io/Partite/
 LOCATION:DAZN
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Genoa – Milan tra 30 minuti · DAZN
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:64d61f91c8e6c8bd@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261108T160000
 DURATION:PT2H
-SUMMARY:🏀 Maxima Roma – Cantù 48-42
-DESCRIPTION:Serie A basket (LBA) · 7ª giornata\nTV: LBA TV\nRisultato: 4
- 8-42\nhttps://biz4z.github.io/Partite/
+SUMMARY:🏀 Maxima Roma – Cantù 75-58
+DESCRIPTION:Serie A basket (LBA) · 7ª giornata\nTV: LBA TV\nRisultato: 7
+ 5-58\nhttps://biz4z.github.io/Partite/
 LOCATION:LBA TV
 END:VEVENT
 BEGIN:VEVENT
