@@ -316,6 +316,11 @@
  "news": {
   "milan": [
    {
+    "d": "2026-11-09",
+    "t": "Genoa-AC Milan 1-2, Serie A Enilive 2026/2027: Christian Pulisic MVP | AC Milan",
+    "u": "https://www.acmilan.com/it/news/articoli/awards/2026-11-09/pulisic-mvp-di-genoa-milan"
+   },
+   {
     "d": "2026-11-08",
     "t": "Genoa-AC Milan 1-2, Serie A Enilive 2026/2027: la cronaca | AC Milan",
     "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-11-08/reazione-milan-2-1-a-genova"
@@ -324,11 +329,6 @@
     "d": "2026-11-08",
     "t": "Genoa-AC Milan, Serie A Enilive 2026/2027: statistiche, classifica, arbitro e squalificati | AC Milan",
     "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-11-08/genoa-milan-match-preview"
-   },
-   {
-    "d": "2026-11-05",
-    "t": "AC Milan-Ferencváros 0-2, UEFA Europa League 2026/2027: la cronaca | AC Milan",
-    "u": "https://www.acmilan.com/it/news/articoli/europa-league/2026-11-05/stop-casalingo-in-europa-league"
    }
   ],
   "cantu": [
@@ -360,6 +360,13 @@
   "milan": [
    {
     "d": "2026-11-09",
+    "h": "10:53",
+    "t": "Decisione presa in casa Milan: un grande acquisto in arrivo e un big in partenza",
+    "s": "newsmondo.it",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFpDeGhUYXJtWXhNdVg5aUdDWkxHTHhvZElkcWJFQVFvNmRBMW9qOXBvM2R2bXZRb1FjaUo5SjNtWm9pRk5SakFmSWY4MndEcWFUVkN1cTA1djdCNGFaMWl2ZFhZLWpBUTJpTWg3RFIxbG5MeHJ0ZmFqOGVBN19VSFlhTTVUZw?oc=5"
+   },
+   {
+    "d": "2026-11-09",
     "h": "08:40",
     "t": "GENOA KO: DIAVOLO QUARTO. Il vero Milan gioca in campionato. Cisse-Pulisic, è zona Champions",
     "s": "QS Quotidiano Sportivo",
@@ -368,7 +375,7 @@
    {
     "d": "2026-11-09",
     "h": "08:19",
-    "t": "Milan, il paradosso di Ramos l’altruista: non segna ma serve. VIDEO ANALISI",
+    "t": "VIDEO ANALISI. Milan, il paradosso di Ramos l’altruista: non segna ma serve",
     "s": "Sky Sport",
     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNmJqOFRYNmdSWlZsNVJKdkFwOGVaYjlXS0tzQ18xa2VfWTVhVVdXNmszVWM1V0dFd2dDSExRMzRMQ1d5aXpPaTdEaFZ6Q1RTNlNXcU5hWjA2bXQ5ZFZHZndfV2lqNS1wc0N1Yy1UYjlGeVY3VzZDcmNTdUJjR2JSSDRfeUlmU0lXZ2loMFBsZmN5TVlX?oc=5"
    },
@@ -406,16 +413,16 @@
     "t": "Genoa-Milan, niente rosso a Marcandalli: espulsi per proteste due assistenti e pure il medico rossonero",
     "s": "Diretta",
     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZHNUeXdMYmZDQnNkdExiSFNOTXJRQ01NMi00THhEV1BiY2UxN095WmhTTXdfYldOVmVYOVNoOUU5ZDM5RzNQMVNwcVFOSG1LeE1BazlXNl9TZFFOQXJOZTdWMkJhejR6V3BFREl1MVotaDkyZ2lHeno3Y24yNWRGTng3QzdoQ01FRlJYbS1mNEJfZ19DNzROLVVwUDZyN0pCbEhnTmM1dkpCbVdxSWVnUmxMeEp4blBZUGNHWHNMaVpuSnFDSmlYMWRla0trQUNpM0dSSWlR?oc=5"
-   },
-   {
-    "d": "2026-11-08",
-    "h": "22:16",
-    "t": "Genoa-Milan 1-2, highlights e goal",
-    "s": "TaorminaNews24",
-    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pVk1HWnRUMDg4aWFJcDNTSkxCREFYbjRETDNvRXJZM2V6bmRjSUxhQnJRUkR6SHNCVU4zNzA5bmhVblJWM0NURHJRYmN6QVNQZW1mc1RVNnBRSzRTdm5tUC02QmZkNHR5UnByUnRMc2E?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-11-09",
+    "h": "10:56",
+    "t": "Pallacanestro Cantù, crisi senza fine: mercato decisivo dopo lo 0-7, serve subito il sostituto di Christon",
+    "s": "Sportando",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUJ0NzRVSk5aVzM0Q3ZIaWEyb2xGTVlDNUYtQ3Ixc3ExWTdDUERjYWRYdmlGaUJ1MjFVSi1IcXhSV2didWp3VTBzSkJObGNaU2N0ZDlpOF9UNmpNb1Y3UGZOMzlWNnlXcTg3Q3NibWpfbldxRTc1R3NHNU14S3lUdVBWQVAxZXBxLTByR0QydTE4NUFVZkY4WTc3Wl9LZ3lPMXRZaWR4aTBqRjd5Q3RXUWFncU1xN1I1V2pfVWFOYjJOeHR4cTQtMWduazZUUQ?oc=5"
+   },
    {
     "d": "2026-11-09",
     "h": "06:03",
@@ -464,13 +471,6 @@
     "t": "Maxima Roma-Cantù 99-87: highlights Serie A",
     "s": "Sky Sport",
     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnlJaTBibmxFdDFhWXM1MVdUVnBrUVZLd2xWYUtseTQtbC1oLUllWnlhcTl6enUzSHhYWkZIdTE2XzcxNjA1QldydmFqUERVSEI0SFQyZXhYa1JlVEdmc2ZJbE1qVTVaaG8ydjNPSk02ZXlkYk9SUkI0Mm8zYmYtbDJWd2NUQ3FxeW9DWEVGYWVYQmthR0ZQbg?oc=5"
-   },
-   {
-    "d": "2026-11-08",
-    "h": "19:57",
-    "t": "BM LBA TIME | Maxima Roma - Pallacanestro Cantù 99-87, le pagelle: Bilan domina sotto canestro e Moon dirige l'orchestra. Brown non basta ai brianzoli - Di Flavio Tarabù",
-    "s": "Basket Magazine",
-    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CSjRSVVpfQXBtb1V4UDZ2OEM0X3V0bE51eDkxNTBUdHBKcnNxczk4SUcwa0lKWnN2Tnp6dFZMRmVZWVZYdnkycTQtSmZSUTMyai1fN09KaGVsNnAtTmcwV3hvTlJHUTVOeWV2b2R6WFQ?oc=5"
    }
   ],
   "como": [
@@ -1102,7 +1102,7 @@
    ]
   }
  },
- "updated": "2026-11-09T09:07:38+00:00",
+ "updated": "2026-11-09T10:02:47+00:00",
  "log": [
   "classifica milan 4 24",
   "classifica como 5 23",
