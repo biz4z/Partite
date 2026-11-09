@@ -351,6 +351,11 @@
   "como": [
    {
     "d": "2026-11-08",
+    "t": "Inter-Como 1907 2-0: la cronaca della partita",
+    "u": "https://comofootball.com/inter-como-1907-2-0-match-report/"
+   },
+   {
+    "d": "2026-11-08",
     "t": "La presentazione | Inter-Como 1907",
     "u": "https://comofootball.com/match-preview-inter-como-1907/"
    }
@@ -397,7 +402,7 @@
     "d": "2026-11-09",
     "h": "10:53",
     "t": "Decisione presa in casa Milan: un grande acquisto in arrivo e un big in partenza",
-    "s": "newsmondo.it",
+    "s": "News Mondo",
     "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFpDeGhUYXJtWXhNdVg5aUdDWkxHTHhvZElkcWJFQVFvNmRBMW9qOXBvM2R2bXZRb1FjaUo5SjNtWm9pRk5SakFmSWY4MndEcWFUVkN1cTA1djdCNGFaMWl2ZFhZLWpBUTJpTWg3RFIxbG5MeHJ0ZmFqOGVBN19VSFlhTTVUZw?oc=5"
    },
    {
@@ -1102,7 +1107,7 @@
    ]
   }
  },
- "updated": "2026-11-09T14:47:19+00:00",
+ "updated": "2026-11-09T15:43:04+00:00",
  "log": [
   "classifica milan 4 24",
   "classifica como 5 23",
@@ -1111,7 +1116,7 @@
   "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 7, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
   "notizie cantu 3",
-  "notizie como 1",
+  "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
   "stampa como 8",
