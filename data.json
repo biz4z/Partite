@@ -89,8 +89,229 @@
   }
  },
  "cantu": {
-  "games": [],
-  "standing": null
+  "games": [
+   {
+    "date": "2026-09-26",
+    "time": "20:00",
+    "home": "Venezia",
+    "away": "Cantù",
+    "score": "85-73"
+   },
+   {
+    "date": "2026-10-05",
+    "time": "20:00",
+    "home": "Cantù",
+    "away": "Udine",
+    "score": "84-85"
+   },
+   {
+    "date": "2026-10-11",
+    "time": "17:00",
+    "home": "Cantù",
+    "away": "Napoli",
+    "score": "80-99"
+   },
+   {
+    "date": "2026-10-18",
+    "time": "18:00",
+    "home": "Trieste",
+    "away": "Cantù",
+    "score": "92-72"
+   },
+   {
+    "date": "2026-10-25",
+    "time": "18:30",
+    "home": "Reggio Emilia",
+    "away": "Cantù",
+    "score": "81-60"
+   },
+   {
+    "date": "2026-11-02",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Olimpia Milano",
+    "score": "82-95"
+   },
+   {
+    "date": "2026-11-08",
+    "time": "16:00",
+    "home": "Maxima Roma",
+    "away": "Cantù",
+    "score": "99-87"
+   },
+   {
+    "date": "2026-11-15",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Tortona",
+    "score": ""
+   },
+   {
+    "date": "2026-11-22",
+    "time": "17:30",
+    "home": "Scafati",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home": "Cantù",
+    "away": "Varese",
+    "score": ""
+   },
+   {
+    "date": "2026-12-12",
+    "time": "20:30",
+    "home": "Verona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-19",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Trento",
+    "score": ""
+   },
+   {
+    "date": "2026-12-27",
+    "time": "12:00",
+    "home": "BC Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-03",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Treviso",
+    "score": ""
+   },
+   {
+    "date": "2027-01-10",
+    "time": "",
+    "home": "Virtus Bologna",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-17",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trieste",
+    "score": ""
+   },
+   {
+    "date": "2027-01-24",
+    "time": "",
+    "home": "Udine",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-31",
+    "time": "",
+    "home": "Cantù",
+    "away": "Verona",
+    "score": ""
+   },
+   {
+    "date": "2027-02-07",
+    "time": "",
+    "home": "Varese",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-02-14",
+    "time": "",
+    "home": "Cantù",
+    "away": "BC Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-07",
+    "time": "",
+    "home": "Cantù",
+    "away": "Maxima Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-14",
+    "time": "",
+    "home": "Treviso",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-03-21",
+    "time": "",
+    "home": "Cantù",
+    "away": "Scafati",
+    "score": ""
+   },
+   {
+    "date": "2027-03-27",
+    "time": "",
+    "home": "Trento",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-04",
+    "time": "",
+    "home": "Cantù",
+    "away": "Reggio Emilia",
+    "score": ""
+   },
+   {
+    "date": "2027-04-11",
+    "time": "",
+    "home": "Tortona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-18",
+    "time": "",
+    "home": "Cantù",
+    "away": "Virtus Bologna",
+    "score": ""
+   },
+   {
+    "date": "2027-04-25",
+    "time": "",
+    "home": "Olimpia Milano",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-05-02",
+    "time": "",
+    "home": "Cantù",
+    "away": "Venezia",
+    "score": ""
+   },
+   {
+    "date": "2027-05-09",
+    "time": "",
+    "home": "Napoli",
+    "away": "Cantù",
+    "score": ""
+   }
+  ],
+  "standing": {
+   "pos": 16,
+   "pts": 0,
+   "g": 7,
+   "up": {
+    "n": "Scafati",
+    "pos": 15,
+    "pts": 2
+   },
+   "dn": null
+  }
  },
  "news": {
   "milan": [
@@ -149,6 +370,13 @@
   "milan": [
    {
     "d": "2026-11-10",
+    "h": "12:16",
+    "t": "Calcio: Lazio e Milan si candidano per la Champions League, Juventus e Napoli si allontanano",
+    "s": "imgpress",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOUhYUTFxTTM5VzBCTzRvSDVxbWhTME5jOE5OTTVISU1IMmlCdXotSjJ3NTZxM1BXdUVGSDVZME9FWHZHQzRYT2dCS0oxMjQ4Q09VUWo3QWE5MHR1eG9tSnJfdUpocmVfdUd4SzdHbkNLVE53bVdzdEFvSEJBUUlIYVVGck9wZC1ISFgtekVzNExEVjJYM21JbFRRc3VfczI3RFRjZE1rNmxWVF9sb1dSVklXOGh2aGZpU1hFVzR3?oc=5"
+   },
+   {
+    "d": "2026-11-10",
     "h": "09:33",
     "t": "Tresoldi oggetto del desiderio del calcio italiano: perchè piace al Milan, alla Juve alla Nazionale e quale sarà il suo futuro",
     "s": "Goal.com",
@@ -195,16 +423,16 @@
     "t": "Alti e bassi da impazzire: questo Milan è indecifrabile",
     "s": "Sportmediaset",
     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZmtjQWRyS2w5aFgtNEQ4TldiU0U1TWdpdGFPd19GbThxUk02b0s0VGZ5YWVITnZqdFpCUWFvTGR0RkowbjhTOWtaTGFvbS11Q0EtUkR4NDdhQ0FmNjl0Ny04RFJKSE9FMGpBR0ZIRGpNQkFRWFM0ZERPeFQtUGlZdEgtYTdNRXBBRGNtLUYyOHA2NEFrQUJsek1abmptdjVydE9FNnQ1UVRGNkg0Rmozb0lqRGxXS0xRMlR5NU8wOHpfWFdRbzRrYQ?oc=5"
-   },
-   {
-    "d": "2026-11-09",
-    "h": "19:10",
-    "t": "Frosinone, un ko che brucia: dominare non basta, alla ripresa il Milan",
-    "s": "AlessioPorcu.it",
-    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZXg2RmUtX0hrdmZBcnIwUk1rZU8tU1lVM2FiYTNxWUIyYUFmMEZ0OFdBcWpuMnVpUG1DdGNfQ296aUNPbG8xMTQwSG50bkhyOWhRMEVaeUt5OWQ3RTBNNlp6czdNbUdtcjZLV2p4endxZU5wSTFnbkNJdU9rUHZsdDBHRWEyMG1KbDdSVUFJLUVkYkRRMmVMNldPSzZOUmw1ay1LVg?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-11-10",
+    "h": "11:39",
+    "t": "Cantù-Vitucci, fiducia a rischio: la sfida con Tortona può essere l’ultima spiaggia",
+    "s": "Backdoorpodcast.com",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wVDVzckUzV2VwZHJOcEdrdjRNcGhTQUJSNXh2dHBqdWt1akdxQ2VOR3FYWTNoWnJNZTBCS1lBNldOUlJZb0lBM3FxWE93TUtyMDVEWWtJQlBzTkEyTUhnb21Ba21haUc3LVhLVXF6NA?oc=5"
+   },
    {
     "d": "2026-11-10",
     "h": "08:55",
@@ -214,7 +442,7 @@
    },
    {
     "d": "2026-11-10",
-    "h": "08:25",
+    "h": "08:26",
     "t": "Cantù, Vitucci in panchina ma contro Tortona si gioca il futuro. Primi nomi per la eventuale successione",
     "s": "Pianeta Basket",
     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaWJ0ajJyRHJVNjFEdTl2eHE2TnhSVms3cG1sY3pQUm8zM1V0RmRqdjlaeE9XNFkxMzhGdjNHZU1QWVFfZTV2X2tkQWZnbkdDSXpyYTdhT2FEbkZSQXg5TFgyZDM5ZmdNSlFndDhmQ0pPYlVpYzAzQ0NNNzNkUktkeDR2YkUxODB1Qm9nUndvc0NpUDlFOVhZak5vNTdjUkFfbkpHY1AxTi1rdUlhUzZCb0VlNnIxNk9Eb3prOVh2NTZOTkhGbEV2UUVvb21ReEdyaVg5SGVZa3dwSWF5ME53QW94amVtUQ?oc=5"
@@ -235,17 +463,17 @@
    },
    {
     "d": "2026-11-09",
-    "h": "20:54",
-    "t": "Miglior giocatore Maxima Roma vs Acqua S.Bernardo Cantù 7° Giornata",
+    "h": "20:12",
+    "t": "Statistiche Maxima Roma vs Acqua S.Bernardo Cantù 7° Giornata",
     "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUlBeTVKU01Xb2kxbm8tQlNDblYtU0xKQWloM293ZkV4TWl5bkQ4T0lLc1RfeEFvNDM2bHBFY1dibkhPMTJOQ0FiMXRmUU9NOVU4ekJpVm1rR3JCd1d0Nmc0ZDhEZ01JRHFXWUJqVXVUcWVWaURNR0k3dGoyNFJIZQ?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZlhUR0h6QUZVOXFXVENlM0dYc0YyNjlmV0IxS2dObnIxdktUeXY1RmY0TGRiSkRKMmRMbHg0NUFXN25YeUVleURWTXo2OVQ1RXBRY3dwRnhHT0EyUUtCVUxWUVJORDdNU2pQeldNd3lCSFh4V0loejZuTVNQejR5MWZta043VnVX?oc=5"
    },
    {
     "d": "2026-11-09",
-    "h": "20:53",
-    "t": "Statistiche Maxima Roma vs Acqua S.Bernardo Cantù 7° Giornata",
+    "h": "20:06",
+    "t": "Team Lead Maxima Roma vs Acqua S.Bernardo Cantù 7° Giornata",
     "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeGlWWXZpcjBDeUZQZThGNGxHM0JqbURQd21yck9ZYVF0a0p0MFV1Q1JDaGlIbXJIN1hKeGQzcC1lblZNOGhicVpUUUkyOHFiV1MyWUxCZ3FVdXF0LW9KcXZfOXluSElzWDRHd2tXYkV0RUktcFltUDFFNy1yWmN3Q3BQampoVzhrb3c?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEE1ZlhFSlVsT096U2FoSjM0bkJqMFVTdjdULVJ6Mm01S3VoR0JwenQyakh4YUVjV19aRTVaYXBkelNLdUpUc3ExWjdvU3FJWmtFTHVPd2syckZMT0NNV1BHdElHdDdaMG8xN0xsdVVTZnpaN3M1dkdVcVd1aEZtaHlZcUV0Z1E?oc=5"
    },
    {
     "d": "2026-11-09",
@@ -253,13 +481,6 @@
     "t": "Cantù sprofonda a Roma, crisi nera: serve un play sul mercato",
     "s": "Backdoorpodcast.com",
     "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHl5cEUyX0pXZndJMVIwLVE4LWJnNXZ3dkNIejIyb2pLMFFwQTY3VXBBc1FLTl9XV0hUY2szb0FNVlRsd1ZzWnlfaC14R2QxUVlrYTNnTmVXcUlnZWFQSDdCS3kydGdTcjlXNVd5YU5LNnpxd1ZjRHRPdzZ2OEdkdg?oc=5"
-   },
-   {
-    "d": "2026-11-09",
-    "h": "10:56",
-    "t": "Pallacanestro Cantù, crisi senza fine: mercato decisivo dopo lo 0-7, serve subito il sostituto di Christon",
-    "s": "Sportando",
-    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUJ0NzRVSk5aVzM0Q3ZIaWEyb2xGTVlDNUYtQ3Ixc3ExWTdDUERjYWRYdmlGaUJ1MjFVSi1IcXhSV2didWp3VTBzSkJObGNaU2N0ZDlpOF9UNmpNb1Y3UGZOMzlWNnlXcTg3Q3NibWpfbldxRTc1R3NHNU14S3lUdVBWQVAxZXBxLTByR0QydTE4NUFVZkY4WTc3Wl9LZ3lPMXRZaWR4aTBqRjd5Q3RXUWFncU1xN1I1V2pfVWFOYjJOeHR4cTQtMWduazZUUQ?oc=5"
    }
   ],
   "como": [
@@ -891,15 +1112,15 @@
    ]
   }
  },
- "updated": "2026-11-10T10:35:43+00:00",
+ "updated": "2026-11-10T11:26:05+00:00",
  "log": [
   "classifica milan 4 24",
   "classifica como 5 23",
   "classifica milan_eu 28 3",
   "classifica como_eu 4 9",
-  "cantu 0 partite None",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 7, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 3",
-  "notizie cantu 0",
+  "notizie cantu 3",
   "notizie como 3",
   "stampa milan 8",
   "stampa cantu 8",
