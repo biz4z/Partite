@@ -430,10 +430,10 @@
    },
    {
     "d": "2026-11-09",
-    "h": "20:54",
-    "t": "Miglior giocatore Maxima Roma vs Acqua S.Bernardo Cantù 7° Giornata",
+    "h": "20:53",
+    "t": "Statistiche Maxima Roma vs Acqua S.Bernardo Cantù 7° Giornata",
     "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUlBeTVKU01Xb2kxbm8tQlNDblYtU0xKQWloM293ZkV4TWl5bkQ4T0lLc1RfeEFvNDM2bHBFY1dibkhPMTJOQ0FiMXRmUU9NOVU4ekJpVm1rR3JCd1d0Nmc0ZDhEZ01JRHFXWUJqVXVUcWVWaURNR0k3dGoyNFJIZQ?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeGlWWXZpcjBDeUZQZThGNGxHM0JqbURQd21yck9ZYVF0a0p0MFV1Q1JDaGlIbXJIN1hKeGQzcC1lblZNOGhicVpUUUkyOHFiV1MyWUxCZ3FVdXF0LW9KcXZfOXluSElzWDRHd2tXYkV0RUktcFltUDFFNy1yWmN3Q3BQampoVzhrb3c?oc=5"
    },
    {
     "d": "2026-11-09",
@@ -516,13 +516,6 @@
    },
    {
     "d": "2026-11-09",
-    "h": "09:15",
-    "t": "Scheda squadra Como U20",
-    "s": "Tuttocampo",
-    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnVIU05lbVhHMDdoM2VieVFtaHFlWjJhaWJubm9WVEJGcEVnWURqRGxQREx4MU5sSGpRODNhYTBGWmRCSmJKUUFvRktKVUhGWkN6VEJ5RzhleHE0VURKd3VzYTVmTExOWXM3bVZmZXpxa2NwNGpEZ2pPd2x1VTdseDR4MmdSV2h1?oc=5"
-   },
-   {
-    "d": "2026-11-09",
     "h": "08:33",
     "t": "Pagelle Inter-Como: Thuram non dà tregua. Ramon horror, Nico Paz un lillipuziano",
     "s": "Tuttosport",
@@ -534,6 +527,13 @@
     "t": "Como 1907, Suwarso spiega i modelli per gioco e ricerca dei talenti",
     "s": "comocity.it",
     "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WLWtUVUJ3OWtHWWhwUzlGLWY2UmFYaVg0SWpIMFhuSGdOQnRhSGZYdlVkS1dHUDBFNjhfWDkzQnZGZ3hja1pFdU54bVU4dldxMFM1Z3VUQ0dnSFhmRjZsQjlDNDZGX3Q2Tm9OcUhOYVVWel9IMVJyWC1XY0pSMlU?oc=5"
+   },
+   {
+    "d": "2026-11-09",
+    "h": "00:00",
+    "t": "Inter-Como 2-0: gli highlights",
+    "s": "Sportmediaset",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFNIejVXTFE1ZUJGU0JrMTFRcnpUQno3M002eWhXakZ3YUczdEVSR1dZUWlfeWRsOUhGYW50dmo4dFBkVXF2eHZkUkQtU2ZRaFhkUllWR2VENzFabzR3Wm94S3hNemV2NWdDYzZ4QUZpSmJhSlNqUi05ajd6d0p3OVFBek9oeE9JMDZGM0xVTnJHRXktN0M4RVQ0OEhPRG9BeEZwc3Z6Yw?oc=5"
    }
   ]
  },
@@ -1107,7 +1107,7 @@
    ]
   }
  },
- "updated": "2026-11-10T05:05:15+00:00",
+ "updated": "2026-11-10T05:55:34+00:00",
  "log": [
   "classifica milan 4 24",
   "classifica como 5 23",
