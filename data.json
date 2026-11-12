@@ -370,17 +370,17 @@
   "milan": [
    {
     "d": "2026-11-12",
+    "h": "15:56",
+    "t": "Frosinone al lavoro per la sfida al Milan, tanti assenti per Alvini",
+    "s": "Sportmediaset",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ3hSMzhnLThHOV81M0RZNUtWNXRnLWZQbVBwRGE3Ui1wejE4djlMTUVmQ3J0NWVUSTUyLWJFSHAwVDMyQUVqMGU2amxSRDRKTFZLZkk2Z2dfNm9vMy1yZ0R0TG42akkwemFvOUdlMzV2MlZGakhpbUFWTjRIcjZMcGl6R2c3V2FHQUV0Y3NmcHZ5d21KVHE2RHo4bGV6eWw2eFdlYkdiSE5VNnBuT1lydjVkYXE4bjhXWlJPTC1kNU4xSGFJcFhWVlRQOFFLN3BJ?oc=5"
+   },
+   {
+    "d": "2026-11-12",
     "h": "11:37",
     "t": "Milan alla ricerca del dopo Modric: occhi su alcuni giovani centrocampisti",
     "s": "DerbyDerbyDerby",
     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONklTMmxqRmVuYU4wcDZpUUVwWWY5MzZYUEhZRFJBQ3hQVU5Iblo4Rnd2V1ZqMDRyblR4MTFzLTBtTEd2S2JSNHhjTXdtbE1iYi1NX3YxOGxJMFNnVjlRaUp3RDc0S0hxdHhnOWNTVFE3cUZYb0ptblhiclJBTmZkWUVnb21uU3Q0QzdhVWRwSmhtSUJYWmQ5VV9acjU5bmU2eWVVckVMVmhBR2NVTGlReUJzb0FKVlZVUWxlbXNR0gHDAUFVX3lxTFBhS3NVcFVzS3gyUVlPRXZpbW1DbUs1RlhwSHVGakp3LVpLbW04UUJxLWFKeDhLSThLTWVqZ215bzk4TEtKaXdkbmNkQ1R4UzNmZEUxRzVNRnZpeFczRVlTWWFoWHgtUmlDWXlBeDEzRHlRaFFkaUFPSlliOENjWG5WVWc2aVFqUGF2S0dGcGlhNGxWSnN1S1BvOTZDMnRnNDh3ZUk5VzQzR0xQVmp1empTWmlpVFQzY2luX0FzX3hGdEhfaw?oc=5"
-   },
-   {
-    "d": "2026-11-12",
-    "h": "10:00",
-    "t": "Dentro la partita di Rabiot: trascina il Milan al Ferraris e si prepara a sfidare l'Italia",
-    "s": "Diretta",
-    "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcmFUNTVwajEzWm5oZzdHVjdjSUZKZnZYWlZNV3JFcVFVdmxWRGNxdnhjR01VVFhlQlBYS2tXYXRzNGtiQk5pUHdRd1VnZzU1VndWVjdRVjU5eXhrRnhQd2ZJN210a2lHZmF5bmlXZXNKZFZwVWlVZm9KV1M5VWtUajdfaWh2dlRxT1d0MkxpU0E0TkRuNFA3SHZ4MzRhRWJqcG82YUJDMmpMczRDRHdzcjlxdWZUMUZIa0dCWVVwUjdBWGF3X2tEUEd2VjVTd2ljRGFTSDdJbG83NW9VQ3FPR2RncC1Nc0UtSGc?oc=5"
    },
    {
     "d": "2026-11-12",
@@ -395,6 +395,13 @@
     "t": "Calciomercato Juve, obiettivo Miranda: Massara torna alla carica tra Milan, rinnovo e... Lucumì",
     "s": "Tuttosport",
     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOTB3X3dLWGxmaV9MWlZxb2c4ZFRIcHVRWnZXcjJHRGtqWF9JZEU4ZVdzZkIxbFV5QktNbmhCd0pseDhYd0ZOWnM1TkZHZU5QdEdVaFRXLS1kMEpnbUZvZ0VjX1hGaDlNSXpfTS1KbVhnYXEtc3kzbmhZOFliT1RoaVc4MmVLNk1LTVRxeUhEV2JDUFl1a0pCZ2JLTnVBMUdEX0wtYmIyRnJ6TnJBcUJRU1U2eW9YWjhSMTZyamlvRkRFUVZUR0hpclpOQl9lSFdYTUVnU0VpN1p5Mkl5YTAtZExNZHdtX0tFOWltUnBsdEhPUG9KYnhmTdIB-wFBVV95cUxOWnNNNjlvSndhelBENHZXa253TjZnWXdEZFk5dzh6MVhjTWF0NVU5X3c4ajRBLW1xMEF0WnJ0YWczSUlCZ3JxMEc4ZEJBQ2FHek1ZS09saW1QU3czM3RSS1pPTlF4SWFyVnczalpKLUJIaDNtckROVGNIOVVVVWJPLTFHc1hEVHdRU2JLaWtFV0hoc0pMWXktWGtaYzBZaVNxWFVrMHRZMWVJRTUyUzlxR1R3QkZZbWxYa1RTNlFlSUNZQ1JDRkxUandVRGI2akZ1dHdaSTZXcXpFcHpJWlM0aW1neWh6NXcxX3FkN2J6ZUVHZGlidjd2a2VrZw?oc=5"
+   },
+   {
+    "d": "2026-11-12",
+    "h": "00:57",
+    "t": "Dentro la partita di Rabiot: trascina il Milan al Ferraris e si prepara a sfidare l'Italia",
+    "s": "Diretta",
+    "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcmFUNTVwajEzWm5oZzdHVjdjSUZKZnZYWlZNV3JFcVFVdmxWRGNxdnhjR01VVFhlQlBYS2tXYXRzNGtiQk5pUHdRd1VnZzU1VndWVjdRVjU5eXhrRnhQd2ZJN210a2lHZmF5bmlXZXNKZFZwVWlVZm9KV1M5VWtUajdfaWh2dlRxT1d0MkxpU0E0TkRuNFA3SHZ4MzRhRWJqcG82YUJDMmpMczRDRHdzcjlxdWZUMUZIa0dCWVVwUjdBWGF3X2tEUEd2VjVTd2ljRGFTSDdJbG83NW9VQ3FPR2RncC1Nc0UtSGc?oc=5"
    },
    {
     "d": "2026-11-11",
@@ -416,13 +423,6 @@
     "t": "Milan, che fine ha fatto Origi? Addio al calcio, ora studia sui banchi di Harvard",
     "s": "Sportmediaset",
     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORGNoRVJYUEFsSjFpTl9id05vXzNoTlpkOTVyRllFS0I3cUczWDRZQkJvMGNmbWZJald2RkRlcVJmWnludGNDOUIyOHBYQzV3d0l2aU9UbDlKd3FSNFJ2Y05lX3htM0oySWJiTFU3SF8wZjY0Nnktd3dPazIyNzNCSVhCYUtHa1RlRTVaMVUzY21SVF9PQmVRNEhzcFFmby1UOURMT0ZQZ1VGX2s?oc=5"
-   },
-   {
-    "d": "2026-11-11",
-    "h": "12:57",
-    "t": "Milan: un giovane della Roma, un vecchio pupillo e un atalantino. Ecco i colpi di gennaio per l'algoritmo",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzFjZHB3b0ZEc1FDUS10TDYwOGFmNXhoVnpuNGhLbFlCNDZjZTQ5NHBUZENRcy1zUnRaQzdNbVUxZWFxT21ETVRSMENvRkRJMGYydlFNV01jaFdlRUpySzFUeHNMdnRqdXVoaFljWUloa19YeEg5aU8tQmtqU1NkRklsYWM5X2hrQmZOeXF0endwam4wbkZNd0VTZHBUaDFVazBKdl9OQl_SAagBQVVfeXFMTU8xY2Rwd29GRHNRQ1EtdEw2MDhhZjV4aFZ6bjRoS2xZQjQ2Y2U0OTRwVGRDUXMtc1J0WkM3TW1VMWVhcU9tRE1UUjBDb0ZESTBmMnZRTVdNY2hXZUVKcksxVHhzTHZ0anV1aGhZY1lJaGtfWHhIOWlPLUJralNTZEZJbGFjOV9oa0JmTnlxdHp3cGpuMG5GTXdFU2RwVGgxVWswSnZfTkJf?oc=5"
    }
   ],
   "cantu": [
@@ -463,17 +463,17 @@
    },
    {
     "d": "2026-11-12",
+    "h": "09:07",
+    "t": "» BASKET – Cantù tiene testa alla Virtus, ma alla fine si arrende a Bologna 89-79",
+    "s": "Il Canturino news",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWR1S2wtb21odEVVSndnYVFsOHQtNFYtSFp0dVl1Wk55ckt6ZGtWaUdpVks2S2oycjUwSTBoME9DMTdUUGtjLWhOVk5zaF9TVXBTbXptVlJyTGNUZm1VQ0hsUDhFLTFhY3NFRXVrc3VRVDhSMzAzbnE4QmtTc0l0T082LWU4MXpJSFYwbHhoQUFDeW5zbUJwcmx3?oc=5"
+   },
+   {
+    "d": "2026-11-12",
     "h": "09:06",
     "t": "Cantù, è fatta per Erick Green: oggi visite e primo allenamento",
     "s": "Sportando",
     "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lV3pmc2Z0N25SaG9mSGRoYnExYy05MVozaFFreG9hUFVjYVcwb2RaTC1aMTN1QWowdzlHNzY4b1pKUmxiX2xqdnFMa25fTjFZTjN1NC1wNG14NU1wTHN4UTRZNHBtZEc5SUR4elNKMEd6ellUNnBmWlVnTEs?oc=5"
-   },
-   {
-    "d": "2026-11-12",
-    "h": "09:03",
-    "t": "» BASKET – Cantù tiene testa alla Virtus, ma alla fine si arrende a Bologna 89-79",
-    "s": "Il Canturino news",
-    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWR1S2wtb21odEVVSndnYVFsOHQtNFYtSFp0dVl1Wk55ckt6ZGtWaUdpVks2S2oycjUwSTBoME9DMTdUUGtjLWhOVk5zaF9TVXBTbXptVlJyTGNUZm1VQ0hsUDhFLTFhY3NFRXVrc3VRVDhSMzAzbnE4QmtTc0l0T082LWU4MXpJSFYwbHhoQUFDeW5zbUJwcmx3?oc=5"
    },
    {
     "d": "2026-11-12",
@@ -490,6 +490,13 @@
     "t": "Bric’s rinnova la collaborazione con il Como 1907",
     "s": "Prima Como",
     "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUU1CNnYzN0hoOVgxcTlsVDNVNVBBX1R1U2FkVmdtVmZ6TFZQejF5WHhCbHZ2NTRtNE1ZQ2xlM2dmRFE5THhhY0JjN1l6VWtwV3lGOVN3TTZFUWtSZzRJNzVoNENXazJYTnhpenBwS2xNaUJZRENjelJodnpwdGwzdjRhRUd3QjQ?oc=5"
+   },
+   {
+    "d": "2026-11-12",
+    "h": "10:38",
+    "t": "Suwarso (Como 1907): “Il lifestyle sta raggiungendo la quota dei diritti tv”",
+    "s": "Pambianconews",
+    "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUm1od19tT182Z0RFUDJQaWhEMUpvMGJ6bmVhQUN5cHg4eG1wU3hxNlNpT0FJUUxXZjRfVU5aa05rNHZkTG5KTVd2aVN0UmczdElHYzVob19SeHFVN3VDc2x6cEpEMUxUai1OaEJhdUpLZnBTcEE2U08weHZjbVd0aHEzTXJfT2lCUVozR1dkMV90eTl3dDZGR1ZvcUtwWWlyckJRVjY4ZzE1aXF2Mk95SGFKZ1FncUE5NDk2UVg1c2o3Yk5Od0U0dU80UlJnRXhnX1dsU2JBd3M3YkJiRkt6dFFXUXg?oc=5"
    },
    {
     "d": "2026-11-12",
@@ -530,15 +537,8 @@
     "d": "2026-11-11",
     "h": "16:24",
     "t": "Como 1907 prepara il lancio del progetto Curva e di un nuovo marchio, ricavi 2026 +57,9% annuo",
-    "s": "FashionNetwork Italia",
-    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRGU2V1IzeE5NNHE0Y0ZOa0R4OUZFODExLThPdXoyNmpRNDB0VXFuekxmMzk4MUJlOUROT3A0OWZGaFR0RGNqT0psZFkxSjFoX1llLWpXYWV3dnJpV0EySVROejhVYnBERzY1NEpidU51TVBKeVE4bHRTbWV6VkNmcDNLYmc1c2ZVUHNONHdqZXhraDhHeW1WNGZPeVBtUHJfNkhvS2pBNEQxMlR0M0d2ek90aDRIdzhScU04ekpiMUx0R3czZE9MN2dUVjd6ZUZFN0FHdDh3?oc=5"
-   },
-   {
-    "d": "2026-11-11",
-    "h": "16:20",
-    "t": "Como, paura per Sanchez: si schianta in pista al Nurburgring alla guida di una Ferrari. Auto distrutta",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdzSVd0REM0SzY4Zmkzc0JEUWwzVGxnUHVNc1pDeWctcFlfTnJEVWRZN19EdkRjU3FtN1piWHN4c3NlREJEVXVmRHkzVldHLWk5QmpUYWJmMTliZHBZRmZPcGxUSG9QWUJVYnMxQkg1d0tZWnNQY2ZyRjhFZWRSRWczY1N0TkJoNF9YZG5LYWdvQkxzeHFuTk1nVUZWSWlJdTVJa3VxMm9JLUI3X1EyRkhlQTFoWHRvSU1B0gHAAUFVX3lxTE5iLS15OEc5TUVpUXJNa2t5VGM3eEdDLWZhWFlWeW81d1AzN2pUVVpmSDhCOE9qOXNLRl9KTHMtbGU3Nm4wdDVLZ1BoWGRKTzJxVVB1SGY3MFNlWUptOTR6VkdRelBBVHZTd2o5b1gzY0RsRzc0dXBMYVdoYk41TEszRERBUVNtUER5eDhHQ2ZqaWE4VTB0aGg0MmdkcnMxa1kxMjBrdzFiS0RKNl8wTlRCZUtfMjJuY2cxZnJ6cTNyQw?oc=5"
+    "s": "FashionNetwork France",
+    "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMjNpVWVZLVp3RmVBSUR4SU84N05SRURFS002clg5QWtTNi1NdVBFX3htc3ZGc1I4WHViTkZVMTZNcVJ0WnBGdlFiRThVWWhueklfRWw1WVN0VGFBOTRVRHd5TEtydFBlTE5ld1BrMklBeGowNkZDVUdyZTlyamVnZEVIWDFGY0tXbDVKbDhhYU5kcWRoWWszX1Y0UDMtT1UzR1YwUE1kbXNLV0s1TGxUYl8yQXRwZEJiQzM5b0NkVjFRNmhTWlgtSEtURGJ1TmZ6Yk5oT0xPbXJjaVp1X0E?oc=5"
    }
   ]
  },
@@ -1123,7 +1123,7 @@
    ]
   }
  },
- "updated": "2026-11-12T14:39:42+00:00",
+ "updated": "2026-11-12T15:34:36+00:00",
  "log": [
   "classifica milan 4 24",
   "classifica como 5 23",
