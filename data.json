@@ -405,6 +405,13 @@
    },
    {
     "d": "2026-11-13",
+    "h": "18:25",
+    "t": "Tare a Sky Calcio Unplugged: \"La mancata Champions col Milan ferita enorme, mai avuta la possibilità di parlare con Cardinale\"",
+    "s": "Gianluca Di Marzio",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWVpHdzA2MU04ZE1yNjN4MENobXNqcDJNV0pGODFSemgzb0dPRUdSRnpkYl9HRlZUOHJOUXk3ZUFqUVBXWDM4MmEtZU53ZmxvRDFYVHVMMXgyM3FDZUlhek91QlZTWGV0TWtjbFVBUC1xWTNTdWtRT1VUeFhkaS1tdkxPOUdJR3AzSzdfTFE4SnNwSzRtVUg5U2R6LWJXVjBl?oc=5"
+   },
+   {
+    "d": "2026-11-13",
     "h": "18:14",
     "t": "Dai Nets in NBA alle Big 12: chi è Brett Yormark, l'AD di Milan Sports & Entertainment",
     "s": "Calcio e Finanza",
@@ -416,13 +423,6 @@
     "t": "Milan, l’ex Tare “punge” Leão: “Il calcio non era più una priorità”",
     "s": "DirettaCalcioMercato",
     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONkFBamR0akpwVVRsM09jbTRoRnhFdWtVb3p6WTBvdjNRY1doVUpSWi1FVU5KM1dhcjZqalZtejRIdUs0WDB6TEh5U2E1M2xQR0J5TjgxRTJuTXAyaHdKbHVtRHJ2U0ZxZ0FvNG9zSHRnYWI2Um5qQmd5TUtQaXd1NVM3bWVLUjZLZ0c2UFc0d1JMYkhQNjZxOGRXeFhld00?oc=5"
-   },
-   {
-    "d": "2026-11-13",
-    "h": "17:25",
-    "t": "Tare a Sky Calcio Unplugged: \"La mancata Champions col Milan ferita enorme, mai avuta la possibilità di parlare con Cardinale\"",
-    "s": "Gianluca Di Marzio",
-    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWVpHdzA2MU04ZE1yNjN4MENobXNqcDJNV0pGODFSemgzb0dPRUdSRnpkYl9HRlZUOHJOUXk3ZUFqUVBXWDM4MmEtZU53ZmxvRDFYVHVMMXgyM3FDZUlhek91QlZTWGV0TWtjbFVBUC1xWTNTdWtRT1VUeFhkaS1tdkxPOUdJR3AzSzdfTFE4SnNwSzRtVUg5U2R6LWJXVjBl?oc=5"
    }
   ],
   "cantu": [
@@ -486,6 +486,13 @@
   "como": [
    {
     "d": "2026-11-13",
+    "h": "12:02",
+    "t": "Scheda Tavernola - Terza Categoria Como - Girone A Lombardia",
+    "s": "Tuttocampo",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTJMdzREVkdkdFJjOEwxMWNyamRJTGt1Qy1obC1oNm0tTUdwS3pHdWhJM1RFMlVFeUJMcXlVeHlfaGNlTmJqaTAtUlQ2T1A0bXcxcmpiS1dKN3lHSEY4cTdHT1RYQmZ4WXV3QzlTT1lkckpWc2dqdzJubDZwUjlRUkstZDFxeFJWcHh1ZmlUa0NPcXhGMml6RVlB?oc=5"
+   },
+   {
+    "d": "2026-11-13",
     "h": "11:27",
     "t": "Como - Cagliari",
     "s": "Diretta",
@@ -532,13 +539,6 @@
     "t": "Akanji punge il Como: “Ma quali fenomeni, vince sempre l’Inter”",
     "s": "calciowebpuglia",
     "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tTXZCNlhRUnJwY1lpZkwtYUhZUzVrTnhYYTdrQzU0V21HX2RJXzdTVzF1ZmZhYWEtN194bURhV3RuSTJxYjY3OUtwWmZ1Q3IyLW4wVU1TYw?oc=5"
-   },
-   {
-    "d": "2026-11-11",
-    "h": "22:58",
-    "t": "Scheda squadra Como",
-    "s": "Tuttocampo",
-    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzU1QkkyOVhxNDZCXzA4WEdodXVUVWQyZ3U4QWs1OERqTVZLdnBXODJTN21WamRjempDS2VicW5PUmh3eFFxdFpXTjJSZ0RiWHNBY0Vlb1FKa3F5a2R5Szc3WXJFNXR1XzJZY0lpc2FLWEpKZ0xaOHV3LUFXZ0Z0cXBoQUtIbDNSamluSUtWeUFKQjljZWFPTlNzOTZWOTQ?oc=5"
    }
   ]
  },
@@ -883,6 +883,11 @@
    "1": 61,
    "X": 21,
    "2": 19
+  },
+  "2026-11-24|Como – AEK Atene": {
+   "1": 71,
+   "X": 16,
+   "2": 13
   }
  },
  "lineups": {
@@ -1123,7 +1128,7 @@
    ]
   }
  },
- "updated": "2026-11-13T22:31:34+00:00",
+ "updated": "2026-11-13T23:15:26+00:00",
  "log": [
   "classifica milan 4 24",
   "classifica como 5 23",
@@ -1142,6 +1147,6 @@
   "loghi ['cantu', 'como', 'milan']",
   "formazione como Inter – Como 4-2-3-1",
   "formazione milan Genoa – Milan 3-4-2-1",
-  "quote 2"
+  "quote 3"
  ]
 }
