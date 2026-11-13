@@ -486,6 +486,13 @@
   "como": [
    {
     "d": "2026-11-13",
+    "h": "12:02",
+    "t": "Scheda Tavernola - Terza Categoria Como - Girone A Lombardia",
+    "s": "Tuttocampo",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTJMdzREVkdkdFJjOEwxMWNyamRJTGt1Qy1obC1oNm0tTUdwS3pHdWhJM1RFMlVFeUJMcXlVeHlfaGNlTmJqaTAtUlQ2T1A0bXcxcmpiS1dKN3lHSEY4cTdHT1RYQmZ4WXV3QzlTT1lkckpWc2dqdzJubDZwUjlRUkstZDFxeFJWcHh1ZmlUa0NPcXhGMml6RVlB?oc=5"
+   },
+   {
+    "d": "2026-11-13",
     "h": "11:27",
     "t": "Como - Cagliari",
     "s": "Diretta",
@@ -501,7 +508,7 @@
    {
     "d": "2026-11-13",
     "h": "10:09",
-    "t": "Como su Hamza Abdelkarim: il piano per il talento del Barça",
+    "t": "Hamza Abdelkarim, il Como guarda al talento del Barcelona per gennaio",
     "s": "Calcio style",
     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN21GamZTU0psYXpKZmZTemc2ZkV4dUo0NlJCcURjWWp1cUozZ1pRUzhBelBNNllqR19FUHFKQVJrUjk0YXFFN29wbXFwMnJ1bWxaODlmQ0JSaDRIVmRJYXJrUmVFRjUxSTRqelozcWpJTFplNUlNOXFOaThsRGU5WE9MeTNKLUZONzVvX2FBNTIwd1ZwLUtGOFA3R2VlRzRn?oc=5"
    },
@@ -532,13 +539,6 @@
     "t": "Akanji punge il Como: “Ma quali fenomeni, vince sempre l’Inter”",
     "s": "calciowebpuglia",
     "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tTXZCNlhRUnJwY1lpZkwtYUhZUzVrTnhYYTdrQzU0V21HX2RJXzdTVzF1ZmZhYWEtN194bURhV3RuSTJxYjY3OUtwWmZ1Q3IyLW4wVU1TYw?oc=5"
-   },
-   {
-    "d": "2026-11-11",
-    "h": "22:58",
-    "t": "Scheda squadra Como",
-    "s": "Tuttocampo",
-    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzU1QkkyOVhxNDZCXzA4WEdodXVUVWQyZ3U4QWs1OERqTVZLdnBXODJTN21WamRjempDS2VicW5PUmh3eFFxdFpXTjJSZ0RiWHNBY0Vlb1FKa3F5a2R5Szc3WXJFNXR1XzJZY0lpc2FLWEpKZ0xaOHV3LUFXZ0Z0cXBoQUtIbDNSamluSUtWeUFKQjljZWFPTlNzOTZWOTQ?oc=5"
    }
   ]
  },
@@ -1123,7 +1123,7 @@
    ]
   }
  },
- "updated": "2026-11-13T21:11:14+00:00",
+ "updated": "2026-11-13T21:53:27+00:00",
  "log": [
   "classifica milan 4 24",
   "classifica como 5 23",
