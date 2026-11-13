@@ -370,10 +370,24 @@
   "milan": [
    {
     "d": "2026-11-13",
+    "h": "10:50",
+    "t": "Milan, clamoroso: ecco il colpo da 50 milioni",
+    "s": "newsmondo.it",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ma0pCOTNGSU1lbXpYSldLd0F1U1dYS0dUNmhhVjhXOEFUZ0dqek16SG9IV1dvVjhvcGFnLUJ5VFZ0d1B5Y1RFa205d0xhUi1CaUxmSXh2UF90VzI2bHJ3NG8wUU94SjExX3BMc0NUSllwTDJQbDY4QnZyUjdNQQ?oc=5"
+   },
+   {
+    "d": "2026-11-13",
     "h": "10:02",
     "t": "Il Milan sogna in grande, Van Dijk apre ad Amorim",
     "s": "TaorminaNews24",
     "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNmVBbzZZZnV2cktTNV9ja3lqeGFOd1NrRWhKbTZCSURQTkpzMmxLc3hkRGh2WWZDR3RFZXhaSVZDUGpGOUdRT1IxaV9rOFJJQ2dlaFhVaGN2aGctT0l4LTBqRk1HSzFLX09udDB1MVZXVVlGUi1ZSXNqdk9fMDFuVE1B?oc=5"
+   },
+   {
+    "d": "2026-11-13",
+    "h": "08:34",
+    "t": "Juve-Napoli, sfida per Varela. De Bruyne può salutare già a gennaio, il Milan sogna Van Dijk",
+    "s": "Eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZlJrOXEzbTRobEF1QW9HRmotN2N5S0tmSG5xS2t5VlREZ29TUWp2ZUFFd0M1bGY5T3FjSGZfdS10QWdzVHFkQ1hFU1JfbHNjNXEySnZhUGwxVTFVUHl0RndGeC0tUDV4WWtSVklsT3pnVlVYcXZub3haTXVLQ0JsWGctaTlpRFpHeVcwSlpFbzFOOFR0MTF4NzIzRDVLOTZmYk1wVkV1VVdoeWlPOHhJZ3lPQWxSVHNuVlNRcWlRS1pESm01TU9icnhzRzVrRUp3ZUZOdWtyVWF1ZXFXZkpfWGNSaTg5c2hGdHNuZEJpLWpNTWxWMUJEUEpzTC1JUlkta29obGxLMG91WmdYdlpjSjFxdVE?oc=5"
    },
    {
     "d": "2026-11-12",
@@ -409,29 +423,15 @@
     "t": "Frosinone al lavoro per la sfida al Milan, tanti assenti per Alvini",
     "s": "ANSA",
     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZkhEUFVrYXVxeUdMX0N1dU01WlNWdVJHYjJDRWR4WGwzR3ljcU51dUNMZXpmUGgwaXdxRGhiYzFGTGluUnhfcFJpakJwTFFGUmJqN1ZFT3psVm5jcC1XSWdUeU50dHlrc0NydktZc0x4UTZ1V3hxa2lKVzM0czQwdnJIRUY1bFd4eTBaRVg3bm1xSE1ybEtSTTFNVWlDUlhqMUdOQTFkaDBCUlVKVm8teGxDRGxyQm5jMG1kVVYzUGhyQjFvaGlfU0swekZBN2hOZ2xDejQ4T2ZlQWg4YUtMVXB0bktYdm5FVmpZQl8yTE0tbUtmUkl4M9IB_gFBVV95cUxOZWhkZUlKeUxLbXhhRWV5RTVkT3lqNmFycVNsU2Jjak9KSVc5VTV3RmtrSXNlLVN0LWVnQjZ4T0ZhNDdaN2FsWjVUM0Y0eThiZDFxMU1rcjhoaEI3a3lERE9qNHJKc0J3SGlreDlfQ3JrclBmVnpCVU5kak1qUVhUTG40Rkg1bFlEbUdKeDRLWXNteUFrNXgyTlZWSjBzdklMYVJ1NXZ6SmQyd3RxV3hZVGZsSWNfUHFoUjl2alIxalhwemp5el8wS1ozY240dmk4M0pBb2owMElraEFSTV9SRHk4OFhSdGxJOVAwSnU3WC1vUDltbmJmUC14c2RWQQ?oc=5"
-   },
-   {
-    "d": "2026-11-12",
-    "h": "11:37",
-    "t": "Milan alla ricerca del dopo Modric: occhi su alcuni giovani centrocampisti",
-    "s": "DerbyDerbyDerby",
-    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONklTMmxqRmVuYU4wcDZpUUVwWWY5MzZYUEhZRFJBQ3hQVU5Iblo4Rnd2V1ZqMDRyblR4MTFzLTBtTEd2S2JSNHhjTXdtbE1iYi1NX3YxOGxJMFNnVjlRaUp3RDc0S0hxdHhnOWNTVFE3cUZYb0ptblhiclJBTmZkWUVnb21uU3Q0QzdhVWRwSmhtSUJYWmQ5VV9acjU5bmU2eWVVckVMVmhBR2NVTGlReUJzb0FKVlZVUWxlbXNR0gHDAUFVX3lxTFBhS3NVcFVzS3gyUVlPRXZpbW1DbUs1RlhwSHVGakp3LVpLbW04UUJxLWFKeDhLSThLTWVqZ215bzk4TEtKaXdkbmNkQ1R4UzNmZEUxRzVNRnZpeFczRVlTWWFoWHgtUmlDWXlBeDEzRHlRaFFkaUFPSlliOENjWG5WVWc2aVFqUGF2S0dGcGlhNGxWSnN1S1BvOTZDMnRnNDh3ZUk5VzQzR0xQVmp1empTWmlpVFQzY2luX0FzX3hGdEhfaw?oc=5"
-   },
-   {
-    "d": "2026-11-12",
-    "h": "08:52",
-    "t": "Pressing Milan per Tresoldi. Ma il Bruges spara alto",
-    "s": "Corriere dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLWtYeTF0ejNZckNQbFBSVFJ1ampYcjRralpMbXEzVXFhZGotaU03SDdJYXI5dXRjRDVyanlBaG84RTJGckJiVXdvVnlzcnlvemgza0M2eXhzRTgzYWhYMUNxY0VIem9YNmcxa0kxT183Z2ZLaW5tOVRzZ1RObVhLRHNDRTNxMmxpSWRuaHJ3NURGSEp1SDdjbWVwV0FGRkRZV0JGMGtPZXN6cURsUUJNWmNwdHJRT0I0eGxsQjRQLXlucnF4YlMwUHJGdDFzOUY0dXFEdXlB0gHYAUFVX3lxTE44NFQ1dEJERnU1UWhHV2ZBMlh3U251N3VlbncxYllVcHJFem0xZkxJWm1Qak1qMU1kdjhYVks4bW5naDQwVlo0THVTbVBGSlBUOXdDTmNzRGhkRjNoa0t1UzViYm5SX2hybFpnZGlLdmVPWnlhVW5INVM5S1N3bTNRUlZMM2E1dHY0Q19WVXUtUVFKUWc1QkxHaGVGNlhGWTd1TVRscHQyeTc0TVBlbURXdVJvLThBcDZGLWpKYnp3X3hFNW9DUDdZdW9kQW9jaUNJck5NM2JLLQ?oc=5"
    }
   ],
   "cantu": [
    {
     "d": "2026-11-13",
     "h": "10:01",
-    "t": "Derthona Tortona, contro Cantù torna Vital: Durham verso l'esclusione. Mercato aperto, resta la pista Flaccadori",
+    "t": "Bertram Derthona, contro Cantù torna Vital: Durham verso l'esclusione. Mercato aperto, resta la pista Flaccadori",
     "s": "Pianeta Basket",
-    "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUFRSzZ1WDhINjZXak5Qc19jTU1kVXBOZGJfaHkwSFBhaWFjaVVNSkJxcEJKWFNkQjh6d3pibUVLTnRjSG5TaWRIdFZzNmcxRmh0ZGowdXh3ZFBEd0dweWxLeThUQmpvU3FXWmFpSlJKUGpURTFVOUhocW5UUGFVNXZ2ekRSWnZzOXpiTl91U3R6M3dWU2Y0dVo5SjhVam9RVjhBS2hJMkpHcWxlRDJrVFFtMk1NcFQyUk15bEZaNmN5TnRVS0hsVUdwWFBYY09aczRxdWYzZVd1c20xOEE?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQmlxeERDRWx5dk03Zzdqc3U0bTBlekhKRVM2a3RIR0c4blY3NFAzS2N3YXNsbTh3dWtHc2Y1ZW1QNld4QWxNM1gwcUFfblhScWVOc0p4RS1RVEpZZG40RWEydmxVVXlXaWZjbGpsOHNaRVhBWl84UWpEYXRGZEJLeUlCZ2g5V3BqZ24zOTNCcmRmZDk3ODl3RFJacmJJR2JVeUZ1R2xvcDRnV0xfU29Oc1VtWmdJVlJsWHdsUHdWRnhjSVpoRy0xOEtkOWJOLUQxbmRQcHlQM2VUOUdkeEE?oc=5"
    },
    {
     "d": "2026-11-13",
@@ -1123,7 +1123,7 @@
    ]
   }
  },
- "updated": "2026-11-13T09:33:46+00:00",
+ "updated": "2026-11-13T10:31:58+00:00",
  "log": [
   "classifica milan 4 24",
   "classifica como 5 23",
