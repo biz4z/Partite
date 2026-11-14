@@ -486,20 +486,6 @@
   "como": [
    {
     "d": "2026-11-13",
-    "h": "12:02",
-    "t": "Scheda Tavernola - Terza Categoria Como - Girone A Lombardia",
-    "s": "Tuttocampo",
-    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTJMdzREVkdkdFJjOEwxMWNyamRJTGt1Qy1obC1oNm0tTUdwS3pHdWhJM1RFMlVFeUJMcXlVeHlfaGNlTmJqaTAtUlQ2T1A0bXcxcmpiS1dKN3lHSEY4cTdHT1RYQmZ4WXV3QzlTT1lkckpWc2dqdzJubDZwUjlRUkstZDFxeFJWcHh1ZmlUa0NPcXhGMml6RVlB?oc=5"
-   },
-   {
-    "d": "2026-11-13",
-    "h": "11:27",
-    "t": "Como - Cagliari",
-    "s": "Diretta",
-    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCR0VWUWZXYnh1OXVYRmo5VjR2UU5ZdWMwM0NiMlFkUVhfYnR4Zk5ZX1YxWDFOVzM5bDN4amdiak85cXhLdS11cEhxU2tFS1ZlTUdKaFVESG5yT3dadjhNVk9TeXZPX0pmM2dlak9pMUloS1hhQVlodG53?oc=5"
-   },
-   {
-    "d": "2026-11-13",
     "h": "11:23",
     "t": "In Champions League, con il Como nel cuore",
     "s": "Como 1907",
@@ -528,6 +514,13 @@
    },
    {
     "d": "2026-11-12",
+    "h": "14:20",
+    "t": "Como - Al Ula 3-1",
+    "s": "Diretta",
+    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRLUgwMVgxM0VuNnpFdnZmcEdNUDNLRElIQ0U4LWVja3JjTGM5eDlGMjFxaVhVWWFtU0pkTVJZYWg4ZWtaeE1UWWltY081ajNhMHRabGdoTF9OcW1ab1JzZWlscGVwWHkwWWJzOVQzTEY3OFVzYl9r?oc=5"
+   },
+   {
+    "d": "2026-11-12",
     "h": "10:38",
     "t": "Suwarso (Como 1907): “Il lifestyle sta raggiungendo la quota dei diritti tv”",
     "s": "Pambianconews",
@@ -539,6 +532,13 @@
     "t": "Akanji punge il Como: “Ma quali fenomeni, vince sempre l’Inter”",
     "s": "calciowebpuglia",
     "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tTXZCNlhRUnJwY1lpZkwtYUhZUzVrTnhYYTdrQzU0V21HX2RJXzdTVzF1ZmZhYWEtN194bURhV3RuSTJxYjY3OUtwWmZ1Q3IyLW4wVU1TYw?oc=5"
+   },
+   {
+    "d": "2026-11-11",
+    "h": "22:58",
+    "t": "Scheda squadra Como",
+    "s": "Tuttocampo",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzU1QkkyOVhxNDZCXzA4WEdodXVUVWQyZ3U4QWs1OERqTVZLdnBXODJTN21WamRjempDS2VicW5PUmh3eFFxdFpXTjJSZ0RiWHNBY0Vlb1FKa3F5a2R5Szc3WXJFNXR1XzJZY0lpc2FLWEpKZ0xaOHV3LUFXZ0Z0cXBoQUtIbDNSamluSUtWeUFKQjljZWFPTlNzOTZWOTQ?oc=5"
    }
   ]
  },
@@ -1128,7 +1128,7 @@
    ]
   }
  },
- "updated": "2026-11-13T23:51:58+00:00",
+ "updated": "2026-11-14T00:26:27+00:00",
  "log": [
   "classifica milan 4 24",
   "classifica como 5 23",
