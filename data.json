@@ -89,8 +89,229 @@
   }
  },
  "cantu": {
-  "games": [],
-  "standing": null
+  "games": [
+   {
+    "date": "2026-09-26",
+    "time": "20:00",
+    "home": "Venezia",
+    "away": "Cantù",
+    "score": "85-73"
+   },
+   {
+    "date": "2026-10-05",
+    "time": "20:00",
+    "home": "Cantù",
+    "away": "Udine",
+    "score": "84-85"
+   },
+   {
+    "date": "2026-10-11",
+    "time": "17:00",
+    "home": "Cantù",
+    "away": "Napoli",
+    "score": "80-99"
+   },
+   {
+    "date": "2026-10-18",
+    "time": "18:00",
+    "home": "Trieste",
+    "away": "Cantù",
+    "score": "92-72"
+   },
+   {
+    "date": "2026-10-25",
+    "time": "18:30",
+    "home": "Reggio Emilia",
+    "away": "Cantù",
+    "score": "81-60"
+   },
+   {
+    "date": "2026-11-02",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Olimpia Milano",
+    "score": "82-95"
+   },
+   {
+    "date": "2026-11-08",
+    "time": "16:00",
+    "home": "Maxima Roma",
+    "away": "Cantù",
+    "score": "99-87"
+   },
+   {
+    "date": "2026-11-15",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Tortona",
+    "score": ""
+   },
+   {
+    "date": "2026-11-22",
+    "time": "17:30",
+    "home": "Scafati",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-06",
+    "time": "16:00",
+    "home": "Cantù",
+    "away": "Varese",
+    "score": ""
+   },
+   {
+    "date": "2026-12-12",
+    "time": "20:30",
+    "home": "Verona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2026-12-19",
+    "time": "20:30",
+    "home": "Cantù",
+    "away": "Trento",
+    "score": ""
+   },
+   {
+    "date": "2026-12-27",
+    "time": "12:00",
+    "home": "BC Roma",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-03",
+    "time": "17:30",
+    "home": "Cantù",
+    "away": "Treviso",
+    "score": ""
+   },
+   {
+    "date": "2027-01-10",
+    "time": "",
+    "home": "Virtus Bologna",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-17",
+    "time": "",
+    "home": "Cantù",
+    "away": "Trieste",
+    "score": ""
+   },
+   {
+    "date": "2027-01-24",
+    "time": "",
+    "home": "Udine",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-01-31",
+    "time": "",
+    "home": "Cantù",
+    "away": "Verona",
+    "score": ""
+   },
+   {
+    "date": "2027-02-07",
+    "time": "",
+    "home": "Varese",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-02-14",
+    "time": "",
+    "home": "Cantù",
+    "away": "BC Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-07",
+    "time": "",
+    "home": "Cantù",
+    "away": "Maxima Roma",
+    "score": ""
+   },
+   {
+    "date": "2027-03-14",
+    "time": "",
+    "home": "Treviso",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-03-21",
+    "time": "",
+    "home": "Cantù",
+    "away": "Scafati",
+    "score": ""
+   },
+   {
+    "date": "2027-03-27",
+    "time": "",
+    "home": "Trento",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-04",
+    "time": "",
+    "home": "Cantù",
+    "away": "Reggio Emilia",
+    "score": ""
+   },
+   {
+    "date": "2027-04-11",
+    "time": "",
+    "home": "Tortona",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-04-18",
+    "time": "",
+    "home": "Cantù",
+    "away": "Virtus Bologna",
+    "score": ""
+   },
+   {
+    "date": "2027-04-25",
+    "time": "",
+    "home": "Olimpia Milano",
+    "away": "Cantù",
+    "score": ""
+   },
+   {
+    "date": "2027-05-02",
+    "time": "",
+    "home": "Cantù",
+    "away": "Venezia",
+    "score": ""
+   },
+   {
+    "date": "2027-05-09",
+    "time": "",
+    "home": "Napoli",
+    "away": "Cantù",
+    "score": ""
+   }
+  ],
+  "standing": {
+   "pos": 16,
+   "pts": 0,
+   "g": 7,
+   "up": {
+    "n": "Scafati",
+    "pos": 15,
+    "pts": 2
+   },
+   "dn": null
+  }
  },
  "news": {
   "milan": [
@@ -283,14 +504,7 @@
    },
    {
     "d": "2026-11-13",
-    "h": "21:01",
-    "t": "Cagliari, parla Bellini: serve coraggio contro il Como",
-    "s": "https://www.cagliaricalcio-news.it/",
-    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSWFkb0hkS0pGWGpFVE04eGdrMzFodFhmZ1ZHcmZEMUthVXYtMzY4MndUT1RLejBmbE5nRjRVRG8zd05YSmJuWHQ3OFYwaXVSTi1WdFZMMUZ0Nnl1SEZEUU9ENXdnU0VjTGJ3a2FVZW1qeUJHRmRlWjVGNWZranRnQkJEZlVPeVE4YjBQTHZQS2RLRjcxc3hsX245UTRYN3UzWjdoVjM4VkxsVktPb0RLOFBDdjlaWHVDUDdCdDkzV3lmMjVlN1h0X01GV0g?oc=5"
-   },
-   {
-    "d": "2026-11-13",
-    "h": "20:34",
+    "h": "12:02",
     "t": "Scheda Tavernola - Terza Categoria Como - Girone A Lombardia",
     "s": "Tuttocampo",
     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTJMdzREVkdkdFJjOEwxMWNyamRJTGt1Qy1obC1oNm0tTUdwS3pHdWhJM1RFMlVFeUJMcXlVeHlfaGNlTmJqaTAtUlQ2T1A0bXcxcmpiS1dKN3lHSEY4cTdHT1RYQmZ4WXV3QzlTT1lkckpWc2dqdzJubDZwUjlRUkstZDFxeFJWcHh1ZmlUa0NPcXhGMml6RVlB?oc=5"
@@ -308,6 +522,13 @@
     "t": "Che domenica! Inter-Juventus su Rai 2, c’è anche il primo derby di Como. Sabato la Roma ospita il Parma",
     "s": "FIGC",
     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRlk5aV9fenNwR3Vfc1N6RklneTROcTZsMkVHSEJyQTF2empJSVhxTGhUUFg5UGhVQ2VsT3J3dnc3SnNLU0R2NnhsaVFLTUdLdC03MTRIQm5IYlJnXzRqQ29CYXYyLVg1VWdTdWZsNmFxbVdxdjhzVXdTb1g1S3BMZ0tvdG9YeDkyV1ZYaFF3QlVJQ2R4ZmllQ1ZoY19hNkRUVmdQREZpUzV6OVNicGhTaDh3d05mNHlkV1RMQmt4M1VkckU1eThQV05PQnJZLVRJZHpOTHVNZDM2UjNJX3NxMXUwZkg?oc=5"
+   },
+   {
+    "d": "2026-11-13",
+    "h": "00:06",
+    "t": "Fabregas, Como è in 'pausa', il calcio no. La moglie: \"Uno schermo non bastava...\". FOTO",
+    "s": "Sky Sport",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPazZwLTJyTDhOcnZIRGkxZWdnYWNBMXFFTm1SZ3VBYUlMVUMwZ3J5bDZiLWtaN1VPUmcwMDgwdVFxSnk4bHFRekdlRFlmYjRxSG5UckxSaG55bkFHdlROLWhBYWNxeUpaUWdGUTRRTlhfNl93eWZaVkY0aHp3OXF0WHBTNi1GWnFfRi1CaA?oc=5"
    }
   ]
  },
@@ -897,15 +1118,15 @@
    ]
   }
  },
- "updated": "2026-11-15T06:48:01+00:00",
+ "updated": "2026-11-15T07:51:34+00:00",
  "log": [
   "classifica milan 4 24",
   "classifica como 5 23",
   "classifica milan_eu 28 3",
   "classifica como_eu 4 9",
-  "cantu 0 partite None",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 7, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 1",
-  "notizie cantu 0",
+  "notizie cantu 3",
   "notizie como 3",
   "stampa milan 8",
   "stampa cantu 8",
