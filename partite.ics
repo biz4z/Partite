@@ -399,15 +399,10 @@ UID:94a585acad9a87d4@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261115T173000
 DURATION:PT2H
-SUMMARY:🏀 Cantù – Tortona
-DESCRIPTION:Serie A basket (LBA) · 8ª giornata\nTV: LBA TV\nhttps://biz4
- z.github.io/Partite/
+SUMMARY:🏀 Cantù – Tortona 92-106
+DESCRIPTION:Serie A basket (LBA) · 8ª giornata\nTV: LBA TV\nRisultato: 9
+ 2-106\nhttps://biz4z.github.io/Partite/
 LOCATION:LBA TV
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Cantù – Tortona tra 30 minuti · LBA TV
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:19f9d92c63282a29@biz4z.github.io

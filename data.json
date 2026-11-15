@@ -79,7 +79,7 @@
   "cantu": {
    "pos": 16,
    "pts": 0,
-   "g": 7,
+   "g": 8,
    "up": {
     "n": "Scafati",
     "pos": 15,
@@ -144,7 +144,7 @@
     "time": "17:30",
     "home": "Cantù",
     "away": "Tortona",
-    "score": ""
+    "score": "92-106"
    },
    {
     "date": "2026-11-22",
@@ -304,7 +304,7 @@
   "standing": {
    "pos": 16,
    "pts": 0,
-   "g": 7,
+   "g": 8,
    "up": {
     "n": "Scafati",
     "pos": 15,
@@ -340,11 +340,6 @@
   ],
   "como": [
    {
-    "d": "2026-11-13",
-    "t": "Dodici BiancoBlu convocati dalle rispettive Nazionali",
-    "u": "https://comofootball.com/dodici-biancoblu-convocati-dalle-rispettive-nazionali/"
-   },
-   {
     "d": "2026-11-10",
     "t": "Crescere a Casa: il percorso di Riccardo Cassano da Como all’Azzurro",
     "u": "https://comofootball.com/crescere-a-casa-il-percorso-di-riccardo-cassano-da-como-all-azzurro/"
@@ -360,6 +355,13 @@
   "milan": [
    {
     "d": "2026-11-15",
+    "h": "15:44",
+    "t": "Milan, accelerata per Endrick: Tresoldi costa troppo, Cardinale vuole il brasiliano",
+    "s": "TaorminaNews24",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOVRTdkhNU0tYNmFRWHNDTTNRN1BrRmxGa0xoYWN0MmdZekh2WHVTZzFsY2F3T1hxb3ZuaGZQWFpqdUN5UlRiUk9fQTZWd0dqMGE5ZDQzbUx6SzZNMFJzbDQwVFRQNTl5QTJjVkc0SEtPTEMtanJ4VF9uMUt3S3A1enRUSW9DUThYVHY3bnc1Y2k3TFZNNG5oUkVBdC1veDRiMnpvdmRmY2tiLXBN?oc=5"
+   },
+   {
+    "d": "2026-11-15",
     "h": "11:30",
     "t": "Milan e Nazionali: doppietta per Pulisic contro Haiti, male Goncalo Ramos",
     "s": "DerbyDerbyDerby",
@@ -369,7 +371,7 @@
     "d": "2026-11-15",
     "h": "11:08",
     "t": "Milan, Cardinale come Berlusconi: cosa ha in mente davvero",
-    "s": "newsmondo.it",
+    "s": "News Mondo",
     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmNoTGFBYXpabGhnSXd3TElfT3M3aU5pdXp6VTA4aEFqRU9rU0wySjRZb2wwLUJpSUNnYjdnZFEwNVlUUi1taWRHNFNMNzdCekpSZjZ5RU02LXdjcHQ1Z2dRYXVxOWlfZE01UlU0UVJRU1pKbVFBZ2VNUWp0Z3M0WVJVcC1LcjlzWXljNTNibXFqOVJzR0NDM0JaWmFpektR?oc=5"
    },
    {
@@ -406,16 +408,37 @@
     "t": "Napoli su Mastantuono: sfida a Fiorentina, Milan e Roma",
     "s": "Notizie Napoli Calcio",
     "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNFpXRkEtNUtLLXdycEtXQmpjcHpnQUVjMVBSdW9ySFBiYTNpZnBVRUJpcE5EeWJQU2JBdS1IVmQ2SkxfWE1LRHMtQVUzNjNpT2J4aW8yNHpvWFBTVkF3aWZLOWlKX0tjNTc2S2VNa2lNem9WWHNnMHFQYXFKLUZ1Wi1XbkZSdw?oc=5"
-   },
-   {
-    "d": "2026-11-14",
-    "h": "11:36",
-    "t": "Tare spiega: “Quando sono arrivato al Milan, l’unica cosa che mi hanno chiesto era di portare un allenatore italiano\"",
-    "s": "Milan News",
-    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdlAwbzFFaVBQNFZIQTBjUU5hVWNPZGdDZzZTUG5zcnV0LTROakpVRTJuZU5EcWkycVh0OGh4WlcyQ2RVM3dDS2w4cUNWMHlnaVBaMGc4ek1OdFh4ZDZkb2lWSWRmZXVQWkdvNTVPUWpiYW8xd2hoV0lRR0YwNU03UHJNbzZfME1vaC14X01ubW9laW4yQmdlNWk5WmNGcWJvQ3VNOWlrd1pHSlhjd0thRDZUcHhCVWFhSV84?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-11-15",
+    "h": "19:38",
+    "t": "Basket, successi casalinghi per Treviso e Napoli in Serie A. Derthona passa a Cantù",
+    "s": "OA Sport",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObnZzcTVfRnlXTEZpUU1mMG5LMEhiLVFrNkEwWnJsRnRoTU1VMjBfb2pTWVhSVWdKQ2J2NXpjWHZvcDUtUGVhMVplOUd6WXFlUEZaYWtwTmxiWnM5Q1NaZTZ3N2lNQWxpNkc5RURCekh6dUJDMkYtM2IyYmRuLWRsYkFuZTNMU201TzROekJKSllRZG9MYy1mcFlpQk15dnJQVE9qanBSMXpVTGtEYldoZHBic9IBuAFBVV95cUxOQ0I1TG12TDhTWTltLXZhZG94M1YzYzdJbE01a2h5bDlPQVE2VVNMTF9od21TVzlFdERhakdYLVR2OHJ5RnZLYWlaZmdISlNBZS1nRC10NzNINDg2cWlFTmdwYUJ6VkYxLTlaZWhRREViVjVEUklxQTI3XzBXT3BWMjM0Q1FsZXdDdmhNRVhSVnJuRVZ3d1ZtX3pUOU13OU1yRGNPSl8wNWtxejB1c2VJNmJUTFhOT2tM?oc=5"
+   },
+   {
+    "d": "2026-11-15",
+    "h": "18:58",
+    "t": "Migliori Acqua S.Bernardo Cantù vs Bertram Derthona Tortona 8° Giornata",
+    "s": "Lega Basket",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZVdjdGI2ZllUbzA5cnR3S3ROUXh6VE1oTjFoMEZNZVl3YjNGZEI4ODFkbXotVkU5QzlSR0I2elN3NFZ6RU1LaF9RaG82MVNHVWJuR1BUczJkWkk4N0J2LTAySXhGTVNmTDEtbjU1Wm9vLVVkSnlCMDNnQjlHbVNaUUFaeDhRMW9DbHo0d29GOVpTZw?oc=5"
+   },
+   {
+    "d": "2026-11-15",
+    "h": "14:30",
+    "t": "Pallacanestro Cantù-Derthona Basket Tortona: dove vedere la partita in tv e streaming | LBA Serie A 2026/27",
+    "s": "Vu Nere Bologna",
+    "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNHFENDItV3N6N1ZmV3FwOWwtWGZ0UWFGOW0yZmw1T29BZGhNUmhpSXN4bFhDRHRDZkhZQk1yMkU3eVVRYUlnQU81aXhEOHZNdi1nNnB5VGFYbHBGbkc5NzRDQmJkM0NmYWpkejM1QUh3VF9JTHpWbDJqX2FkLUxiUjE4Nk5Xb25QbjRvVGRZVWZRV05XRDBmMUE2emNwSjlydWdkcHBwX21vRkx3X2ZLdU1UampqbXJEOHFqQTFzSmZOU0tkUXRpSmU5RnQ2b3FfVWJ0TDdxbW1jMkdqMGl5NmE2UFk2dFFINi0wZHZn?oc=5"
+   },
+   {
+    "d": "2026-11-15",
+    "h": "14:10",
+    "t": "Basket in Carrozzina: La Briantea Cantù conquista la Supercoppa Martin Mancini",
+    "s": "Basket World Life",
+    "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVkw1bEZsY1ZVWURrbXhtY19pWHhUUm1MTXQwNEZlYldZTU9BekxIdFE5RlJxMjJGTklnQUlSLUZDSURXM18xX0JGbUxzRWdQWXh4R3NtX19ScnJHSzRYdUpJUUpocDI0Nkpkd2JyNldGRGxSa2NvVDgyb3BVc2xFVTdEeHl3RzFqUHZTUEFWb0o2WTB5RTVNT2JQNUtFOS0wNWZSaDB3ZVdQQTZBOUpnUWJzcHd5MC1RSmxtMG1pM3pveFp3N1d0S080Qmd4VDRxSk44ZlFKLW5fWGdsTjZVZWJlUVBWQkRBYlBFTFJ4ZlpGYXla?oc=5"
+   },
    {
     "d": "2026-11-15",
     "h": "12:00",
@@ -432,48 +455,34 @@
    },
    {
     "d": "2026-11-15",
+    "h": "11:34",
+    "t": "A Cantù scontro diretto salvezza -",
+    "s": "settegiorniatortona.it",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSVkzWE1rTGhYNUVDbFVwUGtUbE50YmlxcVMwaUpwOEt3UzRQRk10R0x2SGNiTFRaM1JSNGFyOTRockNHMXZsUWc5VVBTclJCVEFPNzdxTGZUNDhaaTZ1eG1kNWdOMHZPUHpncmVwV296MFRvSy1xX3FodVB5eTV5SG0tbVFVZw?oc=5"
+   },
+   {
+    "d": "2026-11-15",
     "h": "11:25",
     "t": "Cantù e Vitucci all'ultima spiaggia: Tortona e Scafati decisive per il futuro tra panchina e mercato",
     "s": "Pianeta Basket",
     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOamQ2N0J0Y2otRzZsd2FpZTBvUXpGaXhTREFqYnQ1UHVDMkpBSldkOFBYZEJBOGdocm1oQ1hnbTRGZjFPb2JxTWQyb0dvRUNqQVRtcXVvdGROZUxsRW45ckxSMzNRd1c0OUg2bGFUdzhNZzN5aVZRa0h0TEZQdzlKa2ZHV1pCcnJBaVFoU2xQU2JZbVdhckJpS1VHRG5LYXlEMlBoS0c0TVVjdmstMWxXQ2hqeUNxNWtyeEhKeERLck9IZTFHcE13eUxJcXlEY2VKVHc?oc=5"
-   },
-   {
-    "d": "2026-11-15",
-    "h": "10:30",
-    "t": "LIVE Pallacanestro Cantù vs Bertram Derthona: preview. dove in TV, diretta",
-    "s": "Pianeta Basket",
-    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOVFBSC1JaXBoSEltLTlBMFpuVGVYQ2d0eksyRlY3WGdoMFoyQnhuQUh4bG5EblpHSTZLbUVueWV3NEpKeDN5Q2ZzbzFxcm9ObGVCZmlsRW9jSGpzWEd6VEFsbzRmcFptMkEzMWtEQ0JSN2NYR05BRVhBU2FiYVRGNUh0WGFYZVFodTNlbUUzSHU4TGZNdU1NaXdnMFZJVWstY2VvTEpIaFFYc1hSaDRKQm13QWNXZWJrN0FTSQ?oc=5"
-   },
-   {
-    "d": "2026-11-15",
-    "h": "09:15",
-    "t": "Cantù - Derthona Lega Basket Serie A",
-    "s": "la Repubblica",
-    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVHRJdVpaZWstT1BYU0FhLWcza0d3TUE2WnpHSl9HUFRjcGJpZlpidUd4NDZuZXZLbURvSnlSSGlITFJaRDFOOG5uS3VScjhuaGczYk1lZTFkUmR3cm5zX0pUQmItZnphWXNhdXFtcVMxaTdCZGM5RW5BVzVGTnE4NWRRMzg4RDNOYjgwejlhd0toT25uOEZ4TjhSZWN3cHFjNnFUQ2ZueG5BS3JUaHc?oc=5"
-   },
-   {
-    "d": "2026-11-15",
-    "h": "05:38",
-    "t": "Bertram Derthona: contro il fanalino di coda Cantù leoni a caccia della prima vittoria esterna dell'anno",
-    "s": "Radio Gold News",
-    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb1VFc21xV25TbjVSRmVuZm1IM2pVM2k3WU5KMmZud1FzbUtGVkM2MVhrZzczZnJ2b1ZOemNQcnV5MVY1eU1wMEdDWVQ0VDYyQmVsbk5jTl9TcFZFOWhUTkVROHZmdnBKSWdJY0tjVnJfbF9wWExtQ1pFdXVaMExOLUlydlhGeU5may1OeVZWaDNoYjY3Z25aTjBuMDFFcUxQQlNXSC1fbzk2QVZxUFdR?oc=5"
-   },
-   {
-    "d": "2026-11-14",
-    "h": "18:43",
-    "t": "Bertram Derthona Tortona, a Cantù per la prima vittoria esterna. Vicenzutto: «Dobbiamo assolutamente provarci»",
-    "s": "Pianeta Basket",
-    "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMW9GRWFHU2wxekJuSE9qVUlBamsyLVh5ZnVtNTVJYjV6WjRfT1JTM3Vnc1E2RXNJNVdzTVlHSDQ3QjR3STFSSDR3cGhPQVh6dGt6dEtYTXlpdDFCdFNZR2pyS042eE9VWXhkc29zb1M4c0N6c1gyUS1DYkxMcW94RlpBWU4yUGZJbHg0aFI5c0lidXNDY0RBSDdWcTRrZ05YT2s2RjlHVnRyRkVQVVVtOG8xSVAzdnVlNDBjYklhR1NNSkpmU1pDQU9ETmJXMS14RDRmVl95R0RYNXRWMXJYXzhPM0dkZzk0OHc?oc=5"
-   },
-   {
-    "d": "2026-11-14",
-    "h": "15:15",
-    "t": "La Bertram sfida Cantù per sfatare il tabù trasferta: \"Dobbiamo assolutamente iniziare a vincere fuori casa\"",
-    "s": "Derthona Basket",
-    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVTFnZDVqODBCaTZIOElpTHlmbm1MQ28xNW1YZ0NXcFF5S1ZtU0hUVEZzeDhFNXZhM2V1Uzg2MWFCYjlYYUZlaUJHbXYzaWk2STZHVGJtVkNBVFBEb2QtV2dpekFCdkVPODBDcDB0MkM3SmtVRVNPMFZCUjFKenlwdVhlU0ZDVGFYT2FYTDkxUVlMSXhnNUtNeWFBQS1mWGhYRlJRMzVQTjBQSEhBRF9sMExkLVNrUXNrRTVjR1BNaUFoZVBBcm0wWThYQmxReDl3dWc?oc=5"
    }
   ],
   "como": [
+   {
+    "d": "2026-11-15",
+    "h": "14:27",
+    "t": "Lombardia - Giovanissimi Provinciali U15 Como C G9 - Olimpia Calcio Cadorago vs Gerenzanese",
+    "s": "Tuttocampo",
+    "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ndi1tUTNQYm5oMnh6djdkZzM5MS01SHloTVVJZVBxQ3M0VnlZbHFmd19RNW1CcjJqeWNRRXdCeEkyRXNYY0tTNEhkUHh4ejRFazhDZEVVdFhuVW1uVFE?oc=5"
+   },
+   {
+    "d": "2026-11-15",
+    "h": "09:45",
+    "t": "Como, Kaiki e i baffi approvati da Ronaldo: \"Da allora non li ho più tagliati\"",
+    "s": "Gianluca Di Marzio",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzJGWGl4aVEyODJkTWlxa2lsU0ZfMmFpTHJBSXNPcWZuM1hSbVlnbl9OZjJqUFFFaXFjTmZOc2JnYVVDaXJlT3hZVTNzOWdkLWZKU21YcVJyY3Yzc1ptWlpHWXEtWFlIVW4xN19UTWljVjQ0Ul9lRTdYUldPN3I5QmRGNy16RmtxRnpwV2xoWW85bXVFckNfNXNhSkFWcTdoNEtydw?oc=5"
+   },
    {
     "d": "2026-11-15",
     "h": "09:30",
@@ -504,31 +513,17 @@
    },
    {
     "d": "2026-11-14",
+    "h": "17:57",
+    "t": "Scheda squadra Como",
+    "s": "Tuttocampo",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSWp1dVl3VGlRaDdqQzVId1ZOcUNZZGZ2YnhDZDdJbEtEU210XzFzM1B1LW5iOWM3Q0NEXzFSXzdPTFJ3eHJYcUFaNTdpNU5KcndWb2ZPU2tpZDQ1T2pxRFd4dmxzUkFFazJJRUZDY1o0ajZIVHhhMW9RZ24wMXFZbF9MZFZxdw?oc=5"
+   },
+   {
+    "d": "2026-11-14",
     "h": "16:00",
     "t": "Como, Falsini: \"Cassano è un giocatore che vede il calcio un secondo e mezzo prima degli altri\"",
     "s": "TUTTOmercatoWEB",
     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWlMyTzlKR1NWQzhFaU1sNk9TMnRQcVkweWZ6ekNFd0d1WGZLZWVZdFBtYWlMdWVjNmhXMmtGSnBsWXJiTy1mZnA0NkNBNzVfbUxhYjFVb1BMNmZpaVl6dE10OHBqWTZaRFRLbkx3N2stLWwweVNycDgwb2Q2bS1KSS14NkE0MTI0Z1RkSU8wS2xFVnRBWWtRNHpwSUI?oc=5"
-   },
-   {
-    "d": "2026-11-14",
-    "h": "13:10",
-    "t": "Como, adesso il derby è tutto loro: le donne si prendono la scena della Serie A",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa3RCdnFpWE9RNDhWTUtvQnViWUhjRWhyd3dveXhFX2NYYnJzMS00WjlHZURXbVZTNERNb19qWWl6ckRERmg3ZDNzNFIwNkNOQ2Nia0hXMlZVN2RCbGZad0VQN3pBd3pmSzJ5RWlPektDTURieGpnRjMyOFVZTWNJa3FyR3FSaVpUM3pNWnhldkdBMWhSWnRwZTAzZkNwNTFVNEFnc0FyOTVyU2RuVXh2c0Juc1FJVVlOMGhmN3hrd1FmX1hoZlk2U0tza2V3OTZxMFptMGRBdGlhbFd2anA00gHfAUFVX3lxTFBrdEJ2cWlYT1E0OFZNS29CdWJZSGNFaHJ3d295eEVfY1hicnMxLTRaOUdlRFdtVlM0RE1vX2pZaXpyRERGaDdkM3M0UjA2Q05DY2JrSFcyVlU3ZEJsZlp3RVA3ekF3emZLMnlFaU96S0NNRGJ4amdGMzI4VVlNY0lrcXJHcVJpWlQzek1aeGV2R0ExaFJadHBlMDNmQ3A1MVU0QWdzQXI5NXJTZG5VeHZzQm5zUUlVWU4waGY3eGt3UWZfWGhmWTZTS3NrZXc5NnEwWm0wZEF0aWFsV3ZqcDQ?oc=5"
-   },
-   {
-    "d": "2026-11-13",
-    "h": "20:34",
-    "t": "Scheda Tavernola - Terza Categoria Como - Girone A Lombardia",
-    "s": "Tuttocampo",
-    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTJMdzREVkdkdFJjOEwxMWNyamRJTGt1Qy1obC1oNm0tTUdwS3pHdWhJM1RFMlVFeUJMcXlVeHlfaGNlTmJqaTAtUlQ2T1A0bXcxcmpiS1dKN3lHSEY4cTdHT1RYQmZ4WXV3QzlTT1lkckpWc2dqdzJubDZwUjlRUkstZDFxeFJWcHh1ZmlUa0NPcXhGMml6RVlB?oc=5"
-   },
-   {
-    "d": "2026-11-13",
-    "h": "13:55",
-    "t": "Scheda squadra Como",
-    "s": "Tuttocampo",
-    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVpDb21KcnBtNUF6OGdYZk9aakRlbGQ0N2ktY05Wd2QtNDhZMExNQ05HeEkyZV8yNURJZXQ2SGd2WkVuY1VMSF9DQkhqa0xuaFYxTlgzZTlDeFpFUXkxd244cld1Mm1jSUJjMmZWVS04YnM2UW9feEwwYmQ1cGFkQlkyYU11VXNGY1QyUVdsamtTOGpTMU8zMUhxaw?oc=5"
    }
   ]
  },
@@ -1118,16 +1113,16 @@
    ]
   }
  },
- "updated": "2026-11-15T12:51:38+00:00",
+ "updated": "2026-11-15T19:09:30+00:00",
  "log": [
   "classifica milan 4 24",
   "classifica como 5 23",
   "classifica milan_eu 28 3",
   "classifica como_eu 4 9",
-  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 7, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 8, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
   "notizie milan 1",
   "notizie cantu 3",
-  "notizie como 3",
+  "notizie como 2",
   "stampa milan 8",
   "stampa cantu 8",
   "stampa como 8",
