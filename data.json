@@ -89,229 +89,8 @@
   }
  },
  "cantu": {
-  "games": [
-   {
-    "date": "2026-09-26",
-    "time": "20:00",
-    "home": "Venezia",
-    "away": "Cantù",
-    "score": "85-73"
-   },
-   {
-    "date": "2026-10-05",
-    "time": "20:00",
-    "home": "Cantù",
-    "away": "Udine",
-    "score": "84-85"
-   },
-   {
-    "date": "2026-10-11",
-    "time": "17:00",
-    "home": "Cantù",
-    "away": "Napoli",
-    "score": "80-99"
-   },
-   {
-    "date": "2026-10-18",
-    "time": "18:00",
-    "home": "Trieste",
-    "away": "Cantù",
-    "score": "92-72"
-   },
-   {
-    "date": "2026-10-25",
-    "time": "18:30",
-    "home": "Reggio Emilia",
-    "away": "Cantù",
-    "score": "81-60"
-   },
-   {
-    "date": "2026-11-02",
-    "time": "20:30",
-    "home": "Cantù",
-    "away": "Olimpia Milano",
-    "score": "82-95"
-   },
-   {
-    "date": "2026-11-08",
-    "time": "16:00",
-    "home": "Maxima Roma",
-    "away": "Cantù",
-    "score": "99-87"
-   },
-   {
-    "date": "2026-11-15",
-    "time": "17:30",
-    "home": "Cantù",
-    "away": "Tortona",
-    "score": "92-106"
-   },
-   {
-    "date": "2026-11-22",
-    "time": "17:30",
-    "home": "Scafati",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-06",
-    "time": "16:00",
-    "home": "Cantù",
-    "away": "Varese",
-    "score": ""
-   },
-   {
-    "date": "2026-12-12",
-    "time": "20:30",
-    "home": "Verona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2026-12-19",
-    "time": "20:30",
-    "home": "Cantù",
-    "away": "Trento",
-    "score": ""
-   },
-   {
-    "date": "2026-12-27",
-    "time": "12:00",
-    "home": "BC Roma",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-03",
-    "time": "17:30",
-    "home": "Cantù",
-    "away": "Treviso",
-    "score": ""
-   },
-   {
-    "date": "2027-01-10",
-    "time": "",
-    "home": "Virtus Bologna",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-17",
-    "time": "",
-    "home": "Cantù",
-    "away": "Trieste",
-    "score": ""
-   },
-   {
-    "date": "2027-01-24",
-    "time": "",
-    "home": "Udine",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-01-31",
-    "time": "",
-    "home": "Cantù",
-    "away": "Verona",
-    "score": ""
-   },
-   {
-    "date": "2027-02-07",
-    "time": "",
-    "home": "Varese",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-02-14",
-    "time": "",
-    "home": "Cantù",
-    "away": "BC Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-07",
-    "time": "",
-    "home": "Cantù",
-    "away": "Maxima Roma",
-    "score": ""
-   },
-   {
-    "date": "2027-03-14",
-    "time": "",
-    "home": "Treviso",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-03-21",
-    "time": "",
-    "home": "Cantù",
-    "away": "Scafati",
-    "score": ""
-   },
-   {
-    "date": "2027-03-27",
-    "time": "",
-    "home": "Trento",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-04",
-    "time": "",
-    "home": "Cantù",
-    "away": "Reggio Emilia",
-    "score": ""
-   },
-   {
-    "date": "2027-04-11",
-    "time": "",
-    "home": "Tortona",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-04-18",
-    "time": "",
-    "home": "Cantù",
-    "away": "Virtus Bologna",
-    "score": ""
-   },
-   {
-    "date": "2027-04-25",
-    "time": "",
-    "home": "Olimpia Milano",
-    "away": "Cantù",
-    "score": ""
-   },
-   {
-    "date": "2027-05-02",
-    "time": "",
-    "home": "Cantù",
-    "away": "Venezia",
-    "score": ""
-   },
-   {
-    "date": "2027-05-09",
-    "time": "",
-    "home": "Napoli",
-    "away": "Cantù",
-    "score": ""
-   }
-  ],
-  "standing": {
-   "pos": 16,
-   "pts": 0,
-   "g": 8,
-   "up": {
-    "n": "Scafati",
-    "pos": 15,
-    "pts": 2
-   },
-   "dn": null
-  }
+  "games": [],
+  "standing": null
  },
  "news": {
   "milan": [
@@ -350,17 +129,38 @@
   "milan": [
    {
     "d": "2026-11-18",
-    "h": "19:04",
+    "h": "21:22",
+    "t": "Dino Sani, il professore del centrocampo che insegnò al Milan l’arte del calcio",
+    "s": "Il Nobile Calcio",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkpKUVNkS0xrcmUtalQ0MmFxOWloRDNSLWRscFMtTld5eUtOVFdvZURMWHFWUENkc3Q5eXZzMXd6TFRJZE0xa3ZEQlB3YkQyNnEtNFFXc0tINkNPSUQwSkpfdjFScWRLLURlaEFjUzFsaV9WX3VYTXNXR0JnMm52UnNxbjdJVnAxRlRwT1ZsMlBEVmpvMkVRSG5UYnVfR3dQRjZYS0NOMXJ6SFZrcUVIcEFna2podw?oc=5"
+   },
+   {
+    "d": "2026-11-18",
+    "h": "21:05",
     "t": "La strategia del Milan per attrarre investimenti globali",
-    "s": "notiziemilan.it",
+    "s": "Notizie Milan",
     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQzNzTjBnRE5SN3U2WlZxVXNQOUhwaTg0M2RZZW5kOW1sMkV4OFoxcWlYNGM1Y3EwVGFSOGlWMHQ2dTRPYWhFaXkxSFlrN3R2VVhEdjM4eWV6enhKZ016R0FFT3psTE5vTFd4bk1HdTR1ZjI4eGw2ZlJ4TVZ2WG1LQ1YyQ0t4VWdNejdhN0IzU2hiWFlEUmxvSDhXU1BMWUxkMWpHeDhuYUJVMnNybzZXMmR6V1JGU0M2MjVvRQ?oc=5"
    },
    {
     "d": "2026-11-18",
-    "h": "18:17",
+    "h": "20:27",
+    "t": "Ricordate Rade Krunic? L'ex Milan ha rinnovato con la Stella Rossa fino al 2028",
+    "s": "TUTTOmercatoWEB",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWDRjLTN3YlBlRTFMWXVFUVE2NzNyQlViVWlBVUJITkpoczNKYXNxVnRZNUpNUXRwVGRDcDhTUDhZMHpHbUNXMV9ZLXVCRFFBdTBWc2R4WmVlTmZ3bWE3cVFPTmE0akVLUmdtRzl6VVp0OWlUZElOWXVRZy1STm12YzhSRHUzaUgzUzk1MzdpdmdOSEo4RzNpM1NKTW02cmtuQmZCMXZfemZ5VmQzVnc?oc=5"
+   },
+   {
+    "d": "2026-11-18",
+    "h": "18:45",
     "t": "Lucas Vazquez esalta Modric | Quello che sta dimostrando al Milan va oltre il calcio",
     "s": "Zazoom Social News",
     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWmlMTXA5QjI3T3lDaWxlXzExRzZDaGR0c0hKLTItWXhiUXRSWGRaaDEzZXhoYXRmTmtlTkhvV3JhUjB0ZExvN0pDQlJad2g0eUpYRTh1UGNaYWEwbUxNM1FaWjdrRkdJMGdVUWxhamFVdVdRSmZMLUx6Q2dfNDIxQjR2NkVFVWJFQi1PWWZrM2M0dkxFU29aQWxQVWZqQkxNcThUV2tyUFFaR0pmUnl6ZFNKS0F2V3FzbWplaTdwZHRPcWM?oc=5"
+   },
+   {
+    "d": "2026-11-18",
+    "h": "16:32",
+    "t": "Le probabili formazioni di Milan–Frosinone",
+    "s": "Sky Sport",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTdBUjlvTG1YUTRFYm9Reno0NG9fbVA5SVpoT1VtaTk1ekcwNlNDalhWTUt3M0FvbUZ2dWRod1BDTHNvNE9jT21IRnl2ak96enM2M1E1VHVvcnJXajBXbmRBWDk2d2ROam1WT2p6OHRQbEhYU3pocGhwUXU2MXdQTEhvUURYOFNtYW1yMFpVWDU?oc=5"
    },
    {
     "d": "2026-11-18",
@@ -371,41 +171,27 @@
    },
    {
     "d": "2026-11-18",
-    "h": "13:46",
-    "t": "Milan, Scaroni: \"Cardinale non venderà mai il club\". E sulla demolizione di San Siro...",
-    "s": "Sky Sport",
-    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZHVPY1V2T1AxRUdBQjhnVHpLaFJzOXBLV0kweXc1Slc4aE95RlJBY0FWcWRPNm5MWnhxV2ZiU1VyUnBIWGRFdXRMRVBJSTdXa3hXNFN6QWhfeUswRGNldmhGS2JVTUFOVjh1ODl0UEJ1X0kwdnFrSktxR051am9PYVJjenczUQ?oc=5"
+    "h": "14:42",
+    "t": "Krosche al Milan, l'Eintracht ha già trovato il nuovo ds: il comunicato su Chatzialexiou",
+    "s": "TUTTOmercatoWEB",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWlNoelo5MUJteVdSelFXWUpaSFQtbklFOHdXanRaWEd6ZTFmZ216S05DaEZ2Y2pha1VXci1kTUFiTzJTMy1vVVNOeC10VTNSYUwyLUNNMzRza3ljQ3RXLWg1YllqcVgteUdSNXZDOWRXQUQ4NXpqUWl5Rk1ERWV4aWRETGFiTU1yT042eUxPNTk5MHpUUGpTSHI3T3RDek1KLWNueU1jVzc?oc=5"
    },
    {
     "d": "2026-11-18",
-    "h": "12:47",
-    "t": "Milan-Frosinone: analisi, precedenti, dati e statistiche della partita",
-    "s": "bet365 - Scommesse sportive online",
-    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPODdkdXdvNWNfZzQzS1A0ME0xTVBYZGxtWW8zNE1NblpncXd6Y0RTOEZ2NGJHYXlOOURKNUgzOFJxbG9NLTVoZzFpbkRPOWh5NnZpRXRhZHZFQzJwYl9MWmhzWFNaR1FiaFJ2ck52MVVEdk5EbDBhYVZuMUtQVkdlcjNjbFJIZWFpcGcwWFd4cmhvSkZMQVZiTjhKSjRNWjBJNmR1ZkhCNlNwNDlj?oc=5"
-   },
-   {
-    "d": "2026-11-18",
-    "h": "11:41",
-    "t": "Milan, Scaroni: \"Cardinale non venderà mai. Demolizione San Siro? Decideremo con l'Inter\"",
-    "s": "Gianluca Di Marzio",
-    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMHRXaDBicDB3SU95UTNfTTI1OEhUc2ppdHk4RUJxR3FoQkhxZ1F5NEJFMTNBUWdvOERjWFhCM1piSmFVSGsyRkVnTlgzdGc3d1pRZEdVNjZDMHY3aktIY3dKakRxWjE1Q3hwQzN3RlVvR0E2dUJVdnpja3I5Q28wWDNvQ0FKdXhPbl9qQlJhcXFJQThBSVViUWdzRUxveXpVck00ajhYOXBDdFRzSDFFRHRrbUVRdw?oc=5"
-   },
-   {
-    "d": "2026-11-18",
-    "h": "11:12",
-    "t": "Scaroni, 'su demolizione San Siro decideranno Inter e Milan, siamo proprietari'",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMlFlajhXTjUwbnRvbm02UVZfTmtqaTZpN1V0d2pVdEF2dGZTck55anIyM3R5aUVuUllVUGxYUDhJUjNlMzNoeFBNTmxkRHBiUVhXOWgzSlhkSTVvRHh0WUY2bUcxYWJ6RS0xRS1ZWEgxVjUwcWtoaVJ5QWxNbUJmek8ybk9NcktyakY4ZTFPT0ppSGNXTEp1WHNBOEdIUEVRNFEweEFyb2tGNm1zNVZ4Vkp2eW13Q2FBQU5XS1lDZHJoZXZtZldLeHhEOEd5RWtfV0JTampDUHhYVWdZRkp4UjBGMU9BQ2FRUFpibkE1YTFzOEoyMU9CV3h0X2VlMC1XWXhfWtIBigJBVV95cUxNVGtERFd2WHozYVB6TUZYVFd6dUdtNHoxa3laQ2FNRE9sR0U4eXJvNVoxTUh1R09hQll1TnVOS08xUXV6ZU8tdmEzclV1dzQwZkVaai1UYmNnUTd3OWgyb3duU3NQMWZaX0czYkR4OEZqY2gzVWZDNWEyNWRqME1NdV9HSElPZExFNmVGd09TTk5lekY4MUJ6aG82b0g4TlpraW5nU0ZDUlBXVFJQVkYtRU9qTzNqWXVTRUhvR0kwaWtwcGdqQ0lCMXY1YUlMdFFrRVk2aXlTdW5wM1ZUUklrQkZzXzhfeHFXeTJ2NGlBS3dTMXliS2R4ek1hQTczTTlhSkFPNkFoWWVPQQ?oc=5"
-   },
-   {
-    "d": "2026-11-18",
-    "h": "11:10",
-    "t": "Scaroni | Cardinale non cederà mai il Milan vuole creare altri sport attorno al club di calcio",
-    "s": "Zazoom Social News",
-    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc01NbUE3bmc2d2o1WFhUckJ4cmg0REJBT0xKTW5nZVZOcndYS2hEbHNIQ1VwM2hYZHdmSlFrcjQ4T09WSU1TclNGXzhlTzRpVDFjdW5HX005RWhIRTl3X0VROHJuRnJ3VG1rS0YycnNDcXB6aXVwTzlRYmpSWGhCdEs0WW9YMkNfc3Y3X3ZRdnRXYXc4YUpnaVhVbmpWOFNXbl9NQVJrRlhiZm1sYlpxcUhlQTY5VkZCX1R1eUk3R0dfY2htSGxOOVZneVZZcDNB?oc=5"
+    "h": "14:00",
+    "t": "Inter e Milan, Sala boccia l’ipotesi dei due stadi: “Fa male ai milanesi”",
+    "s": "SpazioCalcio.it",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEdJRy1teFNhM29BenFhQmljMnVzOVZXLWVNeUpMS3pBdnFyUDhGb1BGZDdteWFLVGx1MFBHMi1kdTlsRkdQdmpLb2ctdTQ2cFMxZ0Y0ZFYxMkozcmNrcExlSmJ6WjJpaG9HM2VaTUZZNUJmbVhiZVNRNlI3U0h3dlJRX0J1QmdPejZRRllwcDFWN1k5NUFoTW42RUJpcFJTYzlvVXBNd0tWaC1XZlZMaDdqWQ?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-11-18",
+    "h": "23:26",
+    "t": "Scafati Basket volta pagina: via Bucchi, arriva Martino come nuovo coach. Domenica contro Cantù è già spareggio per la salvezza",
+    "s": "il Gazzettino vesuviano",
+    "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQb1dnam94djU0TUFpS05uWjA5OFZTZXQ2aElLMmxicWVxN2lVRDBvMWQwZ0pQV1hJQ1RwVUhvUHFVR1p5VmNuY0JQeGU0TTVIVVAyTnlfdUIxa1FhOUtsRzZJRmJwb3VyR0JBRm80bE5rcE5paVkzRmxubkVIalBEWUJlUVhsZVJtMlQzV3F6WGMwb2NnTlVjMHhYRXA4d2E2VkthU1lWVnQ2M2xMSFRTSGxzN1RHZVk1THRNMjdwX2RwSi1YTDNOR2NUS0xDRkdGX3pWNVNBa1F0eVVtR2t0SC1tU0lwOVlYZC1IMm1MTENHS3lSWTktZlFpOVpvWVFSUVduZQ?oc=5"
+   },
    {
     "d": "2026-11-18",
     "h": "13:16",
@@ -419,6 +205,13 @@
     "t": "Cantù, il dopo-Christon è deciso ma il mercato non è chiuso: si ragiona anche nel reparto lunghi",
     "s": "Sportal.it",
     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZGV5OVNya0tNMkR0RDI2MktPal9QbVRTXzRBZVNZSkVHZEFuYzBGU1FtcmFzUFVBeVlmQXhzSFprM3BGMmsyeEVQNTNfeDN3aGJ0d3Y3akFHbFhrWVl2X0ZoTTdEb2xTa2hHVkliT0JreXFJbmZ5RnJwbXlDblBkWHcyeFI2aFhNSG44b1dzcVg0UTA4UDBGT1d6X2tZSGZwLWpod3ltWS1lR191ekI5YW9lZVFGUzNiVnZzQlNydHBrRlFmMlpJZA?oc=5"
+   },
+   {
+    "d": "2026-11-18",
+    "h": "10:57",
+    "t": "» BASKET – Cantù rinasce e porta la serie con Venezia a gara 4",
+    "s": "il Canturino News",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNWxEeC10Q0V3eUItUTg3bDlISmZ5RVVKcTVqSjIyU0tMNjBORlRyMW55dDJhbzNjWVdMRE1vTmxoY2RaTldFU3RLVDBteHRvR19KMmpjd3NnMGFSODVUQ3I5SXNyMmdqOTkyYTl2cW9VY1drR2RfdS02SC1EREI4SVdLUGNmT1lhR1l4SlNQNmRIQVdG?oc=5"
    },
    {
     "d": "2026-11-18",
@@ -447,20 +240,6 @@
     "t": "Basket in carrozzina: Cantù alza la Supercoppa Italiana 2026. Battuta Giulianova 75-45",
     "s": "SuperAbile - Inail",
     "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbmhScXN3WWMySDZkRnhOcHVpQkpMZzMyaHR3WXQ1VTZ0cFNzYlFJYUVuejRKVUhKM2xjbF92cXlBcldwMzFPYktSTmpReGRCMklVRXdjMXd6S1UtUVRpY0RXNWNDb0JFUFhkaTJOSThTRlFPOXBoRlIzYkJHSHZfQl90R0g1ZmFrbUJpSGFHSmhsSjEtMTNlMml1em9hTmRSSVJYYktDLU5WYXQydUIxLXRFdk1FdF9vYk8zQXFNUURJQ0RhdHRITzAyc0Q5QzNmTTY3SnRNUnpuZWM5MkdmNUt1dTZXcDZ5RGhDa045bENpcGNOSmxvcmdrclA?oc=5"
-   },
-   {
-    "d": "2026-11-17",
-    "h": "14:56",
-    "t": "Pallacanestro Cantù: vicino l’arrivo del play americano Mike Smith",
-    "s": "NBAPassion",
-    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWG9LWWtYb3F2R1dES1VuYXlnYTNCU25YckRJcTJjSllrY25JRlN6SWQyTWV1SnluSTFnRUtSR1RPMzNXNjZLbTlzTkQ5TDNoVXYySndObE5ZVVplQlJSNG05dUJJNzMxQ3ZXTDcyUTE3cjlDaXd2eVJaVUdjbjQ3UlNVOTRDYW8wYjlPVEdjVXl2RktMSlRwMmQwZXBxR1gwTUpfV25aVW5ycEhjX1ZRTkFOUzV2SllmV3h0N2hqNERDY2l6MXFpV2ZqTHo3UQ?oc=5"
-   },
-   {
-    "d": "2026-11-17",
-    "h": "11:36",
-    "t": "Cantù e Urania Milano al lavoro per lo scambio in regia",
-    "s": "Sportal.it",
-    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWlM5UzkxZEZJN0ZGdFV4ZEQxRmN0dnJjamZNUUM2TXFzbGttWW9FdjlqN05fWFE4SlhZTFhCSzhLR2tFa0J6QUFiSE9pUWdGc29iVWNDaDl2T29ZRnlGLTE1LUs0eU91aVd3RUxPdXVuWlFseXF6TkdDTklWRmR5WnhOYlppaEdEcTdUV3RJdHVGVC1X?oc=5"
    }
   ],
   "como": [
@@ -486,18 +265,18 @@
     "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CWHZGMlRRMWhEQkRrZE5jZG54N1dWNkttOHhHckpYQTdXaGV2MF9VTHFqUTRTSGdBMkdGXzZKYVJMVElnTTlYcEhkZV9VSVZZejY0dnFBVjhzdnRjeWQwaUkzVElNUWlVbkVJNng2YWl2cndt?oc=5"
    },
    {
+    "d": "2026-11-18",
+    "h": "09:51",
+    "t": "Scheda Sagnino - Terza Categoria Como - Girone A Lombardia",
+    "s": "Tuttocampo",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQXlrbjh4LTRkM04wVFRNbUZhZnNqOV8zclVyTjVtcDZqdXkzWExYN1U1QUgwM0ZPamZsWHlIc3VkbHNmT3MyeGsxanVQcTVpZEYwNG12WnlKTHhONEtRdDUtbHJldWNOS1VRMDh1aEp1czBTVmlmSUhMOHlaUTV5RWdCb1R4aDNxNXpKTEtuQVNWNjUzWVpMbw?oc=5"
+   },
+   {
     "d": "2026-11-17",
     "h": "21:38",
     "t": "Quando gioca il Como, prossima partita e dove vederla in diretta streaming: al Sinigaglia arriva il Cagliari",
     "s": "DAZN",
     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT0M5YWxkTVU1VHItRDJfdGpTNmVJcWx0VUlwVVRDQ0xUZzZXZ2M3dVl4RTk3YnRtWjJnakV4OGQ5YTJJU0p3Y3NhMGJQNDlpWDVqSktrbnZuM0E3aTFuUjROTnIwd2Z2N3VCSGM4TXkwMVpYNjJQdjFQX09VQ0RWTjFjS1lYRmJqRWltZDM0TTNJekZkOE0wMWF4MFdxRXU2TmNjQmlzUFF0ZHFrTm1NTGtkNk1wdGF4djVHZk1FdVZkVngtWEw0dA?oc=5"
-   },
-   {
-    "d": "2026-11-17",
-    "h": "20:20",
-    "t": "Como, nuovo stop per Kean: problema in allenamento e accertamenti medici per l'attaccante",
-    "s": "Diretta",
-    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeE5YdEJNU1pLUTIxNlVoNVpKZXZ4Nl9lckV0R0M2NVNUcVN4bllqcjJpR0RYekNZTzBwbkhHR1hlaGROMjlwNk1xdXpHX2RiNjJUN1ZVcEoza0N4UGtpS20xRVNENlJ5aEIyQWQxYVJDR0lmVGd4b2hHaU9uNEVqMld5R29QV2Roc3JSQmdxa1NnN0s4U3lpSFV4QnlwazBUcy1sQkdGM2J3UkUxMjRjWDkwVXdIMHMyWXN5bllfU2dmclNHWEN6bWxnaTI0YWZxd3ExcGNaRQ?oc=5"
    },
    {
     "d": "2026-11-17",
@@ -508,17 +287,17 @@
    },
    {
     "d": "2026-11-17",
-    "h": "19:30",
-    "t": "Maledizione Kean, nuovo infortunio: il comunicato del Como e i tempi di recupero",
-    "s": "Tuttosport",
-    "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY3d1NFljUU9ZaWlPRmEzSkh3QXd2NXFEQjRqSV9BUDRSYUp2R0s1UDZWU0JFVkFsOTFHRmdFekVVOFhYRkFnT0lrNnRFU05ZQWUyMkhhZjFCTW15ZVBwOEhuLVhacG1vbk54M1c5NkZ0LVhZb3BJNGdpc3AtdXdPekkwYTJpSENEampGbEdJVm40V0pXTWJuRU9BaG5XV3huMFFuTVJaemhoVnNscHlsZVhITTkzeUxndndhbVNVMWo3bkQ3V0x4djZ0ZTNjN0dvSlVJQm5jbXA3ejN4NmpKTlpPcGVNdw?oc=5"
-   },
-   {
-    "d": "2026-11-17",
     "h": "19:21",
     "t": "Calcio di rigore revocato al Venezia, Como salvato. Cosa è successo",
     "s": "www.egnews.it",
     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ24zdmRRM3JfblNmbUYzUEtZWVQyTDBqQ0t2NGtWZXRrd3BhMWhsMlhSRF9kdjJpaklOS3l2ektaMy1KRF80T3JOTmlQQV8xQk1EbWFxcHVzNnhBbVZHMDVaX0Z4emdvekp3dHdGYXVfY1NJR2szRW1fVXQzdE9EY25YbjY4dFBlaGlMZ3pMS0V4UQ?oc=5"
+   },
+   {
+    "d": "2026-11-17",
+    "h": "19:14",
+    "t": "Como, infortunio Kean: problema alla tibia, attesa per gli esami. Le news",
+    "s": "Sky Sport",
+    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94UUdjSDM5blpXdGpYOHhDMU9LV1hMLV9pckdiN3hCVXUwUGFzWjFsUEpWUDZWT0lGVjRNSEhfUk44b1BlTHViWWhtUVN3bVo2WTRtOHpLVzRkemZFZmRyT1pIZGlsY0UxWERGdm1lakE2eG5Yb3pLVGJvdWc?oc=5"
    }
   ]
  },
@@ -867,12 +646,17 @@
   "2026-11-22|Milan – Frosinone": {
    "1": 61,
    "X": 21,
-   "2": 18
+   "2": 19
   },
   "2026-11-24|Como – AEK Atene": {
    "1": 71,
    "X": 18,
    "2": 11
+  },
+  "2026-11-29|Como – Juventus": {
+   "1": 42,
+   "X": 27,
+   "2": 31
   }
  },
  "lineups": {
@@ -1113,15 +897,15 @@
    ]
   }
  },
- "updated": "2026-11-18T18:54:14+00:00",
+ "updated": "2026-11-19T00:50:45+00:00",
  "log": [
   "classifica milan 4 24",
   "classifica como 5 23",
   "classifica milan_eu 28 3",
   "classifica como_eu 4 9",
-  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 8, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
+  "cantu 0 partite None",
   "notizie milan 0",
-  "notizie cantu 3",
+  "notizie cantu 0",
   "notizie como 1",
   "stampa milan 8",
   "stampa cantu 8",
@@ -1132,6 +916,6 @@
   "loghi ['cantu', 'como', 'milan']",
   "formazione como Inter – Como 4-2-3-1",
   "formazione milan Genoa – Milan 3-4-2-1",
-  "quote 4"
+  "quote 5"
  ]
 }
