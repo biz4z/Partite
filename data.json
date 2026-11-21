@@ -13,37 +13,38 @@
   "2026-11-04|como": "1-9",
   "2026-11-05|milan": "0-2",
   "2026-11-08|milan": "1-2",
-  "2026-11-08|como": "2-0"
+  "2026-11-08|como": "2-0",
+  "2026-11-21|como": "2-0"
  },
  "standings": {
   "milan": {
-   "pos": 4,
+   "pos": 5,
    "pts": 24,
    "g": 11,
+   "up": {
+    "n": "Como",
+    "pos": 4,
+    "pts": 26
+   },
+   "dn": {
+    "n": "Frosinone",
+    "pos": 6,
+    "pts": 20
+   }
+  },
+  "como": {
+   "pos": 4,
+   "pts": 26,
+   "g": 12,
    "up": {
     "n": "Roma",
     "pos": 3,
     "pts": 27
    },
    "dn": {
-    "n": "Como",
-    "pos": 5,
-    "pts": 23
-   }
-  },
-  "como": {
-   "pos": 5,
-   "pts": 23,
-   "g": 11,
-   "up": {
     "n": "Milan",
-    "pos": 4,
+    "pos": 5,
     "pts": 24
-   },
-   "dn": {
-    "n": "Frosinone",
-    "pos": 6,
-    "pts": 20
    }
   },
   "milan_eu": {
@@ -316,6 +317,11 @@
  "news": {
   "milan": [
    {
+    "d": "2026-11-21",
+    "t": "AC Milan-Frosinone, Serie A Enilive 2026/2027: la conferenza stampa della vigilia di Rúben Amorim | AC Milan",
+    "u": "https://www.acmilan.com/it/news/articoli/conferenza-stampa/2026-11-21/amorim-siamo-pronti-possiamo-fare-di-piu"
+   },
+   {
     "d": "2026-11-19",
     "t": "Operazione Simon La Mantia: il comunicato ufficiale | AC Milan",
     "u": "https://www.acmilan.com/it/news/articoli/media/2026-11-19/comunicato-ufficiale-simon-la-mantia"
@@ -355,62 +361,90 @@
   "milan": [
    {
     "d": "2026-11-21",
+    "h": "16:54",
+    "t": "Calcio: Cardinale, Milan sta bene e col Frosinone importante vincere",
+    "s": "Il Mattino di Padova",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb1ZDaGVSQlEzbVdneWhqSDFuaDVvRVdjMklBV0RCR1g0aGk4bVRhejI5ZmpJaTUwam5aX0xwQUhPVVBXd3Q4WmdjNHZOSkt0WWgybnRKeXlOYTlDMmRldnJYbzZ1SHpWd3NhczV0SGhtOXpMM0o2cGNqSHNSYlpTMVZUM0pPNXVBaEt0emZVQXpuLU1qYUM2MF9RTHVQbkNyclkwbnBTVnp2QTRnejBuUA?oc=5"
+   },
+   {
+    "d": "2026-11-21",
+    "h": "16:12",
+    "t": "Milan-Frosinone: probabili formazioni, dove e come vedere l'incontro di San Siro",
+    "s": "Blasting News",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ2hsRjg4Ny1mV3RVaTB6U0kzOEVKWlNJajFzTmJxUXJoY0pNUWpFY0ZSa1hjY1VQY2ZQV18zX0UxYWxRRHFpZWdVd28teDVKZzM0ZGNsM0tpTHpPMzF2dWpQUkxIWnV5QW9NbndGRVZUVEtlS2xwbEhpRENaV1JMUnlWb20wbDdNNXktcExOS3dmR3ZvUkp3NUpGeEo0SkRHd2ZyWWlHSDZCUkVpZFp0c3JvaEpWU1VmWVpRcDJJYjBBYl90VGdlaWtvQ2lQYVNm0gHWAUFVX3lxTFBhd0xJaGU3ODd6aGtlMnY0NnZsa2NpUVNoNzB2ZnZvWWxqdjBIQWtORzE2UkNDWlpnWjF1QTdrNGM1V3cyeTYxTWJjZUx4YlhhcFNDTGVtTUZxd2VFcVFWUzlmRm9aUzUtZUlFTmlsbDJmWmxiY1J5c2tSVmdTOTlTcE15T0l6VzdiVmJnbWJXRG5OLTFkOU1YOXZDcl9YdjFEOVdBZldLNTdwTUJtTXNud0JTSWpEaS1ad0xDNkZCQmJqdmM3OHFBMUNEUWFfNGd4Z0VCRGc?oc=5"
+   },
+   {
+    "d": "2026-11-21",
+    "h": "15:00",
+    "t": "Amorim, il sogno Milan e i problemi di Ramos: \"Non lo aiutiamo, siamo tra i peggiori…\"",
+    "s": "Tuttosport",
+    "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUXJpWjhOeUkwaWQ2cS1id1pJbVRzZDhrdHZXZ05OXzF4bnA4bVlKRFlNZ0N4SVBvNEZ5VUVOU0h6czFHUmdTQmJxaEdQUVZsZGpSaGtiTllUMEZUR195dkFXdG1YTnA3WHpBVTNyODBfd01hX0Q5RFJZa0todER3c09TZjF1RS03X1RoamlIRVVEd2VJTXBpc3BSQ2ZvSVJPaTFfbW52aV80STFaTTN6TUlUdTZhWWdCOFdnT01tcTY3MzFURWVfM1VsZlpJa2dnNU1rZXZhajlqOG14T2twQzBiY1RiQktvanfSAewBQVVfeXFMT0JtM0s3a0VWUGVnRG1zZl9ZbXl4aHlBMDZQOEl5cjJYS0RUQjJ2OVFhdGVtMFRPUjJNMVRxZUc4MmhOSllrUE1MdmpJWlNvV0FqbDFtdFlpdkpEbm4tVkFieER2eVpsa2dYUTJaaHZNS0FVamdiOXpuQkxJRXJlcEhPb1lnbk9KalB3U01nRVd3bzJ6b0M5dmxwRGRqSWhmYVF6djczd1NXNFc0QWNnZ2FtcW1qdVB0YVRpbjBObHFraFhGelM1d3ZsVlM5ZGtvbzVoUkVYVjE2bHU0YTF0bzNkSTNoYVIwRVhrTEY?oc=5"
+   },
+   {
+    "d": "2026-11-21",
+    "h": "14:41",
+    "t": "Milan-Frosinone, Amorim: «Pavlovic sta bene ma non so se sarà titolare»",
+    "s": "Il Messaggero",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMzdxUkk0VUZKT1ZWQUdRRTRZZ1M3Y1FVdlkwRkNPQjhaUW5MVUxnTW04YzJGS3JWUUhpWERFQmkyMTQ4R1RaMFVHZHViNjhTdlVFYUFNQVIxLU5JTjNLRDVSeWpLWmtzOTExQlZ4cnoySUV3RlgxdjVyeGlPNnVDSmI5QXlodERDa2sxcUlVM1V0MTJLcVZSeWVsSEdCTXpaU2praGY1cEdHdUNWQnBlX1haNTVrZHJKVEhueFBkTdIBuwFBVV95cUxPOHloRmljOGVUclFCSFh0R2I3Q0djbWZSUFIyT1NXQUE0OF9MQXNneW92ODZXWjdIbVVMdkljamQxX1NKVzZRMDlzTXBud1pRSEpmRlJBLXRnZ1dQVGh6VE51d2wwNEVLWmFONENaeEdEMEx5ZVlPVEtUMnktNWxuZm1XSEhrUHcwSEVmU0doQlBMMXVQVEhhQVQ4R0tlck92MXU5T3lrQ1dNcjU0al9heklOZnl4T0hvOHJ3?oc=5"
+   },
+   {
+    "d": "2026-11-21",
+    "h": "14:39",
+    "t": "Calcio: Amorim 'nel Milan tutti pronti, anche Pavlovic convocato'",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb01ER3pueEZnaXE5WU1ScU5RVk52b1UwNXJPQXBvNXVHX0NDbjRfcjZzWDlacTZMSHVpMjBiMkdUdkhzTEh4bTg5dHAzMy1OM3lxSmJ4T1VWX05FSDNzc2pvNFdibU9JS3ZWeDNFSTQxYWJBQWM2cVU0TlE5WXgxa0o1UVpWU3JYSERhWmlEYzdCVU5Fc3JReXNxWjNBd2pOQTY4cU1ONU1VMmtIT2FVMkVzUlNmb1lwQXJFYV9reTBIcVE0ZGt5TjFERXpoYjUxcGhEeUZ3bEhhVmtWZGVCbXYzUVNOWEloSVI0RFhNY3FDQdIB9wFBVV95cUxORFJsRDM5ZHBqWVh1VlcwYlByaGJocktjMnJJZTh5cjVVeDhqcU5UOE1oTXNhNzVPNi13aFZ3cDVfdEVSVm5TRmhlRzV4U3hETzA1Ymh3Y3VEdDkyaU9tZ01iak5adWNVdEh5TWQwR2NIeVkwQjd4S3lLV09wdF9DOXNiZkZtTTVEVkRsUkNJNU5qMW05bkw3eldyTV93VkhNMFVWUkVSM0JFelM1MXJzbnItam01Y0JTUjJ6X0RTakZwQWQtSVhhMHYxcmNQQ0ktRTBQTDBTUXF2RzNuYXkwVGpZTm5ObTZkTjBETjh6TFZMSVhaSnhj?oc=5"
+   },
+   {
+    "d": "2026-11-21",
+    "h": "14:12",
+    "t": "Milan, Amorim: \"Se ci serve un attaccante in più? Sarebbe utile avere un'opzione in più in avanti\"",
+    "s": "Gianluca Di Marzio",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRW1BYk1KSnRXckxwWWlGNjNpYktGRVE1ZUdtQ1l5OUxCUVRnS0dIa2dSR1VXeWZhSXhVRXlJenJRMGgwRS1QeTMzdzEwNTlZelgxVnVfX2pSOEFOWjZzWXpCa2ZlWjBkTmp4TVhVU2tvUTN5S0V2YlBPY3JHYXE3TEVSUWFpZnZPbWhVaG52bTFpYkRMMFN1Z3F0azRFMlM5R2hsS1pPbk5EQ0ZUeGJZS2hB?oc=5"
+   },
+   {
+    "d": "2026-11-21",
+    "h": "11:20",
+    "t": "Milan, Pavlovic sarà tra i convocati per il Frosinone ma Amorim lascia il dubbio",
+    "s": "Sportmediaset",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYmR3MjAydHRQTmN0U01HSmlLVWRmWjZYcVR1bzlLUjVHZHVQS0pxTjhNcW9XMW84aFQzQ25LeEpzUDdaa1F4T2JLdnpRNVBVdEhnWTNkWFFWel9YckRZX1ZHR0t3b3dPSWltclFqem1OTWxITWdzd2J6OUZfTEl6Zmp1U3BjckdZVTJ0MEo5a25NRWJGUy1vdU5uM1BaaGYyMU52TGdIYW0zNFJtR0pGMkdGa3BnWk51bEFQYzBYNDZIdHJVcXhZdFpGTFBrTUxBTWc?oc=5"
+   },
+   {
+    "d": "2026-11-21",
     "h": "09:10",
     "t": "Il Milan fa sul serio per Van Dijk. L’olandese: “Non so cosa farò”",
     "s": "TaorminaNews24",
     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc1lhUDVDRDh2bTFra3JqUDllU2tra19oQkNsV1ZybktTOExKdE0xU2tzRjFPeUFoYnRHcGpQSTRoYUNEemRtY1cwUWZKMzhzcHc3ZWZqVThrc0ZoS2EzdmlrVloxNmFIemlHNHVOR3dKS2VpMUdfdE5kalptdlVBTXdQSl93TURvczdjaHdha2FSMHM?oc=5"
-   },
-   {
-    "d": "2026-11-21",
-    "h": "09:07",
-    "t": "Calcio - Frosinone, Schmid: \"Milan favorito domani. Sarà una partita diversa rispetto a Cagliari\"",
-    "s": "www.gentecomuneweb.it",
-    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaVJqTldkekdONE9fbGVUMF9xY01XNjI5Rm1RY0lPY1paOWVmT0Q1eXowMk92WFpaTEduWU5KMV9JZXRZR0NPOHhLb0huaUUzdEZ0el9rMVJCckhCWkNTeWpxcHM1MTdfTkZhc0dwRTZNVFc0Y3FSRzRCcWpjazIwS0ZHQVBLUWZnRUFvNGxWRldDcnV2bHJyVGVDTHJpRXdpNTh0TDJwNWFVUHBOVzNnRHNSY2lMVXB0UDl5V3B3?oc=5"
-   },
-   {
-    "d": "2026-11-21",
-    "h": "09:01",
-    "t": "DIAVOLO SUL MERCATO. Milan, da Endrick a Gonçalo Inacio una nuova rivoluzione per il top. E Rabiot è già pronto a prolungare",
-    "s": "QS Quotidiano Sportivo",
-    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVBsQ0ZDN0pVb3ppR2NPT2JvaTU3WE1UQktvbDRuakdpc25XdEN0S3IweWNxSnFseTF0cFNRWmZfMFZHZERrTm5HeWEtMU9oejdNY0RBZmxudnRKNlVqanpCdDl3WER4Q3BIZ1BoZ09aRG5HZXU2Q3pOdUJ1UllwcS1QaDdVZw?oc=5"
-   },
-   {
-    "d": "2026-11-21",
-    "h": "07:35",
-    "t": "Milan-Frosinone, le probabili formazioni: Alvini si affida al suo undici tipo",
-    "s": "FrosinoneToday",
-    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVzkzbmJMVFh2UnNSa0h3cjBUSmluYmhGa3hRbjZsLXlGZUJ3bENDanNodzZaRkU4cFBIcmtCTW9Ha2s2UVA5ZVdlOHVsY1pTSVV3ektJd2JTWGpaaU9xTmc0MXhEQ1VRVXphNk01b1pCWnhvM21BbDhoNFR6ajY5YWdZeFVpV2t3NzdTT3VfZWJXR3VneFJCYjY1RGVZZnFQMnk0?oc=5"
-   },
-   {
-    "d": "2026-11-21",
-    "h": "01:55",
-    "t": "Dove eravamo rimasti: Lazio e Milan scacco in 4 partite; l’Inter era vera?; la Roma vuole il titolo d’inverno; Allegri e Spalletti a rischio panchina",
-    "s": "Sportitalia",
-    "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVGZ1bTQwc0dsMm9KdVdHcUwtU1JJZDk5UXd3R0VFUTNCVE10VHRLQ2N0UEtHcjZBeFFleXlmbTFieEE5VGh0aUNJaTkycEpvUnEyNmFWTGNPd3dXUTBPZ3JRdEVLRjRIeWxTQlVKN1d1WV9HbURGd0xxU0M2TV94cUtWTHFGQWxkME5ZR041VEQ5UEpGaFNPOWlWcElxQXQ0Rkt1YUZYa2RPTzMzbEtzX01IQXNHaWhiazgxRzNOMGxZMnRSM1k0N3BycFdPYUhkd2tpUmRRNWFiLVI0c01IWlpBUDN2RW5YakhjNVVjYTJTN3VMZmNJS21QM3VVTlVwY05JZUd2WjE5OHQzRmc?oc=5"
-   },
-   {
-    "d": "2026-11-20",
-    "h": "22:30",
-    "t": "Capuano sicuro: “Dire Berlusconi 2.0 impegnativo, Silvio ha cambiato la storia del Milan e del calcio in Italia”",
-    "s": "Milan News",
-    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOajNvWEU5U1dWWEU4cUR2NkdFakdkY1JxYXdSbVpOMGF6ZjlySEFLck0yVnZtU0RNS2hkRVhKeHlMUUZ3Tmk4NlhiZlY3RGlEUGVNMGg1WGR0YVFubWtrcUpmMUpXakRveWVVWk1qaVVJbnYxR2ZtLXdlY3dxLUhMSGl5S3NNTF9YYkZZUWhlaGVhR0hwQ1UtSXl5US1PTTdEZFdyM1pZLW55Z25KZk90aTYtN3o4dldLVncxUjRsOG0wN3gy?oc=5"
-   },
-   {
-    "d": "2026-11-20",
-    "h": "21:22",
-    "t": "Milan, Conceicao accusato da Pavlovic: \"Un sergente di ferro, aveva metodi brutali\"",
-    "s": "DerbyDerbyDerby",
-    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOenJORnJ5OEdoUUpPMFRhMFhKeVhqcjBfUEJERE9uYS03R1ZEYktFeWRYTTg5ZXFqWGNTdFBQekgxdkdMSkIyS2p4cEt4TkZVQS1xRXg0UGR3RGs3c0x4elU1WGNUaERlVjI1YTIzWnFWNnhaMDVTT1k1LVpNdjRuVWhQbktDU3RTUmRPLS02bW00M1l3T0dLVnJYcVpwTWU3SE9PSDBOV2hzUG1yX1ZEQXgwZ0FXY192SmpYcDFCUUo2aTlE0gHKAUFVX3lxTE1ZUHVGbVQyQmtpdEJlZEdtbnc0enlfaTVuSU0zbGIxZkZhdzRyTEJYaW8tdmpqQlNiN2d1bC11STdSMzlLb2hUeFR2dkEwa0FmcXptelNUSWt6eHNPYlFVbUZ2R1JCbUVDX1k0d2lQSWlRQ3FmNGlSS0VaWWE4UzdoS2VvNXZlczhpT2N6OFY3OEJvQTFaUHY1aWZNdW84bHYxWWZ2d1V3UDIwdU5vQkRYTHZ5LU9JclZUSV9qcWxaczh4bFdVbDZPdGc?oc=5"
-   },
-   {
-    "d": "2026-11-20",
-    "h": "21:10",
-    "t": "PROBABILE FORMAZIONE - Verso Milan-Frosinone: torna Maignan, Pavlovic da valutare",
-    "s": "Milan News",
-    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjZhOEJ4d3JTYm45cXA0TXZkcVhSQlRfN05MMVYzRWJzMEZIdGh4UnE1elJUT2xMeHdHU1JJeU9QYS14OVV3V1RVTHdOZk5zcjBHYi0ydGhCUG5FOGJPWFRsWDBrYlNleGVOZFJZYnJCeTJDaXc3ZS1jd0N3a1R1ckY0WFluaFhZVlI1ZTNWRGhUcU5heWNmRmVSOXFkZUtfVjdVMXVyREJRaVU?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-11-21",
+    "h": "13:19",
+    "t": "Cantù, De Benedetto: “Aumentano i dubbi, l’unica soluzione è andare sul mercato”",
+    "s": "Backdoorpodcast.com",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuV3RLODZQQzZkNXFIYW9vZXdvRDZVRDhIU3B1WTA1d1VfNWhKU3dqVlVZT29ncDdIOTlOaWJZd3dtMnpseThjaGZHRVM3ZEpZa3JaOTdmTUxRdC1ObzNoa0x6MXRsWW8yVFlWUHFwTVRJLXBYOTB0dVFCSXRJWFk?oc=5"
+   },
+   {
+    "d": "2026-11-21",
+    "h": "12:39",
+    "t": "Basket, Scafati-Cantù primo crocevia per la salvezza",
+    "s": "StileTV",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNVU3Z3V5UXE0YzBoSjRqcnc5ZUZRRl9oOXRYa3N5LV80TksxX0FxbWxWOWhvNEtjNTBuMXJaSExRRjR2ejRrRGVBcXJaRjk0eHJlZERCOTJxb3BzZHZPYUlIcWdVbkFld2VXNUxxaUtGbUJieWhWcUcxX2poSE9panl1dmVvUUNBQ201WmFMZw?oc=5"
+   },
+   {
+    "d": "2026-11-21",
+    "h": "11:19",
+    "t": "Basket in carrozzina, l’Amicacci crolla in casa con Cantù. Ora testa alla Supercoppa",
+    "s": "NUOVO Cityrumors Abruzzo",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXNUc2tuVzNtU2V1Si1zVVpSVXBzb1dLQ09fekxfVnZzVXhtcFRoT2FpNVRwWVl3UWxnY2M0UXNMekJnZ3BNd0pISmNLY2s4MHNMRXhhdVNqZ01sNFZyLV9BRXdzRmtRbXhaMU5Fekg2UG80OFVwV1V2eC1fZFpvWjZXZThkSUJtU0h4S0lHTDR1OUhzNEE2X09PNFlsSlZ4QkVTYXFMemxPa0IzZmYxWjBuVVAyU3gtbW9FR01LUkJialE?oc=5"
+   },
+   {
+    "d": "2026-11-21",
+    "h": "10:58",
+    "t": "Futuro Frank Vitucci a Cantù: decisiva Scafati? «Non sembrano esserci ultimatum»",
+    "s": "Pianeta Basket",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlFlSzlzbjI0bGFtVk81NkRudUpsVmx6d2p5WUgyOXFmS1ZCdFk3T1ljQnF6MXh4NnkxSXBMb0MyYXN6SHU2eW56WWcwTl9VQkhxcm5HODEtUldDX0haRHlwMUJKNGQ4QkhJRWx5aHc3QVVKOFRWblkyN016V3gyTVpyUWVYZEhOYXdSNm9iV1BxenJpRDNOdEltbXVhYmpMMmRxWFNKYWxWX2xVSEpvN3ZDcEg?oc=5"
+   },
    {
     "d": "2026-11-21",
     "h": "09:11",
@@ -438,92 +472,64 @@
     "t": "Cantù a Scafati. Vitucci senza mezzi termini \"Dobbiamo assolutamente vincere\"",
     "s": "Pianeta Basket",
     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdTR4OHJFdjFpY25EYmdVU0paVmN0LXpqNXNEUUVPQVAyXzBBOGw2c2YyLXNvMDRTTS1uWEx2NzRpcGZuOGhQcUE1V0pES0lBd0t3R00zUzNINWRocjRWYUdRUE1MaTlkaDFmWDlCdHk2S2JzSVI2VGpjcXBIeWI4WmlEVHN2ZzVnTGpORVB2YmN0M2tUOWZHLUx5V3dEUG9WcXZyWl90T2pTR243dVM1dEpvdEJqY2R3OU1GVlJabXE?oc=5"
-   },
-   {
-    "d": "2026-11-20",
-    "h": "16:42",
-    "t": "Cantù, Mike Smith si presenta: «Con il supporto dei tifosi possiamo invertire la rotta della stagione»",
-    "s": "Pianeta Basket",
-    "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQkJ2NG9GN3lEX1g5RGd2RkNlaTRKTkNGSUtmVVRqSHFQMXNvOXVjaVlDYXNyR0EyV2Q5UWFVMFZ0S3doUFdaMl9qNFhpOWV6d1lqcEtoMGo1U2hZVmJHN3J6X1kyaW5YX09ocHV4YjlQOWczQ2ZSUGhrRDYwczVwanFhVEdVLTgxZ2Z5cGgySU5JaG5LWk5sR3FIVGRoQnVYOTA1ZmV2bTA1VGpEaUlubk1CblZ2Yks0SmRjSUZpZDFmMXZwdkJKRWpJdkQ0OVZLdFY4TTM1ZzFLUkYwV1J4SA?oc=5"
-   },
-   {
-    "d": "2026-11-20",
-    "h": "15:11",
-    "t": "Cantù, a quando l’uscita dalla crisi?",
-    "s": "Baskettiamo.com",
-    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RZnRocklUSFFLTFpodGZyWk96aFhGOF9kRUNCemR1RWJqTUVQUV9mVGh4NVE5NGNfLTNQcktwb3ZtaWktWGl6bGk1OVMyRWF4UGFzWUxoeHBTSW5DM1hqbF9kMzRYeDBMblg2SC1SWHk?oc=5"
-   },
-   {
-    "d": "2026-11-20",
-    "h": "13:30",
-    "t": "Pallacanestro Cantù, missione compiuta: Mike Smith tesserato per Scafati",
-    "s": "Sportando",
-    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XdGdZUWtYN1ZvOWtxX0gxNFlPc0JJVFNEXzI0TTZxRC1aaG1aaHlwN2Q4eG1DNV96SlFTb3kyRjI2d09CYTFQUzV3VlVaRlNobi1wOTNBVHNZWHZDRmxBNHo5UEtYbXJZTm5GaTQzYW5kZw?oc=5"
-   },
-   {
-    "d": "2026-11-20",
-    "h": "13:27",
-    "t": "Cantù, ufficiale l’ingaggio di Mike Smith: sarà tesserato per Scafati",
-    "s": "Backdoorpodcast.com",
-    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aWFpnbjNDdFphU3FjSXloaEE4MWhCUk1veXRMaXBDUVZMNVZFQV9BdTFRMkxFSm9QS19zcDY0UUJyUk0zX1BUTWdWZWJkdGVpRHVpbkc4d1V5djBJSXBpZFlsUHZ1enI4?oc=5"
    }
   ],
   "como": [
    {
     "d": "2026-11-21",
-    "h": "09:52",
+    "h": "17:23",
+    "t": "Lombardia - Giovanissimi Provinciali U15 Como C G10 - Virtus Calcio Cermenate vs Rovellasca 1910...",
+    "s": "Tuttocampo",
+    "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvZGRVX0l3NXJ3cTZWVjNYazJKaFBpQ2Z2b0RMN3A5ZVRMY0tBWk01cXNkMUtXajB1d1JDUzFBZFpYbHJwSHExWjFEWFVtcGtuM0hHY0JJci1aV1FjeFE?oc=5"
+   },
+   {
+    "d": "2026-11-21",
+    "h": "17:10",
+    "t": "Calcio: Como-Cagliari 2-0",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnNkWnRGS0RyVGMwLWpJZkY3WjdxT3drYkVWcnh6S04zWDdRbVJVZS1HWl8xR3pmMlRld0F4U04yNkNoV2s5YUNkTnMtRTZXUGdHcHJNSVF0em9EREF1NkN4bGZPQmJQLVBLNTAtUFQ2RFE2dC1IQ1UwYktlVE95d2RKeG5DSENzdU1JSS16bEpzQnNteGE0cFA5UXpJUDRfV1ZhZ250X1otWmRIV2dRQ29fcHVwMUtnYnVOM1Z30gHDAUFVX3lxTE9RWVNDaWo4Vk1HckZEZkEwOEo2U3dTVGJva0ZtWmtINV8ydHhsOHpJRldoSlBBZTVwRFFPLXFGSjI1YW1JVHpHcW1VQmpyOWpTa2xkeml5cE9aVHJMalZxbC1tZHducmw4WnB4dmV5V0ZuZllmMUtobjZsMDB0czl2SlJuamVpQlA5LW1mNjJtaHdybTlmR0E3NHh5SFhqQkY4N3pLUTJKVzdudHdsel9FRkx3X0tYc1J5R0FkQVFmQ1p4VQ?oc=5"
+   },
+   {
+    "d": "2026-11-21",
+    "h": "17:06",
+    "t": "Serie A: Il Como batte il Cagliari 2-0",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd01wcG5UNFhtRXNzbnNjQ1hTRFRfUS1OdWctdG1CM2pmV0pSdkl2cXJwVHRRa0N2RE82ZHZPdE5qM2VXQ3ZsakNfVXV2dWNxeGlEWGNpTmhqa0RDdThRMGwzTVZwdVFzYU9pdGljWVBqVFNVMlJoTjJsb3VfQjhfWVJjT3dkWUdQSGo1ZzB6R09uRm5EUlBXTVcxbFJtTGUtdVlac1hNYWphTGMyOUxPNVUwRkZfdGszUUVaZjdVaHp0d1g0blg1amMxd0FJUE8yUThB?oc=5"
+   },
+   {
+    "d": "2026-11-21",
+    "h": "15:00",
     "t": "Guarda Como contro Cagliari in diretta oggi: chi trasmette la partita in TV e in live streaming?",
     "s": "Goal.com",
     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVjk3MWlEd3MxNExZTHJfS3l5RlZMTFZUTk1ueFVnOFpBNkhLcDc2TVVMaHQtOFhmSXExd1d3QVpNdGJpdnFXOElUODJpRkx6QndEdmFSSVVTVmVhZUpsWmM0NHY0bHh5VDdiNXROTG1QbXN2ZFRyMUx0Z24yQUdObm5kSWRKTEY3WUVQNmFIWDR0Sl9ITFVLSHVkM3RRYTJuVHNpcWNSd1dXbmpoaE9oWmNWRDFiaDczQUxCMUJZNlVDdlYwYlB6YVNYcDBiT0VwLWxEWGVYQm1PRlQ0M0lz?oc=5"
    },
    {
     "d": "2026-11-21",
-    "h": "06:55",
-    "t": "Probabile Formazione Como - Cagliari - 12° Giornata",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50SGJzazJITE5seUhyWVpaT3l1emdFVnd1WGVoQWhsNGFSN3cxczVwSTRkYzBCRWpGQm45RzNLYlM1V3Zjc3ktR0xJZmNjUm42Qk4wWkc2cGJ3NmcwcVJ3U2tMV2tfcFFsV254NGVpWQ?oc=5"
+    "h": "14:56",
+    "t": "Como-Cagliari, le formazioni ufficiali: Douvikas guida l'attacco di Fabregas",
+    "s": "Calcio Napoli 1926",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjlMZTRNVHJtOGtKdFppY2FNNWJscWt5R0tmSGJQdGViMFd2X3V0TWZXdmtkWTZONlFNU2xubEQwRzUzR1o0TGJnYTgzQlB0MlV2NEY5WDgzcGpmVkRub1VKdXpHU2ozZFVEWWVGdzhaLWNlNjcySTJEbWVaRG9WOWxUbjdsTjdTTjdEYnJhcDk5aEVzb3V1MG5fQm9TRUxzR1E0ZGpCbEFYTnpQWHB5NUVWb1HSAboBQVVfeXFMTlF2d1hZaUwxV1NuWVQzUC1iYjZNZ3VEbG5ocnB4WFVyaUd3ZDdxaHpidDNVOW53aUg2MVh1NktTRXk2bUZxWV9lWXMxcGZoTEllS1pJMEo0UDduV0FpMV9GNnpmUEl6RTFNaHF5UFBpSlJoSDBIb3lsTEo3VXZSZnptSmtfdDNGQVBOc28zU2VIWnJ1SEVfcnJUTzdvME1ZVkVHSFJ4X3J1Nk50Q3Izd1JYeDFRZzgwc1F3?oc=5"
    },
    {
-    "d": "2026-11-20",
-    "h": "20:40",
-    "t": "Como-Cagliari, la probabile formazione rossoblù di CalcioCasteddu",
+    "d": "2026-11-21",
+    "h": "14:51",
+    "t": "LIVE – Como-Cagliari, segui e commenta la DIRETTA",
     "s": "Calcio Casteddu",
-    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbVFfc2FsN29KUHFoZGRqa1M4VTM1RWNLeDdjMExhM3ZzQWdRYVpqejJ2RXp0N01FSkZwZ3o5VFBUUjdEWGFCUWNyakZJR1M1LTh0eWtiRUxOWGJDc3lZQWNPdE5XZkp3TmhfeXRVTzhUUVlhbnFNU1RhdGpxbDM3X0czMGRWcWp1aU11RjEzTThoaExWZERTMlc2UzUxU2VHSHlCQzZhcjhkOGtm?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmJyMWVDN1pLbHpNNlpjdENCeGJxQWdXS0NqNTdNdVU2dm5OOGZuZnhUM1ZLN1Izd2trUlF1TU4wMHgxNTZLd3pIMGtxYVVqY05VYW4tYVVKQ19ZZHc3YXFIQjNScVFxSW9sSjVrMzdPUjJJVzE4cmpxbjhiaS1rVUZoUmltYndVeGtxVEZaM3dSUQ?oc=5"
    },
    {
-    "d": "2026-11-20",
-    "h": "20:25",
-    "t": "Como-Cagliari, la probabile formazione di Fàbregas",
-    "s": "Calcio Casteddu",
-    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUZtUTN0NDROYlJ0d1JxYzg3Y3k4bXNTTENJdVVTMUdjcUlCQW5PRGVmZkdvNjZ4LTVjVG5zU0NlRDJ3NDFMS1dhOUxhckFIVnl1LVR5WGxzTDNKelVTMmlOUHdSa2FrekZ2UEdIOHJxd25vaV9IbWRrNUd2M2ZVUnVGT0xhbDJwTEdpWXJNR1hwRGE1T1E?oc=5"
+    "d": "2026-11-21",
+    "h": "14:50",
+    "t": "+!Ecco come seguire Como vs Cagliari in Diretta Oggi – Calcio Serie A",
+    "s": "ElliotLakeToday.com",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeTNUVXpIYUxYQWxtU1hIVmNhSE03OXZqX3NjNm5IWTQwWDRCTndsVVRNQ0pOX0szUzFrT3NDNGZEaTNoLWZjeFc0NlRLcDBlRU9YR082Z2lJc1hzaEhTREI3Y3Q0SFgzdkg3UFdnSkZGZmVPTVNVaEJmRXl0UjhZNFlBekdCM1M0ZUlKRWc1YnE2MHdGTkhqNXRzcEtfa0YteGpoQQ?oc=5"
    },
    {
-    "d": "2026-11-20",
-    "h": "18:56",
-    "t": "Brioni fa ancora il tifo per il Como 1907 e firma il guardaroba della nuova stagione",
-    "s": "Zazoom Social News",
-    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSWRNdWZDYWFVbkU5blc4ang4cW1Ha1FqekpQSmpOT3QzVVByRWpDdWJuOWZsMEtHaXlxNksyb3JvLVF3TDdpZnJ4aTVUVEUzeVlyb2FFQng2OEFrV0pYT3dCUWRKYmp1NFhZWk1VYm5INGwzR19kYUpzVEFHRVpGUWlralNKamRrRkRmbDRVeFMteFBhYTQ4VFRXemZPZ3RFTkl4S3NLajFRa0ZYQlAwQWxndEFWaGNnb0FVbEZrTUN2dFF0aXc?oc=5"
-   },
-   {
-    "d": "2026-11-20",
-    "h": "17:14",
-    "t": "Serie A: Como, Fabregas: 'Serviranno mesi per riavere in campo Kean'",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPb0hEcG9lZWI1ZWpJOFhqVzV3M2tqTkJjb0VKdTZ3RkRTUGtkdldsMk94cGFqTHFWS1FZajZadkd1TmRkS3QzeExXLWVHSXM4ZC1KendEQXIxeV9ucG90RjhZZTd0Uk12cXRaOC05ZVh6cTE1YXRtLWtlakg2ZElvTDJGbzg2N3ZwMGFXbnpLczV2WEQ0Z0F3Q0lsM2NsLS1Kd1M5YUYxUlBJdy1qYW0tS1B1MEJQUk1fMkZ5dG9VNzR2V2NndmZfczJfWEpIRHpyRTM5M2xtNlhNX0JxOWhiX3lwLURRd0FXVUHSAe8BQVVfeXFMTUsxc3BCRXJ2SzJsdkxuZUtkR3czUkZCM0R0aFB2RGdzNThrUDFSUU9XZ2RjUGxfOHJIdjJQVWsxbEtrY3NHcWYyTHZPeW9yMFhMR1czSHp0VFhNb1ZSc1pKS25IeUdXV0ZDb3NsTDQyRHpDdk1LdzJ6bk9pQ3p3SXZWTy1EZ3Vzd3VySUNXVks2cFRxNFBsLVF1Ykx1Vk1saEhzN0JTNWR6OTRsa2pLTFFUMndnSWxNdzExZmsxcmJYZmJDY0RwR3BjX1VwMElaNmRxWW1RZVZqRGpiVkFoLXdocU9MZ3BZT3hIMnc5bEE?oc=5"
-   },
-   {
-    "d": "2026-11-20",
-    "h": "17:00",
-    "t": "Cagliari alla corte del super Como di Fabregas. Pisacane: possiamo giocarcela",
-    "s": "RaiNews",
-    "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNR0FQd2pwV0ZyQzA3TmFEcTBCWFJKd2pQM2x3Q1VRWnVvYmI0WG5KeXlSZ3lrWHZUTVVURWIybXlDVzNtRklwZ1ZndU8tcnFQcmNtMDRiOXhLZTZrczhxNk5UVkgzcXdQM2RTOHQyalpSaXh5RERXTERSNWh4RGkzMHdDSmtqT3QtcF9PMVFaaGNROV9EbjdDQk5HSDBGT2ZvSlRfY2E2Y1RzVENqRTJ6dEtvZThzR0hMX0FoZFh1cWlqamZxZlc0S2Z4YnRVZFBIbExjTXM2ZlZjY1BTN3NxU2o2SklROGgxQUdFdzY0OUIwQWQxSFVHWTBncnZNVzNf0gGGAkFVX3lxTE13d3ctcy1QTUNnX1JLTG15S1BJdEY3RE9jeVhaUzB4REl6MVUyYno3Ujc3WmdPcmdkWkpqdVNyNWdERVRQblJqbG5lYUhCdF81Wi1acWR4RktMVGRtZndLd1BuYVdzd1JZTnM1VDRWSGxLYW1QbWR1QTNTb0JXSk9KdWdKYWIyV0gycDVzQlIwTURwVUZwVXc5aW5CN3ZEUnlGelN2a1p2NnF1WF81M3I1alhDaU5JTVdMb0VHUklCcXhTY3l5YkF3WWJIUk5uVTI0N3ZPZzBDVHBrSmNWd3Z5ZVBrN2F6VEhFd1BvLVByUWhjRHhIZVhfTEk0VkZzZjNWWXpwZEE?oc=5"
-   },
-   {
-    "d": "2026-11-20",
-    "h": "16:45",
-    "t": "Como, l'allarme di Fabregas: \"Kean fuori almeno due mesi, forse di più. In attacco resta Douvikas\"",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR3RRbTZfOVI3U2UtVXU4cTcycDZudzVvY2ZZMUhBSkxXbmpYVTducmhmcV93emFLdkVQS0MxQWtHdlAxM0RqanVMX25zT2d2Tm4yaVVGbmJEUUc4TFNhTnR2RnhCQ0F2UWFSTzg3d0UyVmpkWm1vNUhpZzBCc0RjOEctX0J2NUtsRnltMHVJSTR6TUhuN2ZzX0F6cmnSAaIBQVVfeXFMTzByZGR3Q25MdFEtSXlaa1Q1YU9SalVCbE5nQmVIWG1ja0hEUjhPaW52dFRJUlN0bTFxdjJBbWxiZ0dsaUE0MmdMOVllV1ZZRlJTWjZ1MkNaX2lzQ0N3U2lucUZESVRCc25iNXBBSmx4SWhyVl9XSEZ1NlFrOHRFdUJSbUNkdFVVMGlhdFZSV0hPcjlwWmxjQ1pYdDVhei1URlBn?oc=5"
+    "d": "2026-11-21",
+    "h": "14:49",
+    "t": "Como-Cagliari, al Sinigaglia per ripartire: Fabregas cerca riscatto dopo il ko con l'Inter",
+    "s": "QuiComo",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTDZBaVZYMV8yUGNucU11TldmY1FKQ0YwMUV6STdOOU9rQnlPTTRzUWlpc2lCUk5rTjRWV1dGUExwdUVtb1FIWkJCZi1rQTlmMjBha1htX3BMeXRtV0drczVwQW5XNGNMdzdvcFBVTkNaMGNmTWREYnlYWDkwYzlNM2tBckZYTnVCX3pXYW16RUVjYlhMLUI0cw?oc=5"
    }
   ]
  },
@@ -864,11 +870,6 @@
    "X": 28,
    "2": 34
   },
-  "2026-11-21|Como – Cagliari": {
-   "1": 72,
-   "X": 17,
-   "2": 11
-  },
   "2026-11-22|Milan – Frosinone": {
    "1": 61,
    "X": 21,
@@ -892,24 +893,24 @@
  },
  "lineups": {
   "como": {
-   "match": "Inter – Como",
-   "date": "2026-11-08",
-   "comp": "Serie A calcio · 11ª giornata",
+   "match": "Como – Cagliari",
+   "date": "2026-11-21",
+   "comp": "Serie A calcio · 12ª giornata",
    "formation": "4-2-3-1",
    "score": "2-0",
    "lines": [
     [
      {
-      "n": "R. Sánchez",
-      "j": "97",
+      "n": "J. Butez",
+      "j": "1",
       "out": false
      }
     ],
     [
      {
-      "n": "Á. Valle",
-      "j": "3",
-      "out": true
+      "n": "Kaiki",
+      "j": "16",
+      "out": false
      },
      {
       "n": "M. Kempf",
@@ -924,18 +925,18 @@
      {
       "n": "Y. Couto",
       "j": "27",
-      "out": true
+      "out": false
      }
     ],
     [
      {
       "n": "L. Milla",
       "j": "6",
-      "out": false
+      "out": true
      },
      {
-      "n": "M. Perrone",
-      "j": "5",
+      "n": "S. Ricci",
+      "j": "21",
       "out": true
      }
     ],
@@ -946,13 +947,13 @@
       "out": true
      },
      {
-      "n": "N. Paz",
-      "j": "10",
-      "out": false
-     },
-     {
       "n": "L. Da Cunha",
       "j": "7",
+      "out": true
+     },
+     {
+      "n": "M. Liberali",
+      "j": "30",
       "out": true
      }
     ],
@@ -966,43 +967,43 @@
    ],
    "subs": [
     {
+     "n": "M. Perrone",
+     "j": "5",
+     "out": false
+    },
+    {
      "n": "I. Smolcic",
      "j": "28",
      "out": false
     },
     {
-     "n": "Kaiki",
-     "j": "16",
+     "n": "A. Lahdo",
+     "j": "15",
      "out": false
     },
     {
-     "n": "M. Caqueret",
-     "j": "8",
+     "n": "Á. Valle",
+     "j": "3",
      "out": false
     },
     {
-     "n": "S. Ricci",
-     "j": "21",
-     "out": false
-    },
-    {
-     "n": "M. Liberali",
-     "j": "30",
+     "n": "N. Paz",
+     "j": "10",
      "out": false
     }
    ],
    "goals": [
     {
-     "n": "Pio Esposito",
-     "min": "12'",
-     "mine": false,
+     "n": "Jacobo Ramón",
+     "min": "24'",
+     "mine": true,
      "og": false,
      "pen": false
     },
     {
-     "n": "Marcus Thuram",
-     "min": "19'",
-     "mine": false,
+     "n": "Lucas Da Cunha",
+     "min": "56'",
+     "mine": true,
      "og": false,
      "pen": false
     }
@@ -1128,15 +1129,15 @@
    ]
   }
  },
- "updated": "2026-11-21T08:56:14+00:00",
+ "updated": "2026-11-21T16:34:57+00:00",
  "log": [
-  "non finita Como – Cagliari STATUS_SCHEDULED",
-  "classifica milan 4 24",
-  "classifica como 5 23",
+  "risultato Como – Cagliari 2-0",
+  "classifica milan 5 24",
+  "classifica como 4 26",
   "classifica milan_eu 28 3",
   "classifica como_eu 4 9",
   "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 8, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
-  "notizie milan 1",
+  "notizie milan 2",
   "notizie cantu 3",
   "notizie como 2",
   "stampa milan 8",
@@ -1146,8 +1147,8 @@
   "calendario como 27 partite future",
   "ERR logo cantu HTTP Error 403: Forbidden",
   "loghi ['cantu', 'como', 'milan']",
-  "formazione como Inter – Como 4-2-3-1",
+  "formazione como Como – Cagliari 4-2-3-1",
   "formazione milan Genoa – Milan 3-4-2-1",
-  "quote 6"
+  "quote 5"
  ]
 }

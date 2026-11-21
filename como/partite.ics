@@ -179,15 +179,10 @@ UID:19f9d92c63282a29@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261121T150000
 DURATION:PT2H
-SUMMARY:⚽ Como – Cagliari
-DESCRIPTION:Serie A calcio · 12ª giornata\nTV: DAZN\nhttps://biz4z.githu
- b.io/Partite/
+SUMMARY:⚽ Como – Cagliari 2-0
+DESCRIPTION:Serie A calcio · 12ª giornata\nTV: DAZN\nRisultato: 2-0\nhtt
+ ps://biz4z.github.io/Partite/
 LOCATION:DAZN
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Como – Cagliari tra 30 minuti · DAZN
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f2a91af673d2f577@biz4z.github.io
