@@ -27,9 +27,9 @@
     "pts": 26
    },
    "dn": {
-    "n": "Frosinone",
+    "n": "Juventus",
     "pos": 6,
-    "pts": 20
+    "pts": 21
    }
   },
   "como": {
@@ -317,6 +317,11 @@
  "news": {
   "milan": [
    {
+    "d": "2026-11-22",
+    "t": "AC Milan-Frosinone, Serie A Enilive 2026/2027: statistiche, classifica, arbitro e squalificati | AC Milan",
+    "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-11-22/milan-frosinone-match-preview"
+   },
+   {
     "d": "2026-11-21",
     "t": "AC Milan-Frosinone, Serie A Enilive 2026/2027: la conferenza stampa della vigilia di Rúben Amorim | AC Milan",
     "u": "https://www.acmilan.com/it/news/articoli/conferenza-stampa/2026-11-21/amorim-siamo-pronti-possiamo-fare-di-piu"
@@ -347,13 +352,13 @@
   "como": [
    {
     "d": "2026-11-21",
-    "t": "La presentazione | Como 1907-Cagliari",
-    "u": "https://comofootball.com/match-preview-como-1907-cagliari/"
+    "t": "Como 1907-Cagliari 2-0: la cronaca della partita",
+    "u": "https://comofootball.com/como-1907-cagliari-2-0-match-report/"
    },
    {
-    "d": "2026-11-19",
-    "t": "Como 1907 - Bologna | Info e modalità di vendita",
-    "u": "https://comofootball.com/como-1907-bologna-info-e-modalita-di-vendita/"
+    "d": "2026-11-21",
+    "t": "La presentazione | Como 1907-Cagliari",
+    "u": "https://comofootball.com/match-preview-como-1907-cagliari/"
    }
   ]
  },
@@ -361,62 +366,83 @@
   "milan": [
    {
     "d": "2026-11-22",
-    "h": "09:38",
+    "h": "17:29",
+    "t": "Milan-Frosinone, Alvini \"spiega\" la sua scelta di formazione a DAZN",
+    "s": "DAZN",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjhVZ25xVGRrczFMYjVycTZ3aUNFLWh3UlVIdkZsU0g5d21tSlNqNUdoc0gwb0RwMUhjYklZQVJOTkUtMVVMbTdRcnRYdHM0ZldEWXVkNEhISzNRX3hzYUx4dTBiRmJDSUdJbV9RVFQzUzZiRXBHRDQ4SU54S2FpcFBja2JEUk5KY0ZDeUQzT2lBMlhRQzRfY0lZZVFVS3lFOG56T2hjYk01RjRsMUgtX1BkUWNtUQ?oc=5"
+   },
+   {
+    "d": "2026-11-22",
+    "h": "17:17",
+    "t": "⚽🔴 LIVE Milan-Frosinone, serie A calcio: cronaca e risultato in diretta TV streaming 🛑 Notizie dell'ultim'ora 📆",
+    "s": "musicletter",
+    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmp0Y3VHSnVzaXNCbkp4YnBxSi1HN1VZRE80T1J0WVdHLW03bUlMNkx6djNXSHFrcEYxLXpZWVFnS1A1RkF1WDIyTGpGVEN1UllvTDlHUHJhTWlMZWpBOVlYaTFQaU9iUmxGTEZKWE1pUEFRTWJGem91dXBlNU1FVnN5MmhuaDVNd1IwV0s1YWlnazRIaXhCeEZyNnZOamtUalpOekhTR0x1TmVJaDZla2FsNkxCTDlTYW9VMVlvVVYxdENGRDh4bGxvTUVpRGlnb1ZWWFRKRlp6Nzdi?oc=5"
+   },
+   {
+    "d": "2026-11-22",
+    "h": "16:54",
+    "t": "Milan-Frosinone, le probabili formazioni della partita di serie A",
+    "s": "Sky Sport",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNajRDbFhPM2RQb0Y4Qm9La3A4WXE3R21KeGprUl9ncEZKajRTS3Y2dGVvb1JFOGhaUk9HU0xUYW0wRmNpd1dpakFILWphRkZ4RURudmNad2EzSmZPakl2aUYtekFVYm9Vc2tvdm13MnUtTUlDMzNlU20yQWVDWG1xWHd3YVE5c0Y3RGFQYTZCWTBmcHQ3MDQxNXlSZw?oc=5"
+   },
+   {
+    "d": "2026-11-22",
+    "h": "16:54",
+    "t": "Milan Frosinone in tv e streaming: dove vedere la partita",
+    "s": "Sky Sport",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaWJYZE9rMGdaTTcwaHVrZDRaMldMQXNYeVpxLTlVcEhEeE5wWEJ2ZlVCclBQd1Y0aGZpN0FubHZpejBWUzFKRWxENlVLdDdqd1dXSUNlVHpNTjB5MjB3RC1OTVcyZkhqcmZkNHZuRGVDYUJxSWFuYlZKTE1IdFJzUUVKUnFRNmNGdmNZcFU2NE8?oc=5"
+   },
+   {
+    "d": "2026-11-22",
+    "h": "16:50",
+    "t": "Milan-Frosinone, le formazioni ufficiali: fuori Birligea! La scelta su Cisse, Pavlovic e il ruolo di Rabiot",
+    "s": "SOS Fanta",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVlOUi1BRXJyWmpacmVDSW1BeGNYZUg2TW41a1dvTUFBRGlnNG5zbGpFQmRrSnJZMEtqSFZHMmdiajh1SG1lbFlJS211bGJpRExPOVExeGJ0aU82R0x4NVZZWlRyS0hmSWJ0UWpUX2tiMWhwaXc4djVaU2Y0UU9mR1c5N0ktdjd10gGOAUFVX3lxTFA3Q1htMVVSTnhKdmdWNF9tMHNLbVE3TGNaXzlNVDQ4eU9PY3Bod1g3N19ybWVYNEgxQ2UxOUp2dUtxaVlncVVNcWxiRXh4a0EyLXdKdDVVNVNmNjdDUTY1LXFaNjhBeGJKVjBlb0lpSVZyVjZmQnoxdnFaMTVvVHZYWUpxQldHTGNPNkdTRVE?oc=5"
+   },
+   {
+    "d": "2026-11-22",
+    "h": "16:30",
     "t": "Guarda Milan contro Frosinone in diretta oggi: chi trasmette la partita in TV e in live streaming?",
     "s": "Goal.com",
     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQXp4a1ViemR6c09tRWh1b0hyTGJGS25QeV8wWld1LUJmTlB5LTU5Q2lIRl9hR2FXdDYwMkFiXzVYWDRCWE5IQ2ZuTV9pTmtMSlpkMkxicnkzdTFCX0ZaVmFad09VUkY3OVRpTENydFJ3ODdLbHNrcF9MeTVjODc1c1VEdHlhaVlMcGlWYlhpUWlGM0dPQUNQYzFkbzlqcXJfQ2FNcXI2bFl6UEJvQVloSHUzcUltaEVhVFJXNF9EZFNtaVdHQ1FmZkdhQTI0dnJOZUtaOEQ3QTBaQ1g1c3FIb2t3?oc=5"
    },
    {
     "d": "2026-11-22",
-    "h": "09:03",
-    "t": "Milan-Frosinone, la probabile formazione di Amorim",
-    "s": "Corriere dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRTBDVkliZEN5cDhxV0o3UkgtcUV0Sm1fN1R0LXhPY3NYNTNuT2kzTmJJX2pZYTMwcGtEcTlWdUZfRHJVejJzY0V5TU1UZnAwOUxYMnE2NXdzRlA0TTMweW9lX0xpcUZDN1JYbFZ2eTBjZDREWG0wSjZrYjZaTFVwdWVVWWxSS3BlZzRaMnhjVG04b0NndlFTS3UzWHFxU2d3ZmpKT00xNjJLMmtRSFg5aGdNdEtFcXd5ck9wT1RaaDAxdTZ5cUVPMW930gHMAUFVX3lxTE9iVmg2UWw2blRxbDlZUVoyZlpIYS15dDNPMEhYRFdwUDMxQi1uQU5ONVMyWDIwYkhweFpWMTIzSXFsU3BFME0zcHJOUmczNUNzQnBHbklMeTZHaWs2ckpFRGMwcWtYNlhZYm1sSmRGbzFsRHI3ZFRQOXA0cTc1a1hGZ05nc2dKeXNoMG50N0VGSmdiTERUUlJ1alFzMUhuZ3BfWTRaRnlGV3BTVUpxYTVId3FhN2lkWHlnTjdaMU9VbVJKQ1hEeExySy0tdQ?oc=5"
+    "h": "16:30",
+    "t": "Formazioni ufficiali Milan-Frosinone: le scelte di Amorim e Alvini",
+    "s": "CalcioNapoli24",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcy1VY2trcUtRYzluV2xNN2dFdExTbGJ4Q21ZLThvWkYyY1N1OTlUb2NuTkZTMEtEaWpfZ09tZ3BRUGE3UVF3V25pV1dkWWpqcEJUelJlVlROanZFZWNBeGtUUmlvQ3g1alZ6S2tJSnR2TUlLNGdjTzhkY1ZuVzZ5MF9vc2ZDYTJzRVhrZ1NZZ2hiM1NGOXQzUXdCd0JNb3hzUF9naU01Yld0VnB0Z2pyZUJUUTRra3M?oc=5"
    },
    {
     "d": "2026-11-22",
-    "h": "09:00",
-    "t": "A san siro alle 18. Amorim prepara un Milan da sprint. Il Frosinone, l’Europa poi il mercato",
-    "s": "QS Quotidiano Sportivo",
-    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01WDVMazVzd1Z3WlBxOHBkdkMyV00temM4eEtfM0dFeHpWdmZnUF9XcHBoRUNKc3NWdXRNSFFPY2ZIbjFSYzd3cE5GelhEZTRwUEgyU1BFRE50bWg1ZVhEZ3g5SC1PS1JtOXNJUEhzXzVnaWQ4VktZSQ?oc=5"
-   },
-   {
-    "d": "2026-11-22",
-    "h": "08:48",
-    "t": "⚽🔴 Milan-Frosinone: formazioni, cronaca e risultato in diretta live streaming calcio serie A 🛑 Notizie dell'ultim'ora 📆",
-    "s": "musicletter",
-    "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ2ZHT01IYTlFTUFJdVR2Tm1JVUpnWU1aXzAxa2tDQ0V1N0VYR2dFc0NnR3h5LTJ5QkdaWWQzVWFGTV9ZRjc2RWtKX3lDWFJMdUpEWkFlTkN4Q1BZMFZ3Mm1NSHhXNjM2VTRfV0RHc1RWTEV4LVUxOXdTSHhKc1VxclNKel9aWnh0cDkwN2dISGU1WXA3Ym5VMnRiRGl5QWRFMk9zVjZIeDlTMGxZdXFOWWtxeXdNRm1PTUJJelJ3YmFZRGttQzhoN2w1LXhEanpsLWRwNmUweTYzSFctanRwS01mX2MxbFk?oc=5"
-   },
-   {
-    "d": "2026-11-22",
-    "h": "08:16",
-    "t": "Dove vedere Milan-Frosinone oggi 22 novembre: orario, canali TV e streaming",
-    "s": "CronacaPop",
-    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWtHWFE4bjhLSGpYazItWWtUemIwZ09EQWlzbXY5MjdSallLS05oQUZWc29EdzlrZmctay1TZnZVRE5UaFJvcDNpLTZsOHEwSHlMS0YtRmtIT29DT1pfaHl4Yng2YzJZb3l1QndVVXlUei1pS0ZwMWNDdm5tdHNjR3VPOTRBTnViSHo4bzNOVmN5WXRnLUFXWWZOSUY1Zw?oc=5"
-   },
-   {
-    "d": "2026-11-22",
-    "h": "07:59",
-    "t": "Milan-van Dijk complicato. Inter, idea Mendy a una condizione",
-    "s": "Eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQcUozcURQZEVZQ3dpQkJ0SWVtTlJPaEh1blM1RlN0OEtaTzM5cS1kOWthRENFc1luaHBsUjZuS1FDZUpNb0NpVHRKWFl1VjkzZXhKanBrbWtNZU5yZHliYzVZX2U0TXhqRUVoMzBNX3Fsc282UzJ6MlAtQjRYcHRnMm92Wnh5VGVEUG5ocWhPekdsVnJ6SGdXRkVrTTNsdFozdjBETFFnVlp1RkRHZXF3QndEdU5DWjREb05FTlRBQW85UllHaFY5LUVUblJDVVdDRERZZHlIYnpWN24tbXBkWmF0Mk9QMUpkTk1YdnJuWTg3Q2pJd3k3eHdqTXljZGtBeEJLLUVyTVU4NHpRcmtZeXpzMy1IR1ZMMmFVOWh6eThOeUt1UFg0dDYwUHd2a28?oc=5"
-   },
-   {
-    "d": "2026-11-22",
-    "h": "05:58",
-    "t": "Milan-Frosinone, Sky, Dazn o NOW? Dove vederla in streaming e in tv",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWmJxNXBiTGlkMXl3SEJMc2ZpUV84aDN2Z014cjNTMGlGVVEtMzkxTFdsbm9CbUNwdGYyVmxVeldBMUI5WXc3RTJGRUZ4czdnd3czNzJyTUJzNllvNWJrVXc2aUlwOGxERmVfcW1ad2R0SzlZcFdCSXhiMUN3c3l5LW9nVGZqZmtBNTgwaW9JV29VV3dPVzI0U2Y2QmIwV3pfWTlIV05NTjBSVTJSNlRWWEZOanVwQ0FoTVNXTnVyVHFSVHlqVThiWXh30gHKAUFVX3lxTE1aYnE1cGJMaWQxeXdIQkxzZmlRXzhoM3ZnTXhyM1MwaUZVUS0zOTFMV2xub0JtQ3B0ZjJWbFV6V0ExQjlZdzdFMkZFRnhzN2d3dzM3MnJNQnM2WW81YmtVdzZpSXA4bERGZV9xbVp3ZHRLOVlwV0JJeGIxQ3dzeXktb2dUZmpma0E1ODBpb0lXb1VXd09XMjRTZjZCYjBXel9ZOUhXTk1OMFJVMlI2VFZYRk5qdXBDQWhNU1dOdXJUcVJUeWpVOGJZeHc?oc=5"
-   },
-   {
-    "d": "2026-11-21",
-    "h": "18:26",
-    "t": "Milan-Frosinone, le probabili formazioni della partita di serie A",
-    "s": "Sky Sport",
-    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNajRDbFhPM2RQb0Y4Qm9La3A4WXE3R21KeGprUl9ncEZKajRTS3Y2dGVvb1JFOGhaUk9HU0xUYW0wRmNpd1dpakFILWphRkZ4RURudmNad2EzSmZPakl2aUYtekFVYm9Vc2tvdm13MnUtTUlDMzNlU20yQWVDWG1xWHd3YVE5c0Y3RGFQYTZCWTBmcHQ3MDQxNXlSZw?oc=5"
+    "h": "16:00",
+    "t": "Milan-Frosinone: dove vedere la partita in tv e streaming | Serie A 2026/27",
+    "s": "Vu Nere Bologna",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaUhVLUZxVS14MG9qSVh6Zk5tQlFUbEpGeFFSZWZaSTQ0UENaMldJNDBtT0Z0RUVvaGZPa183THVGcGVHVnVhVkdZNkJodjVyRzVtTzlCR3ZkR0dKSjhzT1ZUNVBqU3lWVVV1WkgxRVNibXI5NDZUUDNQa3MxWDR3M3pqa1UtRE5sRHYxVTBMYi1Ibk1JbXg1YW1fdFc3SDhuRWhuSFdLbW5Fa2lzZTVMTUpIaERJS2NRZVRQYUp3SUtqZFlT?oc=5"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-11-22",
+    "h": "16:30",
+    "t": "LBA Round 9: Longobardi Scafati – Acqua S.Bernardo Cantù",
+    "s": "Sportando",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMEc5MkNQZlZONjN1ckpYbEkyM05DanBfWFNfU0k5RWhvbnpjWTRTYVNZMEVuRTlMbWlReUhMeGd6T1UwSW40X2Vuc0hGd1RrS0QwS3JjUXRJWUlKVFdpRjEyUDc4Um0xQ0pjTW5wOF9uWnhudnRjelBTZUVRVDNKZnFoV1JzbXE5bksw?oc=5"
+   },
+   {
+    "d": "2026-11-22",
+    "h": "14:30",
+    "t": "Scafati Basket-Pallacanestro Cantù: dove vedere la partita in tv e streaming | LBA Serie A 2026/27",
+    "s": "Vu Nere Bologna",
+    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR2lhbjQzWW9ybDdvS2U0TTlGQjROdS1oUWhOV1JPMDdNcW41LUNxRlQ5RU1kZld4bDZxcmgzRnJOQ0d2dVhFMExLN2VSVXVKQXNuSkt0dThKWDVEbURQRVU3bk10OExDa2htNzZGWDNsWnd5UnZMVi02VHFqMGFzdDdqUU1OYXp1Uy1BNVltYUc3cHh6YmVBRmRPSWN0OUpMUDNzd1dmUklNS3JfVGRDUUw2MmU4a2J2ZGFVQTdEUFVmc3hha3hYdHROTkVoWU1qWllIX0ZZbXdsdFVFNWdnX3VB?oc=5"
+   },
+   {
+    "d": "2026-11-22",
+    "h": "10:44",
+    "t": "Cantù, Mike Smith pronto all'esordio contro Scafati. Chad Brown in forte dubbio, le ultime",
+    "s": "Pianeta Basket",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRFMxN2owU2k2SXBlejUxTjZSRWwtYXFHNGxoUjZHTExNcTluVHNObTFzQXhielZ0N1I4Q2c0ZEVMRGwxckdfLWd4bU1fN256aERaWGdiWEN4OWtaWU9mbHVzYTE1d0o5aFhZWFhMd1daekdpaVY3UTdoY3RPeHVjTl96bUdtazNfXzZybnZXblA4bFV4Y293cmo1c0xSd3d0SVRCRGNvLVpSNmxvVEFjd2FHWVRNVmhDWnNsdEtCdlBjNGUtektmR3FPcW1jeG9H?oc=5"
+   },
    {
     "d": "2026-11-21",
     "h": "13:19",
@@ -429,7 +455,7 @@
     "h": "12:39",
     "t": "Basket, Scafati-Cantù primo crocevia per la salvezza",
     "s": "StileTV",
-    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUW1sUjM2eXl5cC1rbTU5WVZFWTNJaGFpRk1BU0dLek9rb1l6eW4zTDJ3YnprNzVhemR6WlZXbEZyYnRFbElneWxlRDloaHNJclZfSzY1THByREVtd2RtTUNKOFk2cWx0dnhRY0MxV1h2dTRreXpsY0JBNGZPUy16enhNMGNiVUx2Mkc0cHNQS1VzVHhDM2lWeA?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFNMcXpFODFfcy1pTW1pajhWMWNlV0JUODZRejdoUjBaX1ltZEJWSF9nTDlFMTZqaHJQMnF3Ykt6Y2daTWZmSGNGWFRTYVcwbW5fR2NwZ3FkbVRZUVdQOWFPMmc0MWxvSFF3eUx2aWwxQVh2TGNscUZOcW5ua2N3NUtsNWw3amVoZU40Y2hXcExiOHkxbU96QXRyYXhjUQ?oc=5"
    },
    {
     "d": "2026-11-21",
@@ -451,30 +477,37 @@
     "t": "Al PalaMangano in scena il primo scontro salvezza: la Longobardi Scafati affronta la San Bernardo Cantù",
     "s": "Pianeta Basket",
     "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONFdLemZLZVVlTWFseW9IcGQyVjFMZ1BubDMzMzFrRjdjbGRHTHdkNFRBaWh6TVBuRk96ZlRpMHlIaEZORW83dFJzemdnN2dRTDVOY0I1UEdoTF91bUF4VTV5YjdYLWY5bWxWQ3prZnc1cWUtR1RCYTk5SjNWdk02Tm1RZUwyT2FKR1JkdkZGVlRhcVFRZDRoeDZHUHZtc3pKWUNPajg1UzgwdWFTSkhTNkYtRjQzTVpQSENMLWNWRVlXNkFFUTdYMHhLT2EtRzBMUmhURjhnNHhHZXhJb2NDYTU0SExFZw?oc=5"
-   },
-   {
-    "d": "2026-11-21",
-    "h": "08:15",
-    "t": "Sorpresa Cantù: ecco il play Mike Smith",
-    "s": "La Provincia di Como",
-    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX2pmc2NPaWRrZ1dXVHZYSDZjU3BQbEFTT0pPRXU4bEFEeEp5bTFjcWRxMzctLWhMX0JZS3Btc2dSMXlRTWtPc0NsY3RUa2RBaFBiTU9iNlduUGJJSHpUZGlhazBZU2M5ZEZiQjdwY2NQOUQ0NEp1SmtpZzRXN3kxV0ctM1h5MVZBMzZHNmNKSVdZenZMbnlDLTRwT292bU5pZnpKSktkOVh6YmM?oc=5"
-   },
-   {
-    "d": "2026-11-21",
-    "h": "07:22",
-    "t": "Miracolo di Cantù prima della gara-verità di Scafati: tesserato il nuovo play, Smith in campo domenica pomeriggio",
-    "s": "CiaoComo",
-    "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZmphWldrUUNXOTJ1QzI3dVltZkVhRDQ4M2h3ek5xSkpWU1JIYkZxbk5hS01KcDZ3OXV1VzFVNmpEYUFnaXZub21maExSMjV3NGs3TjQ0aWwzcUFrVWhiVlRrVGg0cGRndUViWjdDWGtwOVc1d1VFcUhzeDlXdDZsQndHQnc2cUZKX0dWRTZxRWI3ZkRRMlpNOTJTZzRkMWxOaXc4ZTNDTmExWXJ6bmo5UVdEZDdnZUZXUklmZTYwY3RUYWNURFM2SGNfNGh5dDBfUENnRDRjS01fNWpldjR4YWNLYnBsanJ0N0E?oc=5"
-   },
-   {
-    "d": "2026-11-20",
-    "h": "17:25",
-    "t": "Cantù a Scafati. Vitucci senza mezzi termini \"Dobbiamo assolutamente vincere\"",
-    "s": "Pianeta Basket",
-    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdTR4OHJFdjFpY25EYmdVU0paVmN0LXpqNXNEUUVPQVAyXzBBOGw2c2YyLXNvMDRTTS1uWEx2NzRpcGZuOGhQcUE1V0pES0lBd0t3R00zUzNINWRocjRWYUdRUE1MaTlkaDFmWDlCdHk2S2JzSVI2VGpjcXBIeWI4WmlEVHN2ZzVnTGpORVB2YmN0M2tUOWZHLUx5V3dEUG9WcXZyWl90T2pTR243dVM1dEpvdEJqY2R3OU1GVlJabXE?oc=5"
    }
   ],
   "como": [
+   {
+    "d": "2026-11-22",
+    "h": "17:33",
+    "t": "Como 1907, Mazzantini: \"Il gol dopo la ripresa ci ha penalizzato\"",
+    "s": "Firenze Viola",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGxnMDVDSVpFZGFwNkxGSUtnS0RTMkMxZzBUbUV6RmdQalkzSDB0UVBiZ0R6Mi01MVI0OUtzRDRSUHFacEFoQmVKSEd0ajV3YkM3U0R0Z2dvUnlWZ0htQmxscS1NZXktZVRIZUFCNDEwcmlrUjdsVXdyc2JmMWFLamRVY2FLRU9FTlBrU2d2MU55Vkc5b3R6cDln?oc=5"
+   },
+   {
+    "d": "2026-11-22",
+    "h": "12:40",
+    "t": "Serie A 2026/2027-ACF Fiorentina - Como 1907 (8a g.) su RaiDue",
+    "s": "Quotidiano Nazionale",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDJpdENvVS1nbFVUM3IxOG9RemlWT1k4dFRZakZkeUJINXo5UXNESXJRdF83WGgyck9wQ3A3b1c0NEgwQUJqNkxMMFY0bGVRNldWLWU3VldseEk3NDBJTTFXZ2RpVkJFaDR4MTMyQ0YtSkw1VjBzZHJsMy15cXJXX29LVjlQTnc4Wkt6ejVieS1fTG8xVkdHSWl6a1Jqc0VOeGFpQlpPbw?oc=5"
+   },
+   {
+    "d": "2026-11-22",
+    "h": "11:35",
+    "t": "Calcio, il Como batte il Cagliari: un gol per tempo",
+    "s": "Report Sardegna 24",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVmM1cVdqRm5PbXpnTW5oQ3ZqOXdFMHBCR19GMy1zVDZCakRYOS1GTVpuUUI1Z0Z1RGZfWXM1bmRjYlloU0VJemFrMDQ0N0RxaVJ6azN5THBkTzVIZkFvYklaQmtMWUEzZVE4bTdrTEc5NXM1b1IzQnM4WHNwYjBqQXlSZlBzQkJ1R3c?oc=5"
+   },
+   {
+    "d": "2026-11-22",
+    "h": "09:50",
+    "t": "Il Teatro Sociale di Como trasforma la platea in campo da calcio per il Fairplay Day",
+    "s": "Il Corriere di Como",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXRzbno4NmJTaVNJVUlnajhzOXlaa00zOW5oQmdMZkx2X2VkTjZNNmVMRlhxY2VvVHBnWlRiNlBGWWhzeU1vZzRrcE1sV3FQLU1LdHplS09paVl4cW1oemRqWThLLTQ3aklsNzRFZkRiYjAtcXNLVnVTRGloeGY1WkhfNEhTUWFrQTUtTEtxVFZJRTg0OElBVjlXYlREenUwejg0Yw?oc=5"
+   },
    {
     "d": "2026-11-22",
     "h": "09:24",
@@ -502,34 +535,6 @@
     "t": "Lombardia - Juniores Provinciali U19 Como - Girone A - Giornata 10 - Albate HF Calcio vs Tavernola",
     "s": "Tuttocampo",
     "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14RllOajlPa1o4UGwzeFNNelhIUENjTDA2bVR5SFRTcnhHeDVnQ0xpM2FXaTBKbmZwVnVaLXNOZW43RkFVcXBZRjM0b1lpMG5wZ0xrMk5laWdoeHZ0RUE?oc=5"
-   },
-   {
-    "d": "2026-11-21",
-    "h": "19:04",
-    "t": "Como-Cagliari 2-0: Ramón e Da Cunha di testa, la squadra di Fàbregas torna a vincere",
-    "s": "Lifestyleblog.it",
-    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkNITVQxRUxoRkNPOEZlWThya1c2WGhRYmpWLUc3dThaZ3NpYTYzQ3RUUWllUHJvTUhnZGFSYUNxMEZHUElGaHNYWS1nTzlsdEIyT1RGbnFJN3JuRGx0azdDaFo0dXJINGdneG53RkhaNlhYM0NUUFd3T21xRnl3dA?oc=5"
-   },
-   {
-    "d": "2026-11-21",
-    "h": "18:41",
-    "t": "Calcio: Como-Cagliari 2-0",
-    "s": "L'Adige",
-    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5THBYUlZhb0ptM1dpS1dqRTBHQVlDT3RJQmd2RDNOTnhBQUZzUU5tYUgyZ3dmNUNBSkJDR0wxSXdPSDY0UVFFS3czb1QtUEIwclBOOVVsVjhpaFlBU1FQNWZfTE9fZHo1TnhrSA?oc=5"
-   },
-   {
-    "d": "2026-11-21",
-    "h": "18:29",
-    "t": "Como-Cagliari, al Sinigaglia per ripartire: Fabregas cerca riscatto dopo il ko con l'Inter",
-    "s": "QuiComo",
-    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTDZBaVZYMV8yUGNucU11TldmY1FKQ0YwMUV6STdOOU9rQnlPTTRzUWlpc2lCUk5rTjRWV1dGUExwdUVtb1FIWkJCZi1rQTlmMjBha1htX3BMeXRtV0drczVwQW5XNGNMdzdvcFBVTkNaMGNmTWREYnlYWDkwYzlNM2tBckZYTnVCX3pXYW16RUVjYlhMLUI0cw?oc=5"
-   },
-   {
-    "d": "2026-11-21",
-    "h": "18:25",
-    "t": "Como 1907-Cagliari 2-0 | Match Report",
-    "s": "Como 1907",
-    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HejFqbFdpVkdSQWR1WEpfRDExWlBCZm1fWUltNnNQc1hOUl9fSDVtX2ZkQ2tnVFlnOGJ4Sk1EQlVob0tZUEdNX2xOc1k0UXQ3NEJlVGVrVW5MaHVrajZYS2JIMjVkWm9jWS1hTmRB?oc=5"
    }
   ]
  },
@@ -865,13 +870,13 @@
    "2": 34
   },
   "2026-11-22|Milan – Frosinone": {
-   "1": 58,
-   "X": 22,
+   "1": 57,
+   "X": 23,
    "2": 20
   },
   "2026-11-24|Como – AEK Atene": {
-   "1": 72,
-   "X": 17,
+   "1": 73,
+   "X": 16,
    "2": 11
   },
   "2026-11-29|Como – Juventus": {
@@ -1004,34 +1009,39 @@
    ]
   },
   "milan": {
-   "match": "Genoa – Milan",
-   "date": "2026-11-08",
-   "comp": "Serie A calcio · 11ª giornata",
-   "formation": "3-4-2-1",
-   "score": "1-2",
+   "match": "Milan – Frosinone",
+   "date": "2026-11-22",
+   "comp": "Serie A calcio · 12ª giornata",
+   "formation": "4-4-1-1",
+   "score": "",
    "lines": [
     [
      {
       "n": "M. Maignan",
       "j": "16",
-      "out": false
+      "out": true
      }
     ],
     [
+     {
+      "n": "D. Bartesaghi",
+      "j": "33",
+      "out": true
+     },
      {
       "n": "S. Diawara",
       "j": "13",
       "out": true
      },
      {
-      "n": "K. De Winter",
-      "j": "5",
-      "out": false
-     },
-     {
       "n": "M. Gila",
       "j": "34",
-      "out": false
+      "out": true
+     },
+     {
+      "n": "K. De Winter",
+      "j": "5",
+      "out": true
      }
     ],
     [
@@ -1043,87 +1053,90 @@
      {
       "n": "A. Rabiot",
       "j": "12",
-      "out": false
+      "out": true
      },
      {
       "n": "L. Modric",
       "j": "14",
-      "out": false
+      "out": true
      },
      {
       "n": "D. Moreira",
       "j": "22",
-      "out": false
+      "out": true
      }
     ],
     [
      {
       "n": "G. Ramos",
       "j": "9",
-      "out": false
-     },
-     {
-      "n": "C. Pulisic",
-      "j": "11",
       "out": true
      }
     ],
     [
      {
-      "n": "A. Cissè",
-      "j": "70",
+      "n": "C. Pulisic",
+      "j": "11",
       "out": true
      }
     ]
    ],
    "subs": [
     {
-     "n": "O. Hutchinson",
-     "j": "20",
-     "out": false
+     "n": "S. Pavlovic",
+     "j": "31",
+     "out": true
     },
     {
-     "n": "P. Estupiñán",
-     "j": "2",
-     "out": false
+     "n": "M. Pittarella",
+     "j": "37",
+     "out": true
+    },
+    {
+     "n": "L. Torriani",
+     "j": "96",
+     "out": true
+    },
+    {
+     "n": "F. Camarda",
+     "j": "73",
+     "out": true
     },
     {
      "n": "A. Jashari",
      "j": "30",
-     "out": false
+     "out": true
+    },
+    {
+     "n": "O. Hutchinson",
+     "j": "20",
+     "out": true
     },
     {
      "n": "F. Terracciano",
      "j": "42",
-     "out": false
+     "out": true
+    },
+    {
+     "n": "P. Estupiñán",
+     "j": "2",
+     "out": true
+    },
+    {
+     "n": "C. Comotto",
+     "j": "28",
+     "out": true
+    },
+    {
+     "n": "A. Cissè",
+     "j": "70",
+     "out": true
     }
    ],
-   "goals": [
-    {
-     "n": "Alphadjo Cissè",
-     "min": "13'",
-     "mine": true,
-     "og": false,
-     "pen": false
-    },
-    {
-     "n": "Christian Pulisic",
-     "min": "19'",
-     "mine": true,
-     "og": false,
-     "pen": false
-    },
-    {
-     "n": "Mikael Ellertsson",
-     "min": "88'",
-     "mine": false,
-     "og": false,
-     "pen": false
-    }
-   ]
+   "goals": []
   }
  },
- "updated": "2026-11-22T08:51:06+00:00",
+ "updated": "2026-11-22T16:43:48+00:00",
  "log": [
   "non finita Milan – Frosinone STATUS_SCHEDULED",
   "classifica milan 5 24",
@@ -1131,7 +1144,7 @@
   "classifica milan_eu 28 3",
   "classifica como_eu 4 9",
   "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 8, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
-  "notizie milan 2",
+  "notizie milan 3",
   "notizie cantu 3",
   "notizie como 2",
   "stampa milan 8",
@@ -1142,7 +1155,7 @@
   "ERR logo cantu HTTP Error 403: Forbidden",
   "loghi ['cantu', 'como', 'milan']",
   "formazione como Como – Cagliari 4-2-3-1",
-  "formazione milan Genoa – Milan 3-4-2-1",
+  "formazione milan Milan – Frosinone 4-4-1-1",
   "quote 5"
  ]
 }
