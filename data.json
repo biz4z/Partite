@@ -81,11 +81,11 @@
   "cantu": {
    "pos": 16,
    "pts": 0,
-   "g": 8,
+   "g": 9,
    "up": {
     "n": "Scafati",
     "pos": 15,
-    "pts": 2
+    "pts": 4
    },
    "dn": null
   }
@@ -153,7 +153,7 @@
     "time": "17:30",
     "home": "Scafati",
     "away": "Cantù",
-    "score": ""
+    "score": "83-67"
    },
    {
     "date": "2026-12-06",
@@ -306,17 +306,22 @@
   "standing": {
    "pos": 16,
    "pts": 0,
-   "g": 8,
+   "g": 9,
    "up": {
     "n": "Scafati",
     "pos": 15,
-    "pts": 2
+    "pts": 4
    },
    "dn": null
   }
  },
  "news": {
   "milan": [
+   {
+    "d": "2026-11-23",
+    "t": "AC Milan-Frosinone 5-1, Serie A Enilive 2026/2027: Christian Pulisic MVP | AC Milan",
+    "u": "https://www.acmilan.com/it/news/articoli/awards/2026-11-23/pulisic-mvp-di-milan-frosinone"
+   },
    {
     "d": "2026-11-22",
     "t": "AC Milan-Frosinone 5-1, Serie A Enilive 2026/2027: la cronaca | AC Milan",
@@ -326,11 +331,6 @@
     "d": "2026-11-22",
     "t": "AC Milan-Frosinone, Serie A Enilive 2026/2027: statistiche, classifica, arbitro e squalificati | AC Milan",
     "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-11-22/milan-frosinone-match-preview"
-   },
-   {
-    "d": "2026-11-21",
-    "t": "AC Milan-Frosinone, Serie A Enilive 2026/2027: la conferenza stampa della vigilia di Rúben Amorim | AC Milan",
-    "u": "https://www.acmilan.com/it/news/articoli/conferenza-stampa/2026-11-21/amorim-siamo-pronti-possiamo-fare-di-piu"
    }
   ],
   "cantu": [
@@ -361,121 +361,142 @@
  "press": {
   "milan": [
    {
-    "d": "2026-11-22",
-    "h": "23:17",
-    "t": "⚽🔴 LIVE Milan-Frosinone, serie A calcio: cronaca e risultato in diretta TV streaming 🛑 Notizie dell'ultim'ora 📆",
-    "s": "musicletter",
-    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmp0Y3VHSnVzaXNCbkp4YnBxSi1HN1VZRE80T1J0WVdHLW03bUlMNkx6djNXSHFrcEYxLXpZWVFnS1A1RkF1WDIyTGpGVEN1UllvTDlHUHJhTWlMZWpBOVlYaTFQaU9iUmxGTEZKWE1pUEFRTWJGem91dXBlNU1FVnN5MmhuaDVNd1IwV0s1YWlnazRIaXhCeEZyNnZOamtUalpOekhTR0x1TmVJaDZla2FsNkxCTDlTYW9VMVlvVVYxdENGRDh4bGxvTUVpRGlnb1ZWWFRKRlp6Nzdi?oc=5"
+    "d": "2026-11-23",
+    "h": "11:22",
+    "t": "Milan, Di Canio al Club: “Squadra seria e Moreira vale quattro Leao”",
+    "s": "Sky Sport",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0ta0ZYTzRpVnhjZzVpMklURUo2QXVETElvdGZqMFBXSmxiTnpLNHQ0cE1MX2d5SWFwdkh0RmpZakFoRUo5TnFGNXV2OVY0UXdYSVVzU1VJeDZtUHRXTXNPbC1Za3R3NGZCSWJ5aHVhNl9DeE4tUEhHOXp5M2djbHM?oc=5"
    },
    {
-    "d": "2026-11-22",
-    "h": "23:06",
-    "t": "Sinfonia rossonera! Il Milan travolge il Frosinone 5-1 e torna al quarto posto",
-    "s": "Eurosport.it",
-    "u": "https://news.google.com/rss/articles/CBMingJBVV95cUxNWkpGWlhzNWZQRjBxd01SeEU5RC1NdUIyWk9BWWJyNGxXZ1ZqQUJ2VVQyT2VFODZHV2FYVFZzVTRPRFRDZXdfd1dKVlBIWWhVYWhHanJJNm5ZNEpSeUtYVndMOHdRYXlfWDFkWTlwSWFWM2tENGsyWFFQekVxcnlKZVBuaFo3LUFtcFlJOHRFQTZacDZPbVlBb3NndFZOWURQb0owUHYzWHJGSTlINnkyamVYUDFFMzZaeTVSRmtnNjZrX29OMFAyeElrV0xVcnhvcEJjRElVbWswVWVBWWxhN1pwd2o1WWwzZnpZYV9feHFWVUVlVWR6RjJoYnd6SC1HbzY1anN5NzdJN0E4S1ROTlN6QkFfSUpKNXRzdzRR?oc=5"
+    "d": "2026-11-23",
+    "h": "10:50",
+    "t": "Milan, il 5-1 al Frosinone lancia Amorim: media punti da record in Serie A",
+    "s": "DerbyDerbyDerby",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeGF3ek5VeHhycVkwVmd1Q3diQjhuZjN2alVXeDZKYUw2WndSVDliWVNqa0tOS1JYQ2tLemZIN0xGeXZ5eUlmbTFnc3EySEo5ajNaeDRObHNvTjVlb2pyUlozZHVHeTc1RGQzdVFEVEQyeHM2UFhXa1U4MjVObC1VWkdTaVdSTDNSYkhBSG91eUQ3WEhJclpBeFpiTHV0VW5SY2FfUzZTV1ZVbmFhQlNZMV9BMU5PLXphcHFuWFF2TlZzS2dkazdn0gHMAUFVX3lxTE1ONnp0V2JERmRRT2VKbkNibzdwcWRzbmhwU3JTYk1iMC1kV0NKbXBlaWFJX0NWTzZkclU4YVBOQTJZVEpxd3hCNE5pdU9NaC1ZcElRaGFPdGlVM1VTalBvcFZDX1lOdlRSTFY5MENjbE5hTHR6OUF6UlFxcExscEhvcjU4SGlWOU1BQnhlcXY4UkJQYkhoaE1HQmNtX3p1aXpwQUdtOFlhTXBpb2QxMEthTEwtNGt3MUpxV1J6MXFkV1BraFhvVXBJVUpPRQ?oc=5"
    },
    {
-    "d": "2026-11-22",
-    "h": "22:59",
-    "t": "Lazio capolista, l'Inter pareggia a Bergamo. Juve e Milan in ripresa",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWmxFQWxxeFVlYXVtUkRiQkItUG0xLWF5bGplbXgtaklfMGQzTTNPSDd5SzVrUHYxQ3UzYm1USjRMVWtpZ3YxSmZtd1BjYWU4OGlhZl9DcUl2OTNsVV9VaVNGMmNFOXEzSmlwWlRXQnhIRXNhMVNmOExPemdRbFpRQktwMmFHdU5xSF92blMyNjVJT3FFZXVYOWJUaTktd3FlLWdiSEcyM1Zyd3dYWDk3UTlyUTZQTFVZaTJndVRENkFVd1JZSkFWOGhZd3NWN1k5d2ZNQVhiQW5fdnR4ZUVlZ2xka2JiUUhMSHN6SHZDOVhaMFJSY1RuWdIB_gFBVV95cUxNbjJfeXN4cjBmXzhKMkt4Z0RMZlhpSDN6TTg3M1p5RU5xQUlfalIxa3IwQlAxc1B5eFB2QXllWEo0X0FUS0J0S19DN29QMlBZMHNZOEZHYjZubnRRQnBMb1FCQVhOVndfNHlodllGUXBPeHUtSXR3SV9wSlF3VHY1Q1ItR3ViS2g5OHpzZGFra29JeHdJQmplZVgyRHRJdU8tQ01pWURrSWRrZFFlN3lwUDdsa1R1YnZjRURiY0N0MlplZFZuT2lSc3owZ3F5QWRPS1N5YlpfNVVMblRxMmtmaHhPd2ZHZHk3bXNsR250X3J6czFxdFNJQ1o1RDN1Zw?oc=5"
-   },
-   {
-    "d": "2026-11-22",
-    "h": "22:50",
-    "t": "Serie A, Milan-Frosinone 5-1: Amorim si riprende il quarto posto",
+    "d": "2026-11-23",
+    "h": "10:39",
+    "t": "Di Canio: \"Moreira vale cinque Leao. Con lui, adesso, il Milan sarebbe a metà classifica\"",
     "s": "Sportmediaset",
-    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ2tYZWtSVUhfa0kxZDVhVXo1RmpwYlNHMWdQUVFTVHd6cHFwbURzeFQ5N3pxVUVqUXBNT2E2RExkMlM2WHYxTFc0R1lOeFBlZk0xdU4tQ194VnRKczRtdEU0OG9vS19TY1p0bk1GTmNSZGZncmx3cXMtamxxTTNEQVJ2cS1ScWdKSlM4Z01sNldHaUxPQTdJRGpTY1RkQkNwU2doRXU4Szh6dV8zR2MybHRpMFhmNmwwLXkzcy1WbGdoaTI0NmViTWp2UWxWaG1qZTM0QQ?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSVRiUjUzVmpPeEN0cW10NGN6OF91MUhHODNvY2s0VWxCRmlCOGwxWkdqeWNBY2pscUlOdGtKblpYX1VaNWZOeW41dURPeXFhOENCcEFrenVBMUZhSTlQRjkzcU1kUXNnbGRFZlFQZzhrZnIwcUVqcnFIOFhnWlJGMGhkLU9SQk5NcjIwam9nSHBpeEkwTk14ODRMWmpBc01oX2F0cDhteTJOWU1YajRZZDlDQTc1RDd2Y2swOHMyUUphYWZ6SG9kdHNSWlFaNWlDVHhxU0xWNDV5QjZWZERLTU15XzBfLUU?oc=5"
    },
    {
-    "d": "2026-11-22",
-    "h": "22:04",
-    "t": "Milan, si ferma Goncalo Ramos: infortunio contro il Frosinone",
-    "s": "S&H Magazine",
-    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSF91U0s2NkszT3pXS3VTYm5qbENhR01vc2xaRk93ekk5VTdrRC1yR0tDZ1JBdkRCcFlkblZhSnZtUVFpd0ZYbUVGLVdkZXduam5qT2p6Y3hPU1NtMXhIdGxKNVFEOURDcEhMTloySkxuQ25RSmxsek5HYk9WZF9TRHdPYVVXd0Q0bTU3OWpKSmFBdmU2SVpIdWV1MHdoQUpYZmNUQ0hyek0?oc=5"
+    "d": "2026-11-23",
+    "h": "10:35",
+    "t": "Il Milan che nessuno si aspettava: la sorpresa targata Amorim",
+    "s": "newsmondo.it",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3U0cUx5cVJtNW5BdHNDVVJtSGFEWGlZdjJGT3dUMXMzM2pZVm1CV2lCZkNKdjFFVExtZnJyY0J3NmZjenNEWUF3ZjV4MjdyOTZqYnpqQlFqaVUtVE53QzBYWEgxcTMwX3Rfak04REtfWjNwUFJFLUVBRl8tU01tcw?oc=5"
    },
    {
-    "d": "2026-11-22",
-    "h": "21:45",
-    "t": "Mendy preoccupa, Nzola scalda i motori per il Milan: indietro Kevin Carlos",
-    "s": "Calcio Casteddu",
-    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUTVtdWg5eW5MX2s4RzZYUmNuM1hVZ19IOTVraE5kQTltM1owbU9mV0hHYndrVDVCajJfeTVqb2ZVOWI3S29JREo1YW1BdGlHX0Z4TnJWemgzYUtsQTZaN3J5b1RWZ20waFhGOGhTZ0lLek9EVHVtRlNCNVZDcHBvOC11M2MwSk9QOHhWOVR1NjROM1lQNnZLY2d4THM2YjJsSzJ2RmtLTWFWUXk1NTlaX1lWVnY?oc=5"
+    "d": "2026-11-23",
+    "h": "08:46",
+    "t": "Calcio – Milan-Frosinone 5-1, Alvini: “Non indietreggio, ci salveremo con la nostra identità”",
+    "s": "Gente Comune",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEVjTWl6RzJMSXB3SEdCeUszakJoQzRNWGRqb053RHZYWHJqak02bkw5VEN2MURoNU9ISTljUEtvRU1ZN0pqemNCcWFhWnZody0xSHd6ZFpMRjdDMV9kZllSLVNGM1VVMjBQZ1c2RjFNTllCcVcyT21JQWF3cWFoUmxOQ0ZqLTZtYk9GWlNHOEZNY1ZUclcwNy1ZaG5RNmdRMU04VExQYm80RE84akpQMDV3VXBVN3It?oc=5"
    },
    {
-    "d": "2026-11-22",
-    "h": "21:38",
-    "t": "Milan – Frosinone 5-1. Le pagelle dei rossoneri",
-    "s": "QS Quotidiano Sportivo",
-    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdm8wNUdXZWhMTXJDTTh6VEhtWUMtRkxYZGV4SGxIVGdWSGlFRGU4aE8xVDI5MlFSNWhLNTctVHFxZkdnMnJIU1JHMW1lSGh1dDZpb2JzeFoxb0otTzRkY252OGF1c3poa1Zpc0g1c012SVJ1Q3NyMHZ0QXhLYmdPX3hZdmRTQUJVZk9NYXE5Y09ZaGx6UFk2TWh1NA?oc=5"
+    "d": "2026-11-23",
+    "h": "08:37",
+    "t": "Milan, le mosse di Ruben Amorim",
+    "s": "Corriere dello Sport",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMW5GSDM5NHQzWDh4Wng5NEQ2UGd6YjlFT2NXUFNNRXJKMlVFcmszektLVzBXNUlsc1RBbDdjWlR3TnJ0VzQwbVFhRF93NXNjNzBsc1ZwSFFwUGV5Tkp2OXRDR3B1S0dGV2QyUm1PX0J3ZnNOUk1yaTQxZlN1LUczbnlJUEhHeFA2RzdpZ00wTHdoRl90Zm4yOEtabTRIbGNVMnQ5SVl1UGdOQkNSYkpJc9IBswFBVV95cUxNanRDV2pUUkxkcURsRUNEZFF1eDBPMWxnT25UclZxLVBudnZYdG1kd1AwTVhoeVk4VUNNZlEybThFU2xIbTZtNVRxWGU4NXRZeGxIWkQtYzFlUmExbF9zcmh5djBWZjVRekx1WnFFSUh0bVZFVWJMc18tc01xbTNiRjlNX2thZnVSTlp0TlhqMnRGX3ZZMVN1OHRYSHRtMmNYTnpMTjdtS285QmhTdlRoR29BOA?oc=5"
    },
    {
-    "d": "2026-11-22",
-    "h": "20:53",
-    "t": "Serie A: Cardinale, 'Milan fantastico, sono orgoglioso della squadra'",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSmQ0UkRhZHVzckI2Mm9abHRrNXJZbXpxcHoyaEJ4Ri1HTjA5dUJCbmdPS25BN3N6S0JUNFh4ajFDa29yUkZ6bF80SWF4LTNuSzJ6YVJYeTBhaDY0N1JYQ1ZaWkU2MmNnM3B4aWxqcGZBVE9jdm5kVmQ5cFVvZXN2NnBnTU9kRDdJbzZOTFBNdkdaRDhnbnV6RkVHV3FibTNqOThic0U1UElkZld0a0UtM05QNC1iazR2MTBXUGgtSmN1RkRJRnBmSXNKbktQVWxBS1hHWi1KTWpla3A4NGZNRWlTOXhmT0lKR0pqUS1CT1B3NHY4VEHSAfsBQVVfeXFMT3dUSjJ1Rk1jeVN2WlNWNGZuRUxuOURrS0JURC01Xzd1dXllbXVEWl81ZTVmZmJmdjZDa2RlazduUmhZNUJKYmxERkpmOEpSMGRFcm9ZNVhpSVZTRkx1MHg2NUJkajJXcVVDSlNaazMzUUdYTWc1VVF0U0NJUExVaGgzVzNfX3lIWjdYWGpqZXoxS3k5MWFnUjdmVWQwamNGbFg0NzF2djUtX3h3bTFFUEF2Wmd4SENMS2REV2NyTV96UGtLbnBWR3l2LXFPcTk0YWtLcVRUc1liSWJ5Y2tzaUllTUxlVTI0NGhjLWZSbGhBYUZRMkFxMG9VVU0?oc=5"
+    "d": "2026-11-23",
+    "h": "07:56",
+    "t": "Il Milan sogna Bruno Fernandes, la super Lazio vuole blindare i suoi big",
+    "s": "Eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdUtPdFBjaUVjVVgtX3ZuNldyQ1BEZEQxekh2aEJGZ19VVnBTRHJ5LTFMdUNzdUp5ZWg0WW5yT28zRkVMeXdqNmo1NzhaVEZVMFNVdjk4ek1Wem5XSkhKT3EwVFpEQWQyRmt0WktydUFsdlVlZHZkcW1UM1JyYUFoZGpJbHR2X1l6U0IxQWpiRmVFWUs0MzU1ekdvNTZiMWRSVTJGRzl3WG8zZFVTS3l5WXhHN05EMlBCMlpmZ1FtdVVDTVVhNEoyekNHWmtncVpXS3NMOU1EYzdES1FiMmZyWlFGellUdw?oc=5"
+   },
+   {
+    "d": "2026-11-23",
+    "h": "07:30",
+    "t": "Milan in formato Manita",
+    "s": "il Giornale",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3T2JVMFFITk5qQmhkWXBtQVZfOFgxYjVmQ09CTVExUHRBZnJpcGExc09wdXA3bmozWmg1VUV2cjl6MFd3SE5Wb1pqVVhvX0VGY0dIcnFpRnlTaFprem1YeWNTa1pGVkJqRl9fZnJHYw?oc=5"
    }
   ],
   "cantu": [
    {
-    "d": "2026-11-22",
-    "h": "23:01",
+    "d": "2026-11-23",
+    "h": "10:46",
     "t": "LBA 9ª giornata | Risultati, classifica e prossimo turno. Vitucci verso l’esonero a Cantù",
     "s": "RealOlimpiaMilano",
     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ3owUlNoSkVlUFJMR0pVNXRRTWJtemJwem1QYmw3RjR1Q0FQd3JKZFZ1aURkRzZLYU9LSnE4bnYzV0FCdW12SWo2ZWNTalZDbEd3ZlZNNDdPbzBJbzNveW1OS1NpOFpXakdqNmtTMUUwZWw5a0JJdHFjUUZiOGNZNG1GRGRLTzdnLXVBSjRwSnNIMVQwcGNqcnd3cGROLVdWM0hIR0RLU2JCUTBOTi1XSnFQTzM5UTdlSTJXQWp3a1E3TGVw?oc=5"
    },
    {
-    "d": "2026-11-22",
-    "h": "22:40",
-    "t": "Scafati Basket-Pallacanestro Cantù, il tabellino del match salvezza",
-    "s": "Sportando",
-    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdElCZDVia0E4cTdGaGx2QjZSZnFDTE52T0pMZWNKdWgzd3Z3Tnd4MnVNZHlaU1lxcFZMSjhIUkRCOUM2SjBQeGVWdHktS3dvVDhsT1dPaGM2anNLXzNNbmZQVU1oajhWRHRnczJzclYwYVNBZDlOVk1GUFd3RVZjaldHY1ZnOUpBQVNldWQ0UGxJemgtWFQ2cEZOaVo?oc=5"
+    "d": "2026-11-23",
+    "h": "10:44",
+    "t": "Lo Scafati Basket vince lo scontro salvezza con Cantù",
+    "s": "liratv",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2Rocjd4dElGYVFwNXUyZTF5UV9tZ2wzRlc2a1dVUU1sVzlzMkxxOTlNclVOcExYdkhMSHFobWFITVNMMlFvbHFBR2prNkhXQ2N4VFU0WlMyTjJQbUxWSkM1Wm1oby03eTZjTllTN2hKNHUyZ1Q0Z2hmRzFseGUwZEtqV1ZfZlhZOFRGZkZDSk4?oc=5"
    },
    {
-    "d": "2026-11-22",
-    "h": "21:53",
-    "t": "Paga il nuovo coach per Scafati, affonda Cantù, le pagelle",
+    "d": "2026-11-23",
+    "h": "10:33",
+    "t": "Cantù, Vitucci a rischio dopo 9 sconfitte: \"Non vivo su Marte\"",
     "s": "Backdoorpodcast.com",
-    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX3BJYlN6M2VGZDl4NTQ3VlU1bmFNU2NqTlU5Zld1dmRkYWhfaGNnOW0tUXRrQklwenhKSDdsRGppZFItaDVwQk9icG9XTk5FdVUxd2tCam1tQW1FREp2ejlWV0FXQjRTb3hPY3gwYzBjSHU4Y21kY0xDdWR1UGlTM1o1TFJJRy01N0hmbkF3?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iUXVOMWlPc2htVmF2SFczS1hHZnc0OTVqMGN3N3J6WGdOZ2Y5QzRHNTdFOXJsWXFPOG1ILUF5MmEwR2wxWVdVVXVfVkVYbDVqSTdtbW5LdDVYWlhDMmhyMC1SdWUwRkpIVG81UFBESHJTWHJtaEc2b0duUHd4Zw?oc=5"
    },
    {
-    "d": "2026-11-22",
-    "h": "21:47",
-    "t": "Scafati-Cantù 83-67: highlights Serie A",
-    "s": "Sky Sport",
-    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZTdWbGZYUXBOUXFaVmhIVlI0aER3WEpYZ0J5UjlyTGFEOGlscW5UdW1IeXVCZFktUEtleDVmZDNRVzNXNkxXNE9SdGQ1eGlpRk1NYTlZcURZbW9mTHRuUFZ3NnY5VDdlc1FnMFZXU0V5M0ZCSWFlTnBiMmdEUzZMNVZSWGNxdzJ1ZXpCZWtoRENUYjg?oc=5"
+    "d": "2026-11-23",
+    "h": "10:04",
+    "t": "Pallacanestro Cantù, Mike Smith fermato da un crampo: «Non abbiamo voluto rischiarlo»",
+    "s": "Sportando",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa2djU0JieVlzOS04aVVfaVpmRjBMUnhvdHFjR1p6akc4T054RkRsT3ZlajAzYjV5U0JOQ2NFek1adHhNMEh3VWlGdHFJVjFnODJQeVl4X05WYkx4aC1sMkxxdm9mN0R5SWllYkJVQi1XTXFSeV9jbXhuLWFqcW5fRGk3U3BXLURGQ2JCY18xZGtqTTM3MjljamRGQWpVYmo3SEdpY08xbWxVdkN1SzdBYw?oc=5"
    },
    {
-    "d": "2026-11-22",
-    "h": "21:36",
-    "t": "Pallacanestro Cantù, partenza 0-9: esonero per Frank Vitucci? Pronto il sostituto",
-    "s": "BasketUniverso",
-    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTR0ck9ZT2ptYnhhOVpEUHNqNjFNM0ZOMC1idW1obF9qNTA3ajVpZXJ0aHNVOVhVYzlGWlNFRG5NWEhha1ZCdVozSllTSF9WZE5kVHRuZENqVTlRUXlxSC10RVJoNUNRZDk1UmRoQmRWWk5qeS1lY2FYZzZJNFVXQmRkeEhfaURsSXdhOGJBLTAxb0h0QXhBQk1qU2Q3djRVSjBtd0ZzaE5sOFdaZ0E?oc=5"
-   },
-   {
-    "d": "2026-11-22",
-    "h": "21:31",
-    "t": "Pallacanestro Cantù, un nome su tutti per il dopo Frank Vitucci",
+    "d": "2026-11-23",
+    "h": "09:43",
+    "t": "Destino segnato per Frank Vitucci, Cantù tratta con il suo successore",
     "s": "Sportal.it",
-    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc290eER3bkdQcVFzQ2xsQ2MzZ21acUhBWTRMVklnZzFnOU5wLVduOGlsd1AyNVFNYml4RW5aRVR0aVFfUXY1T1JVWFFudVdEaWlpV2RPNDg5N3V2eFZjNl9DN1ZfRjctemVjWk0zTDZHVjF4ekZDLVZKaXFKaVZUejJTNVdqWU15U3h4WFhfanBZODRwVmtQVldrZklQcEZTX3ZLclNoN2VvWkk5N01jT1NR?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGYyYjd3NFVSS1RNdUZnUzZUU20xM09fOTZnWHpSM0MyUUpjR0p5TGNXRHBIWXN5aFpUZlNkWmNEUEpXNTJjMzYwUDEzd0FSN0F4SGVfOFRhaUZzblYxTDFRWld0c2EyemEyUFpuVTl1NTlIb2ZLaEd0QVRoc2FzbzFOdW9LSWRocjh5NTBaUHN6ai1YZy0tSXY4amU2UFN0emJvZU1hUXJJMk1tdUdkVl9aNC10bmtwSGc?oc=5"
    },
    {
-    "d": "2026-11-22",
-    "h": "21:06",
-    "t": "Moore e Ngouama trascinano la Longobardi Scafati Basket al successo per 83-67 contro l'Acqua S.Bernardo Cantù",
-    "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45WVpsb3htYi1sT0RvOFBEbzZYa0EyN0YzdWFaQ0M2RzlVcWMzOVl3SURmOGwxOFI1RTJRWXd4T2Fwc3RyN3RNMU9sa0U2RzdoUXFJZmNKUkVRdWdRalBkOThVVzRJWFB1OHlwUTQ5Yw?oc=5"
+    "d": "2026-11-23",
+    "h": "09:15",
+    "t": "Cantù, Vitucci verso l'esonero: Attilio Caja in pole. Trattativa sulla durata del contratto",
+    "s": "Pianeta Basket",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ3JOZmFSY29ST2dqNnF1Y1htMjQ3U3R0YmdrZDZxeEJ5bXl3Z0J1djdTMk5mWmJzQ294ODNWTFdjQUJ2eWdMdTA2Yy0xMzQ0cllYNm9FNDRsYzM3bUE3M2pwSmJYNjNfZmNZbFFBdHpQbS1faGd3cGxsa0hueFp6YUVsTTdXbnVERWZ4NU51TWUwZ3NGcFpXQWFNblRPMEpVbzZrbm9mVnl6cEwtWGdkY195RFdZV3dELWdiN2hLRF91NU0?oc=5"
    },
    {
-    "d": "2026-11-22",
-    "h": "21:03",
-    "t": "Migliori Longobardi Scafati Basket vs Acqua S.Bernardo Cantù 9° Giornata",
-    "s": "Lega Basket",
-    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdl8tWjNfNnZYRGpUd2ZzUEphOXkxNmxvNU15b05DYU1jOTJvN3JwV2xCcVY3ZEpRYmJPS2ZxcUpkRV8zM2l0QWNMRFlRb0g2RFBDSDQwOUZYeEpQZHFPU1d1aFpiU0JUMFZzM05MdVNxclhhbjM0WUd0bnRwM1JfcHA0NTNaVXo5YW1aMUZ4Z2pRbnVM?oc=5"
+    "d": "2026-11-23",
+    "h": "09:03",
+    "t": "Cantù, Vitucci a un passo dall’esonero. Attilio Caja in pole per la panchina",
+    "s": "Backdoorpodcast.com",
+    "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IVnNFbS03ck91UDlGcTV6Z2V4Z1cySy01YWV6ak8xcFh0ZVlxbEFIN2JRNmh3Rlg0bGNPY2V3N3VTbWVIZnVxZ0NvdjJSSTlPenQ4RHUwNFdkWFRtR2pRdkpzak5PQQ?oc=5"
+   },
+   {
+    "d": "2026-11-23",
+    "h": "08:55",
+    "t": "Pallacanestro Cantù-Attilio Caja, i dettagli della trattativa in attesa della fumata bianca",
+    "s": "Sportando",
+    "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmYS1HYTFwUmJ2SGdhYTgtS0RTY0M5ZTRZdmY4OGkwNnpiaXlsT3JlNm44Y2daTUhyOTNhX2g0SmlsdE1PQjAwOUxaX3Nsb1h2WFZCS1BFLXg5TnVCMWxBVnFmbDZob1p3N1BJQWo2VDJJalN6aHc?oc=5"
    }
   ],
   "como": [
+   {
+    "d": "2026-11-23",
+    "h": "10:05",
+    "t": "Brioni e Como 1907 estendono la loro partnership di lusso alla prossima stagione",
+    "s": "Hypebeast",
+    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3WjZhdWxkV1BkMUJlMXRtRzRaOXp3YWh0aHR5XzhHX1doV2d3RllhZjJjZUZEc1ZSTFppZzJFVnVadmRsU3N3TFcwRVVxUHJzYXUtVHFwZjRSczRzWkhCX0dVaHFQX0tRWDhHeV9LQUx4NEMt?oc=5"
+   },
+   {
+    "d": "2026-11-23",
+    "h": "09:33",
+    "t": "Como-AEK Atene: probabili formazioni, quando e dove vederla",
+    "s": "Eurosport.it",
+    "u": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNRmhXazdILVBSNV9ncWpXY0VXN3dNRTNsVlExQmpIX2VtY1Frc2lHbkU4cFN0STlrWFJjS2hiZ1JabWNSQUNvdVpGWmZueFlIYWxfRzdTYWh2MWFMbVcwU3RKem5Mb0hTSzVSSHk4UmlnQkFqeDlDNHZtVHdRcGVWWDhvWncxUTFBSzM2dGwzaGphV2VrVWVobWpaUWR6MkV2X3M3YkFxTVFESkFCaWc0S3ZZOXlPd0JWcFlUdkRoQ1JNX09Ed2RzRnQyMDNEcXFPbnZCV3VZaHg3cE5Nb1BrZjNWQWljZnI4Wm8tVjB6UmN1MlY1RzVoODhsNlhSNDFnRG9YWmpTOGlpdXhHTUVYV3hYN0ZVZE13T19xSkpHTzlaOTg4blVtc2U1bHhkNnREVEFXc3YzUEpfdEk1RUd5ZnNLVG9PMEpVWVE?oc=5"
+   },
+   {
+    "d": "2026-11-23",
+    "h": "09:11",
+    "t": "E’ Jacobo Ramon l’MVP dei lettori di Calcio Como nella vittoria contro il Cagliari",
+    "s": "www.calciocomo.it",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2RCd2FtYUtFU1huTHQ3UldRek5VVFN3N3ktVGlEZkZBWWdwNlg0amZONDJuYnJRVGxUcFplRkw2d3J2QmZGcE5ZOUlxMjBhbXZYWFpIUEhPTjY4MEVXWnNhTDBKdkdILUkxbk9RV1VOTnNHVDdJSGZ5YjBBcG1YTl80bWFzem84S0FDTXlVUkdjVk51WGlXZDl0VkItTmJyWDhBNVdyM0lKZlE?oc=5"
+   },
    {
     "d": "2026-11-22",
     "h": "22:54",
@@ -510,27 +531,6 @@
     "t": "Como 1907, Mazzantini: \"Il gol dopo la ripresa ci ha penalizzato\"",
     "s": "Firenze Viola",
     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGxnMDVDSVpFZGFwNkxGSUtnS0RTMkMxZzBUbUV6RmdQalkzSDB0UVBiZ0R6Mi01MVI0OUtzRDRSUHFacEFoQmVKSEd0ajV3YkM3U0R0Z2dvUnlWZ0htQmxscS1NZXktZVRIZUFCNDEwcmlrUjdsVXdyc2JmMWFLamRVY2FLRU9FTlBrU2d2MU55Vkc5b3R6cDln?oc=5"
-   },
-   {
-    "d": "2026-11-22",
-    "h": "15:00",
-    "t": "Fiorentina - Como 1907 in Diretta Streaming | DAZN IT",
-    "s": "DAZN",
-    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZXprcjNYX19qcXgyU3dyS2ptai1mMjRZanQycFYzNk1XeUNmLXdKaXNkUFZJbi1UNW1hLUFzZXhvbjZBODF1ZVBPVUFCSlVRbmNwX1BGTlk5T3Q0YlBXeU5ZTWtQQTllRDBvTjhHSEx1VERfc1N3ZlgwMWdPRXhIMlczNE1Mbjlxd19LMw?oc=5"
-   },
-   {
-    "d": "2026-11-22",
-    "h": "11:35",
-    "t": "Calcio, il Como batte il Cagliari: un gol per tempo",
-    "s": "Report Sardegna 24",
-    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVmM1cVdqRm5PbXpnTW5oQ3ZqOXdFMHBCR19GMy1zVDZCakRYOS1GTVpuUUI1Z0Z1RGZfWXM1bmRjYlloU0VJemFrMDQ0N0RxaVJ6azN5THBkTzVIZkFvYklaQmtMWUEzZVE4bTdrTEc5NXM1b1IzQnM4WHNwYjBqQXlSZlBzQkJ1R3c?oc=5"
-   },
-   {
-    "d": "2026-11-22",
-    "h": "09:24",
-    "t": "Como-Cagliari, vota le pagelle dei Tifosi",
-    "s": "Calcio Casteddu",
-    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQW5vZ1E5blV5NUZtTVNRaXp2dVo5d2FkVGIxS2pOS1poRE1wZWdPQVhJWV9XQkhRczNRWDJTQ3p5WHFwQkNMeDhXVWRTZ1RMZ0hqdUh3R1hyWEpmNV9OaXRqZ0R1NDNkRUZ5NDZ5djltT1h5eUNTWkk3STRDM1FUb0QxUXd1aUozZ2xmRg?oc=5"
    }
   ]
  },
@@ -865,9 +865,9 @@
    "2": 10
   },
   "2026-11-29|Como – Juventus": {
-   "1": 45,
+   "1": 46,
    "X": 27,
-   "2": 29
+   "2": 28
   },
   "2026-11-30|Cagliari – Milan": {
    "1": 20,
@@ -1139,18 +1139,18 @@
    ]
   }
  },
- "updated": "2026-11-23T02:39:13+00:00",
+ "updated": "2026-11-23T11:15:22+00:00",
  "log": [
   "classifica milan 4 27",
   "classifica como 5 26",
   "classifica milan_eu 28 3",
   "classifica como_eu 4 9",
-  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 8, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 2}, 'dn': None}",
+  "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 9, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 4}, 'dn': None}",
   "notizie milan 3",
   "notizie cantu 3",
   "notizie como 1",
   "stampa milan 8",
-  "ERR stampa cantu HTTP Error 429: Too Many Requests",
+  "stampa cantu 8",
   "stampa como 8",
   "calendario milan 26 partite future",
   "calendario como 26 partite future",

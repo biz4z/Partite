@@ -419,15 +419,10 @@ UID:e2cd13ff988b13dc@biz4z.github.io
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=Europe/Rome:20261122T173000
 DURATION:PT2H
-SUMMARY:🏀 Scafati – Cantù
-DESCRIPTION:Serie A basket (LBA) · 9ª giornata\nTV: LBA TV\nhttps://biz4
- z.github.io/Partite/
+SUMMARY:🏀 Scafati – Cantù 83-67
+DESCRIPTION:Serie A basket (LBA) · 9ª giornata\nTV: LBA TV\nRisultato: 8
+ 3-67\nhttps://biz4z.github.io/Partite/
 LOCATION:LBA TV
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Scafati – Cantù tra 30 minuti · LBA TV
-TRIGGER:-PT30M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:83b8c517d8d739b2@biz4z.github.io
