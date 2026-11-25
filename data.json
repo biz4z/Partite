@@ -74,7 +74,7 @@
     "pts": 12
    },
    "dn": {
-    "n": "Real Betis",
+    "n": "Barcelona",
     "pos": 4,
     "pts": 12
    }
@@ -319,22 +319,27 @@
  "news": {
   "milan": [
    {
+    "d": "2026-11-25",
+    "t": "Olympiacos-AC Milan, UEFA Europa League 2026/2027: la conferenza stampa della vigilia di Rúben Amorim e Ardon Jashari | AC Milan",
+    "u": "https://www.acmilan.com/it/news/articoli/conferenza-stampa/2026-11-25/amorim-dobbiamo-fare-bene-anche-in-europa"
+   },
+   {
+    "d": "2026-11-25",
+    "t": "Ryan Eugen Rusu, primo contratto da professionista con l'AC Milan: il comunicato ufficiale | AC Milan",
+    "u": "https://www.acmilan.com/it/news/articoli/media/2026-11-25/comunicato-ufficiale-ryan-rusu"
+   },
+   {
     "d": "2026-11-23",
     "t": "AC Milan-Frosinone 5-1, Serie A Enilive 2026/2027: Christian Pulisic MVP | AC Milan",
     "u": "https://www.acmilan.com/it/news/articoli/awards/2026-11-23/pulisic-mvp-di-milan-frosinone"
-   },
-   {
-    "d": "2026-11-22",
-    "t": "AC Milan-Frosinone 5-1, Serie A Enilive 2026/2027: la cronaca | AC Milan",
-    "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-11-22/milan-forza-cinque-frosinone-battuto-a-san-siro"
-   },
-   {
-    "d": "2026-11-22",
-    "t": "AC Milan-Frosinone, Serie A Enilive 2026/2027: statistiche, classifica, arbitro e squalificati | AC Milan",
-    "u": "https://www.acmilan.com/it/news/articoli/serie-a/2026-11-22/milan-frosinone-match-preview"
    }
   ],
   "cantu": [
+   {
+    "d": "2026-11-25",
+    "t": "Jurij Zdovc è il nuovo allenatore dell’Acqua s.Bernardo",
+    "u": "https://pallacanestrocantu.com/jurij-zdovc-e-il-nuovo-allenatore-dellacqua-s-bernardo/"
+   },
    {
     "d": "2026-11-24",
     "t": "Cantù saluta e ringrazia Frank Vitucci",
@@ -344,14 +349,14 @@
     "d": "2026-11-24",
     "t": "LE condizioni di Erick Green e Mike Smith",
     "u": "https://pallacanestrocantu.com/le-condizioni-di-erick-green-e-mike-smith/"
-   },
-   {
-    "d": "2026-11-24",
-    "t": "Il Fermi vince il Girone a del Canturnament",
-    "u": "https://pallacanestrocantu.com/il-fermi-vince-il-girone-a-del-canturnament/"
    }
   ],
   "como": [
+   {
+    "d": "2026-11-25",
+    "t": "Como 1907-AEK 1-0: la cronaca della partita UEFA Champions League",
+    "u": "https://comofootball.com/como-1907-aek-1-0-match-report-uefa-champions-league/"
+   },
    {
     "d": "2026-11-24",
     "t": "UEFA Youth League | Como 1907-AEK Athens 1-1: la cronaca della partita",
@@ -361,11 +366,6 @@
     "d": "2026-11-24",
     "t": "La presentazione | Como 1907-AEK",
     "u": "https://comofootball.com/match-preview-como-1907-aek/"
-   },
-   {
-    "d": "2026-11-23",
-    "t": "Comunicato Ufficiale: Valentina Giacinti",
-    "u": "https://comofootball.com/comunicato-ufficiale-valentina-giacinti/"
    }
   ]
  },
@@ -373,120 +373,155 @@
   "milan": [
    {
     "d": "2026-11-25",
-    "h": "11:22",
-    "t": "Rabiot-Milan, clamoroso: tifosi in ansia. Cosa può succedere entro Natale",
-    "s": "News Mondo",
-    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3Vm5pZ1o3ZFZrSHJXUWxSTm9mcXZVTEpNVFV5Qmp3Z1VsU1NueHF2WkRESXd4ZWpINWx4X3I3ZXZPUnlLTlB0N0FISXJLRWhoTTZvUGJOWVZ1dlZoSDFwaUhTYTdfUjhLT1F1M2Q0dF9YS0JhV2twOWNLTEo?oc=5"
+    "h": "21:05",
+    "t": "Milan, vietato sbagliare ad Atene. Amorim: “Se vogliamo andare avanti, dobbiamo vincere”",
+    "s": "la Repubblica",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRnFkMGpYTTB5V19NMlFRcjNqMHJ3MS1FXzl4VnJEejQ4Y0U2Yk1ZLThrX2hyUFVzV3k2WHBwZkp1alJYYTF1ZGFmSWl3U1dzMzZhWS16OXlQV1V2Z2NYMTkyT0l3WG50ZlJRWTBXYzJQY055b2JRdW9EOGEzcW5wd3g0ajNob21Jb21pRG1xWDluWXh4UmVCTTdhenAzR1RKRVotT0N5c19ndTZFTmJqS0k2aS0tb1ZIQTFF?oc=5"
    },
    {
     "d": "2026-11-25",
-    "h": "11:12",
+    "h": "20:56",
+    "t": "Formazioni Olympiacos-Milan: le ultime sulla partita e dove vederla in tv e streaming",
+    "s": "Goal.com",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdkVpZXdwelIyM1dKdGNYU3gzNFFLN0dySExvdTRYa0h1eDNkQm5zc2I1TVhLRFdZQ28tSF90WVBRMXBDSDFIeHdERUsxaDBGMFZQalUtdkxrcUczNDNGZjZwV0VFLV9rd3FVWXhJQkhXVGUtRGJQckJtRHR2YU5ZbGdQcFpoY3NKZWpFSHA4ekRwTzZkM2FERGFqMnZfZk81Q1lBSmhuX3kxLWc3dHdIQUxaS3ZhUzdVQjdBQnc2TkVvR2x6X3FnbUZUakx4T0lRZFE?oc=5"
+   },
+   {
+    "d": "2026-11-25",
+    "h": "20:13",
     "t": "Olympiacos-Milan: probabili formazioni, quando e dove vederla",
     "s": "www.eurosport.it",
     "u": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNY3FxNjlPSmlDb0JuSDFkdzFxMkUyT3QwamdraXo1RzRRUHd0a3dlWndXWFR3RUJjNzVRMWtiNmd0OEdNX0lwMTN1V1RCck1fVG9UUFdiX3AzRTRENmw4cERsNEFrR0hPNUxvRWZuUEVkYzRkYmw0X2htQWtWczI0LXRjdEVNZzl0RjF5WDl1NFFjTi03Z0Z6UmFQcFViOGFIUHZ6LUdEWVg0SzVITGRIOFlmMkdYTmxnMDQ1bkxiMC16S2tYbktTTlNaYm84cUNWSUVtSXVqa0hiUUtEbXJ0ekNYbjJWczJsc0ZzaFcybmJ2bFRuckJEMXI0RkppcXBBR21uSUNzWDVwNzBvVkxIanI5ZWtxaTBMVXZZTjJMWmwzZkVxRG9LVkIzcEJmVzNSdlFmNW1ncFg4VmFqVVhSejJOUQ?oc=5"
    },
    {
     "d": "2026-11-25",
-    "h": "11:07",
-    "t": "Alejandro Balde: interesse di Milan e Juve sul mercato",
-    "s": "News Mondo",
-    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPenVnOXhJOXBSTFlGTWVyYnFJQzNHM2J3SHpITWtLeThhOVJQNm1QeDdiRFJBMkpHdTJuNGlMOWh1T2l4NnRKSXlyWWtNUFhYVVpfSnVYdWdJYUZ6bEowTXN6aU9qSG5DRVk1RmFiTE1pZW5vSUtocUFieW05VnQ5WldGbmZZOXJnRlVYS1hWTHg?oc=5"
+    "h": "18:12",
+    "t": "Jashari può prendersi il Milan? Dopo il primo gol, l’occasione di guidare il centrocampo",
+    "s": "DAZN",
+    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc0pvMmlCcHhXcGM4enlVcjNBMVRVMk5xNWljZFRhejJqZFduS0E1emJhVEljbkFIYm5ZcW90QzJVLVJIU0xRNW5sbDdWQl9oUGhqSDhXUXJMckRLZk96RU9kUmZfSEpGN1lYbTRKS2lYd3JSN252eU5PX3hYNWlza1c4YS1YQ1phTHp1RnNuRTFaRl9TUFg2TURHTHcyNmF5R1NDaTFEU0xNOWtqVzRHU2l0dEZIUWYxZzZfTVA4S3NwOE5aZnR4aVRaOHc2N0NmWFVVMDBoR3VTSFU?oc=5"
    },
    {
     "d": "2026-11-25",
-    "h": "10:32",
-    "t": "Milan, Modric indica il suo erede: spunta Kovacic",
-    "s": "TaorminaNews24",
-    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTdHWkFrU0E1NlFhVVZKV1NfV2pjZTg3N25YMjlsVWdOWXlQMUJXa1VRY3lHV2pJbmdjUFhUR1lpRDFiWkNWQmxfdTlFNjdhbE8zU1FDdEk3QVE4QlNjV0FZY0QxemhGLVhCU21YUXFhZVZtZkxLemdYV1UwWXRyYg?oc=5"
+    "h": "17:05",
+    "t": "Cagliari-Milan, Trepy ritrova il campo dopo la paura: «Il calcio è la mia vita»",
+    "s": "Kalaritana Media",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR2czeU5xb0JuT05WLXRtZmFyNzRhTVl5Rjg0ak50YUNmcFVkZngtV1RiZ1hWYUN2SDY2SzBUUFp5YkpJTnE4c1hzaXU4eXhSd2pRcFU1elVtclFFV0hSWXN2MER5OWFfeWNqTG9YUFU5MTMyRXZyWWl4TElaVWJnS1RqM2YxY1l1c3Nz?oc=5"
    },
    {
     "d": "2026-11-25",
-    "h": "09:21",
-    "t": "Il Milan è pazzo di Rabiot: numeri alla Kakà, parole da leader. Ora serve la mossa di Cardinale",
-    "s": "Sportmediaset",
-    "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUHBROGowdDA5RTkyZ21ndWZuWnRLOGJpZXB2ekV1bzc2WlFnaUxoT29MWmFLamhoaHo3RXN0bllEYXdVVTJCbzNvUzBqMlZhWkxZZVJxV3ZoV0R0cllXXzMzQ21nYi1fY1o4Q1MyTDJDbEcxZE14TS1OXzA0QnZFalhza0FSU0FfNkw2RGVRdkJZV2lpNnJ4Q252dTJwZmpSSnlHVWhvemh3b2hSOC1sRDlOWGhXbTRMdjlNaW5kbGtGeV8yVWZhRzFXRmhOUnhLaGRmU1FDLVNRWUxJb3pnZVdzNlVVS2V4UGo1bG9JTGFVWFJVRk5SMTk0RQ?oc=5"
+    "h": "16:28",
+    "t": "Europa League: allenatore Olympiacos, 'contro il Milan è vita o morte'",
+    "s": "ANSA",
+    "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbnlIZW9ZbU5VNHRvRWNjNmo1TXRUYlBXQjBSd1VwbUNGaDFLRFZDczJLSWd0V3lleW02QUF4WTFkY2s0aHZwY2VuWFhUYV9rbS01cTNNTEFoV3JSS3MyUlg4WnRXQzM0WWt5b2JfUWRmTEN3dDUxMWNvUU04bkpqRWN2Mm5KMzdmUE1faE93dk1rRWNfdlVCUkZ1V0NnNklweVhXS2xieGY1V19wejZzMS0xMEpCVGpyTFl4V0MteER1RGtJZmJ2TUlQOFMxREdFRnZtdDNORS1GN1psSGdWblU1M3VEN3FpNV9wNVc0SEpZVk1QQUVMWtIB_gFBVV95cUxPMy10Z2NYQzB5ODB4a3NzSTZmTjNTcTY0Sktrd2lmQUJnaUt2T0o2cWNiMnFLYkROTmFwdjRDQUs3ZF84aU5BZ242Z0x4QkxrSUhIOThna0pfSHZyQ1RnYkwtSElUWTloRkNab19JdU54Z0JrSVg3dl9DY3VKWVRIR3d1TWFEZzZOTHkwTHJLaXNkNERvWjFvaGJsNDZHVU9TTzU2V3h1VEFKam4xU0FFeE5kbUtMMjRuWTI2cG5ZX0dRcnY2c210a2RaRWltWjFWV2JiM3I4dlRjTGdybHU2NnZzblpQTkdIdGlKdkNFT3ZrVWswV3JPMG1JcnZWZw?oc=5"
    },
    {
     "d": "2026-11-25",
-    "h": "09:10",
-    "t": "Dove poter rinascere. Milan, tempo di scelte. Va salvata la stagione del ‘triste’ Camarda. Andrà via in prestito",
-    "s": "QS Quotidiano Sportivo",
-    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdFg4T2ZhZ0hYVVB2WlRJdER2MlZFdmhNX2ZmSDhJVGV6SGdTYTVKTlQ3WTN5RTZock1qcHdHaTQ0WmZWVFVlTG15aDVmRFNLbkZ1QUdXMS11SkJGYjE4LVMxcUVtdEc1bi1iZzFObGVKZzVwTkhPbzVLSEJaa2hUTy1SWXJFX2Y2T3lR?oc=5"
+    "h": "15:25",
+    "t": "Varela accende il mercato: Napoli in pole, ma Juventus, Milan e Inter sono alla finestra: a gennaio può scatenarsi l’asta",
+    "s": "S&H Magazine",
+    "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTGFjam9hS3BjV3ZZNmZHZXcyRXJ3b1pkdkswd2lPekhvSUw1T0lhcVZJa2xjVDdIVkNJRy04d3BXMHg2My1YVVV6MmpPcTFvaXJxWnlwTEtEUjhiQWMtOGcyQUwxMUktbGJRM2d2ZHhuZXVZcHhPTEtxU0wySWNtY25CcmwxbW1qeGVRTk1OejNNUm9wYXRUWXV6RVAyREU2RzBuMTNuay1Vb3ZfX05DRk5EOVpDY1hpZVA4cS04clNMd250cmphY0J1R2tKTUVvbmJoQi1adFQwZTNVb2REZXo1aFhOLXBHOEw0U2tLS19ZU3Vm?oc=5"
    },
    {
     "d": "2026-11-25",
-    "h": "09:07",
-    "t": "Milan, un big a un passo dal rinnovo: prolungamento fino al 2030",
-    "s": "Chiamarsi Bomber",
-    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmI0OHI5YUlsbFUxa0kzbDF4ZlJKQW1WeHZZSUxrYTN2bEM2YmdnSGkzSjlZaEVDVG90V3hyNjQ3RUdxZWVDSW9yYVpUU0h5T05lU21ScTNsdUNkQTM1VGluWUR5bkNnN3hjNVo3VmZjbFp1SkpwTVBEZ2ZwNHA1UXNUME13QjhCZGUzZWk5Rl9fYk9TdHpLa2htbHZwZzlfRWlzOWo1WHduRUFDMzcxS01XVmttTkhCdFln?oc=5"
-   },
-   {
-    "d": "2026-11-25",
-    "h": "08:58",
-    "t": "Milan, assalto a Endrick: pronti 70 milioni per strapparlo al Real Madrid. Roma fuori dai giochi",
-    "s": "- Web Lombardia",
-    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVXR4NGdDcXdibkVEdDRaUHMxdElVVXBGZGRSTF9OQlFxMkEwX01VUHR4VXRKSnJWQklKaUIweDgwQVFjS3pGalBUMjZIaEs1UjlSejVWZEpLVmxoakttWWlDT1RoWU5NODEtWVVrNVJ6WEQtZ0d3S2Q0ekFjQU9paWFCOU9KNWFNazVkOE9GXzNaV1BCYlpOTGU4UnFDMElhRlc4UWRGVV91TXZqVlktWHFoMA?oc=5"
+    "h": "14:57",
+    "t": "Cagliari, contatti per Camarda: il prestito dal Milan è un’ipotesi",
+    "s": "Unica Radio",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlVlbEVaUzNOUExDNUxONmRnOUtVYi1VRExaT0I2bHRxNGRWUmtTcHlFczVQdmpCdVRYbDJ3R2plMkVZVlhVaTVzVmpjQkRGV2RYSzMzT2ptTmZVRE82YzZfZXJoVFBBTXRUcTRRU1F5ajRmeHlVazZDeEtuVzNBWlFhQVNkdTJ5WnhMc3p5N0dqRGZZcHV6YnlvRTdjV3VwcDRMVEFvYVJqUdIBqgFBVV95cUxNTlVlbEVaUzNOUExDNUxONmRnOUtVYi1VRExaT0I2bHRxNGRWUmtTcHlFczVQdmpCdVRYbDJ3R2plMkVZVlhVaTVzVmpjQkRGV2RYSzMzT2ptTmZVRE82YzZfZXJoVFBBTXRUcTRRU1F5ajRmeHlVazZDeEtuVzNBWlFhQVNkdTJ5WnhMc3p5N0dqRGZZcHV6YnlvRTdjV3VwcDRMVEFvYVJqUQ?oc=5"
    }
   ],
   "cantu": [
    {
     "d": "2026-11-25",
-    "h": "11:46",
-    "t": "Cantù, la svolta: lo sloveno Zdovc pronto per la panchina",
-    "s": "La Provincia di Como",
-    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMGw5cWgyWEdHX3hJWUhsVFRpbVBtNlVkZ1NyY3JLUFk2UGpOejRXc2t5SVQzUTBidmhCRkVyY0ZhOFFZRGdVSVYzRkFGWkE3Ml9lV1dEV0NwWWJtUGdQTkg3dXZHc1dlbW9kTVRxTk56TU1oQ2pkcWdPSzJjTThDdVh0VlhCMmJFY1hZNkpHSVBIbW9VNDNBUkYwclltc3FFSi14YS02Ny1LWUhQSEZlZGI5NVRFLU5nUVQxN3poNjFwZw?oc=5"
+    "h": "19:55",
+    "t": "Basket, terremoto a Cantù: esonerato Francesco Vitucci dopo nove sconfitte di fila",
+    "s": "Valtellina News",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdGZ1SmNmMXl4dC01OFFGU2tXUkxUN25sMTF0czN4UUtIaW5YdzlELUYyX0E4STQwNXJkTTNjTXQ5bzUyYnp3LXEtanczTGZhV29tbHF2V1BNTW84T09jSHRDX243aktCR2RYME5NVXFFbnlvTHJMSjQzRjF4cXBHU1c2UHZPVE5idjR1ZG5uUDBVd3lYVnV3ZTRTazlpanloUG9PU1RQR1VhTDhydlFnMmFBOC1xalo4?oc=5"
    },
    {
     "d": "2026-11-25",
-    "h": "11:17",
-    "t": "Cantù riparte con Jure Zdovc: in arrivo anche Kendal Coleman e mercato in evoluzione",
+    "h": "19:51",
+    "t": "Basket, Cantù ha scelto il dopo-Vitucci: la panchina affidata allo sloveno Jurij Zdovc",
+    "s": "Valtellina News",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY1I2bXFDYTBBMS1EOTdKQ3JrRW9sMEE1N2ZzNzBNazNjREhPYjZ6enlXc1AwdEE5ZUExcEd2MjJaelJrZ1F1WTNzRUFucGV3Q3ZvV3p2ZnU1WkY2dGNVWlc4RkhDX1JVeWRvMEswdkQ2TkJQOE9lYUVsZkRKOU9ZaElXV3hZV3VFcGNNaG5MRTVVdTN6X2JORGNndW5PMUxDOUlQSWNDTmhmdEJnMVg4UG56bm1aSDBpeDhjNW5B?oc=5"
+   },
+   {
+    "d": "2026-11-25",
+    "h": "18:03",
+    "t": "LBA, Jurij Zdvoc è il nuovo allenatore dell’ Acqua S. Bernardo Cantù",
+    "s": "NBAPassion",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWGhJQ3FPM0phX19XaXdJakxONXBDdjJGNFluUDMyWndad1VZc1JZQm44bnhCdlljR3BDTkctUUY4WEhvTUpjaW9OMEFQVTJXVkdfejZrRC1rcmZPd0FGMEdsbk9vMi1DbXlXNVV6cUtjcHdOTjM2Z3JYNzNvM3l2aDhucE5LbkFwVUZ4MGlNNDJ6Q1lQN085dWJUQWdjSC1aWnVOMnlzUEdmSGhkN3B6QXR5Mkk?oc=5"
+   },
+   {
+    "d": "2026-11-25",
+    "h": "17:46",
+    "t": "Cantù, ufficiale l'arrivo di coach Zdovc al posto di Vitucci",
+    "s": "Tutto Udinese",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcElqN0tKZjA3OFJWNUVNWXhtNXZaNW12QkpmUDBsRUI1Um1GZVVSS1otOTFGVGxYdm1aZzRhOWJCR2NsbmZOUkxWampTeDI2TE82MWxwTUk3TDdNcUNhZm9lTmZ6LUZ6amRHTTlEZG9LUWxaRkNpY19mcmNqOUdDMWU0TTBBcl9TMzB5bA?oc=5"
+   },
+   {
+    "d": "2026-11-25",
+    "h": "17:17",
+    "t": "Pallacanestro Cantù: è Jurij Zdovc il nuovo allenatore",
+    "s": "Espansione TV",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObEQ2N3F3TzRWSWswWVd3WEhodC1TSmVObEk2OW4wQzZiNlpKbHRocVJYMlhjaWFFU0JtYUFKR3gyR1Z3RXQ4SlV2a0Y1S2czQ3NSUWNVMkFHTzdQSHUyQ05ubEdFTF9lYmhzY3l2SFY0dGRiTExWcUJBNXVfVjE1QzhsdUpPN2RuWkFYVmRBMFRZQjhE?oc=5"
+   },
+   {
+    "d": "2026-11-25",
+    "h": "16:55",
+    "t": "Pallacanestro Cantù: ufficiale l’arrivo di Jure Zdovc in panchina",
     "s": "Backdoorpodcast.com",
-    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJcjFDZm1ZY1JaTWlYaUFlVGttUjg3c3F2SG1KRWkxcEpmcTZoWk43SkhKUnVKbUJ6bnhyUndRZ21tUGZmbG14V3A0RkFxcndxdXRLc1dHZ3lSQzczV3M5QmJQQnRtSS1vZ2l3b2tMV2hBY0JJbUZv?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tVEZQNHgxWU1FZ1QyV2lIUG1XcFJfd3pXeGdmWFBfYUVadlR3ODh1cGZ1dENldjJWdHY0MV9pUFNSMU45M1NFck5DSDVGWkJKanotZGpQMUx4X0NxQ0hCRGxfQzY3LWxFZjZOZUd6SFUwSHY5akZkOUltVlc?oc=5"
    },
    {
     "d": "2026-11-25",
-    "h": "11:01",
-    "t": "BASKET – L’Acqua S.Bernardo esonera coach Francesco Vitucci",
-    "s": "Il Canturino news",
-    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQakdtSDItd3pCTDMyWWdNVHR2ak1CRWxNbXFsTjhDZUVlcVdXdU53NEpfdDlyWVVaRTk0Tlh2VzM0WUdJQV9qb2pUc0hYYnVESmZLOEdOenhOUGRhb2VqaWVBMFo0N0prVEJtUXAtLXJlRXlRMGhKeXVRdmRpVXB6bzBuZVF6MXQ3NjVJYS1MY2dwdw?oc=5"
-   },
-   {
-    "d": "2026-11-25",
-    "h": "10:13",
-    "t": "Cantù: Jure Zdovc a un passo dalla panchina biancoblù",
-    "s": "Backdoorpodcast.com",
-    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ROHBURkJQN0t0UktpdnQxeTZwUHF2VnNlQXZJYjF6dWdDYklSMk1ObFl3S1FkRGFEU0EtOE9sejd1SGpVT3NDajBvNThEWGJMU2V5Uy1aMm41VGczcVVaUFQzQlpLMXFNb1RkSkpzOExSdFJR?oc=5"
-   },
-   {
-    "d": "2026-11-25",
-    "h": "10:05",
-    "t": "A: Cantù esonera coach Frank Vitucci Zdovc sorpassa Caja",
-    "s": "Vale Tal Gei",
-    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcFljWGR0empKM3M5LUF2Y2J6ZTIxNlM2Sk5tYWE1WkJlUFNSTFRNanF3SVJNVm1SSnJyLW1OWlJTb0thaURDNm53bkRzWXdGYXVnV3JMVVBySmh1WTh3VkpTWmljM05TejVmMzRGRWlFeDhyWXRUV1pyV2J1S2l1OXlZbU9HOVdvekF3?oc=5"
-   },
-   {
-    "d": "2026-11-25",
-    "h": "09:31",
-    "t": "Cantù, Jure Zdovc favorito per la panchina. In arrivo Kendal Coleman",
+    "h": "16:32",
+    "t": "Pallacanestro Cantù, Jure Zdovc è il nuovo allenatore. Prende il posto di Frank Vitucci",
     "s": "Pianeta Basket",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc3paV000SF9MRy1ESlZ0SnFRNm5FQWpib29KbzEwd0FFOEFzeWxGRklYeXRhb0hqZEpsa3VVSmZrQTN1WmF0ZU04aVI5czBHazJIbWFVME4yeDBVazFuQkp2NnA2V2gtMzlGaVhaRUNuUV9lLVZPZXYteGQ1U0Z0a1hLMGc0b1RxdkprT3VKU01reVdjYW96UkdiZHpkZDUyQ2l6S29XTQ?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0JnY2NwSm03MVN5eUhDS3BaTE81RHdnQVVFdlJhWUVvby1BWDZ2M2lTTFZBSlQwZkI0YW9xQ0JZZ2R4OElTQU9odlN6LU9FWG1memNGbWNBT2pBVmxIN09EUDhMbXd6aF9TaGJNRnRwb3RxRkFoQkg2Y1VwREZ3RVl5SENiYzNRQy1xS19yX1N2SjhtNFF0Z0tJUEJCT3JJWFNlSlB3UlctTVZNb3d4ZDBaWTFscWtsR0VsaHljYXA?oc=5"
    },
    {
     "d": "2026-11-25",
-    "h": "08:50",
-    "t": "Pallacanestro Cantù, Kendal Coleman in arrivo: risolti i problemi del visto",
-    "s": "Sportando",
-    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOandmeDdQN3JybHpaQmdGY0REd2k1aUtqRE55dGtZalJraUowS1ZzYVRsSVZjOFl4a3Yta3hBNmh5QjJfYTc1WW82SnZVZEx2OThDY0Vhdmt6bnlnMlQ1NTdFa2x2SDJGZUFpTWRWd0p5aUs0SERsRFBMQklKT3d6blBKRzlxX0Uta2wwcXNub3BjOFkwTHlyZUpLRGhwQ0swUkExbmVn?oc=5"
-   },
-   {
-    "d": "2026-11-25",
-    "h": "08:40",
-    "t": "Pallacanestro Cantù esonera coach Vitucci",
-    "s": "Prima Como",
-    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XYmhja0tldklFamNNckhId01aZERGU3YxVWw1NmVSV3VtQU5xQm4xR28wNjdtbnUzaTlJUElCbVNnZEotQkFnemhJaGFjVzRHbTVNRWpmSjZIcnI4QzdkX0FnYmNpM2YzQWk5WVlOTENNRnltdzZwdg?oc=5"
+    "h": "16:23",
+    "t": "Cantù, ecco il nuovo coach: è Jurij Zdovc",
+    "s": "La Provincia di Como",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVWZ2LTc2N2M2VEtRT0pVY3N2MC1ERUNKTlJfcVR2THJIWS01cHlITUU2VTd5Z3F4M285QXFnR3U1SjJSTEdlRVdXaVdrNGlNTEk0Q1Itc0tEM24wTHNaZmlaclU1UFhaSlQ1OEdCcjhNMEJBbmotYkw2bkx5XzlCSXl6RElkTkVoRTg3RWtjbDNKMUgxVEtNemFmM2xGd2VReHVnTkhscEhXVEgwZGcyRzRoWnFCa2dBLXdWOVloRTNzSGc2UWt5TllKcnVrdEF3?oc=5"
    }
   ],
   "como": [
+   {
+    "d": "2026-11-25",
+    "h": "16:06",
+    "t": "Zico sul Lago di Como, il consiglio della leggenda del calcio ai suoi 4 milioni di follower",
+    "s": "QuiComo",
+    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10OUhKWnNYZXhxSWRxejV6MGFraEgyMHZ3VWFFMk9kejVqNERuRWJsZUZFZTUyandKNy1MTUtCNzh1NFZRdGFYcW96ZWtMRlJUY1RHZnpBeHBLSG9ZWHo2cHd4T20xNVFBLTRxVzBRT3VwWGZGejV4bA?oc=5"
+   },
+   {
+    "d": "2026-11-25",
+    "h": "15:00",
+    "t": "Effetto Champions a Cantù: ad Hub Garibaldi il romanzo ispirato al Calcio Como",
+    "s": "La Provincia di Como",
+    "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVURHX2l3NWwxLUNzY19ndmRSSlQ2dlZHeDBIUW5aV1BNS3FxMW4zUUlxV1ZMbHpMSnpVel9VeFpNOWd5Xy0zNnBjS2xJTGEwWHhIZTlGYUJ3a3ZNZXZzbExQaDFzNE03S3pHM3lWdXBHbkJTTmwxem9HXzdNQ0Q3djBBLU13Xzd4aTdlVVVKbkFIM2JkeEMzbTc4WGQyRUtXVm5NMWpieGc0aURRMGhUakRUQW0tTWdEOWJ3WGYtMWc0WHZSSVpSQlpHcWpXZDlYRGpmSVBaUW42aW9tVUlUd3FnNUVkNkJoaXc?oc=5"
+   },
+   {
+    "d": "2026-11-25",
+    "h": "13:53",
+    "t": "Calcio, Champions League: il Como vince e vede la qualificazione. Pareggio amaro per il Napoli",
+    "s": "L'Eco Vicentino",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYi1HdUROOGxIczVlWjNuVGFabm8xWlF6R09mdEVNMDZ3NDMwRWZuTzA3OFFTWFd2UFRWSHNtM2MzeHgtRW1kVUJ5QVJOeVpqMjhJeG0zX0FDRlpxbHdzUEthSV9fZ3MwUjk3LTk3OGZMVENfOWgyT0Q3Y2U2ZHVRMmtxel9FVjlUdTBuQ0hNQ08wQWtWWUpiendiVWk1bDh6VHZma1JDRXRIZlNwRF9BcTdaRVU5NmJPRlAycTVDNlJISTlQ?oc=5"
+   },
+   {
+    "d": "2026-11-25",
+    "h": "12:01",
+    "t": "Champions: Como, Napoli, Roma e Inter si qualifica se… Combinazioni per ottavi e playoff",
+    "s": "calciowebpuglia",
+    "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zU1h6VHBGNnRRb19OaTU2SlBUSExzSk0tZFg4SFlDMFhrZC1raXpHaElhNi1ISTBTSUd3TVFaSVFoQUpocGpwMjVEN1lMUElWV3FIY2FMZw?oc=5"
+   },
+   {
+    "d": "2026-11-25",
+    "h": "11:20",
+    "t": "Scheda squadra Como",
+    "s": "Tuttocampo",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzU1QkkyOVhxNDZCXzA4WEdodXVUVWQyZ3U4QWs1OERqTVZLdnBXODJTN21WamRjempDS2VicW5PUmh3eFFxdFpXTjJSZ0RiWHNBY0Vlb1FKa3F5a2R5Szc3WXJFNXR1XzJZY0lpc2FLWEpKZ0xaOHV3LUFXZ0Z0cXBoQUtIbDNSamluSUtWeUFKQjljZWFPTlNzOTZWOTQ?oc=5"
+   },
    {
     "d": "2026-11-25",
     "h": "10:52",
@@ -503,45 +538,10 @@
    },
    {
     "d": "2026-11-25",
-    "h": "07:29",
-    "t": "Como-AEK Atene 1-0: decide il destro di Milla, Da Cunha sbaglia un rigore",
+    "h": "07:30",
+    "t": "Champions League, risultati del 24 novembre: manita del Real, vince il Como, Napoli pari",
     "s": "Lifestyleblog.it",
-    "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjU1NpQlkzdmt0WGZrQzREWHVvcXg0cEkydmo0M0VVRDNoajJTRjA2Tm02dmRpaG0tbHBodjdYb0lfNlpFd2t0TTFNWWJJY0p4WmRENUtJblo2TFJhTVA5LXVIeVlrQUVnN1Z0Q29sVHphZE9ZNmc?oc=5"
-   },
-   {
-    "d": "2026-11-25",
-    "h": "06:33",
-    "t": "Calcio Champions League – Il Como vola: battuto 1-0 l’Aek Atene e qualificazione ipotecata",
-    "s": "Alessandria Oggi",
-    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOHNXS0tsNUNzeE5Wc1VuVmhfVmJaeVlfS1MxRTNxOWRWeVpPMlREUU5NWTVoYW9TNEdBZExSOWtySElfc0c0eEZLdVpMTFNiOGY3REhHYWhiVXI1ZDA1WlZVNFlPd0VfcUVPZzg0YUdGQnBfeEc1YjhjTWpvSVdVcTQ5YmtzRUltdkM5Sk9WWmZDcHJ4cmF0V3VldGp0d0htNXcxSXBmTjgwUVRXb2d3dXJINUlwY1V2bGlHQVZtVTJCcU5GamZiMlgwNVd4aDlOX1E?oc=5"
-   },
-   {
-    "d": "2026-11-25",
-    "h": "04:21",
-    "t": "⚽🔴 LIVE Como-AEK Atene: formazioni, cronaca e risultato in diretta TV streaming calcio. UEFA CHAMPIONS LEAGUE 🛑 Notizie dell’ultim’ora 📆 mercoledì 25 novembre 2026",
-    "s": "musicletter",
-    "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPR3RKX0JZZjFfeDJXcHRfQWxITjBiYlh5SVZ5dGNYTzU3YkZWaGpYNms2d0dNS1ZiZWNPSFBFaTB3OXFpZXNsbnZpVEEwT1NnWlZuY0UxZHVoUWQ4ak56RXRQZDFLU1V6LUpuTEJjdFJpWUVnOXNXa2Q2UmhUZFJ4N012SmVQWW5PWjdmOWFhbHp3QWdvWTdVV3JVMjJ5bU12RklJbXNzX3dPNjV3b0lFMjZTQ0FvMUx0T1pUTENDcDcyaVdHX2dXVW4wazZmUjBmaUppNDc0ZGozX19lTG5nVE04YjJTTUYxNjVtUC05YnExLURJdFpYb1Z0eFA?oc=5"
-   },
-   {
-    "d": "2026-11-25",
-    "h": "00:26",
-    "t": "Como-Aek Atene 1-0, Champions League highlights: il gol favoloso di Milla fa volare i lariani",
-    "s": "La Gazzetta dello Sport",
-    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0lLRmRHWnY4OGF0Q3Q5TEptVExCN0VzUUpWOEVmWUN1Z2JoUjZkT0o2bG1Va3haWnRqZ09nWVVZazlZSzNydExDSkpsX2FvWHJMYnBnQ3F3SWRGLTVrYjdTb1lsRWZEWDdvdXJEOUlXQmNua3pFcEd0cDRQdHdqaW11YXZ1bjh1aVQ2U3BlaFA1NkhmRnd0b0tlS2ppV0Rjb0E5ZkNkRC1ZOUpYbExiVWtFT09QN2VYczlFanpGOUcwVXAwMXdBVTVvd3NZTWpDRlFqekRsYlhkNGfSAeABQVVfeXFMT2NTRW1oTTVncW9OZng5Z2h4N1Z4aW4yNVhmajlKcUtFX2d4RUxobDlNSEJsel9BRDRpeG1RY2dPdlFmM2lLTFBBVHdZR2JhZFZuSnZ2U0RWUmQ5RXFJU0VBdW1nZkMybnladXlvNjBzWldhUFItWVY5SGhobWhWTVdibV9UR0hBQnpUdWt4UTlWZTFMMkVMQUc3S09tT3hXT3ZOTnh5TnFQUzNFZjhwSXlJaVlzNVYtTjVzZmtDbWI4S3M0MEROaDNsYUNHVncwdHdYa0Z5V283aElFeHlldk8?oc=5"
-   },
-   {
-    "d": "2026-11-25",
-    "h": "00:25",
-    "t": "Pareggio del Napoli a Manchester: 2-2 a testa alta. Il Como continua a sognare, 1-0 con la firma di Milla",
-    "s": "Sportitalia",
-    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTEgyQ2l6ckpsazN3cUIyQm5wUHhsa2YwaHFRN2xwM092WlRoYzdBRXVSSkE4a3NxM2s5NUV2RDZUWXhyd2hxMEVzLV83bzFDRVBGR01vUlJyVi1LU1JRZVo0RTZibVk2VDRxV0V2T2JoZ09EcHJPOV9EQkZXQ3RyMjh2QUR4RkN1TGNEMnRaNzdFWEdzY3pIcUFMUms4WGNmdWFSb1lFcDlsR0YyeWJuNmhnZw?oc=5"
-   },
-   {
-    "d": "2026-11-25",
-    "h": "00:17",
-    "t": "La Barba al Palo - Inter-Como: ore 18, lezione di calcio",
-    "s": "La Gazzetta del Mezzogiorno",
-    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmJBZF96TmNJVzk0cnQtTzdlUmY1Q25xUzh3SExkVDM2Sng2eG5Qa0Z3YWxOUmFYN2lwbUsyRC1GdUpqZ1huSDN0dnZjVEU3VzhOUjRXNC1MaXlpYXhkM3lEbFRiNTlCbFRFTFRSaUdqWHc3UTBMVU81RDJTeEphdzBvRE55VWtYTlJqSUI4aDJiVW9uVDNMTE44SUl0X0lIM2NfMEtnVmtuTlc2OXZGWW9FOWJMZWh0b3YwemZR?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYmdZYllibTF2SV9pR3ZrQjBVUl8tSk9yV0pnanpuWjN5dlRZd2I3TjBYeDFZSklZbTU2RmJSd2dxLWhHUWlJanUyU2x6M3hFaW9RYzF3MFkyaTJTNkxQYW5kdE53aGN5TTlnS0oxU0trelhsZWhHejVpd1dRWUhUQjhmSGNGb3ZqVUNnMGtyNA?oc=5"
    }
   ]
  },
@@ -1138,7 +1138,7 @@
    ]
   }
  },
- "updated": "2026-11-25T11:21:28+00:00",
+ "updated": "2026-11-25T20:31:03+00:00",
  "log": [
   "classifica milan 4 27",
   "classifica como 5 26",
