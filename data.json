@@ -15,7 +15,8 @@
   "2026-11-08|milan": "1-2",
   "2026-11-08|como": "2-0",
   "2026-11-21|como": "2-0",
-  "2026-11-22|milan": "5-1"
+  "2026-11-22|milan": "5-1",
+  "2026-11-24|como": "1-0"
  },
  "standings": {
   "milan": {
@@ -64,18 +65,18 @@
    }
   },
   "como_eu": {
-   "pos": 4,
-   "pts": 9,
-   "g": 4,
+   "pos": 3,
+   "pts": 12,
+   "g": 5,
    "up": {
-    "n": "Arsenal",
-    "pos": 3,
-    "pts": 10
+    "n": "Paris Saint-Germain",
+    "pos": 2,
+    "pts": 12
    },
    "dn": {
-    "n": "Barcelona",
-    "pos": 5,
-    "pts": 9
+    "n": "Real Betis",
+    "pos": 4,
+    "pts": 12
    }
   },
   "cantu": {
@@ -336,6 +337,11 @@
   "cantu": [
    {
     "d": "2026-11-24",
+    "t": "Cantù saluta e ringrazia Frank Vitucci",
+    "u": "https://pallacanestrocantu.com/cantu-saluta-e-ringrazia-frank-vitucci/"
+   },
+   {
+    "d": "2026-11-24",
     "t": "LE condizioni di Erick Green e Mike Smith",
     "u": "https://pallacanestrocantu.com/le-condizioni-di-erick-green-e-mike-smith/"
    },
@@ -343,11 +349,6 @@
     "d": "2026-11-24",
     "t": "Il Fermi vince il Girone a del Canturnament",
     "u": "https://pallacanestrocantu.com/il-fermi-vince-il-girone-a-del-canturnament/"
-   },
-   {
-    "d": "2026-11-22",
-    "t": "LE dichiarazioni di Coach Vitucci Dopo Scafati-Cantù",
-    "u": "https://pallacanestrocantu.com/le-dichiarazioni-di-coach-vitucci-dopo-scafati-cantu/"
    }
   ],
   "como": [
@@ -372,10 +373,31 @@
   "milan": [
    {
     "d": "2026-11-24",
+    "h": "22:09",
+    "t": "Il Milan è pazzo di Rabiot: numeri alla Kakà, parole da leader. Ora serve la mossa di Cardinale",
+    "s": "Sportmediaset",
+    "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUHBROGowdDA5RTkyZ21ndWZuWnRLOGJpZXB2ekV1bzc2WlFnaUxoT29MWmFLamhoaHo3RXN0bllEYXdVVTJCbzNvUzBqMlZhWkxZZVJxV3ZoV0R0cllXXzMzQ21nYi1fY1o4Q1MyTDJDbEcxZE14TS1OXzA0QnZFalhza0FSU0FfNkw2RGVRdkJZV2lpNnJ4Q252dTJwZmpSSnlHVWhvemh3b2hSOC1sRDlOWGhXbTRMdjlNaW5kbGtGeV8yVWZhRzFXRmhOUnhLaGRmU1FDLVNRWUxJb3pnZVdzNlVVS2V4UGo1bG9JTGFVWFJVRk5SMTk0RQ?oc=5"
+   },
+   {
+    "d": "2026-11-24",
+    "h": "18:39",
+    "t": "Milan, infortunio per Modric: risentimento al retto femorale, salta l'Olympiacos",
+    "s": "Sky Sport",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDNSQm9rd3BDWXAyNWZzSjZZVmJHdlcwamtWWWdtZzBINm1nWWF4ZkcxeGFfSzdEdnNEOEYwQjVUMkRsOURuc29EQ3FYLTh1UlpfdU9ycVBsc21ZWGx3VklzWGlNME1oQWZSbkZmc1p1eEZEeHRPdzZINTN4Rk9TWHpnQzZOVk1B?oc=5"
+   },
+   {
+    "d": "2026-11-24",
     "h": "18:23",
     "t": "Calcio: Milan; Modric ko, risentimento muscolare alla coscia destra",
     "s": "ANSA",
     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOX2JReV9mSklLSDM2YTdNY1VWNUp0dDlEZTU2M2JFMFktMm9pc25hSTJYbDFOODN4NEdoZnplWG42eU1PbmFZalpzcnJHYWh4bURaTDNOVVlJZUw2dVF2RmZzTkVBZUc0ekpmZ3ZHeTFHejJ2TnhSelRpYmtsRDRYWkRacTJCQU9uVjBKbll2cE5SZmU2eE9KLW85Nm1MS1FhQnF3R1YxUmNGcVdwLXNwOGN1b3o2bTFnRTMxTVc1WHdQSmdWYUtBOHY3Y3RuMkkwWmZDOENyMTNLb2RqYlV4TDNzYlJObTJrRkVXdkpaYWFlaUN4N1HSAfsBQVVfeXFMUDhFeUlvZkhvNlg0eThPcnBQcmxDTVhpakJOTXVwX3oxeVZ3Tm5rXzh6M0h3VHNjcHZzZWZFSldxelNJQkZzczgyS2lMdXpFLWVQbEVVaHExRWVJVUJuV0ZxTFdIMXhMT1N0dTZDenlRRjYzVmF5UFJfcHV3MFRfdXB0SjMtSXBKUWl1aUYxQk4yeGFYMmF4dXJ3NDRjbGU2dVduUHNNekhQakJuMnRjOUNqWHpWSGVUNTN0aVFSS3Q0ei14QzhfUmVXaHlWVERZTlR3VFlJRlVIcklYUHZOWTl2aXRLRWhkTFBTVVl4QzZ0eGdzdnBNdGNNTkE?oc=5"
+   },
+   {
+    "d": "2026-11-24",
+    "h": "18:05",
+    "t": "Milan, risentimento muscolare per Modric: si ferma il croato. Tomori torna a disposizione",
+    "s": "Gianluca Di Marzio",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTG5BMmpXX2FnemVrdWhRS0JoWm5fUlJhdnhpMFZCRXdDX3JVbVo2XzJfZmVNdExzdnA3VEcxRDZFeVlJU3dwUWRfZ01wMzR1dy1oZ1huQ1FaeXJ4cHN1WHdDVDdja1N6U25SNGNuN29EaWdpdmpIX2R2OGpuZG9QYmo3VkQ?oc=5"
    },
    {
     "d": "2026-11-24",
@@ -400,147 +422,126 @@
    },
    {
     "d": "2026-11-24",
-    "h": "16:05",
-    "t": "Il Milan è pazzo di Rabiot: numeri alla Kakà, parole da leader. Ora serve la mossa di Cardinale",
-    "s": "Sportmediaset",
-    "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUHBROGowdDA5RTkyZ21ndWZuWnRLOGJpZXB2ekV1bzc2WlFnaUxoT29MWmFLamhoaHo3RXN0bllEYXdVVTJCbzNvUzBqMlZhWkxZZVJxV3ZoV0R0cllXXzMzQ21nYi1fY1o4Q1MyTDJDbEcxZE14TS1OXzA0QnZFalhza0FSU0FfNkw2RGVRdkJZV2lpNnJ4Q252dTJwZmpSSnlHVWhvemh3b2hSOC1sRDlOWGhXbTRMdjlNaW5kbGtGeV8yVWZhRzFXRmhOUnhLaGRmU1FDLVNRWUxJb3pnZVdzNlVVS2V4UGo1bG9JTGFVWFJVRk5SMTk0RQ?oc=5"
-   },
-   {
-    "d": "2026-11-24",
-    "h": "11:21",
-    "t": "Europa League: Kavanagh arbitra Olympiacos-Milan, Barrott per Juve-Omonia",
-    "s": "Sportmediaset",
-    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQnpkZlhidTduZVp4MXdKYTFxZ3JBcEpWSzU5Y2RUdkhsRDMwWjQwelpidkc2U1VKVFRwRWhPbWFRYzV3aHhMU2RwWmpKM2tNUTA0TzRDUUt1WDhxT215cHlqa0ljZ2pKZHA3LTJhTnZ4UjFTbGQ5NG9PTWtOeHBGT3JJTDVTSE9WdGNneXg4OXkyc3VLQjVHNHdaSGVXT1JPaXRVRHEyTHF6RWs5ZzlFNWtobGo1MkVHNmxvcTBTTy15Smh3dlNLY1Bock9LN3hxX3B1bEZsWdIBeEFVX3lxTE93NUVXTmpYSWFUalZiaW5HaWViWHdnZjFqbnM5ckYweTBwYlFYSUFlOVhuSGQ3a28yUlNwT2p2NEwzWEo5MHdvZWFPR1NlOElTemo5bHJBZDI4bHZKc1U5bTVIakZXR3RrUEhoandIZEVMMnh3cDdIdQ?oc=5"
-   },
-   {
-    "d": "2026-11-24",
-    "h": "11:04",
-    "t": "Milan, Cissè bruccia le tappe: sei gol in dieci partite di Serie A, solo Pato ha fatto meglio",
-    "s": "DerbyDerbyDerby",
-    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVkRUYXBzcHByWE10MnA4TlAzaW5mV3IyZlNqTllZX0xqZ0JkWTFybndCYklqcF9wQUhoem9qQXBNbVY3bFNLM00yeV9QUFdrSmFpVE1YX0NjV0JfbW9HWGxpd1gzRTAzcEZfTC1Iem83ZUpVUS1wd2ZHemRicEx1LXkyeGJpQXRGbGxYZTFBaG5ES0dqRHpkV29IcmR6UkN5dWNRQ29mSEVHMllpQkR2aFpHdkxpRkRtOXRqNG5sUDYwSzRTajZENm1BeGRRVlNTbjNlOHZSNTN4NWotRXhF0gHkAUFVX3lxTE1aV2trWXdHa3Fud041UFZqVWZSSXNac3A1anpLcFBnVWltSnJJSWFGR05IWHFWc3VnMXRNZWtKbVlVOWdmOGlRS2hzSUlhUDVZOUVVUlJqWlYwY0g1cjQ0T1FsM2xXNlA4eDc0b0FKSWpYWURRSWxBZWVvZzVKYkNJSkxZWTgxc29RTmVlazdEWkR4Y3l2M3lvbXdWMElic1JaanFwTnVENTRsV2I5MVZnQW1ERkNTQTBpNlNoQi1CRGVBMEw1dzIwSmpVZGtiYVlDSGNwbjRoOGdsN29wWXYyTDNYSw?oc=5"
-   },
-   {
-    "d": "2026-11-24",
-    "h": "10:51",
-    "t": "Milan, parte la rivoluzione sul mercato: le decisioni",
-    "s": "News Mondo",
-    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9veERDM05Cd25Ld3dHMFF3U2VpOFBjQTExZXRmUlhDbE9NNGlJWG9iZDZuOUQwVHJLaE9LNFVpdm5neno5aDBtMjU5UlloZTFwMlAxd1lpRm5FX1ZXT3owVkI0OXFHMmFIb0wyMXVzZEJ3M1dBQTZvRndn?oc=5"
+    "h": "16:11",
+    "t": "Milan, spunta Ioannidis: il greco entra nella lista per gennaio",
+    "s": "Europacalcio",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaGF5d3ZTaDg2NU1yTHljbjhBalVGdzE0SGVWNmZnYkVfdEZSWVlzdlF5emFrSjFNdTIwcGdSZ0lWcDZoZi1GLVlCWS1yRzRacThLZWxkSHNzYlEyM3pzZ0JBVzNSdktobDFhVjZQTXBzbWVYY1JqZ3lxcFJUSTUxTjRKYl9MeEREZF84dFFMaV9YNTg?oc=5"
    }
   ],
   "cantu": [
    {
-    "d": "2026-11-23",
-    "h": "23:44",
-    "t": "Pallacanestro Cantù, la situazione: Caja in pole per sostituire Vitucci, in arrivo Coleman sotto le plance",
+    "d": "2026-11-24",
+    "h": "23:33",
+    "t": "Cantù, ufficiale la separazione con Vitucci: il punto sul mercato",
+    "s": "BasketUniverso",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQWt3aGRYeXd0VVVieFpiTEh6MkdQWVV2YlVDYkhvMXdTMkdNX2U4Qm1kRFI2SmluSFFGMkY3YWh0bkJ6YXk0eVJ6NlNkeXZEd2tsVllRbVlUdjhTcHI4TkV6ejhWWmJBN0NBSjlCSldXdUtCcElLWHFkWVdlcHR2ZlN3eUlGaElQOXdidUlrNUg1R2R6RjZleXJB?oc=5"
+   },
+   {
+    "d": "2026-11-24",
+    "h": "23:32",
+    "t": "Cantù, improvviso sorpasso di Jure Zdovc per il dopo-Vitucci",
+    "s": "Sportal.it",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNejdxTnYtTFZNVGM0VHNRSzh5ZUNyNjNhRUpBUjFBNzZ0Qzl5UFlmUnczWVM0Zlp2Z0tETWEwY1EyX3ZwN0JZTUk5Z1NpaDRiVzY3VDB6WnMxV2x2emJLTUxKSXBzNjlfWGRVb2lwZ19CMVg2ZFlYdF9rUkFOOG9XTV9BckdsX29kUkhzWTlaN0hPUy1ZSU9QWHEtRXZMbEVpWkhEemY3VzBldE1jcnc?oc=5"
+   },
+   {
+    "d": "2026-11-24",
+    "h": "22:52",
+    "t": "Basket, Frank Vitucci esonerato da Cantù: fatale un avvio di stagione da incubo",
+    "s": "OA Sport",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM21jRkhFajJXcTh0YVZnYW1CU2Vhb04tQ2tGVmh2czM0ZjFMeE1uZGJrcjctX2RkT25La2pKVGFMd0lYQlhYVVhrRWxBM01MZEdDd3E2Tm1QUEhjbkdiVVhIcEh4Ukc4cnVMYmRNZnJLRVR1QzJGTkZndlFSNTUxOHJOeXcwZzhQYV94ZUFDMUt3NTlpbExaMnlCWmlXdWlfWlBraVdBUlhyaUtLa1lOeFBxWdIBswFBVV95cUxPM21jRkhFajJXcTh0YVZnYW1CU2Vhb04tQ2tGVmh2czM0ZjFMeE1uZGJrcjctX2RkT25La2pKVGFMd0lYQlhYVVhrRWxBM01MZEdDd3E2Tm1QUEhjbkdiVVhIcEh4Ukc4cnVMYmRNZnJLRVR1QzJGTkZndlFSNTUxOHJOeXcwZzhQYV94ZUFDMUt3NTlpbExaMnlCWmlXdWlfWlBraVdBUlhyaUtLa1lOeFBxWQ?oc=5"
+   },
+   {
+    "d": "2026-11-24",
+    "h": "22:42",
+    "t": "Cantù, Vitucci esonerato: paga lo 0-9 in campionato",
+    "s": "NBAPassion",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWnBYZ2dJQjhlOHliWUNqcnVTMkdEaGJrWUhwRUhJSGJ3dEJycmdrZU1mUnQ0TTZ3aXA5NmFOcGtiMnlRVkFKd09CejlGN3RSN1Q1S0pjTXhYQlU5RjJZT21VMHprQXZvUGlmSmc1dURHZjhDNFBRYmxjdFdMUVBSbFBqSFRSUzN1OGhPOUNLU0NBdlp6eVo5VURPcGlwTmM?oc=5"
+   },
+   {
+    "d": "2026-11-24",
+    "h": "22:39",
+    "t": "Cantù, Green e Smith torneranno ad allenarsi con la squadra giovedì",
     "s": "Basket Magazine",
-    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGdDaUdwMlFMRm5DM0p2alc5QVJramdaUEpCd3Ffc3J1NzZzUHhJaWZWTXl4c2xQZnp4LUVvRDliSmFOUmxiMlQwbC1ZcEJNb1ZUUnhVOWV0REx3S0hSTHlVNE1YM1FmMGpaRUc4Y09SQjJDOFhLNFRTVnNaUk4wbjA0aEtKc01CeXZCNERKWTdEaUhvSENXblZwRjlPMXQxZ01vRnJzNUNsdGk4b082dmNlT3FEbDQxcTZMTi03b1UzTzlGSG1YNVVzNA?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLXZiYjItMUx3OWN0b2l0WlFfT2RFWEFQNElrTlNNME9samFUUWV1Ykh4MVRtRWpVNU90OXNrLTVUcG5vRkdWWnRUMjIwdDhVdEV1QWpWeW5BRndPSmx2T3BEeEJ2RHR2REVuY0czMUdET1ZDeVlDdWk0WG1SaEdIa3poMWgyMWFCM29MMnJWdHpiU0ppRkdJNjZB?oc=5"
    },
    {
-    "d": "2026-11-23",
-    "h": "13:39",
-    "t": "Rumors, Pierluigi Brotto e Spiro Leka le alternative ad Attilio Caja per la panchina della Pallacanestro Cantù?",
-    "s": "basketmarche.it",
-    "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONEdzMUxmeEpWMFFfRk94MEh3WkY4cWlFZVZwYThzNzU4c216ekEyUV9aMjNzSGhMZkg0S3NJXzdneDdERTZfdFdubVBuSUlCRThFeHd2bFhlMkRObnJCYkNrNmFKT3JmWU43NWJ2UDZWcTB4MndEWW0xeDN4N3BMLVZkTURHQk1iUmRnNC1jSVdNU3FjRkx4eEthVkJEdkpLOHRXQUF4VWE5LW9pd1lzcnZnR190dzh4R3VYcTJUZ3RyalVMU2tfYnJWdkJhYy1ITEVHcW00NTgzN3VFYS12QnJWekZOU2M?oc=5"
+    "d": "2026-11-24",
+    "h": "22:38",
+    "t": "Pallacanestro Cantù, esonerato coach Frank Vitucci",
+    "s": "La Nuova Venezia",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0NGdTRNRnlDTWFwS0NDSjVTdjlWZVV3WXlwSG1FY3BBb3lseWNPV2ZxSVVaTEtHd1NKMjZkVFlpTEk5XzdKSFdPUFVIYll0T1hJeWhKLXZNSm5uUnhzbENfVUEtTnkwRWRpRWg4ajBudEdWNWRDb1NIVHc5cFZhQk5jblQtZlhneGlzQThEOUgwdFhSdDFN?oc=5"
    },
    {
-    "d": "2026-11-23",
-    "h": "13:31",
-    "t": "Rumors, la Pallacanestro Cantù in pressing sul lungo Ja'Vier Francis",
-    "s": "basketmarche.it",
-    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmpiRmJFaEVtNEdyVVRjRlVnVG15TElCQ3U1QjRSTTNhM3JvSGxZYVp0MWkwVkhUUWdSTUdUV1NCVWI1VG04b1pfQmRzMm5EM3FQLVdwWWs3cFVzVVAwTHBLYU9iTzgzLUdyampBRlk0Y2dISUJ2aHJjTldfZGt0b25QZFBHblAxSW9hR0VkNVh1eHEya1Bsc05Bdk9kZmJsOFVhSTNiWHU3V3lVRUpTRHoxUkcyZkhTRFE?oc=5"
+    "d": "2026-11-24",
+    "h": "22:21",
+    "t": "Cantù, cambia ancora tutto: Frank Vitucci esonerato",
+    "s": "Sportal.it",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUd5NjlIUHQwUkVHM3pZb2F0SWlxYlg0WGJYeW8wdzJuZ2szdUs0VGFOaVE2OUxQZy1kODY0NDNnM2J3U1ZkSEpkTzVHRzNPZkczX1dXYXdCNVJINUJLZTA4dFBvMFNBN3NXd1ZMcHQ1TEVuUTI0MExoZnVLZElLQ2taNUJFNXJDT2xtQkhSckpfWEU0NXFlRXAxeTRtcktW?oc=5"
    },
    {
-    "d": "2026-11-23",
-    "h": "12:20",
-    "t": "Pallacanestro Cantù, sotto canestro in arrivo Kendal Coleman",
-    "s": "Pianeta Basket",
-    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnRHQ0p3R2VXbGpQY3pHSDBNN3g0cXdta2FuYWpqaERkZW5zQ2ctR3E1RWpTaWxKbGZSWmZzQS1vX0JveEV6SWhhN19PQnlzMXZYYjBnMmNsejNMOW1xdE1vN285RVI3UVJQTm9yaDRQOEZ1QThPWExoUlA0Y3lFOHVjb2hLelJmMVlKTENwNmwwYWhOcThGdXJZWDNXc3VTeFhDLVRzeGt0Y081?oc=5"
-   },
-   {
-    "d": "2026-11-23",
-    "h": "10:46",
-    "t": "LBA 9ª giornata | Risultati, classifica e prossimo turno. Vitucci verso l’esonero a Cantù",
-    "s": "RealOlimpiaMilano",
-    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ3owUlNoSkVlUFJMR0pVNXRRTWJtemJwem1QYmw3RjR1Q0FQd3JKZFZ1aURkRzZLYU9LSnE4bnYzV0FCdW12SWo2ZWNTalZDbEd3ZlZNNDdPbzBJbzNveW1OS1NpOFpXakdqNmtTMUUwZWw5a0JJdHFjUUZiOGNZNG1GRGRLTzdnLXVBSjRwSnNIMVQwcGNqcnd3cGROLVdWM0hIR0RLU2JCUTBOTi1XSnFQTzM5UTdlSTJXQWp3a1E3TGVw?oc=5"
-   },
-   {
-    "d": "2026-11-23",
-    "h": "10:44",
-    "t": "Lo Scafati Basket vince lo scontro salvezza con Cantù",
-    "s": "liratv",
-    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2Rocjd4dElGYVFwNXUyZTF5UV9tZ2wzRlc2a1dVUU1sVzlzMkxxOTlNclVOcExYdkhMSHFobWFITVNMMlFvbHFBR2prNkhXQ2N4VFU0WlMyTjJQbUxWSkM1Wm1oby03eTZjTllTN2hKNHUyZ1Q0Z2hmRzFseGUwZEtqV1ZfZlhZOFRGZkZDSk4?oc=5"
-   },
-   {
-    "d": "2026-11-23",
-    "h": "10:33",
-    "t": "Cantù, Vitucci a rischio dopo 9 sconfitte: \"Non vivo su Marte\"",
+    "d": "2026-11-24",
+    "h": "22:11",
+    "t": "Cantù, esonerato Frank Vitucci. Si aspetta il nome del nuovo allenatore",
     "s": "Backdoorpodcast.com",
-    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iUXVOMWlPc2htVmF2SFczS1hHZnc0OTVqMGN3N3J6WGdOZ2Y5QzRHNTdFOXJsWXFPOG1ILUF5MmEwR2wxWVdVVXVfVkVYbDVqSTdtbW5LdDVYWlhDMmhyMC1SdWUwRkpIVG81UFBESHJTWHJtaEc2b0duUHd4Zw?oc=5"
-   },
-   {
-    "d": "2026-11-23",
-    "h": "10:04",
-    "t": "Pallacanestro Cantù, Mike Smith fermato da un crampo: «Non abbiamo voluto rischiarlo»",
-    "s": "Sportando",
-    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa2djU0JieVlzOS04aVVfaVpmRjBMUnhvdHFjR1p6akc4T054RkRsT3ZlajAzYjV5U0JOQ2NFek1adHhNMEh3VWlGdHFJVjFnODJQeVl4X05WYkx4aC1sMkxxdm9mN0R5SWllYkJVQi1XTXFSeV9jbXhuLWFqcW5fRGk3U3BXLURGQ2JCY18xZGtqTTM3MjljamRGQWpVYmo3SEdpY08xbWxVdkN1SzdBYw?oc=5"
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaUE2MlRuSVcwcS14MmtuM0FINTR3ald2UHN4bVhQQmM2Z1BqYklBaU9hODZzUW5ZQ0RYZXpZSVMtUGF4V1FsVzlDN21sNlZGZ2YtZmVCYjV5b1ZQLUo2N0oycjF6MjV2SHI4QlI3dDM5cHBYRUpxY1NCblJzZ3dLSjZESUN6cFN0NkN6RHNLR3dEbjhsbEdmUXNWQjRreTA?oc=5"
    }
   ],
   "como": [
    {
+    "d": "2026-11-25",
+    "h": "00:25",
+    "t": "Pareggio del Napoli a Manchester: 2-2 a testa alta. Il Como continua a sognare, 1-0 con la firma di Milla",
+    "s": "Sportitalia",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTEgyQ2l6ckpsazN3cUIyQm5wUHhsa2YwaHFRN2xwM092WlRoYzdBRXVSSkE4a3NxM2s5NUV2RDZUWXhyd2hxMEVzLV83bzFDRVBGR01vUlJyVi1LU1JRZVo0RTZibVk2VDRxV0V2T2JoZ09EcHJPOV9EQkZXQ3RyMjh2QUR4RkN1TGNEMnRaNzdFWEdzY3pIcUFMUms4WGNmdWFSb1lFcDlsR0YyeWJuNmhnZw?oc=5"
+   },
+   {
+    "d": "2026-11-25",
+    "h": "00:17",
+    "t": "La Barba al Palo - Inter-Como: ore 18, lezione di calcio",
+    "s": "La Gazzetta del Mezzogiorno",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmJBZF96TmNJVzk0cnQtTzdlUmY1Q25xUzh3SExkVDM2Sng2eG5Qa0Z3YWxOUmFYN2lwbUsyRC1GdUpqZ1huSDN0dnZjVEU3VzhOUjRXNC1MaXlpYXhkM3lEbFRiNTlCbFRFTFRSaUdqWHc3UTBMVU81RDJTeEphdzBvRE55VWtYTlJqSUI4aDJiVW9uVDNMTE44SUl0X0lIM2NfMEtnVmtuTlc2OXZGWW9FOWJMZWh0b3YwemZR?oc=5"
+   },
+   {
+    "d": "2026-11-25",
+    "h": "00:07",
+    "t": "Como-Aek Atene 1-0, le pagelle della partita di Champions League",
+    "s": "Sky Sport",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdlF0bGNzdTN5Vk02Nl9uSlZDTlNEZVNIam1RTDJQU2VTM0dpYTZpOTNjWEN6M0t3NVRka1E1TEEyTEFoaExWdE5jMkNYbC1aZG5jOFVqTWl6NzE0NmFOOGtRTjFfcjF6cGtWT2RYSDB3dWtNaXRHdGNON1NNejJJNDZmMHE?oc=5"
+   },
+   {
     "d": "2026-11-24",
-    "h": "06:45",
-    "t": "Il calcio in TV oggi: Champions con Napoli e Como su Sky",
-    "s": "Eventi e News",
-    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU3liMlNaV1JTMXR5T0F0UEhiMGFSUXR4V1VHN0NGMThnQlFtSzRHU2tnQWZwTDducFpzU25nLXNlRl84cl9HT0ViLWxIWjV0N0FJbEx5MmxBczhnTS0zcWxkSFJRaGV1SUhYWEZLbkE1bHVVUzBOZDZGOHJYMll2WHV2X1hCZw?oc=5"
+    "h": "23:38",
+    "t": "Le pagelle del Como: Nico Paz incontenibile",
+    "s": "QS Quotidiano Sportivo",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa0FZejUyYkk3ZEgtQlpmcTZDU2pPRFp0VHBCXzNnM2ZOeWstaGY4c3dVX3hUaHZSNEViZUhwUmZJcU1kb2lUZFU1ZE1kOG1tSlBlVzZ5aXVqaURLNDYzbHVZSjV1MlgxcnFmbzNub042QTFsY01WOGpQMURVaFp1eUpDQ01KS0xCMVZhSnRDZnM?oc=5"
    },
    {
-    "d": "2026-11-23",
-    "h": "22:34",
-    "t": "Champions League: martedì alle 21 in campo Como-Aek Atene DIRETTA",
-    "s": "ANSA",
-    "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUGNhTjM2ZUZkX0VvU0xkY3I0ZTZadktENENNcExkU3VqUnp3NU12MnU5WjFXMWhoVmFjZ2lKUzNMTjB5bjlnN1BjTHhsUUtnWmVTNVdiY2F5bFBmaUN0NFVTZk1UUWpRZUQ1VWwxRjFvQ090alpXZThIZGV3dWoxUGZycXp2TVJuZGgzZnh4NElQVE1BLWp5VmpHRGgzT09UWjlGeG43VnJBQVB4TjFsVDFtcDE2eU1IV1FWQ2IxLWVLVU9NNS1OZGhxZmpxRnRZU1hXUVZycDdYR0lmUkRvTE1SLVJWdGt3ZDBFS3FhWWV2ZU9ydnfSAfsBQVVfeXFMTjNpZHpKbzNibWMwcm1TeTlJdnpBSk4ydjluM1hmZmNEUWFOQ3NfcnFxR0FTSHo4cUFmdkMwcGFYd2hZR1hldXFfQ1djclVFQ3gzaE4zcTgxMHpmdVNDZURlcW91MDFPam1YTjRQSF9mQVlkUWdGcmlVeFBQUVZqT202emR3NlNuZEYzeTF5Ukl3ZkNVRVc4WVEwNlBHX09YYmJOODIwenJHX1RoZkV1S2Nxemk2NXNuOXNvcVRQTWlnYUZ0aG9uczZVbHhDNk5QbF9nNF9FN3p3ZFNqMWRMSVhwdjlRNnFJNl9TNzFBSTV3ZGV2S0Ytd2VMaVE?oc=5"
+    "d": "2026-11-24",
+    "h": "23:24",
+    "t": "Calcio, il Como vince ancora e continua a sognare in Champions League. Il Napoli ferma il Manchester City",
+    "s": "OA Sport",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOajRmUEQ0b21JNzdnbmhSNWdMbDhJUzdKT2hHdHJfY1V3R0ttd29lZ2g3OXA3OXUyLVhKa2NGZHpXakp2TEdxUUVVSnRsaDNidWFmb3ZMZl95NHBnaFA0TUFPSElmOUhFcmhnYjZDN25RM1RxX2hoal9nejBkMUZTSTNTbndIbUN6cW1xSkNvX2ZvT3R4cTRaRi0wbmdKMmdDanR1dTh1QkVfdzJVTk5aMEhwNHl4dGF4bGx5Mk9iMnNGOGxjVmszV29rQ0w3bUV20gHWAUFVX3lxTE5GZzR6U3dBSmROblhjME14U18tZ3RqR3U2WE1wNDlDdzNjRUpRLTJ3bTF5MGtJaHR0LWY0ZjhRVDNMVXZSeGVhWTlDdHFIZ3Q3LUg0NWVueF9nMGkyUVpnZlBBZGpXd2lULWtGLTZyTEQ3VzhpTWFXdG4wOWZkSl9UZjg2UlFaVUJIY1JBWUtGWmJLbUxKZWt1SkpMekVaR3I1RkM4ZDRNSWdQd1V0MkxncUdMeGxSUjRQT05nWS04T3ZaRjJDR3VCOHE3dGZNcHBsMEdxdWc?oc=5"
    },
    {
-    "d": "2026-11-23",
-    "h": "19:22",
-    "t": "Como-AEK, lo speciale derby di Tasos Douvikas",
-    "s": "DerbyDerbyDerby",
-    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWZMLW5kLWlDbG5mb3M2QTVVaDhTUFk2MkZ0b0VPMllYOVNxbG1BNmpKbHpEbm1YYnlwa0JNcFZCYVFkcW9IbHF1QkhPYkd6WWxJaGZfWVlJQmdZYlNvY0RvSkx4eTk5Rk0zcFVYREtnbnlYZmNqYWtWTm9zQWhWZHlpU2YzMkppcS1QYUxyVjV5YkV6bldhaHV5dWxqbElVTXBzV1Y0Q27SAa4BQVVfeXFMTUJfOGp0OFN1aHUxVnhPYlh6NnN0Qzc0SF82a3FhbVZxbk9lMFBXb3A0SGVkZGFac2laOFZMZUZwVWNOVXRrRkRyTEJvMjR2azBRTmlnZ0JZeWZoYmdaLUxWR1hKQndlZDB5Y05tc3ROTl9sSlRJWFdzdzdCMDg3U2kycDVnXzduN3lpa2dTTzltM2Z2YjZINlpZZjhnTlVkcnZkNlM3V3luR2R3TTV3?oc=5"
+    "d": "2026-11-24",
+    "h": "23:07",
+    "t": "Milla decide la sfida con l'AEK: il Como vince ancora e vola al terzo posto in Champions",
+    "s": "QuiComo",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGRCVlIyeFFGV3JWTUNRMnlLVm8xOEhTNnZEZFJ4TGl3aDdBbi0zYl8yTVdQRlRzR3ZIVXlwcWR5Zy14c0ZjdXhBeW54NjNfeEdJa1V5V2dwLXpTUmU5RnNsUmRjdkNXQ0FSYmhHWjVySlRPZGk5MWZ6U1F3TDlzMU9XTmdGYWFBcHQ0Z3Y1T2pVbkJZZzN6cm9n?oc=5"
    },
    {
-    "d": "2026-11-23",
-    "h": "18:42",
-    "t": "AEK, Nikolic omaggia il Como: \"Chi non capisce di calcio può dire che siano una piccola\"",
-    "s": "TUTTOmercatoWEB",
-    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUZlWmJBTnJXTnZLZGwtUHNUOS1salRGejlvVVQ0UEdZd1F3YzI5VDFOR0xqSms0MnBvR2R1OUZtRzVVZTY1VDhvNjZtNUpteEg1alhNVVlBM3cwTkl0Ti1OaTdjUGktendiV3ZCVXdvYko2XzlRWUhqOXB0Q3RBbURIaEtfODRVZWV2Zm45bU4xZHdGYUVDbGdDZXdIalhuWEFfLXNTSGh4cVU?oc=5"
+    "d": "2026-11-24",
+    "h": "23:05",
+    "t": "Como-Aek 1-0: gol e highlights",
+    "s": "Sky Sport",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWUxoc0pxY1JVSUllY3ROdnZ6LV9HdW1FV0Z4Zy1yWkozTlFid3lPbVJiUHE4SllycGNibDFXUUFvX0plMlBmZTFVRTlZMFczVFhSZjFDcl9SeWxBUnloeHVya0p6VU03VEdJNTFIazNSekY3a1JzWF9xLWd6OGxGWUFKbndVcjZab2xPXzd6c1Q5YVpleVAwSA?oc=5"
    },
    {
-    "d": "2026-11-23",
-    "h": "18:25",
-    "t": "Como-AEK Athens, la quinta giornata di Champions League al Sinigaglia",
-    "s": "comocity.it",
-    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mSEc3MkU5SmZWWm5ZenVUQmpaZl9XMmNGVmFxZTVlRjN3ZDVPZ0N6dVFOMjU0MFBFTElTWFlkQVk5SWJ2eXBCMkZuLVhVVDNnWC1ib2RKLURkd2JzRWZYX1Fla2Y1Wk1FSWM4Vm5uVW9wQWJFNDRjNkpR?oc=5"
-   },
-   {
-    "d": "2026-11-23",
-    "h": "17:02",
-    "t": "41° Premio Viareggio Sport, saranno premiati Lippi, Materazzi e il Como",
-    "s": "TGregione.it",
-    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGJUUlRhck92enRhUm9jU0RaYzZmaHI1dEtFbWlReFZHTDFiQmwzZm9Mcjk1cXFIWE5UWTlWSXBzZWVOb0hrX09lUFFSVnZhM21aejBNRnRtOEdFc0FJZG1Na0pkdTFMZS0ycmJlTDVTVHZTOEt2YkRKZzNJbmJpUUlUdVZsNjhsampFWG92RnlxTS1XeWZIZGhn?oc=5"
-   },
-   {
-    "d": "2026-11-23",
-    "h": "15:30",
-    "t": "Domani Como-AEK Atene: lettori di Calcio Como votate la vostra formazione titolare",
-    "s": "www.calciocomo.it",
-    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVgtN0hLQzlaS2JkaFJqdDEzTmV6OEFaUVRraHJGc3M0UE1SMXdWUFhleTFhM2VKU3RtczFxLVVnMzRWYTBCSzRsSkY3XzZYZk1KLWxPV3VsNl9SUDYwZ2M1eC0wamZMaTRnN3JfM0dKYjd0akNYQTd5bkVUaGlma0VTZE55SU1oSVZsQVZHb1NvOWI1d3RvbUZuYVRKdGMwOWpnNWU0eHE2bkpl?oc=5"
-   },
-   {
-    "d": "2026-11-23",
-    "h": "15:05",
-    "t": "Fabregas in conferenza stampa alla vigilia di Como AEK Atene: «Non siamo favoriti. La Serie A sta diventando uno dei due/tre campionati migliori d'Europa. Su un nuovo attaccante a gennaio...»",
-    "s": "Calcio News 24",
-    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX3lMQlFpb0JXNEVoWk81cmtNaWlXem9MV2JiT3lpX0s5bmJHVlZPcGZvMm9sQUNuMmtzQ29RZEhXWGJleHFMbDkxXzdGVTdSYjdWR192clNaTHRCbkxJUVdrLWZjY3Atb05kcE1hQnFtLXRHTkRac29lZjVLaHFYWEtpRHlXM1kyaWhNNlk1ZE5DdkVKN3RLUkpvRVZfN2pScGJMOFppdEpwSU1zWFNsdw?oc=5"
+    "d": "2026-11-24",
+    "h": "22:56",
+    "t": "Como-AEK 1-0: diretta live e risultato finale | UCL",
+    "s": "Calciomagazine",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTk9kRGpYcmxBTzdlZ0hSYTF3ekRSbEs4MVNnMFFyMl9PRDNYcXA4MXllMnZYUUM2ZWEtRGQ4VDZHYk1YZFFoek51Q3NoRklRcmZwZ2dianZCaldfaV9lRDBnVTdleHUyaXFrZkdyamxWdlZ5TE9qX2Q0dmRaT1JoWVFSYkI5U0ZZcHk0SFYwRdIBlAFBVV95cUxPWXhZYU55X2F5YTJPeTMtc2FpaWgtak5sZ2V0cVU5YWZfY3NKb2J6bkRiMjgwTnk1TmdYRU5BSjdNR1BrNmpocmowSFRERjRCa3NabzVYT1pfbGlrcXNUMXkxWTVmZzk5T0lac1p2UUpqMlhKN3I1ZWpCLURwb05YQ3BYUlJQcy1EVTV1eDgtaXlJeHFX?oc=5"
    }
   ]
  },
@@ -869,11 +870,6 @@
    "X": 28,
    "2": 39
   },
-  "2026-11-24|Como – AEK Atene": {
-   "1": 76,
-   "X": 15,
-   "2": 10
-  },
   "2026-11-29|Como – Juventus": {
    "1": 46,
    "X": 27,
@@ -887,29 +883,29 @@
  },
  "lineups": {
   "como": {
-   "match": "Como – Cagliari",
-   "date": "2026-11-21",
-   "comp": "Serie A calcio · 12ª giornata",
+   "match": "Como – AEK Atene",
+   "date": "2026-11-24",
+   "comp": "UEFA Champions League · fase campionato 5ª giornata",
    "formation": "4-2-3-1",
-   "score": "2-0",
+   "score": "1-0",
    "lines": [
     [
      {
-      "n": "J. Butez",
-      "j": "1",
+      "n": "R. Sánchez",
+      "j": "97",
       "out": false
      }
     ],
     [
      {
-      "n": "Kaiki",
-      "j": "16",
+      "n": "Á. Valle",
+      "j": "3",
       "out": false
      },
      {
-      "n": "M. Kempf",
-      "j": "2",
-      "out": false
+      "n": "T. Chalobah",
+      "j": "99",
+      "out": true
      },
      {
       "n": "J. Ramón",
@@ -919,19 +915,19 @@
      {
       "n": "Y. Couto",
       "j": "27",
-      "out": false
+      "out": true
      }
     ],
     [
      {
       "n": "L. Milla",
       "j": "6",
-      "out": true
+      "out": false
      },
      {
-      "n": "S. Ricci",
-      "j": "21",
-      "out": true
+      "n": "M. Perrone",
+      "j": "5",
+      "out": false
      }
     ],
     [
@@ -941,13 +937,13 @@
       "out": true
      },
      {
-      "n": "L. Da Cunha",
-      "j": "7",
-      "out": true
+      "n": "N. Paz",
+      "j": "10",
+      "out": false
      },
      {
-      "n": "M. Liberali",
-      "j": "30",
+      "n": "L. Da Cunha",
+      "j": "7",
       "out": true
      }
     ],
@@ -961,42 +957,30 @@
    ],
    "subs": [
     {
-     "n": "M. Perrone",
-     "j": "5",
-     "out": false
-    },
-    {
      "n": "I. Smolcic",
      "j": "28",
      "out": false
     },
     {
-     "n": "A. Lahdo",
-     "j": "15",
+     "n": "S. Ricci",
+     "j": "21",
      "out": false
     },
     {
-     "n": "Á. Valle",
-     "j": "3",
+     "n": "M. Kempf",
+     "j": "2",
      "out": false
     },
     {
-     "n": "N. Paz",
-     "j": "10",
+     "n": "Kaiki",
+     "j": "16",
      "out": false
     }
    ],
    "goals": [
     {
-     "n": "Jacobo Ramón",
-     "min": "24'",
-     "mine": true,
-     "og": false,
-     "pen": false
-    },
-    {
-     "n": "Lucas Da Cunha",
-     "min": "56'",
+     "n": "Luis Milla",
+     "min": "57'",
      "mine": true,
      "og": false,
      "pen": false
@@ -1149,26 +1133,26 @@
    ]
   }
  },
- "updated": "2026-11-24T18:01:56+00:00",
+ "updated": "2026-11-25T02:14:39+00:00",
  "log": [
-  "non finita Como – AEK Atene STATUS_SCHEDULED",
+  "risultato Como – AEK Atene 1-0",
   "classifica milan 4 27",
   "classifica como 5 26",
   "classifica milan_eu 28 3",
-  "classifica como_eu 4 9",
+  "classifica como_eu 3 12",
   "cantu 30 partite {'pos': 16, 'pts': 0, 'g': 9, 'up': {'n': 'Scafati', 'pos': 15, 'pts': 4}, 'dn': None}",
   "notizie milan 3",
   "notizie cantu 3",
   "notizie como 3",
   "stampa milan 8",
-  "ERR stampa cantu HTTP Error 429: Too Many Requests",
-  "ERR stampa como HTTP Error 429: Too Many Requests",
+  "stampa cantu 8",
+  "stampa como 8",
   "calendario milan 26 partite future",
   "calendario como 26 partite future",
   "ERR logo cantu HTTP Error 403: Forbidden",
   "loghi ['cantu', 'como', 'milan']",
-  "formazione como Como – Cagliari 4-2-3-1",
+  "formazione como Como – AEK Atene 4-2-3-1",
   "formazione milan Milan – Frosinone 3-5-1-1",
-  "quote 4"
+  "quote 3"
  ]
 }
